@@ -14,8 +14,7 @@ flake8-bugbear = "*"
 requests = "*"
 pytest = "*"
 pipenv = "*"
+nltk = "*"
 
 [requires]
 python_version = "3.8"
-
-
