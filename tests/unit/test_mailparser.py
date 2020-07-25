@@ -38,19 +38,37 @@ def test_read_text_off_1_mail_file():
 	assert len(data) == 1672
 	actual = parse_email_parts(data)
 	assert len(actual['body_text']) == 501
-	#** Confirm your subscription to the NI mate newsletter
+	assert len(actual['subject']) == 47
+
+	assert actual['subject'] == 'NI mate Newsletter: Please Confirm Subscription'
 	assert actual['body_text'][:54] == '** Confirm your subscription to the NI mate newsletter'
 
+
+	assert len(actual['from_raw']) == 53
+	assert len(actual['from']) == 16
+	assert len(actual['from_name']) == 18
+
+
+	assert actual['from_raw'] == '=?utf-8?Q?NI=20mate=20Newsletter?= <info@delicode.fi>'
+	assert actual['from'] == 'info@delicode.fi'
+	assert actual['from_name'] == 'NI mate Newsletter'
 
 def test_get_med_samp_mails():
 	mail_samples_list = get_list_files(med_sample_dir)
 	assert len(mail_samples_list) == 33
 	for mail_path in mail_samples_list:
-		email_text = read_file_off_disk(mail_path)
-		email_text_parts = parse_email_parts(email_text)
+		try:
+			email_text = read_file_off_disk(mail_path)
+			email_text_parts = parse_email_parts(email_text)
 
-	
-		assert type(email_text_parts) is dict	
+			assert type(email_text_parts) is dict	
+			assert 'subject' in email_text_parts
+			assert 'body_text' in email_text_parts
+			assert 'from' in email_text_parts
+		
+		except Exception as parsex:
+			continue
+
 
 
 
