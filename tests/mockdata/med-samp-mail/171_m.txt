@@ -1,0 +1,147 @@
+From darren@bitsnblades.com  Mon Oct  8 15:34:16 2018
+Return-Path: <darren@bitsnblades.com>
+X-Original-To: gyrotonic@agentidea.com
+Delivered-To: gyrotonic@agentidea.com
+Received: from gecko.birch.relay.mailchannels.net (gecko.birch.relay.mailchannels.net [23.83.209.66])
+	by agentidea.com (Postfix) with ESMTP id 5490540D13
+	for <gyrotonic@agentidea.com>; Mon,  8 Oct 2018 15:34:16 +0000 (UTC)
+X-Sender-Id: a2hosting|x-authuser|darren@bitsnblades.com
+Received: from relay.mailchannels.net (localhost [127.0.0.1])
+	by relay.mailchannels.net (Postfix) with ESMTP id 6AFC25021E7
+	for <gyrotonic@agentidea.com>; Mon,  8 Oct 2018 15:34:15 +0000 (UTC)
+Received: from mi3-ss1.a2hosting.com (unknown [100.96.20.98])
+	(Authenticated sender: a2hosting)
+	by relay.mailchannels.net (Postfix) with ESMTPA id D1CB9502772
+	for <gyrotonic@agentidea.com>; Mon,  8 Oct 2018 15:34:14 +0000 (UTC)
+X-Sender-Id: a2hosting|x-authuser|darren@bitsnblades.com
+Received: from mi3-ss1.a2hosting.com (mi3-ss1.a2hosting.com [68.66.200.196])
+	(using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384)
+	by 0.0.0.0:2500 (trex/5.16.2);
+	Mon, 08 Oct 2018 15:34:15 +0000
+X-MC-Relay: Neutral
+X-MailChannels-SenderId: a2hosting|x-authuser|darren@bitsnblades.com
+X-MailChannels-Auth-Id: a2hosting
+X-Gusty-Desert: 6be46ee479dccb4d_1539012855096_426795027
+X-MC-Loop-Signature: 1539012855096:546503375
+X-MC-Ingress-Time: 1539012855096
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=bitsnblades.com; s=default; h=Content-Type:To:Subject:Message-ID:Date:From:
+	MIME-Version:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=cDX0Lknx/LbtX3gDP7ssVK38AzDowROz3phYVq/Twiw=; b=xTCj1ac6/NvZqttDq//rHr4QId
+	wEntr0ppriDMx06lHEKkJw5joPsNghyCy8On7puIBMsfN1XOE91ySsj+1NdXMno33jCB/iktudhCT
+	ODg1+ImRU6m9PaTwqk+NdVgJx+d6fcPLSUiSkzIIcJ/XY7/xQkqI6W0ez9LNA5PgY09fvt8khHa3G
+	1pG1NLjLEUCIgLB8aHQWsJsJZCp7V6T8WkeeSISET2D64AJ9g6Yk89FETZBcgzDkJuDlwbDNpNG3I
+	N4pg7sY/14sRgLeIrWvuukjlh5zks/liDM11tdhB8DAuZMv84XRFupKP4xgSlP2e29BESABhdmTsv
+	W8z1mwZQ==;
+Received: from mail-qt1-f181.google.com ([209.85.160.181]:37475)
+	by mi3-ss1.a2hosting.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <darren@bitsnblades.com>)
+	id 1g9XXy-00AEkf-2x
+	for gyrotonic@agentidea.com; Mon, 08 Oct 2018 11:34:14 -0400
+Received: by mail-qt1-f181.google.com with SMTP id d14-v6so12769383qto.4
+        for <gyrotonic@agentidea.com>; Mon, 08 Oct 2018 08:34:14 -0700 (PDT)
+X-Gm-Message-State: ABuFfogMFE4cui3FgRPNMkLGBp5mT4tmYXQNmPOMoQGrrith8B0M6BqL
+	/SrNuLQrHFfNotAEo7n7KBIuryRsfG7w7CPa7/w=
+X-Google-Smtp-Source: ACcGV62ToAR5+I1w/gOPif6iPKWnWeBB0HfdjxRy+Ou02X98RHE7A0uD8cQNlRwq3Yk5RseYQFFV/PCQs+kJjBzgxng=
+X-Received: by 2002:ac8:2325:: with SMTP id a34-v6mr19725519qta.40.1539012853665;
+ Mon, 08 Oct 2018 08:34:13 -0700 (PDT)
+MIME-Version: 1.0
+From: Darren Walton <darren@bitsnblades.com>
+Date: Mon, 8 Oct 2018 08:34:02 -0700
+X-Gmail-Original-Message-ID: <CALac4WXoj5V4RLCYM0K16WGHzZszjYopsDovbZb6WGELUO+gGw@mail.gmail.com>
+Message-ID: <CALac4WXoj5V4RLCYM0K16WGHzZszjYopsDovbZb6WGELUO+gGw@mail.gmail.com>
+Subject: class Wed.
+To: Chris Lawrence <chrislawrence@sonic.net>, gyrotonic@agentidea.com, jerzymiked@gmail.com, 
+	Peter Ross <pjrossi905@gmail.com>, Abbey Passamani <apassamani@comcast.net>, 
+	al artieres <alartieres@gmail.com>, bevis wilson <bcwilson365@comcast.net>, 
+	bill opferman <billmail98@gmail.com>, Bill Saunders <wbswilly@gmail.com>, 
+	bob block <Rblock84@yahoo.com>, Bob Gibson <gibcmf@gmail.com>, "c.vigars" <cvigars@hotmail.com>, 
+	carole selig <cselig53@yahoo.com>, chris ellison <chris@minuteman-marin.com>, 
+	chris lamb <chrislamb007@comcast.net>, clark miller <clark@aquaterraimagery.com>, 
+	dave <dcarr1188@gmail.com>, dave pearce <dpearce68@gmail.com>, 
+	david stancliffe <cuttersdave0@gmail.com>, debra <ucanplayball2@aol.com>, 
+	Dick Cordone <dickcordone@yahoo.com>, Don Makela <cdmak@verizon.net>, DONNA <donner2k@yahoo.com>, 
+	Doreen Yanchunis <Dyanchunis@gmail.com>, eric chow <vbig67@aol.com>, 
+	ERICSPECTOR <ERICSPECTOR@outlook.com>, franklin amster <imi4me@sbcglobal.net>, 
+	gary mc ginness <garymmcg@pacbell.net>, gary smith <info@garysmithconstruction.com>, 
+	gaye marks <gayemarks09@gmail.com>, gina passamani <gina.passamani@kp.org>, 
+	grace elijah <graceelijah@hotmail.com>, grant steinfeld <grant.steinfeld.tech@gmail.com>, 
+	gustavo goncalves <mrgustavobg@gmail.com>, herbert <hwolfram@adobe.com>, 
+	james <brookmaster69@gmail.com>, JAMESS KONWINSKI <JAMESKONWINSKI7@gmail.com>, 
+	jamie young <jamessyoung@outlook.com>, jane willams <jane@alaskastar.net>, 
+	jeff byrne <jeffbyrne3@gmail.com>, Jeremy Cline <jeresama@gmail.com>, 
+	Jessie Washington <jessiewashington711@yahoo.com>, jim fox <jimfox12@comcast.net>, 
+	Jim Odle <jim.odle@yahoo.com>, jim quinn <jamesgquinn@comcast.net>, 
+	"John Calella, PHD" <Calella4@msn.com>, JOHN H MCCOMISH <JMCCOMISH@sbcglobal.net>, 
+	john ravizza <john@jravizza.com>, joshua truman <mudpuppies607@gmail.com>, 
+	Julian Roberts <jnjr@mac.com>, justine hebron <jmhebron@gmail.com>, karen vanKriedt <kvank987@gmail.com>, 
+	Karine <karinec.kinesiologist@gmail.com>, kerry chun <kerrychun@sbcglobal.net>, 
+	kevin christy <kevinchristy2014@gmail.com>, kloughman <kloughman@comcast.net>, 
+	lisa mcnelley <lisamcnelley@yahoo.com>, mark wellte <mrkwelte2@gmail.com>, 
+	matt deshazo <Mleed25@yahoo.com>, michae colton <michaelrcolton@icloud.com>, 
+	michael mcculloch <mm@pinest.org>, MIKE MAGRUDER <MIKEMAGRUDER@me.com>, 
+	mike mckinney <mikewrite1@yahoo.com>, "moira o'sullivan" <moira@moirao.com>, 
+	neil doucet <doucetwoodworking@comcast.net>, Oscar <oscar@bitsnblades.com>, 
+	Pat parnow <patrickparnow@yahoo.com>, Peter Brooks <Brookstreecare@gmail.com>, 
+	philip helmer <pch444@gmail.com>, rafael montero <monterorafael@att.net>, 
+	Raskowsky <const@gmail.comraskowsky>, Rich Cairns <cairns1942@yahoo.com>, 
+	richard beahan <tbb@truebluebuilders.com>, rikard grunnan <rikard.grunnan@gmail.com>, 
+	robert <robert@eichidesign.com>, Robert Cohen <Robertcohen26@yahoo.com>, 
+	roderick smith <rsdb@mindspring.com>, scott day <dh1scottstr@gmail.com>, 
+	scott willens <scottw@sonic.net>, sean daugherty <smdaugherty@gmail.com>, 
+	sebastian dante tamblyn <stamblyn@citadel.edu>, steve <steveeneil@yahoo.com>, 
+	terry goyan <terrygoyan69@gmail.com>, tim kallas <thkallas@comcast.net>, 
+	tom factor <factortom@gmail.com>, TOM MACEY <tmaceytwin@yahoo.com>, 
+	TOM PAVER <TOM.PAVER@gmail.com>, tony gaetant <tgaetani47@yahoo.com>, vanessa <vanessa@yodewo.me>, 
+	Vince Engel <bevinceengel@gmail.com>, wade patten <wadepatten@yahoo.com>, 
+	Walter Underhill <Walter@underhillelectric.com>, wencil storek <wencil@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000729ba80577b95ac8"
+X-AuthUser: darren@bitsnblades.com
+
+--000000000000729ba80577b95ac8
+Content-Type: text/plain; charset="UTF-8"
+
+Warm-up 4:00 workout 4:30 to 5:30 Wed. You guys know that I think Movement
+is most important , I mean really move, get out doors and really move.Walk
+on trails that surround us with much varied terrain This demands a
+moment-to-moment responsiveness from your entire body that you don't  get
+walking on firm flat surfaces.Hiking the hilly trails keeps are bodies
+connected as opposed to a muscle-isolating exercise only working certain
+muscle groups.Get outdoors,enjoy the adventure and just move.Motivation is
+what gets you started.Habit is what keeps you going.Jim Ryun.
+
+*Darren Walton*
+
+44 Woodland Ave.
+San Rafael, CA  94901
+P 800-425-6433
+F 415-456-5482
+
+--000000000000729ba80577b95ac8
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Warm-up 4:00 workout 4:30 to 5:30 Wed. You guys know that =
+I think Movement is most important , I mean really move, get out doors and =
+really move.Walk on trails that surround us with much varied=C2=A0terrain T=
+his demands a moment-to-moment responsiveness from your entire body that yo=
+u don&#39;t=C2=A0 get walking on firm flat surfaces.Hiking the hilly trails=
+ keeps are bodies connected as opposed to a muscle-isolating exercise only =
+working certain muscle groups.Get outdoors,enjoy the adventure and just mov=
+e.Motivation is what gets you started.Habit is what keeps you going.Jim Ryu=
+n.=C2=A0<br><div dir=3D"ltr" class=3D"gmail_signature" data-smartmail=3D"gm=
+ail_signature"><div dir=3D"ltr"><div><div><div><div><span style=3D"font-fam=
+ily:arial,helvetica,sans-serif"><b>Darren Walton<br></b></span></div><span =
+style=3D"font-family:arial,helvetica,sans-serif"><br></span></div><span sty=
+le=3D"font-family:arial,helvetica,sans-serif">44 Woodland Ave.<br></span></=
+div><span style=3D"font-family:arial,helvetica,sans-serif">San Rafael, CA=
+=C2=A0 94901<br></span></div><div><span style=3D"font-family:arial,helvetic=
+a,sans-serif">P 800-425-6433<br></span></div><span style=3D"font-family:ari=
+al,helvetica,sans-serif">F 415-456-5482</span><br></div></div></div>
+
+--000000000000729ba80577b95ac8--
+

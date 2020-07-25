@@ -1,0 +1,357 @@
+From thenewyorker@eml.condenast.com  Mon Oct 15 13:11:55 2018
+Return-Path: <thenewyorker@eml.condenast.com>
+X-Original-To: breakingnews3@agentidea.com
+Delivered-To: breakingnews3@agentidea.com
+Received: from p1-108188.eml.condenast.com (p1-108188.eml.condenast.com [38.107.108.188])
+	by agentidea.com (Postfix) with ESMTP id D77BC40D13
+	for <breakingnews3@agentidea.com>; Mon, 15 Oct 2018 13:11:54 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=0; d=eml.condenast.com;
+ h=Message-ID:List-Unsubscribe:MIME-Version:From:To:Date:Subject:Content-Type;
+ i=thenewyorker@eml.condenast.com;
+ bh=2xBGPaj8PNvsQp+O6oibfoTU4Yn2vLtZ5wgpwFyvnps=;
+ b=vXckpky4KaDYKQXElZnwP/TNgOKvuqNL/zLVEXcxVz4RmYA0YkinevZlZwM5L7rq7scxw6fHTqib
+   1SvOKEtXAexqO/RTt0ZYRkdOEJjfI6BJcQ0bAdRdiLKx1XsMNVnClcVSl/q7ETahYqh7b6RWgk5s
+   zHSdttm+rWfb3djaGuQ=
+Received: from LA4PVMER05 (10.24.80.11) by p1-108188.eml.condenast.com id hoi91k2bq58p for <breakingnews3@agentidea.com>; Mon, 15 Oct 2018 09:11:54 -0400 (envelope-from <thenewyorker@eml.condenast.com>)
+Errors-to: thenewyorker@eml.condenast.com
+Message-ID: <717.767819504.201810150611541726554.0003568167@eml.condenast.com>
+List-Unsubscribe: <mailto:unsubscribe-22223118fdec38ef31f18c636b92e4d8@eml.condenast.com?subject=Unsubscribe>
+X-Mailer: XyzMailer
+X-Xyz-cr: 717
+X-Xyz-cn: 25788
+X-Xyz-bcn: 25744
+X-Xyz-md: 100
+X-Xyz-mg: 767819504
+X-Xyz-et: 112
+X-Xyz-pk: 562615712
+X-Xyz-ct: 405469
+X-Xyz-bct: 405174
+X-PVIQ: 000273-000603-000717-025788-000000
+X-CM-MessageId: 717-25788
+MIME-Version: 1.0
+From: "The New Yorker" <thenewyorker@eml.condenast.com>
+To: "breakingnews3@agentidea.com" <breakingnews3@agentidea.com>
+Date: 15 Oct 2018 06:11:54 -0700
+Subject: Our Fall Sale is here! Save 50% off The New Yorker.
+Content-Type: multipart/alternative;
+ boundary=--boundary_3544778_e959af22-f548-4ee6-9999-34364286cf0d
+
+
+----boundary_3544778_e959af22-f548-4ee6-9999-34364286cf0d
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Take advantage of our Fall Sale: Save 50%=0A=0AView in browser=0A=
+http://x.eml.condenast.com/ats/msg.aspx?sg1=3D22223118fdec38ef31f=
+18c636b92e4d8=0A=0AThe New Yorker=0Ahttp://l.eml.condenast.com/rt=
+s/go2.aspx?t=3D166349&tp=3Di-H43-BZ-6hw-pxgvY-1o-c4g2y-1c-pwvNp-1=
+wpVTY&x=3D25788%7cNYR%7c18=0A=0A---------=0A=0ALimited Time Only=0A=
+Fall Sale.=0A12 weeks for $6=0A=0ASee my options=0A=0APlus, get a=
+ free tote bag=0Ahttp://l.eml.condenast.com/rts/go2.aspx?t=3D1663=
+49&tp=3Di-H43-BZ-6hw-pxgvY-1o-c4g2y-1c-pwvNp-1wpVTY&x=3D25788%7cN=
+YR%7c18=0A=0A---------=0A=0ATake advantage of our Fall Sale. Subs=
+cribe and enjoy 12 weeks of=0AThe New Yorker for only $6-a saving=
+s of 50%! Read award-winning=0Awriting on politics and internatio=
+nal affairs, culture and=0Aentertainment, business and technology=
+-in print and online, across all=0Ayour devices.=0A=0AGet 50% off=
+.=0APlus, get a free tote.=0A=0ASubscribe Now=0Ahttp://l.eml.cond=
+enast.com/rts/go2.aspx?t=3D166349&tp=3Di-H43-BZ-6hw-pxgvY-1o-c4g2=
+y-1c-pwvNp-1wpVTY&x=3D25788%7cNYR%7c18=0A=0ACancel anytime=0Ahttp=
+://l.eml.condenast.com/rts/go2.aspx?t=3D166349&tp=3Di-H43-BZ-6hw-=
+pxgvY-1o-c4g2y-1c-pwvNp-1wpVTY&x=3D25788%7cNYR%7c18=0A=0A--------=
+-=0A=0AThe New Yorker=0A=0ASubscriptions include weekly delivery =
+of the print magazine, plus=0Aunrestricted access to newyorker.co=
+m, magazine apps for tablets and=0Asmartphones, the online archiv=
+e, and Google Newsfeed.=0A=0A---------=0A=0AOffer valid in U.S. o=
+nly.=0A=0Abreakingnews3@agentidea.com received this promotional m=
+essage as a subscriber of=0Athe The New Yorker promotional list. =
+Remove this e-mail=0Aaddress from future The New Yorker e-mail pr=
+omotions,=0Aplease click here.=0Ahttp://l.eml.condenast.com/rts/g=
+o2.aspx?t=3D166347&tp=3Di-H55-BZ-6hw-pxgvY-1o-c4g2y-1c-1hTq-pwvNp=
+-12Kc11&x=3Di-H55-BZ-6hw-pxgvY-1o-c4g2y-1c-1hTq-pwvNp-12Kc11%7c25=
+788=0A=0ATo continue receiving e-mails from The New Yorker, add=0A=
+thenewyorker@eml.condenast.com to your address book.=0ATo view ou=
+r privacy policy, click here.=0Ahttp://l.eml.condenast.com/rts/go=
+2.aspx?t=3D166341&tp=3Di-H55-BZ-6hw-pxgvY-1o-c4g2y-1c-1hTq-pwvNp-=
+12Kc11=0A=0ACond=C3=A9 Nast 1313 North Market Street, Wilmington,=
+ DE 19801=0A=0ASatisfaction Guarantee:=0A=0AIf you are ever dissa=
+tisfied with your subscription, you can receive a=0Afull refund o=
+n unmailed issues.=0A=0AThe New Yorker=0A=0AFacebook=0Ahttp://l.e=
+ml.condenast.com/rts/go2.aspx?t=3D166342&tp=3Di-H55-BZ-6hw-pxgvY-=
+1o-c4g2y-1c-1hTq-pwvNp-12Kc11&x=3Dwww.facebook.com/newyorker=0A=0A=
+Twitter=0Ahttp://l.eml.condenast.com/rts/go2.aspx?t=3D166343&tp=3D=
+i-H55-BZ-6hw-pxgvY-1o-c4g2y-1c-1hTq-pwvNp-12Kc11&x=3Dtwitter.com/=
+@newyorker=0A=0APinterest=0Ahttp://l.eml.condenast.com/rts/go2.as=
+px?t=3D166344&tp=3Di-H55-BZ-6hw-pxgvY-1o-c4g2y-1c-1hTq-pwvNp-12Kc=
+11&x=3Dwww.pinterest.com/thenewyorker/=0A=0AYoutube=0Ahttp://l.em=
+l.condenast.com/rts/go2.aspx?t=3D166345&tp=3Di-H55-BZ-6hw-pxgvY-1=
+o-c4g2y-1c-1hTq-pwvNp-12Kc11&x=3Dwww.youtube.com/TheNewYorker=0A=0A=
+Google Plus=0Ahttp://l.eml.condenast.com/rts/go2.aspx?t=3D166346&=
+tp=3Di-H55-BZ-6hw-pxgvY-1o-c4g2y-1c-1hTq-pwvNp-12Kc11&x=3Dplus.go=
+ogle.com/%2Bnewyorker/posts=0A =0A
+----boundary_3544778_e959af22-f548-4ee6-9999-34364286cf0d
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html =
+xmlns=3D"http://www.w3.org/1999/xhtml" lang=3D"en">=0A<head>=0A<m=
+eta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Du=
+tf-8" />=0A    <!--[if !mso]><!-->=0A        <meta http-equiv=3D"=
+X-UA-Compatible" content=3D"IE=3Dedge" />=0A    <!--<![endif]-->=0A=
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, init=
+ial-scale=3D1.0" />=0A    <title>Take advantage of our Fall Sale:=
+ Save 50%</title>=0A<style type=3D"text/css">=0Abody=0A{=0Amargin=
+: 0 !important;=0Apadding: 0;=0Abackground-color: #f5f6f6;=0A-ms-=
+text-size-adjust: 100%;=0A-webkit-text-size-adjust: 100%;=0A}=0A=0A=
+.appleLinks a=0A{=0Acolor: #000000;=0Atext-decoration: none;=0A}=0A=
+=0Atable=0A{=0Aborder-spacing: 0;=0Afont-family: sans-serif;=0Aco=
+lor: #333333;=0A}=0A=0Atd { padding: 0; }=0Aimg { border: 0; }=0A=
+div[style*=3D"margin: 16px 0"] { margin: 0 !important; }=0A=0A.wr=
+apper=0A{=0Awidth: 100%;=0Atable-layout: fixed;=0A-webkit-text-si=
+ze-adjust: 100%;=0A-ms-text-size-adjust: 100%;=0A}=0A=0A.webkit=0A=
+{=0Amax-width: 650px;=0Amargin: 0 auto;=0A}=0A=0A.outer=0A{=0AMar=
+gin: 0 auto;=0Awidth: 100%;=0Amax-width: 650px;=0A}=0A=0A.full-wi=
+dth-image img=0A{=0Awidth: 100%;=0Amax-width: 650px;=0Aheight: au=
+to;=0A}=0A=0A.one-column .contents { text-align: left; }=0A=0A.on=
+e-column p=0A{=0Afont-size: 14px;=0AMargin-bottom: 10px;=0A}=0A=0A=
+.right-sidebar=0A{=0Atext-align: center;=0Afont-size: 0;=0A}=0A=0A=
+.right-sidebar .column=0A{=0Awidth: 100%;=0Adisplay: inline-block=
+;=0Avertical-align: bottom;=0A}=0A=0A.right-sidebar .left { max-w=
+idth: 368px; }=0A.right-sidebar .right { max-width: 210px; }=0A=0A=
+.right-sidebar .img=0A{=0Awidth: 100%;=0Amax-width: 210px;=0Aheig=
+ht: auto;=0Amargin: 0 auto;=0Atext-align: center;=0A}=0A=0A.right=
+-sidebar .contents=0A{=0Afont-size: 14px;=0Atext-align: center;=0A=
+}=0A=0A@media screen and (max-width: 649px)=0A{=0Atd[class=3D"inn=
+er"] { padding: 15px 15px !important; margin: 0 auto !important; =
+text-align: center !important;}=0A.right-sidebar .left { max-widt=
+h: 500px !important; }=0A=0Atable[class=3D"button"]=0A{=0Awidth: =
+100% !important;=0Aheight: auto !important;=0Amargin: 0 auto !imp=
+ortant;=0Atext-align: center !important;=0A}=0A    .foot-space{=0A=
+      margin: 0 auto !important;=0A      padding: 10px !important=
+;=0A    }=0A    .mob-pad-1=0A    {=0A      padding: 0 20px 15px !=
+important;=0A    }=0A    .mob-pad-2=0A    {=0A      padding: 25px=
+ 20px 0px 20px !important;=0A    }=0A    .mob-pad-3=0A    {=0A   =
+   padding: 0px 20px 0px 20px !important;=0A    }=0A}=0A=0A</styl=
+e>=0A<!--[if (gte mso 9)|(IE)]>=0A<style type=3D"text/css">=0Atab=
+le {border-collapse: collapse;}=0A</style>=0A<![endif]-->=0A</hea=
+d>=0A<body><img src=3D"http://l.eml.condenast.com/rts/open.aspx?t=
+p=3Di-H43-BZ-6hw-pxgvY-1o-c4g2y-1c-pwvNp-1wpVTY" height=3D"1" wid=
+th=3D"1" style=3D"display:none">=0A <center bgcolor=3D"#f5f6f6" c=
+lass=3D"wrapper">=0A  <div bgcolor=3D"#f5f6f6" class=3D"webkit">=0A=
+    <!--[if (gte mso 9)|(IE)]>=0A    <table width=3D"650" align=3D=
+"center" role=3D"presentation">=0A    <tr>=0A    <td>=0A    <![en=
+dif]-->=0A    <!--Preheader Start-->=0A    <table bgcolor=3D"#fff=
+fff" style=3D"max-width: 650px; width: 100%" width=3D"650" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" role=3D=
+"presentation">=0A      <tr>=0A        <td bgcolor=3D"#ffffff" va=
+lign=3D"top" align=3D"right" style=3D"padding:10px;">=0A         =
+ <a href=3D"http://l.eml.condenast.com/rts/go2.aspx?h=3D166349&tp=
+=3Di-H43-BZ-6hw-pxgvY-1o-c4g2y-1c-pwvNp-1wpVTY&x=3D25788%7cNYR%7c=
+18" style=3D"color: #d3d3d3; display:block; text-align: right; te=
+xt-decoration: none; font-size: 11px; line-height:16px; font-fami=
+ly: helvetica, arial, sans-serif;">Take advantage of our Fall Sal=
+e: Save 50%</a>=0A          <br/>=0A    <a href=3D"http://x.eml.c=
+ondenast.com/ats/msg.aspx?sg1=3D22223118fdec38ef31f18c636b92e4d8"=
+ style=3D"color: #d3d3d3; display:block; text-decoration: underli=
+ne; font-size: 11px; line-height:16px; font-family: helvetica, ar=
+ial, sans-serif;">View this e-mail in your browser.</a>=0A       =
+ </td>=0A      </tr>=0A      <tr>=0A        <td class=3D"mob-pad-=
+1" bgcolor=3D"#ffffff" valign=3D"top"  style=3D"padding: 0px 40px=
+ 10px 40px;">=0A          <a href=3D"http://l.eml.condenast.com/r=
+ts/go2.aspx?h=3D166349&tp=3Di-H43-BZ-6hw-pxgvY-1o-c4g2y-1c-pwvNp-=
+1wpVTY&x=3D25788%7cNYR%7c18">=0A            <img align=3D"left" s=
+rc=3D"http://i.eml.condenast.com/wpm/717/ContentUploads/GWP_TEMPL=
+ATE/20181018_NYR_horizontal_logo.png" width=3D"182" style=3D"disp=
+lay:block; padding-bottom:5px; width: 100%; max-width: 182px;" al=
+t=3D"The New Yorker" border=3D"0">=0A          </a>=0A        </t=
+d>=0A      </tr>=0A    </table>=0A    <table class=3D"outer" styl=
+e=3D"max-width: 650px;" align=3D"center" role=3D"presentation">=0A=
+    <!--Header Start-->=0A      <tr>=0A        <td class=3D"full-=
+width-image">=0A          <table class=3D"full-width-image" width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"desktop">=0A            <tr>=0A            <td align=3D"center" =
+class=3D"full-width-image">=0A              <a href=3D"http://l.e=
+ml.condenast.com/rts/go2.aspx?h=3D166349&tp=3Di-H43-BZ-6hw-pxgvY-=
+1o-c4g2y-1c-pwvNp-1wpVTY&x=3D25788%7cNYR%7c18">=0A               =
+ <img style=3D"display:block; border: 0; margin: 0px; padding: 0p=
+x; width: 100%; max-width: 650px;" src=3D"http://i.eml.condenast.=
+com/wpm/717/ContentUploads/GWP_TEMPLATE/20181018_Fall_Sale_Header=
+.png" width=3D"650" alt=3D"Fall Sale. 12 weeks for $6. See my opt=
+ions. Plus, get a free tote bag" title=3D"Fall Sale. 12 weeks for=
+ $6. See my options. Plus, get a free tote bag" border=3D"0" />=0A=
+              </a>=0A            </td>=0A          </tr>=0A      =
+  </table>=0A      </td>=0A    </tr>=0A<!--Header End-->=0A    <t=
+r>=0A      <td>=0A        <table bgcolor=3D"#ffffff" style=3D"max=
+-width: 650px; width: 100%;" width=3D"650" align=3D"center" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin:0 aut=
+o;">=0A          <tr>=0A            <td class=3D"mob-pad-2" width=
+=3D"650" style=3D"padding:25px 40px 0px 40px;">=0A              <=
+p style=3D"color: #000000; text-decoration: none; font-size:18px;=
+ line-height:30px; font-family: Georgia, times, serif; text-align=
+:left; margin:0;">=0A              Take advantage of our Fall Sal=
+e. Subscribe and enjoy 12 weeks of <span style=3D"white-space: no=
+wrap;"><em>The New Yorker</em></span> for only $6&mdash;a savings=
+ of 50%! Read award-winning writing on politics and international=
+ affairs,=0A              culture and entertainment, business and=
+ technology&mdash;in print and online, across all your devices.=0A=
+              </p>=0A              <div style=3D"line-height:20px=
+;" height=3D"20px">&nbsp;</div>=0A              <p style=3D"color=
+:#DF3331; text-decoration: none; font-size:18px; line-height:30px=
+; font-family: helvetica, arial, sans-serif; text-align:left; mar=
+gin:0;">=0A              <b>Get 50% off.<br/>=0A              Plu=
+s, get a free tote.<br/>=0A              </p>=0A              <di=
+v style=3D"line-height:30px;" height=3D"30px">&nbsp;</div>=0A    =
+        </td>=0A          </tr>=0A          <tr>=0A            <t=
+d class=3D"mob-pad-3" style=3D"padding:0px 40px 0px 40px;">=0A   =
+           <a href=3D"http://l.eml.condenast.com/rts/go2.aspx?h=3D=
+166349&tp=3Di-H43-BZ-6hw-pxgvY-1o-c4g2y-1c-pwvNp-1wpVTY&x=3D25788=
+%7cNYR%7c18" style=3D"color:#FFFFFF; text-decoration:none;" targe=
+t=3D"_blank">=0A                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin: 0 auto; ba=
+ckground-color: #DF3331;border-radius: 2px;" height=3D"48" width=3D=
+"226">=0A                  <tbody>=0A                      <tr>=0A=
+                          <td align=3D"left" style=3D"display: bl=
+ock; margin: 0 auto; font-family: Helvetica-Bold, Helvetica, Aria=
+l, sans-serif; font-size: 16px; color: #FFFFFF; letter-spacing: 0=
+.1px; text-align: center; line-height: 16px; text-transform: capi=
+talize; padding: 16px 5px 16px 5px;" valign=3D"middle">=0A       =
+                       Subscribe now=0A                          =
+</td>=0A                      </tr>=0A                  </tbody>=0A=
+                </table>=0A              </a>=0A            </td>=
+=0A          </tr>=0A          <tr>=0A            <td class=3D"mo=
+b-pad-3"  style=3D"padding:5px 40px 0px 40px;">=0A              <=
+a href=3D"http://l.eml.condenast.com/rts/go2.aspx?h=3D166349&tp=3D=
+i-H43-BZ-6hw-pxgvY-1o-c4g2y-1c-pwvNp-1wpVTY&x=3D25788%7cNYR%7c18"=
+ title=3D"cancel" target=3D"_blank" style=3D"text-decoration: non=
+e;"><p style=3D"color: #888888; text-decoration: none; font-weigh=
+t: 300; font-size:14px; line-height:30px; font-family: helvetica,=
+ arial, sans-serif; text-align:left; margin:0;">Cancel anytime</p=
+></a>=0A            </td>=0A          </tr>=0A          <tr>=0A  =
+          <td height=3D"50" align=3D"center" style=3D"background-=
+color:#ffffff;">&nbsp;</td>=0A          </tr>=0A          <tr>=0A=
+            <td>=0A              <table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" align=3D"center" style=3D"margin:0 auto;" r=
+ole=3D"presentation">=0A                <tr>=0A                  =
+<td height=3D"0" width=3D"580" style=3D"font-size: 1px; color: #f=
+ff;background-color: f5f6f6;mso-line-height-rule: exactly; line-h=
+eight: 1px; border-top: 1px solid rgb(229, 229, 229);">=0A       =
+             -</td>=0A                  </tr>=0A                <=
+/table>=0A              </td>=0A            </tr>=0A            <=
+tr>=0A              <td height=3D"20" align=3D"center" style=3D"b=
+ackground-color:#ffffff;">&nbsp;</td>=0A            </tr>=0A     =
+       <tr>=0A              <td align=3D"left" width=3D"100%" sty=
+le=3D"background-color:#ffffff;">=0A                <a href=3D"ht=
+tp://l.eml.condenast.com/rts/go2.aspx?h=3D166349&tp=3Di-H43-BZ-6h=
+w-pxgvY-1o-c4g2y-1c-pwvNp-1wpVTY&x=3D25788%7cNYR%7c18">=0A       =
+           <img class=3D"foot-space" style=3D"display:block;paddi=
+ng-bottom:5px;margin: 10px 36px;" src=3D"http://i.eml.condenast.c=
+om/wpm/717/ContentUploads/GWP_TEMPLATE/20181018_NYR_horizontal_lo=
+go.png" width=3D"131" height=3D"14.97" alt=3D"The New Yorker" bor=
+der=3D"0"/>=0A                </a>=0A              </td>=0A      =
+      </tr>=0A            <tr style=3D"background:#ffffff" bgcolo=
+r=3D"#ffff">=0A              <td bgcolor=3D"#ffffff" class=3D"rig=
+ht-sidebar" dir=3D"rtl">=0A              <!--[if (gte mso 9)|(IE)=
+]>=0A              <table width=3D"650" dir=3D"rtl" role=3D"prese=
+ntation">=0A              <tr>=0A              <td width=3D"210" =
+valign=3D"top">=0A              <![endif]-->=0A              <div=
+ class=3D"column right" dir=3D"ltr">=0A                <table wid=
+th=3D"100%" role=3D"presentation">=0A                  <tr valign=
+=3D"baseline">=0A                    <td valign=3D"bottom" class=3D=
+"inner contents">=0A                      <table width=3D"180" st=
+yle=3D"margin:0 auto;" role=3D"presentation">=0A                 =
+       <tr>=0A                          <td align=3D"center">=0A =
+                           <a href=3D"http://l.eml.condenast.com/=
+rts/go2.aspx?h=3D166349&tp=3Di-H43-BZ-6hw-pxgvY-1o-c4g2y-1c-pwvNp=
+-1wpVTY&x=3D25788%7cNYR%7c18">=0A                              <i=
+mg class=3D"foot-space" style=3D"display:block;padding-bottom:25p=
+x;margin-left: 85px;" src=3D"http://i.eml.condenast.com/wpm/717/C=
+ontentUploads/GWP_TEMPLATE/20181018_Devices.png" width=3D"120" he=
+ight=3D"76" alt=3D"devices" border=3D"0"/>=0A                    =
+        </a>=0A                          </td>=0A                =
+        </tr>=0A                      </table>=0A                =
+    </td>=0A                  </tr>=0A                </table>=0A=
+              </div>=0A              <!--[if (gte mso 9)|(IE)]>=0A=
+              </td>=0A              <td width=3D"440" valign=3D"b=
+ottom">=0A              <![endif]-->=0A              <div class=3D=
+"column left" dir=3D"ltr">=0A                <table width=3D"100%=
+" role=3D"presentation">=0A                  <tr>=0A             =
+       <td class=3D"inner" style=3D"text-align:left; padding:10px=
+ 0 0;" valign=3D"center">=0A                      <p class=3D"foo=
+t-space" style=3D"margin-top:0; color: #737373; text-decoration: =
+none; font-size: 13px; line-height: 19px;font-family: Georgia, ti=
+mes, serif;  margin-bottom:25px;">=0A                        <b s=
+tyle=3D"color: #000000;">Subscriptions include</b> weekly deliver=
+y of the print magazine, plus unrestricted access to <a style=3D"=
+text-decoration:none;color: #737373;" href=3D"http://l.eml.conden=
+ast.com/rts/go2.aspx?h=3D166350&tp=3Di-H43-BZ-6hw-pxgvY-1o-c4g2y-=
+1c-pwvNp-1wpVTY">newyorker.com</a>,=0A                        mag=
+azine apps for tablets and smartphones, the online archive, and G=
+oogle Newsfeed.=0A                      </p>=0A                  =
+  </td>=0A                  </tr>=0A                </table>=0A  =
+            </div>=0A              <!--[if (gte mso 9)|(IE)]>=0A =
+             </td>=0A              </tr>=0A              </table>=
+=0A              <![endif]-->=0A            </td>=0A          </t=
+r>=0A    <tr bgcolor=3D"#f5f6f6" style=3D"background:f5f6f6">=0A =
+     <td style=3D"background:f5f6f6;color: #807F80; text-decorati=
+on: none; font-size:13px; line-height:19px; font-family: Georgia,=
+ times, serif; text-align:center; padding: 30px 40px;"><!-- FOOTE=
+R START -->=0A=0A<style type=3D"text/css">=0Aa:focus{outline: 1px=
+ solid blue !important; }=0Aa:hover{outline: 1px solid blue !impo=
+rtant; }=0A=0A</style>=0A=0A<div class=3D"footer" role=3D"content=
+info">=0A<table align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation">=0A<tbody>=0A<tr>=0A<td>=0A=
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" role=3D"presentation">=0A<tr>=0A<td style=3D"text-align: =
+center; font-family: Arial, Helvetica, sans-serif; font-size: 12p=
+x;padding-top:20px; color:#000000;">=0A<p>Offer valid in U.S. onl=
+y.</p>=0A<p>breakingnews3@agentidea.com received this promotional=
+ message as a subscriber of the The New Yorker promotional list.<=
+br/>=0A<a style=3D"color:#3333cc; text-decoration:underline;" hre=
+f=3D"http://l.eml.condenast.com/rts/go2.aspx?h=3D166340&tp=3Di-H5=
+5-BZ-6hw-pxgvY-1o-c4g2y-1c-1hTq-pwvNp-12Kc11&x=3Di-H55-BZ-6hw-pxg=
+vY-1o-c4g2y-1c-1hTq-pwvNp-12Kc11%7c25788" data-link-name=3D"unsub=
+">Remove this e-mail address from future The New Yorker e-mail pr=
+omotions</a>. <br/>=0ATo continue receiving e-mails from The New =
+Yorker, add thenewyorker@eml.condenast.com to your address book.<=
+br/>=0A<a style=3D"color:#3333cc; text-decoration:underline;" dat=
+a-link-name=3D"privacy" href=3D"http://l.eml.condenast.com/rts/go=
+2.aspx?h=3D166348&tp=3Di-H55-BZ-6hw-pxgvY-1o-c4g2y-1c-1hTq-pwvNp-=
+12Kc11">View our privacy policy.</a> <br/>=0A<br/>=0A<span class=3D=
+"appleLinks">Cond&eacute; Nast 1313 North Market Street, Wilmingt=
+on, DE 19801</span> </p>=0A</td>=0A</tr>=0A<tr>=0A<td style=3D"te=
+xt-align: center; font-family: Arial,  Helvetica, sans-serif; fon=
+t-size: 11px;padding-top:15px; color:#000000;">=0A<h3 style=3D"te=
+xt-align: center; font-family: Arial,  Helvetica, sans-serif; fon=
+t-size: 11px;padding-top:15px; color:#000000;"><b>Satisfaction Gu=
+arantee:</b></h3>=0A<p><i>If you are ever dissatisfied with your =
+subscription, you can receive a full refund on unmailed issues.</=
+i> </p>=0A</td>=0A</tr>=0A<tr>=0A<td align=3D"center">=0A        =
+                   =0A                                <tr>=0A    =
+                                <td height=3D"29">=0A            =
+                            <img height=3D"29" alt=3D"" src=3D"ht=
+tp://i.eml.condenast.com/wpm/717/ContentUploads/02092017_FOOTER/s=
+pacer.gif" style=3D"display: block;border: 0pt" width=3D"1">=0A  =
+                                  </td>=0A                       =
+         </tr>=0A                            </table>=0A=0A</td>=0A=
+</tr>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</div>=0A=
+<!-- FOOTER END -->=0A =0A        <!-- If you do not wish to rece=
+ive future mailings regarding your subscription, please <a style=3D=
+"text-decoration:none;color:#000000" href=3D"linkme">click here</=
+a> to update your preferences.=0A        <br/>=0A        <br/>=0A=
+        Question about your subscription? <a style=3D"text-decora=
+tion:none;color:#000000" href=3D"linkme">Contact Customer Care.</=
+a>=0A        <br/>=0A        <br/>=0A        This email was sent =
+to you by The New Yorker. To ensure delivery to your inbox (not b=
+ulk or junk folders), please add our e-mail address, xxxx@xxxx, t=
+o your address book.=0A        <br/>=0A        <br/>=0A        <a=
+ style=3D"text-decoration:none;color:#000000" href=3D"linkme">Vie=
+w our Privacy Policy</a>=0A        <br/>=0A        <br/>=0A      =
+  Copyright =C2=A9 2017 Cond=C3=A9 Nast. All rights reserved. -->=
+=0A      </td>=0A    </tr>=0A</table>=0A<!--[if (gte mso 9)|(IE)]=
+>=0A</td>=0A</tr>=0A</table>=0A<![endif]-->=0A</div>=0A</center>=0A=
+</body>=0A</html>=0A
+----boundary_3544778_e959af22-f548-4ee6-9999-34364286cf0d--
+
+
+

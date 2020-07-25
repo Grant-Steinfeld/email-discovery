@@ -1,0 +1,1252 @@
+From bounce-mc.us11_45194293.586957-statnews3=agentidea.com@mail160.suw16.rsgsv.net  Mon Oct  8 21:04:51 2018
+Return-Path: <bounce-mc.us11_45194293.586957-statnews3=agentidea.com@mail160.suw16.rsgsv.net>
+X-Original-To: statnews3@agentidea.com
+Delivered-To: statnews3@agentidea.com
+Received: from mail160.suw16.rsgsv.net (mail160.suw16.rsgsv.net [198.2.182.160])
+	by agentidea.com (Postfix) with ESMTP id 3F9A640D13
+	for <statnews3@agentidea.com>; Mon,  8 Oct 2018 21:04:51 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=k1; d=statnews.com;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:
+ Content-Type:MIME-Version; i=newsletter@statnews.com;
+ bh=ukNOoeoKV8gd60w51Ub89GNnYugKHVXOqmdbwTT9FO4=;
+ b=pO4ktXUkyO8blT/rPT/19ju1Z+c7egGdaJUR/P+dXXtwiS0mNA2gm3PjheOsHYOTZjeJG7xDh3GB
+   t/GLJWVW7QQtzuThQKlNXSiwioW53rHUhytNIsIGN6OdCvUO7hRAFWpc38HS5Zx/sEJeuGqWCVbh
+   rotCdctp+yGLvXetIs8=
+Received: from (127.0.0.1) by mail160.suw16.rsgsv.net id hnf3762ddl4o for <statnews3@agentidea.com>; Mon, 8 Oct 2018 21:04:47 +0000 (envelope-from <bounce-mc.us11_45194293.586957-statnews3=agentidea.com@mail160.suw16.rsgsv.net>)
+Subject: =?utf-8?Q?Drug=20pricing=20PAC=20spending=20millions=20on=20unwinnable=20races=3B=20doctors=20and=20showing=20up=20to=20vote?=
+From: =?utf-8?Q?STAT=3A=20D.C.=20Diagnosis?= <newsletter@statnews.com>
+Reply-To: =?utf-8?Q?STAT=3A=20D.C.=20Diagnosis?= <newsletter@statnews.com>
+To: <statnews3@agentidea.com>
+Date: Mon, 8 Oct 2018 21:04:47 +0000
+Message-ID: <f8609630ae206654824f897b6.fecc3a10a2.20181008210405.2786671c0f.ae8375c5@mail160.suw16.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID2786671c0ffecc3a10a2**
+X-Campaign: mailchimpf8609630ae206654824f897b6.2786671c0f
+X-campaignid: mailchimpf8609630ae206654824f897b6.2786671c0f
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=f8609630ae206654824f897b6&id=2786671c0f&e=fecc3a10a2
+X-MC-User: f8609630ae206654824f897b6
+Feedback-ID: 45194293:45194293.586957:us11:mc
+List-ID: f8609630ae206654824f897b6mc list <f8609630ae206654824f897b6.196217.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <https://statnews.us11.list-manage.com/unsubscribe?u=f8609630ae206654824f897b6&id=8cab1d7961&e=fecc3a10a2&c=2786671c0f>, <mailto:unsubscribe-mc.us11_f8609630ae206654824f897b6.2786671c0f-fecc3a10a2@mailin.mcsv.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_705128904"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_705128904
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+The group is intervening in races in which there is no hope of altering th=
+e outcome as a way to spotlight pharma's influence in politics. =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C
+
+Sponsored by
+
+
+D.C. Diagnosis
+
+
+** A PAC is using the midterms to spotlight high drug prices. Why is it si=
+nking millions into unwinnable races? (https://www.statnews.com/2018/10/05=
+/patients-for-affordable-drugs-strategy/?utm_source=3DSTAT+Newsletters&utm=
+_campaign=3D2786671c0f-DC_Diagnosis&utm_medium=3Demail&utm_term=3D0_8cab1d=
+7961-2786671c0f-150319813)
+------------------------------------------------------------
+
+By Rebecca Robbins and Lev Facher
+<img class=3D"mc-rss-item-img" src=3D"https://www.statnews.com/wp-content/=
+uploads/2018/10/CLAW_PILLS_new_pills_still-1024x576.jpg" height=3D"309" wi=
+dth=3D"550" style=3D"height: 309;width: 550;"> (https://www.statnews.com/2=
+018/10/05/patients-for-affordable-drugs-strategy/?utm_source=3DSTAT+Newsle=
+tters&utm_campaign=3D2786671c0f-DC_Diagnosis&utm_medium=3Demail&utm_term=
+=3D0_8cab1d7961-2786671c0f-150319813)
+
+Alex Hogan/STAT
+Patients for Affordable Drugs is intervening in races in which there is no=
+ hope of altering the outcome as a way to spotlight phama's influence in p=
+olitics.
+
+Read More (https://www.statnews.com/2018/10/05/patients-for-affordable-dru=
+gs-strategy/?utm_source=3DSTAT+Newsletters&utm_campaign=3D2786671c0f-DC_Di=
+agnosis&utm_medium=3Demail&utm_term=3D0_8cab1d7961-2786671c0f-=
+150319813)
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Monday=2C October 8=2C 2018
+
+** STAT (https://www.statnews.com/?utm_source=3DSTAT+Newsletters&utm_campa=
+ign=3D2786671c0f-DC_Diagnosis&utm_medium=3Demail&utm_term=3D0_8cab1d7961-2=
+786671c0f-150319813)
+
+** Facebook (https://www.facebook.com/statnews/?utm_source=3DSTAT+Newslett=
+ers&utm_campaign=3D2786671c0f-DC_Diagnosis&utm_medium=3Demail&utm_term=3D0=
+_8cab1d7961-2786671c0f-150319813)
+** Twitter (https://twitter.com/statnews/?utm_source=3DSTAT+Newsletters&ut=
+m_campaign=3D2786671c0f-DC_Diagnosis&utm_medium=3Demail&utm_term=3D0_8cab1=
+d7961-2786671c0f-150319813)
+** YouTube (https://www.youtube.com/channel/UC89FjSf9AT1O2qw6vxrrxDQ?utm_s=
+ource=3DSTAT+Newsletters&utm_campaign=3D2786671c0f-DC_Diagnosis&utm_medium=
+=3Demail&utm_term=3D0_8cab1d7961-2786671c0f-150319813)
+** Instagram (https://www.instagram.com/statnews/?utm_source=3DSTAT+Newsle=
+tters&utm_campaign=3D2786671c0f-DC_Diagnosis&utm_medium=3Demail&utm_term=
+=3D0_8cab1d7961-2786671c0f-150319813)
+1 Exchange Pl=2C Suite 201=2C Boston=2C MA 02109
+_icu.png?id=3DX4417792&campaign=3D%7C4972%7C&data=3D=
+statnews3@agentidea.com _itu.png
+=C2=A92018=2C All Rights Reserved.
+** I no longer wish to receive STAT emails (https://statnews.us11.list-man=
+age.com/unsubscribe?u=3Df8609630ae206654824f897b6&id=3D8cab1d7961&e=3D=
+fecc3a10a2&c=3D2786671c0f)
+
+** Update Email Preferences (https://statnews.us11.list-manage.com/profile=
+?u=3Df8609630ae206654824f897b6&id=3D8cab1d7961&e=3Dfecc3a10a2)
+| ** Contact Us (https://www.statnews.com/contact/?utm_source=3DSTAT+Newsl=
+etters&utm_campaign=3D2786671c0f-DC_Diagnosis&utm_medium=3Demail&utm_term=
+=3D0_8cab1d7961-2786671c0f-150319813)
+| ** View In Browser (https://us11.campaign-archive.com/?e=3Dfecc3a10a2&u=3D=
+f8609630ae206654824f897b6&id=3D2786671c0f)
+5cP.gif?contact_status=3DNewsletter Only
+--_----------=_MCPart_705128904
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-micros=
+oft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+  <head>
+    <!-- STAT newsletter Template for MailChimp -->
+    <!--[if gte mso 15]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:AllowPNG />
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <meta charset=3D"UTF-8">
+    <meta http-equiv=3D"x-ua-compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial-sca=
+le=3D1">
+    <title>Drug pricing PAC spending millions on unwinnable races; doctors=
+ and showing up to vote</title>
+
+  <style type=3D"text/css">
+=09=09p{
+=09=09=09margin:1em 0;
+=09=09=09padding:0;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09display:block;
+=09=09=09margin-top:24px;
+=09=09=09margin-bottom:0;
+=09=09=09padding:0;
+=09=09=09color:#000000;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:130%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h1+p=2Ch2+p=2Ch3+p=2Ch4+p=2Ch5+p=2Ch6+p{
+=09=09=09margin-top:4px;
+=09=09}
+=09=09h1+img=2Ch2+img=2Ch3+img=2Ch4+img=2Ch5+img=2Ch6+img{
+=09=09=09margin-top:12px;
+=09=09}
+=09=09h1+p img:first-child=2Ch2+p img:first-child=2Ch3+p img:first-child=
+=2Ch4+p img:first-child=2Ch5+p img:first-child=2Ch6+p img:first-child{
+=09=09=09margin-top:12px;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100%;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100%;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09=09max-width:550px;
+=09=09}
+=09=09table{
+=09=09=09mso-table-lspace:0;
+=09=09=09mso-table-rspace:0;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cblockquote{
+=09=09=09mso-line-height-rule:exactly;
+=09=09}
+=09=09a[href^=3Dtel]=2Ca[href^=3Dsms]{
+=09=09=09color:inherit;
+=09=09=09cursor:default;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cbody=2Ctable=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass td=2C.ExternalCla=
+ss div=2C.ExternalClass span=2C.ExternalClass font{
+=09=09=09line-height:100%;
+=09=09}
+=09=09a[x-apple-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-decoration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=09font-family:inherit !important;
+=09=09=09font-weight:inherit !important;
+=09=09=09line-height:inherit !important;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding:9px;
+=09=09=09padding-top:20px;
+=09=09}
+=09=09.templateContainer{
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09#footerContent{
+=09=09=09padding-top:5px;
+=09=09=09padding-bottom:0;
+=09=09}
+=09=09.templatePreheader=2C.templateHeader=2C#templateIntro=2C.templateBod=
+y{
+=09=09=09padding-right:25px;
+=09=09=09padding-left:25px;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#F8F8F8;
+=09=09}
+=09=09.templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1{
+=09=09=09font-size:22px;
+=09=09}
+=09=09h2{
+=09=09=09font-size:18px;
+=09=09}
+=09=09h3{
+=09=09=09font-size:16px;
+=09=09}
+=09=09h4{
+=09=09=09font-size:14px;
+=09=09}
+=09=09h5{
+=09=09=09font-size:12px;
+=09=09}
+=09=09h6{
+=09=09=09font-size:10px;
+=09=09}
+=09=09.templatePreheader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border:1px solid #EEEEEE;
+=09=09=09border-top:3px solid #DDD;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09.templatePreheader=2C.templatePreheader p{
+=09=09=09color:#000000;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:12px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09}
+=09=09.templatePreheader a=2C.templatePreheader p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.templatePreheader p img{
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.templatePreheader.standard p img{
+=09=09=09margin-bottom:1px;
+=09=09}
+=09=09.templatePreheader.generic{
+=09=09=09border-top:3px solid #1FADB6;
+=09=09=09padding-top:8px;
+=09=09=09padding-bottom:8px;
+=09=09}
+=09=09.templatePreheader.generic .columnContainer.first p{
+=09=09=09text-align:left;
+=09=09}
+=09=09.templatePreheader.generic .columnContainer.last p{
+=09=09=09text-align:right;
+=09=09=09font-weight:normal;
+=09=09=09text-transform:uppercase;
+=09=09=09letter-spacing:2px;
+=09=09=09font-size:10px;
+=09=09=09margin-top:16px;
+=09=09}
+=09=09.templatePreheader.generic .columnContainer.last p a{
+=09=09=09color:#BBBBBB;
+=09=09}
+=09=09.templateSpacer p{
+=09=09=09margin:0;
+=09=09=09font-size:10px;
+=09=09}
+=09=09.templateRule{
+=09=09=09border-top:1px solid #EEEEEE;
+=09=09}
+=09=09.templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-top:3px solid #1FADB6;
+=09=09=09border-left:1px solid #EEEEEE;
+=09=09=09border-right:1px solid #EEEEEE;
+=09=09=09padding-top:18px;
+=09=09=09padding-bottom:0;
+=09=09}
+=09=09.templateHeader=2C.templateHeader p{
+=09=09=09color:#000000;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:17px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.templateHeader a=2C.templateHeader p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.templateHeader p.caption{
+=09=09=09text-align:right;
+=09=09=09text-transform:uppercase;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09color:#999999;
+=09=09=09margin:4px 0 0;
+=09=09=09line-height:130%;
+=09=09}
+=09=09.templateHeader.generic{
+=09=09=09border-top-style:none;
+=09=09=09padding:1px;
+=09=09=09border-bottom:1px solid #EEEEEE;
+=09=09}
+=09=09.templateHeader.generic img{
+=09=09=09vertical-align:top;
+=09=09=09max-width:596px;
+=09=09}
+=09=09.templateBody.generic{
+=09=09=09padding-top:9px;
+=09=09}
+=09=09#templateIntro{
+=09=09=09padding-bottom:28px;
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-left:1px solid #EEEEEE;
+=09=09=09border-right:1px solid #EEEEEE;
+=09=09}
+=09=09#templateIntro p{
+=09=09=09background-color:#EFF9FA;
+=09=09=09text-align:center;
+=09=09=09padding:20px;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-weight:bold;
+=09=09=09font-size:13px;
+=09=09=09margin:3px 0;
+=09=09=09line-height:1.35;
+=09=09}
+=09=09#templateIntro p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.templateBody{
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-left:1px solid #EEEEEE;
+=09=09=09border-right:1px solid #EEEEEE;
+=09=09=09border-bottom:1px solid #EEEEEE;
+=09=09=09padding-top:0;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09.templateBody=2C.templateBody p{
+=09=09=09color:#000000;
+=09=09=09font-family:Georgia=2Cserif;
+=09=09=09font-size:17px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.templateBody a=2C.templateBody p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.templateBody p.cta{
+=09=09=09margin:27px 0 40px !important;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09text-transform:uppercase;
+=09=09=09font-size:14px;
+=09=09=09letter-spacing:2px;
+=09=09}
+=09=09.templateBody p.cta a{
+=09=09=09color:#FFFFFF;
+=09=09=09background-color:#1FADB6;
+=09=09=09padding:10px 30px;
+=09=09}
+=09=09.templateBody p.author{
+=09=09=09color:#666666;
+=09=09=09font-size:14px;
+=09=09=09margin-top:12px;
+=09=09}
+=09=09.templateBody p.author span{
+=09=09=09text-transform:uppercase;
+=09=09}
+=09=09.templateBody p.caption{
+=09=09=09text-align:right;
+=09=09=09text-transform:uppercase;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09color:#999999;
+=09=09=09margin:4px 0 0;
+=09=09=09line-height:130%;
+=09=09}
+=09=09.templateBody p.caption+p{
+=09=09=09margin-top:9px;
+=09=09}
+=09=09.templateBody img{
+=09=09=09vertical-align:text-top;
+=09=09}
+=09=09.templateBody ul{
+=09=09=09list-style-type:square;
+=09=09=09padding-left:17px;
+=09=09=09margin-top:4px;
+=09=09}
+=09=09.templateBody.sponsor p:first-child{
+=09=09=09color:#DF4C51;
+=09=09=09text-transform:uppercase;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:10px;
+=09=09=09margin-top:24px;
+=09=09=09margin-bottom:0;
+=09=09=09letter-spacing:2px;
+=09=09}
+=09=09.templateBody.sponsor p+h1{
+=09=09=09margin-top:4px;
+=09=09}
+=09=09.templateBody.sponsor a=2C.templateBody.sponsor p a{
+=09=09=09color:#DF4C51;
+=09=09}
+=09=09.templateBody.sponsor.rss p:first-child{
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.templateBody.sponsor.rss h1{
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.templateBody.contact{
+=09=09=09background-color:#F8F8F8;
+=09=09=09background-image:url(https://gallery.mailchimp.com/f8609630ae2066=
+54824f897b6/images/82e08a18-2199-4c11-aa0a-6c7b954edcd0.png);
+=09=09=09background-repeat:repeat;
+=09=09=09background-size:auto;
+=09=09=09padding-top:10px;
+=09=09=09padding-bottom:10px;
+=09=09}
+=09=09.templateBody.contact p{
+=09=09=09text-align:center;
+=09=09=09text-transform:uppercase;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09margin:2em 0;
+=09=09=09letter-spacing:2px;
+=09=09}
+=09=09.templateBody.contact p:last-child{
+=09=09=09margin-bottom:3em;
+=09=09}
+=09=09.templateBody.rss h1{
+=09=09=09font-size:24px;
+=09=09}
+=09=09.templateBody.rss h1 a{
+=09=09=09color:#000000;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#F8F8F8;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:0;
+=09=09=09padding-bottom:9px;
+=09=09=09padding-left:0;
+=09=09=09padding-right:0;
+=09=09}
+=09=09#templateFooter a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09#dateBar=2C#dateBar p{
+=09=09=09text-align:right;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:10px;
+=09=09=09color:#999999;
+=09=09}
+=09=09#logoBar=2C#logoBar p{
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:17px;
+=09=09=09text-align:center;
+=09=09}
+=09=09#logoBar p{
+=09=09=09margin-top:18px;
+=09=09=09margin-bottom:9px;
+=09=09}
+=09=09#socialBar{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border:0;
+=09=09=09padding:0;
+=09=09}
+=09=09#socialBar=2C#socialBar p{
+=09=09=09color:#BBBBBB;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09=09margin:0;
+=09=09}
+=09=09#footerContent=2C#footerContent p{
+=09=09=09color:#BBBBBB;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09line-height:160%;
+=09=09=09text-align:center;
+=09=09}
+=09=09#footerContent a=2C#footerContent p a{
+=09=09=09color:#BBBBBB;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09#utilityBar{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border:0;
+=09=09=09padding-top:0;
+=09=09=09padding-bottom:20px;
+=09=09}
+=09=09#utilityBar=2C#utilityBar p{
+=09=09=09color:#BBBBBB;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09line-height:160%;
+=09=09=09text-align:center;
+=09=09}
+=09=09#utilityBar a=2C#utilityBar p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#utilityBar a.unsub{
+=09=09=09color:#BBBBBB;
+=09=09}
+=09=09.mcnPreviewText{
+=09=09=09display:none !important;
+=09=09}
+=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09img{
+=09=09=09max-width:100% !important;
+=09=09=09height:auto !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#bodyCell{
+=09=09=09padding-left:4px !important;
+=09=09=09padding-right:4px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.templatePreheader=2C.templateHeader=2C#templateIntro=2C.templateBod=
+y{
+=09=09=09padding-right:13px !important;
+=09=09=09padding-left:13px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.templatePreheader.generic .columnContainer.last p{
+=09=09=09margin-top:1em !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.templateHeader.generic{
+=09=09=09padding:1px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.columnContainer{
+=09=09=09max-width:100% !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.columnContainer.last{
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.templateBody.rss h1{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}</style></head>
+  <body style=3D"height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #F8F8F8;"=
+>
+    <!--
+-->
+    <!--[if !gte mso 9]><!-->
+    <span class=3D"mcnPreviewText" style=3D"display:none; font-size:0px; l=
+ine-height:0px; max-height:0px; max-width:0px; opacity:0; overflow:hidden;=
+ visibility:hidden; mso-hide:all;">
+      The group is intervening in races in which there is no hope of alter=
+ing the outcome as a way to spotlight pharma's influence in politics.
+      =E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0
+    </span>
+    <!--<![endif]-->
+    <!--
+-->
+    <center>
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" id=3D"bodyTable" style=3D"height: 100%;border-collap=
+se: collapse;mso-table-lspace: 0;mso-table-rspace: 0;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;margin: 0;padding: 0;width: 100%;back=
+ground-color: #F8F8F8;">
+        <tr>
+          <td align=3D"center" valign=3D"top" id=3D"bodyCell" style=3D"mso=
+-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;height: 100%;margin: 0;padding: 9px;width: 100%;padding-top: 20=
+px;">
+            <!-- BEGIN TEMPLATE // -->
+            <!--[if gte mso 9]>
+            <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" width=3D"600" style=3D"width:600px;">
+              <tr>
+                <td align=3D"center" valign=3D"top" width=3D"600" style=3D=
+"width:600px;">
+                  <![endif]-->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" class=3D"templateContainer" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0;mso-table-rspace: 0;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;border: 0;max-width: 600px !important;">
+              <!-- BEGIN PREHEADER // -->
+              <tr mc:hideable=3D"hideable_1" mchideable=3D"hideable_1">
+                <td valign=3D"top" class=3D"templatePreheader standard" st=
+yle=3D"background:#FFFFFF none no-repeat center/cover;mso-line-height-rule=
+: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;paddin=
+g-right: 25px;padding-left: 25px;background-color: #FFFFFF;background-imag=
+e: none;background-repeat: no-repeat;background-position: center;backgroun=
+d-size: cover;border: 1px solid #EEEEEE;border-top: 3px solid #DDD;padding=
+-top: 9px;padding-bottom: 9px;color: #000000;font-family: Arial=2Csans-ser=
+if;font-size: 12px;font-weight: bold;line-height: 150%;text-align: center;=
+">
+                  <!-- BEGIN MODULE: STANDARD PREHEADER // -->
+                  <p style=3D"margin: 1em 0;padding: 0;mso-line-height-rul=
+e: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color=
+: #000000;font-family: Arial=2Csans-serif;font-size: 12px;font-weight: bol=
+d;line-height: 150%;text-align: center;">Sponsored by <span>&nbsp;&nbsp;<i=
+mg alt=3D"" src=3D"https://www.statnews.com/wp-admin/admin-ajax.php?action=
+=3Dstat_mailchimp_sponsor_logo&amp;campaign_id=3D2786671c0f" width=3D"120"=
+ style=3D"border: 0;height: auto;outline: none;text-decoration: none;-ms-i=
+nterpolation-mode: bicubic;max-width: 550px;vertical-align: middle;margin-=
+bottom: 1px;"></span>
+                </p>
+                <!-- // END MODULE: STANDARD PREHEADER -->
+              </td>
+            </tr>
+            <!-- // END PREHEADER -->
+            <!-- BEGIN SPACER // -->
+            <tr>
+              <td valign=3D"top" class=3D"templateSpacer" style=3D"mso-lin=
+e-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;">
+                <p style=3D"margin: 0;padding: 0;mso-line-height-rule: exa=
+ctly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-size:=
+ 10px;">=C2=A0</p>
+              </td>
+            </tr>
+            <!-- // END SPACER -->
+            <!-- BEGIN HEADER // -->
+            <tr>
+              <td valign=3D"top" class=3D"templateHeader standard" style=
+=3D"background: #FFFFFF none no-repeat center/cover;mso-line-height-rule:=
+ exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding=
+-right: 25px;padding-left: 25px;background-color: #FFFFFF;background-image=
+: none;background-repeat: no-repeat;background-position: center;background=
+-size: cover;border-top: 3px solid #1FADB6;border-left: 1px solid #EEEEEE;=
+border-right: 1px solid #EEEEEE;padding-top: 18px;padding-bottom: 0;color:=
+ #000000;font-family: Arial=2Csans-serif;font-size: 17px;line-height: 150%=
+;text-align: left;">
+                <!-- BEGIN MODULE: HEADER IMAGE // -->
+
+                <img src=3D"https://gallery.mailchimp.com/f8609630ae206654=
+824f897b6/images/6d0a0d0d-8398-4682-889e-36dcbd620bf1.png" width=3D"550" a=
+lt=3D"D.C. Diagnosis" style=3D"border: 0;height: auto;outline: none;text-d=
+ecoration: none;-ms-interpolation-mode: bicubic;max-width: 550px;">
+                <!-- // END MODULE: HEADER IMAGE -->
+              </td>
+            </tr>
+            <!-- // END HEADER -->
+            <!-- BEGIN INTRO // -->
+
+            <!-- // END INTRO -->
+            <!-- BEGIN RULE // -->
+            <tr>
+              <td valign=3D"top" class=3D"templateRule" style=3D"mso-line-=
+height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;border-top: 1px solid #EEEEEE;">
+              </td>
+            </tr>
+            <!-- // END RULE -->
+            <!--  -->
+            <tr>
+              <td valign=3D"top" class=3D"templateBody rss" style=3D"backg=
+round: #FFFFFF none no-repeat center/cover;mso-line-height-rule: exactly;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-right: 25=
+px;padding-left: 25px;background-color: #FFFFFF;background-image: none;bac=
+kground-repeat: no-repeat;background-position: center;background-size: cov=
+er;border-left: 1px solid #EEEEEE;border-right: 1px solid #EEEEEE;border-b=
+ottom: 1px solid #EEEEEE;padding-top: 0;padding-bottom: 9px;color: #000000=
+;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align=
+: left;">
+                <!-- BEGIN MODULE: BODY CONTENT RSS // -->
+                <h1 style=3D"display: block;margin-top: 24px;margin-bottom=
+: 0;padding: 0;color: #000000;font-family: Arial=2Csans-serif;font-style:=
+ normal;font-weight: bold;line-height: 130%;letter-spacing: normal;text-al=
+ign: left;font-size: 24px;"><a href=3D"https://statnews.us11.list-manage.c=
+om/track/click?u=3Df8609630ae206654824f897b6&id=3Dad06531fe2&e=3D=
+fecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;color: #000000;text-decoration: underline;">A P=
+AC is using the midterms to spotlight high drug prices. Why is it sinking=
+ millions into unwinnable races?</a>
+              </h1>
+              <p class=3D"author" style=3D"margin: 1em 0;padding: 0;mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;margin-top: 12px;color: #666666;font-family: Georgia=2Cserif;font-=
+size: 14px;line-height: 150%;text-align: left;">By <span style=3D"text-tra=
+nsform: uppercase;">Rebecca Robbins and Lev Facher</span>
+            </p>
+            <a href=3D"https://statnews.us11.list-manage.com/track/click?u=
+=3Df8609630ae206654824f897b6&id=3D72fa8d6112&e=3Dfecc3a10a2" style=3D"mso=
+-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;color: #1FADB6;text-decoration: none;"><img class=3D"mc-rss-ite=
+m-img" src=3D"https://www.statnews.com/wp-content/uploads/2018/10/CLAW_PIL=
+LS_new_pills_still-1024x576.jpg" height=3D"309" width=3D"550" style=3D"hei=
+ght: 309;width: 550;border: 0;outline: none;text-decoration: none;-ms-inte=
+rpolation-mode: bicubic;max-width: 550px;vertical-align: text-top;"></a>
+            <p class=3D"caption" style=3D"margin: 4px 0 0;padding: 0;mso-l=
+ine-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;color: #999999;font-family: Arial=2Csans-serif;font-size: 11px;li=
+ne-height: 130%;text-align: right;text-transform: uppercase;">Alex Hogan/S=
+TAT</p>
+            <p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exa=
+ctly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000=
+000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-al=
+ign: left;margin-top: 9px;">Patients for Affordable Drugs is intervening i=
+n races in which there is no hope of altering the outcome as a way to spot=
+light phama's influence in politics.</p>
+
+            <p class=3D"cta" style=3D"margin: 27px 0 40px !important;paddi=
+ng: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;color: #000000;font-family: Arial=2Csans-serif;font-si=
+ze: 14px;line-height: 150%;text-align: left;text-transform: uppercase;lett=
+er-spacing: 2px;margin-top: 9px;"><a href=3D"https://statnews.us11.list-ma=
+nage.com/track/click?u=3Df8609630ae206654824f897b6&id=3Decb4284b16&e=3D=
+fecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;color: #FFFFFF;text-decoration: none;back=
+ground-color: #1FADB6;padding: 10px 30px;">Read More</a>
+          </p>
+          <!-- // END MODULE: BODY CONTENT RSS -->
+        </td>
+      </tr>
+      <!-- -->
+      <!--  -->
+            <tr>
+              <td valign=3D"top" class=3D"templateBody rss" style=3D"backg=
+round: #FFFFFF none no-repeat center/cover;mso-line-height-rule: exactly;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-right: 25=
+px;padding-left: 25px;background-color: #FFFFFF;background-image: none;bac=
+kground-repeat: no-repeat;background-position: center;background-size: cov=
+er;border-left: 1px solid #EEEEEE;border-right: 1px solid #EEEEEE;border-b=
+ottom: 1px solid #EEEEEE;padding-top: 0;padding-bottom: 9px;color: #000000=
+;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align=
+: left;">
+                <!-- BEGIN MODULE: BODY CONTENT RSS // -->
+                <h1 style=3D"display: block;margin-top: 24px;margin-bottom=
+: 0;padding: 0;color: #000000;font-family: Arial=2Csans-serif;font-style:=
+ normal;font-weight: bold;line-height: 130%;letter-spacing: normal;text-al=
+ign: left;font-size: 24px;"><a href=3D"https://statnews.us11.list-manage.c=
+om/track/click?u=3Df8609630ae206654824f897b6&id=3D01040a8573&e=3D=
+fecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;color: #000000;text-decoration: underline;">A R=
+epublican lobbying firm is behind Washington=E2=80=99s newest pro-pharma a=
+dvocacy group</a>
+              </h1>
+              <p class=3D"author" style=3D"margin: 1em 0;padding: 0;mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;margin-top: 12px;color: #666666;font-family: Georgia=2Cserif;font-=
+size: 14px;line-height: 150%;text-align: left;">By <span style=3D"text-tra=
+nsform: uppercase;">Nicholas Florko</span>
+            </p>
+            <a href=3D"https://statnews.us11.list-manage.com/track/click?u=
+=3Df8609630ae206654824f897b6&id=3D5ed71fd714&e=3Dfecc3a10a2" style=3D"mso=
+-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;color: #1FADB6;text-decoration: none;"><img class=3D"mc-rss-ite=
+m-img" src=3D"https://www.statnews.com/wp-content/uploads/2018/04/AdobeSto=
+ck_89681528-1024x576.jpeg" height=3D"309" width=3D"550" style=3D"height: 3=
+09;width: 550;border: 0;outline: none;text-decoration: none;-ms-interpolat=
+ion-mode: bicubic;max-width: 550px;vertical-align: text-top;"></a>
+            <p class=3D"caption" style=3D"margin: 4px 0 0;padding: 0;mso-l=
+ine-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;color: #999999;font-family: Arial=2Csans-serif;font-size: 11px;li=
+ne-height: 130%;text-align: right;text-transform: uppercase;">Adobe</p>
+            <p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exa=
+ctly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000=
+000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-al=
+ign: left;margin-top: 9px;">The CGCN Group helped to set up the new advoca=
+cy group=2C the Alliance to Protect Medical Innvoation=2C which has taken=
+ a pro-pharma stance.</p>
+
+            <p class=3D"cta" style=3D"margin: 27px 0 40px !important;paddi=
+ng: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;color: #000000;font-family: Arial=2Csans-serif;font-si=
+ze: 14px;line-height: 150%;text-align: left;text-transform: uppercase;lett=
+er-spacing: 2px;margin-top: 9px;"><a href=3D"https://statnews.us11.list-ma=
+nage.com/track/click?u=3Df8609630ae206654824f897b6&id=3D348979ecd2&e=3D=
+fecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;color: #FFFFFF;text-decoration: none;back=
+ground-color: #1FADB6;padding: 10px 30px;">Read More</a>
+          </p>
+          <!-- // END MODULE: BODY CONTENT RSS -->
+        </td>
+      </tr>
+      <!-- -->
+      <!--  -->
+            <tr>
+              <td valign=3D"top" class=3D"templateBody rss" style=3D"backg=
+round: #FFFFFF none no-repeat center/cover;mso-line-height-rule: exactly;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-right: 25=
+px;padding-left: 25px;background-color: #FFFFFF;background-image: none;bac=
+kground-repeat: no-repeat;background-position: center;background-size: cov=
+er;border-left: 1px solid #EEEEEE;border-right: 1px solid #EEEEEE;border-b=
+ottom: 1px solid #EEEEEE;padding-top: 0;padding-bottom: 9px;color: #000000=
+;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align=
+: left;">
+                <!-- BEGIN MODULE: BODY CONTENT RSS // -->
+                <h1 style=3D"display: block;margin-top: 24px;margin-bottom=
+: 0;padding: 0;color: #000000;font-family: Arial=2Csans-serif;font-style:=
+ normal;font-weight: bold;line-height: 130%;letter-spacing: normal;text-al=
+ign: left;font-size: 24px;"><a href=3D"https://statnews.us11.list-manage.c=
+om/track/click?u=3Df8609630ae206654824f897b6&id=3D9eeaacde51&e=3D=
+fecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;color: #000000;text-decoration: underline;">FDA=
+ approves Akcea rare disease drug with a black box warning</a>
+              </h1>
+              <p class=3D"author" style=3D"margin: 1em 0;padding: 0;mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;margin-top: 12px;color: #666666;font-family: Georgia=2Cserif;font-=
+size: 14px;line-height: 150%;text-align: left;">By <span style=3D"text-tra=
+nsform: uppercase;">Kate Sheridan</span>
+            </p>
+            <a href=3D"https://statnews.us11.list-manage.com/track/click?u=
+=3Df8609630ae206654824f897b6&id=3D170e1c69d5&e=3Dfecc3a10a2" style=3D"mso=
+-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;color: #1FADB6;text-decoration: none;"><img class=3D"mc-rss-ite=
+m-img" src=3D"https://www.statnews.com/wp-content/uploads/2015/12/FDA_Head=
+quarters-1024x576.jpg" height=3D"309" width=3D"550" style=3D"height: 309;w=
+idth: 550;border: 0;outline: none;text-decoration: none;-ms-interpolation-=
+mode: bicubic;max-width: 550px;vertical-align: text-top;"></a>
+            <p class=3D"caption" style=3D"margin: 4px 0 0;padding: 0;mso-l=
+ine-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;color: #999999;font-family: Arial=2Csans-serif;font-size: 11px;li=
+ne-height: 130%;text-align: right;text-transform: uppercase;">FDA</p>
+            <p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exa=
+ctly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000=
+000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-al=
+ign: left;margin-top: 9px;">It=E2=80=99s a major win for Akcea=2C after th=
+e FDA declined to approve another of the company=E2=80=99s drugs=2C Wayliv=
+ra=2C based on the same technology.</p>
+
+            <p class=3D"cta" style=3D"margin: 27px 0 40px !important;paddi=
+ng: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;color: #000000;font-family: Arial=2Csans-serif;font-si=
+ze: 14px;line-height: 150%;text-align: left;text-transform: uppercase;lett=
+er-spacing: 2px;margin-top: 9px;"><a href=3D"https://statnews.us11.list-ma=
+nage.com/track/click?u=3Df8609630ae206654824f897b6&id=3D3795588bc7&e=3D=
+fecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;color: #FFFFFF;text-decoration: none;back=
+ground-color: #1FADB6;padding: 10px 30px;">Read More</a>
+          </p>
+          <!-- // END MODULE: BODY CONTENT RSS -->
+        </td>
+      </tr>
+      <tr>
+=09=09=09=09=09<td valign=3D"top" class=3D"templateBody sponsor rss" style=
+=3D"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-c=
+olor: #FFFFFF;background-image: none;background-position: center;backgroun=
+d-repeat: no-repeat;background-size: cover;border-bottom: 1px solid #EEEEE=
+E;border-left: 1px solid #EEEEEE;border-right: 1px solid #EEEEEE;color: #0=
+00000;font-family: Georgia=2C serif;font-size: 17px;line-height: 150%;mso-=
+line-height-rule: exactly;padding-bottom: 9px;padding-left: 25px;padding-r=
+ight: 25px;padding-top: 0;text-align: left;">
+=09=09=09=09=09=09<p style=3D"-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;color: #DF4C51;font-family: Arial=2C sans-serif;font-size: 1=
+0px;letter-spacing: 2px;line-height: 150%;margin: 1em 0;margin-bottom: 0;m=
+argin-top: 24px;mso-line-height-rule: exactly;padding: 0;text-align: left;=
+text-decoration: underline;text-transform: uppercase;">Sponsor content by=
+ STAT Plus</p>
+=09=09=09=09=09=09<h1 style=3D"color: #000000;display: block;font-family:=
+ Arial=2C sans-serif;font-size: 24px;font-style: normal;font-weight: bold;=
+letter-spacing: normal;line-height: 130%;margin-bottom: 0;margin-top: 4px;=
+padding: 0;text-align: left;text-decoration: underline;">In-depth biopharm=
+a=2C business=2C and policy analysis at your fingertips</h1>
+=09=09=09=09=09=09<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rul=
+e: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margi=
+n-top: 4px;color: #000000;font-family: Georgia=2Cserif;font-size: 17px;lin=
+e-height: 150%;text-align: left;">Sign up for STAT Plus to receive in-dept=
+h analysis of the biotech and pharma industries=2C exclusive one-on-one in=
+terviews with industry pioneers=2C and inside intelligence from Capitol Hi=
+ll. Don=E2=80=99t be the last to know. <a href=3D"https://statnews.us11.li=
+st-manage.com/track/click?u=3Df8609630ae206654824f897b6&id=3Df197f51eab&e=
+=3Dfecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;color: #DF4C51;text-decoration: non=
+e;">Subscribe</a> today to start reading. </p>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+      <!--  -->
+            <tr>
+              <td valign=3D"top" class=3D"templateBody rss" style=3D"backg=
+round: #FFFFFF none no-repeat center/cover;mso-line-height-rule: exactly;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-right: 25=
+px;padding-left: 25px;background-color: #FFFFFF;background-image: none;bac=
+kground-repeat: no-repeat;background-position: center;background-size: cov=
+er;border-left: 1px solid #EEEEEE;border-right: 1px solid #EEEEEE;border-b=
+ottom: 1px solid #EEEEEE;padding-top: 0;padding-bottom: 9px;color: #000000=
+;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align=
+: left;">
+                <!-- BEGIN MODULE: BODY CONTENT RSS // -->
+                <h1 style=3D"display: block;margin-top: 24px;margin-bottom=
+: 0;padding: 0;color: #000000;font-family: Arial=2Csans-serif;font-style:=
+ normal;font-weight: bold;line-height: 130%;letter-spacing: normal;text-al=
+ign: left;font-size: 24px;"><a href=3D"https://statnews.us11.list-manage.c=
+om/track/click?u=3Df8609630ae206654824f897b6&id=3D7eb78e0ac8&e=3D=
+fecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;color: #000000;text-decoration: underline;">Opi=
+nion: Hey=2C doctors: Don=E2=80=99t be no-shows (again) on Election Day</a=
+>
+              </h1>
+              <p class=3D"author" style=3D"margin: 1em 0;padding: 0;mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;margin-top: 12px;color: #666666;font-family: Georgia=2Cserif;font-=
+size: 14px;line-height: 150%;text-align: left;">By <span style=3D"text-tra=
+nsform: uppercase;">Suhas Gondi and Jonathan Kusner and Yosef Berlyand</sp=
+an>
+            </p>
+            <a href=3D"https://statnews.us11.list-manage.com/track/click?u=
+=3Df8609630ae206654824f897b6&id=3Dbd0de69df1&e=3Dfecc3a10a2" style=3D"mso=
+-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;color: #1FADB6;text-decoration: none;"><img class=3D"mc-rss-ite=
+m-img" src=3D"https://www.statnews.com/wp-content/uploads/2018/10/GettyIma=
+ges-1016543352-1024x576.jpg" height=3D"309" width=3D"550" style=3D"height:=
+ 309;width: 550;border: 0;outline: none;text-decoration: none;-ms-interpol=
+ation-mode: bicubic;max-width: 550px;vertical-align: text-top;"></a>
+            <p class=3D"caption" style=3D"margin: 4px 0 0;padding: 0;mso-l=
+ine-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;color: #999999;font-family: Arial=2Csans-serif;font-size: 11px;li=
+ne-height: 130%;text-align: right;text-transform: uppercase;">Stephen Matu=
+ren/Getty Images</p>
+            <p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exa=
+ctly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000=
+000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-al=
+ign: left;margin-top: 9px;">Physicians should view voting as part of their=
+ responsibility to their patients and to the public=2C an unwritten but im=
+plicit line in the Hippocratic oath.</p>
+
+            <p class=3D"cta" style=3D"margin: 27px 0 40px !important;paddi=
+ng: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;color: #000000;font-family: Arial=2Csans-serif;font-si=
+ze: 14px;line-height: 150%;text-align: left;text-transform: uppercase;lett=
+er-spacing: 2px;margin-top: 9px;"><a href=3D"https://statnews.us11.list-ma=
+nage.com/track/click?u=3Df8609630ae206654824f897b6&id=3D5a22e2c88e&e=3D=
+fecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;color: #FFFFFF;text-decoration: none;back=
+ground-color: #1FADB6;padding: 10px 30px;">Read More</a>
+          </p>
+          <!-- // END MODULE: BODY CONTENT RSS -->
+        </td>
+      </tr>
+      <!-- -->
+      <!--  -->
+      <!-- BEGIN FOOTER // -->
+      <tr>
+        <td valign=3D"top" id=3D"templateFooter" style=3D"background: #F8F=
+8F8 none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #F8F8F8;ba=
+ckground-image: none;background-repeat: no-repeat;background-position: cen=
+ter;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 0;p=
+adding-bottom: 9px;padding-left: 0;padding-right: 0;">
+          <!-- BEGIN MODULE: STANDARD FOOTER // -->
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"border-collapse: collapse;mso-table-lspace: 0;mso-table-rs=
+pace: 0;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+            <tr>
+              <td valign=3D"top" id=3D"dateBar" style=3D"mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;tex=
+t-align: right;font-family: Arial=2Csans-serif;font-size: 10px;color: #999=
+999;">
+                <p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule:=
+ exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-al=
+ign: right;font-family: Arial=2Csans-serif;font-size: 10px;color: #999999;=
+">Monday=2C October 8=2C 2018</p>
+              </td>
+            </tr>
+            <tr>
+              <td valign=3D"top" id=3D"logoBar" style=3D"mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;fon=
+t-family: Arial=2Csans-serif;font-size: 17px;text-align: center;">
+                <p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule:=
+ exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-fa=
+mily: Arial=2Csans-serif;font-size: 17px;text-align: center;margin-top: 18=
+px;margin-bottom: 9px;"><a href=3D"https://statnews.us11.list-manage.com/t=
+rack/click?u=3Df8609630ae206654824f897b6&id=3D18e48de16b&e=3Dfecc3a10a2"=
+ style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D=
+"https://gallery.mailchimp.com/f8609630ae206654824f897b6/images/d530babb-e=
+16a-4199-b764-b3edc2ad8917.png" width=3D"80" alt=3D"STAT" style=3D"border:=
+ 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode=
+: bicubic;max-width: 550px;"></a>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td valign=3D"top" id=3D"socialBar" style=3D"mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;bac=
+kground-color: #F8F8F8;border: 0;padding: 0;color: #BBBBBB;font-family: Ar=
+ial=2Csans-serif;font-size: 11px;line-height: 150%;text-align: center;marg=
+in: 0;">
+              <p style=3D"margin: 0;padding: 0;mso-line-height-rule: exact=
+ly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #BBBBB=
+B;font-family: Arial=2Csans-serif;font-size: 11px;line-height: 150%;text-a=
+lign: center;">
+              <a href=3D"https://statnews.us11.list-manage.com/track/click=
+?u=3Df8609630ae206654824f897b6&id=3De797c09c51&e=3Dfecc3a10a2" style=3D"m=
+so-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D"https://ga=
+llery.mailchimp.com/f8609630ae206654824f897b6/images/e56a2f39-94b1-416d-9b=
+03-cb8cbfff96b7.png" width=3D"30" alt=3D"Facebook" title=3D"Facebook" styl=
+e=3D"border: 0;height: auto;outline: none;text-decoration: none;-ms-interp=
+olation-mode: bicubic;max-width: 550px;"></a>
+              =C2=A0
+              <a href=3D"https://statnews.us11.list-manage.com/track/click=
+?u=3Df8609630ae206654824f897b6&id=3Dcba395b6c8&e=3Dfecc3a10a2" style=3D"m=
+so-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D"https://ga=
+llery.mailchimp.com/f8609630ae206654824f897b6/images/34ace2fa-af9d-4cf8-a2=
+c2-e491c02464bd.png" width=3D"30" alt=3D"Twitter" title=3D"Twitter" style=
+=3D"border: 0;height: auto;outline: none;text-decoration: none;-ms-interpo=
+lation-mode: bicubic;max-width: 550px;"></a>
+              =C2=A0
+              <a href=3D"https://statnews.us11.list-manage.com/track/click=
+?u=3Df8609630ae206654824f897b6&id=3D77a56f7891&e=3Dfecc3a10a2" style=3D"m=
+so-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D"https://ga=
+llery.mailchimp.com/f8609630ae206654824f897b6/images/8eab3604-cd8e-4bc9-b5=
+77-9e98ae898f5b.png" width=3D"30" alt=3D"YouTube" title=3D"YouTube" style=
+=3D"border: 0;height: auto;outline: none;text-decoration: none;-ms-interpo=
+lation-mode: bicubic;max-width: 550px;"></a>
+              =C2=A0
+              <a href=3D"https://statnews.us11.list-manage.com/track/click=
+?u=3Df8609630ae206654824f897b6&id=3Df3539b97b2&e=3Dfecc3a10a2" style=3D"m=
+so-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D"https://ga=
+llery.mailchimp.com/f8609630ae206654824f897b6/images/c75510f1-ae31-4ab6-a8=
+0b-9a9f97a5c08e.png" width=3D"30" alt=3D"Instagram" title=3D"Instagram" st=
+yle=3D"border: 0;height: auto;outline: none;text-decoration: none;-ms-inte=
+rpolation-mode: bicubic;max-width: 550px;"></a>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td valign=3D"top" id=3D"footerContent" style=3D"mso-line-height=
+-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;p=
+adding-top: 5px;padding-bottom: 0;color: #BBBBBB;font-family: Arial=2Csans=
+-serif;font-size: 11px;line-height: 160%;text-align: center;">
+            1 Exchange Pl=2C Suite 201=2C Boston=2C MA 02109
+            <!-- DMD AIM TAG  -->
+            <div style=3D"width:0;overflow:hidden;float:left;display:none;=
+margin-bottom:-1px;">
+              <img src=3D"http://www.medtargetsystem.com/_icu.png?id=3D=
+X4417792&amp;campaign=3D%7C4972%7C&amp;data=3Dstatnews3@agentidea.com" styl=
+e=3D"width: 0;overflow: hidden;float: left;display: none;margin-bottom: -1=
+px;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpol=
+ation-mode: bicubic;max-width: 550px;" alt=3D"_icu.png?id=3D=
+X4417792&amp;campaign=3D%7C4972%7C&amp;data=3Dstatnews3@agentidea.com"><img src=3D"htt=
+p://www.medtargetsystem.com/_itu.png" style=3D"width: 0;overflow: hidden;f=
+loat: left;display: none;margin-bottom: -1px;border: 0;height: auto;outlin=
+e: none;text-decoration: none;-ms-interpolation-mode: bicubic;max-width: 5=
+50px;" alt=3D"_itu.png">
+            </div>
+            <!-- DMD AIM TAG END -->
+            <br>
+            =C2=A92018=2C All Rights Reserved.
+          </td>
+        </tr>
+        <tr>
+          <td valign=3D"top" id=3D"utilityBar" style=3D"mso-line-height-ru=
+le: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;back=
+ground-color: #F8F8F8;border: 0;padding-top: 0;padding-bottom: 20px;color:=
+ #BBBBBB;font-family: Arial=2Csans-serif;font-size: 11px;line-height: 160%=
+;text-align: center;">
+            <a href=3D"https://statnews.us11.list-manage.com/unsubscribe?u=
+=3Df8609630ae206654824f897b6&id=3D8cab1d7961&e=3Dfecc3a10a2&c=3D2786671c0f"=
+ class=3D"unsub" style=3D"mso-line-height-rule: exactly;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #BBBBBB;text-decoration: un=
+derline;">I no longer wish to receive STAT emails</a>
+            <br><a href=3D"https://statnews.us11.list-manage.com/profile?u=
+=3Df8609630ae206654824f897b6&id=3D8cab1d7961&e=3Dfecc3a10a2" style=3D"mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;color: #1FADB6;text-decoration: underline;">Update=C2=A0Email=C2=
+=A0Preferences</a> | <a href=3D"https://statnews.us11.list-manage.com/trac=
+k/click?u=3Df8609630ae206654824f897b6&id=3Dc3dc7814c5&e=3Dfecc3a10a2" sty=
+le=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;color: #1FADB6;text-decoration: underline;">Contact=C2=
+=A0Us</a>
+            <!--
+ -->
+            | <a href=3D"https://us11.campaign-archive.com/?e=3Dfecc3a10a2&u=
+=3Df8609630ae206654824f897b6&id=3D2786671c0f" style=3D"mso-line-height-rul=
+e: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color=
+: #1FADB6;text-decoration: underline;">View=C2=A0In=C2=A0Browser</a>
+            <!--
+ -->
+          </td>
+        </tr>
+      </table><img src=3D"https://b.bostonglobemedia.com/s/5cP.gif?contact=
+_status=3DNewsletter Only" height=3D"1" width=3D"1" alt=3D"5cP.gif?conta=
+ct_status=3DNewsletter Only" style=3D"border: 0;height: auto;outline: no=
+ne;text-decoration: none;-ms-interpolation-mode: bicubic;max-width: 550px;=
+">
+      <!-- // END MODULE: STANDARD FOOTER -->
+    </td>
+  </tr>
+  <!-- // END FOOTER -->
+</table>
+<!--[if gte mso 9]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!-- // END TEMPLATE -->
+</td>
+</tr>
+</table>
+</center>
+<img src=3D"https://statnews.us11.list-manage.com/track/open.php?u=3Df8609=
+630ae206654824f897b6&id=3D2786671c0f&e=3Dfecc3a10a2" height=3D"1" width=
+=3D"1"></body>
+</html>
+--_----------=_MCPart_705128904--
+

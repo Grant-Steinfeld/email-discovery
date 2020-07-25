@@ -1,0 +1,1215 @@
+From bounces+3354853-dc96-techinfo=agentidea.com@mail.products.systweak.com  Sun Oct 14 11:44:37 2018
+Return-Path: <bounces+3354853-dc96-techinfo=agentidea.com@mail.products.systweak.com>
+X-Original-To: techinfo@agentidea.com
+Delivered-To: techinfo@agentidea.com
+Received: from o12.mail.products.systweak.com (o12.mail.products.systweak.com [167.89.58.193])
+	by agentidea.com (Postfix) with ESMTP id 891E040D13
+	for <techinfo@agentidea.com>; Sun, 14 Oct 2018 11:44:37 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=products.systweak.com; 
+	h=content-type:from:mime-version:subject:to; s=s1; 
+	bh=X51Qxi1dAgbZlMpNnCk2Z8x6oFs=; b=gviGtrw7Jy9R8TRvAV/jwhLqwKPFq
+	INJktyJMf4TNwZBIknQCzr1Nq2RpGVYHuPpjOWE2e/dgYHjyD7y+oHiuQFcuvAtf
+	wgb3jzR38FomLu+IcTjK6eAVs32/YvGQ1uSnx+12jjV6lTOKPknN7+sYJvHizXGD
+	cerCfdDUfN+US4=
+Received: by filter0141p3las1.sendgrid.net with SMTP id filter0141p3las1-15922-5BC32C24-24
+        2018-10-14 11:44:36.907228264 +0000 UTC m=+732564.360869759
+Received: from MzM1NDg1Mw (f5.2f.36a9.ip4.static.sl-reverse.com [169.54.47.245])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with HTTP id mBig0hssRnyrAHLpVgUIZw
+	for <techinfo@agentidea.com>; Sun, 14 Oct 2018 11:44:36.780 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=016f785bfad7c44bdb295379f2a68b52f2eb488a543a454af6a01db611a8
+Date: Sun, 14 Oct 2018 11:44:37 +0000 (UTC)
+From: "Systweak Software" <blogs@systweak.com>
+Mime-Version: 1.0
+Subject: Systweak Blog: How to Transfer Playlists From Spotify to YouTube Music?
+To: techinfo@agentidea.com
+Message-ID: <mBig0hssRnyrAHLpVgUIZw@ismtpd0001p1iad1.sendgrid.net>
+X-SG-EID: ntMmuCAAKy1fhUgGh2dJddt/xrleiiK36Yq4Dd8FNZ/qhkTrAnJycgsq4B6uXDRFTkgDomi/OY9crP
+ 6n9sexXMYUcTLkhGtzH0rhJ2sJPs8DTQJqcD8tQ5hwcPd2/n+UzVvDYDSrDp40vpLZz4X7OSK9ikcd
+ CH1chsuHLpyMj9xh3Gsccm7DFuKlCLFneSBRRnPgDO3QHzl9F9bZGnM4PIKmQK4nGtHVKqtqs/U0oI
+ U=
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP2mGSjQQqII5EheTqd6Z70K1oLLrNNz65bUX1
+ 24mKfFB3KTvrtIJ4w5GC9+h3fhxzR6amFiUmQcf8voGOHxV67g
+
+--016f785bfad7c44bdb295379f2a68b52f2eb488a543a454af6a01db611a8
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+
+
+
+
+
+=09=09
+
+=09
+
+
+=09
+
+=09
+
+=09=09
+	How to Transfer Playlists From Spotify to YouTube Music?=09
+=09=09
+
+If you are switching from Spotify Music to YouTube Music but want your old =
+playlists to the new music streaming service, then you have come to a right=
+ place! There are services that could help you get the task done easily.
+
+With all the services, there are restrictions put in by Google to create p.=
+..=09
+=09=09
+
+Keep reading=09
+=09=09
+
+
+=09
+
+
+=09
+
+=09
+
+=09=09
+	Folder You Should Never Touch On A Mac=09
+=09=09
+
+MacOS is complicated and has a nested folder structure. When the applicatio=
+n is installed, you might come across various unfamiliar directories on you=
+r OS. Most of the users don=E2=80=99t bother touching these kinds of files.
+
+As there are not for regular users, Apple makes sure that those specific fo=
+ld...=09
+=09=09
+
+Keep reading=09
+=09=09
+
+
+=09
+
+
+=09
+
+=09
+
+=09=09
+	7 Hidden Android Pie Features You Probably Didn=E2=80=99t Know=09
+=09=09
+
+With every new version of Android, there comes a flurry of hidden features.=
+ Google usually hides those functionalities to prevent unneeded tinkering b=
+y users and leave them in a place to discover those secret Android features=
+ on their own.
+
+Like any other software update, the latest Android versio...=09
+=09=09
+
+Keep reading=09
+=09=09
+
+
+
+=09
+
+
+Recommended Products=09
+=09=09
+
+=09
+Duplicate Photos Fixer
+
+The easiest, quickest & safest way to get rid of duplicate photos!
+
+Download Now
+
+Windows 10/8.1/8/7/Vista/XP
+
+=09=09
+
+=09
+Advanced Driver Updater
+
+Update outdated drivers to the most recent ones
+
+Download Now
+
+Windows 10/8.1/8/7/Vista/XP
+
+=09=09
+
+
+=09
+
+You have received this message because you signed up for Systweak newslette=
+r. We care about your privacy and will only use your personal details in ac=
+cordance with our PRIVACY POLICY
+
+Update subscription preferences
+Don't wish to receive these messages? Click here to Unsubscribe | View in B=
+rowser
+
+This email was sent by:
+Systweak Software, E-73, Chitranjan Marg, C-Scheme, Jaipur, Rajasthan, India
+www.systweak.com | Contact Us
+
+=C2=A9 2018 Systweak Software, All rights reserved.=09
+
+
+--016f785bfad7c44bdb295379f2a68b52f2eb488a543a454af6a01db611a8
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head><meta charset=3D"utf-8" name=3D"viewport" content=3D"width=3Ddevice-w=
+idth, initial-scale=3D1"><!-- meta tag for windows phone --><meta http-equi=
+v=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+	<title>Systweak Blog</title>
+	<style type=3D"text/css">body {
+	padding: 0;
+	margin: 0;
+	font-family: "Segoe UI Symbol", "Segoe UI Semibold", "Open Sans", Helvetic=
+a, Arial;
+	width: 100% !important;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+}
+.ii a[href] {
+	color: #606060;
+}
+img, a img {
+ border:none!important outline: none;
+	text-decoration: none;
+	vertical-align: bottom !important;
+}
+a {
+	word-wrap: break-word;
+}
+img {
+	-ms-interpolation-mode: bicubic;
+	border: none;
+	outline: none;
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+a {
+	color: #606060;
+}
+a:hover {
+	color: #606060;
+}
+* {
+	padding: 0px;
+	margin: 0px;
+}
+table, tr, td {
+	/*border:none!important;*/
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+	cellpadding: 0px;
+	cellspacing: 0px;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480=
+px) and (-webkit-min-device-pixel-ratio: 2) {
+td.iphone-font-size {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568=
+px) and (-webkit-min-device-pixel-ratio: 2) {
+td.iphone-font-size {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}
+}
+
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 667=
+px) and (-webkit-min-device-pixel-ratio: 2) {
+td.iphone-font-size {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}
+}
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 414px) and (max-device-width: 736=
+px) and (-webkit-min-device-pixel-ratio: 3) {
+td.iphone-font-size {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}
+}
+ @media only screen and (min-device-width: 320px) and (max-device-width: 48=
+0px) {
+td.iphone-font-size {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}
+}
+/* ----------- yahoo app ----------- */
+@media only screen and (max-width: 480px) {
+td.iphone-font-size {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}
+}
+	</style>
+	<!--[if mso]>
+<style> body,table tr,table td,a, span,table.MsoNormalTable { font-family:'=
+Segoe UI Symbol', 'Segoe UI Semibold', 'Arial', 'Open Sans' !important;  }<=
+/style>
+<!--<![endif]-->
+</head>
+<body bgcolor=3D"#dfeaed" marginheight=3D"0" marginwidth=3D"0"><!-- Header =
+Section-->
+<table align=3D"center" bgcolor=3D"#dfeaed" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+	<tbody>
+		<tr>
+			<td align=3D"center" bgcolor=3D"#dfeaed" height=3D"30" valign=3D"top">&n=
+bsp;</td>
+		</tr>
+		<tr>
+			<td align=3D"center" bgcolor=3D"#dfeaed" valign=3D"top">
+			<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"600">
+				<tbody>
+					<tr>
+						<td align=3D"center" valign=3D"top" width=3D"25">&nbsp;</td>
+						<td align=3D"center" valign=3D"top" width=3D"550">
+						<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"550">
+							<tbody>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top" width=3D"5=
+50">
+									<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"550">
+										<tbody>
+											<tr>
+												<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top">
+												<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"border-bottom:#e1e1e1 solid 2px;" width=3D"550">
+													<tbody>
+														<tr>
+															<td align=3D"center" colspan=3D"4" height=3D"15" style=3D"fo=
+nt-size:1px; line-height:1px;" valign=3D"top"><img alt=3D"" src=3D"https://=
+d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+														</tr>
+														<tr>
+															<td align=3D"center" valign=3D"top" width=3D"20">&nbsp;</td>
+															<td align=3D"left" class=3D"iphone-font-size" style=3D"color=
+:#101010; font-size:15px; line-height:20px;" valign=3D"top" width=3D"255"><=
+img alt=3D"Systweak Software" src=3D"https://d29inximif998n.cloudfront.net/=
+newsletter/asp/april_2017/systweak_logo.png" /></td>
+															<td align=3D"right" valign=3D"top" width=3D"255"><img alt=3D=
+"18 Years of Excellence" src=3D"https://d29inximif998n.cloudfront.net/newsl=
+etter/asp/april_2017/excellence_icon.png" /></td>
+															<td align=3D"center" valign=3D"top" width=3D"20">&nbsp;</td>
+														</tr>
+														<tr>
+															<td align=3D"center" colspan=3D"4" height=3D"10" style=3D"fo=
+nt-size:1px; line-height:1px;" valign=3D"top"><img alt=3D"" src=3D"https://=
+d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- //.Header Section--></td>
+								</tr>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top" width=3D"5=
+50"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://=
+www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title></title>
+	<style type=3D"text/css">body {
+        font-family: "Segoe UI Symbol", "Segoe UI Semibold", "Open Sans";
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+}
+	</style>
+</head>
+<body>
+<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"550">
+	<tbody>
+		<tr>
+			<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top">
+			<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">
+				<tbody>
+					<tr>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30"><img a=
+lt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/asp/april_2=
+017/space_img_30.png" /></td>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490">&nbsp=
+;</td>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30"><img a=
+lt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/asp/april_2=
+017/space_img_30.png" /></td>
+					</tr>
+					<tr>
+						<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+						<td align=3D"center" valign=3D"top" width=3D"490">
+						<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"border-bottom:#e1e1e1 solid 1px; border-top:#e1e1e1 solid 1px;=
+" width=3D"490">
+							<tbody>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#e1e1e1" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" width=3D"1"><img alt=3D"" src=3D"https://d2=
+9inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+									<td align=3D"center" bgcolor=3D"#f4f4f4" valign=3D"top">
+									<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"488">
+										<tbody>
+											<tr>
+												<td align=3D"center" colspan=3D"3" height=3D"25" valign=3D"top"=
+><img alt=3D"How to Transfer Playlists From Spotify to YouTube Music?" src=
+=3D"https://systweak1.vo.llnwd.net/content/wp/systweakblogsnew/uploads/2018=
+/10/How-To-Transfer-Spotify-Playlist-To-YouTube-1200x379.jpg" style=3D"max-=
+width:100%;" width=3D"488" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+												<td align=3D"center" valign=3D"top" width=3D"432">&nbsp;</td>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+												<td align=3D"left" style=3D"color:#0b171f; font-size:20px; line=
+-height:26px; font-weight:bold;">How to Transfer Playlists From Spotify to =
+YouTube Music?</td>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+												<td align=3D"left" class=3D"iphone-font-size" style=3D"color:#1=
+01010; font-size:15px; line-height:26px;" valign=3D"top" width=3D"432">If y=
+ou are switching from Spotify Music to YouTube Music but want your old play=
+lists to the new music streaming service, then you have come to a right pla=
+ce! There are services that could help you get the task done easily.
+
+With all the services, there are restrictions put in by Google to create p.=
+..</td>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+												<td align=3D"left" class=3D"iphone-font-size" style=3D"color:#1=
+01010; font-size:15px; line-height:26px;" valign=3D"top" width=3D"432"><a h=
+ref=3D"http://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3m=
+kM-2BLlpbgyqwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQsZgFIbKepQG=
+WY3tC8ypV3VI4ZVfyZV-2F5T6aqbXpr4B1xEBp5o2idbzDmodK25SRJYiMNgjNnLk4OBcxdG-2B=
+WsYlVs81Ar9E-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ul=
+huxP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYC7iaEv6VdDGxA7=
+7xCDm97S4l1LETIFQ-2Ben02itEn5MKDId1DCJIKxvbnIKVERe07LINzm2Op7ii9ej21tSvyvcC=
+-2Fjx0VJNbaTX29JKrQXozbrWdoG3-2BsYVay-2FPtewpSia7Yp7RQhjyG4VUTxIV8HXXHawqb4=
+J3qp4xU7vLT9JVQN3kyU-2BZDt-2F0mTlHDtNlpkL7bUCuGTIfsIKmU2nFP6D20xKGwdEcFx75o=
+S3xPrUWCQ-3D-3D" style=3D"color:#4a90e2; text-decoration:none;">Keep readin=
+g</a></td>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<td align=3D"center" bgcolor=3D"#e1e1e1" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" width=3D"1"><img alt=3D"" src=3D"https://d2=
+9inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title></title>
+	<style type=3D"text/css">body {
+        font-family: "Segoe UI Symbol", "Segoe UI Semibold", "Open Sans";
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+}
+	</style>
+</head>
+<body>
+<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"550">
+	<tbody>
+		<tr>
+			<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top">
+			<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">
+				<tbody>
+					<tr>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30"><img a=
+lt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/asp/april_2=
+017/space_img_30.png" /></td>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490">&nbsp=
+;</td>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30"><img a=
+lt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/asp/april_2=
+017/space_img_30.png" /></td>
+					</tr>
+					<tr>
+						<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+						<td align=3D"center" valign=3D"top" width=3D"490">
+						<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"border-bottom:#e1e1e1 solid 1px; border-top:#e1e1e1 solid 1px;=
+" width=3D"490">
+							<tbody>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#e1e1e1" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" width=3D"1"><img alt=3D"" src=3D"https://d2=
+9inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+									<td align=3D"center" bgcolor=3D"#f4f4f4" valign=3D"top">
+									<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"488">
+										<tbody>
+											<tr>
+												<td align=3D"center" colspan=3D"3" height=3D"25" valign=3D"top"=
+><img alt=3D"Folder You Should Never Touch On A Mac" src=3D"https://systwea=
+k1.vo.llnwd.net/content/wp/systweakblogsnew/uploads/2018/10/2545X803-Folder=
+-You-Should-Never-Touch-On-Mac-1200x379.jpg" style=3D"max-width:100%;" widt=
+h=3D"488" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+												<td align=3D"center" valign=3D"top" width=3D"432">&nbsp;</td>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+												<td align=3D"left" style=3D"color:#0b171f; font-size:20px; line=
+-height:26px; font-weight:bold;">Folder You Should Never Touch On A Mac</td>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+												<td align=3D"left" class=3D"iphone-font-size" style=3D"color:#1=
+01010; font-size:15px; line-height:26px;" valign=3D"top" width=3D"432">MacO=
+S is complicated and has a nested folder structure. When the application is=
+ installed, you might come across various unfamiliar directories on your OS=
+. Most of the users don=E2=80=99t bother touching these kinds of files.
+
+As there are not for regular users, Apple makes sure that those specific fo=
+ld...</td>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+												<td align=3D"left" class=3D"iphone-font-size" style=3D"color:#1=
+01010; font-size:15px; line-height:26px;" valign=3D"top" width=3D"432"><a h=
+ref=3D"http://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3m=
+kM-2BLlpbgyqwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQsZgFIbKejsH=
+xhAf81A-2BA6M-2FKQ1bbgU8NiliMIKVTVnbnFpJRyEM067R3R83cmXbnOhuETkzd1rSnUadlT2=
+kraSCml82wK0-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ul=
+huxP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYC7iaEv6VdDGxA7=
+7xCDm97S4l1LETIFQ-2Ben02itEn5MKA95-2FXxWklc5nqGEtMSlVHiiGNJi7vx6jqg8h9WHayk=
+bgt11sCaUNtFv99ncdAKHCQp82WmcL7sfaB0dfa2Hp7AdVAsjaj0GceNLPiGaJjlZF9Qi1E2jJ-=
+2BFzG-2FvR4IaF-2BQXSuYf13zrZ6ygd-2BsBPkq-2FP8ZvIAG4CNnZqswXiUVZDMRVS3wyKXMU=
+Lxjw-2BTgACVw-3D-3D" style=3D"color:#4a90e2; text-decoration:none;">Keep re=
+ading</a></td>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<td align=3D"center" bgcolor=3D"#e1e1e1" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" width=3D"1"><img alt=3D"" src=3D"https://d2=
+9inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title></title>
+	<style type=3D"text/css">body {
+        font-family: "Segoe UI Symbol", "Segoe UI Semibold", "Open Sans";
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+}
+	</style>
+</head>
+<body>
+<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"550">
+	<tbody>
+		<tr>
+			<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top">
+			<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">
+				<tbody>
+					<tr>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30"><img a=
+lt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/asp/april_2=
+017/space_img_30.png" /></td>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490">&nbsp=
+;</td>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30"><img a=
+lt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/asp/april_2=
+017/space_img_30.png" /></td>
+					</tr>
+					<tr>
+						<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+						<td align=3D"center" valign=3D"top" width=3D"490">
+						<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"border-bottom:#e1e1e1 solid 1px; border-top:#e1e1e1 solid 1px;=
+" width=3D"490">
+							<tbody>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#e1e1e1" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" width=3D"1"><img alt=3D"" src=3D"https://d2=
+9inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+									<td align=3D"center" bgcolor=3D"#f4f4f4" valign=3D"top">
+									<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"488">
+										<tbody>
+											<tr>
+												<td align=3D"center" colspan=3D"3" height=3D"25" valign=3D"top"=
+><img alt=3D"7 Hidden Android Pie Features You Probably Didn=E2=80=99t Know=
+" src=3D"https://systweak1.vo.llnwd.net/content/wp/systweakblogsnew/uploads=
+/2018/10/7-Hidden-Android-Pie-Features-You-Probably-Didn=E2=80=99t-Know-120=
+0x378.gif" style=3D"max-width:100%;" width=3D"488" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+												<td align=3D"center" valign=3D"top" width=3D"432">&nbsp;</td>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+												<td align=3D"left" style=3D"color:#0b171f; font-size:20px; line=
+-height:26px; font-weight:bold;">7 Hidden Android Pie Features You Probably=
+ Didn=E2=80=99t Know</td>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+												<td align=3D"left" class=3D"iphone-font-size" style=3D"color:#1=
+01010; font-size:15px; line-height:26px;" valign=3D"top" width=3D"432">With=
+ every new version of Android, there comes a flurry of hidden features. Goo=
+gle usually hides those functionalities to prevent unneeded tinkering by us=
+ers and leave them in a place to discover those secret Android features on =
+their own.
+
+Like any other software update, the latest Android versio...</td>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+												<td align=3D"left" class=3D"iphone-font-size" style=3D"color:#1=
+01010; font-size:15px; line-height:26px;" valign=3D"top" width=3D"432"><a h=
+ref=3D"http://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3m=
+kM-2BLlpbgyqwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQsZgFIbKekOl=
+cso2DZRqtBPTGtfhLOWECYeX9lRoPLY9bsjuXcjc9wnk4LiZkGaIiNIsHnnDEgARUeQ2ppqNMqI=
+0B-2FCh9UA-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhu=
+xP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYC7iaEv6VdDGxA77x=
+CDm97S4l1LETIFQ-2Ben02itEn5MKC44KvJzvE-2B-2FOQI3vzFPZgy9wpN7WVzHcv-2FlKmbhG=
+NsBN46uc6FzZMQEiKWb65XhRTFWK8YWm2WjSZ-2F11-2B4I14N0hS2zDKplUA1v7gr4FXOjaO5B=
+QYLUMRhF6quvIsutl9vbXP1MaM-2BhVO629v9sw7JWteB7vINpPMXTOA5Pj6VBSsGZdP6dIKnEE=
+n2DyFiQtQ-3D-3D" style=3D"color:#4a90e2; text-decoration:none;">Keep readin=
+g</a></td>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<td align=3D"center" bgcolor=3D"#e1e1e1" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" width=3D"1"><img alt=3D"" src=3D"https://d2=
+9inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+</td>
+								</tr>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top">
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"5=
+50">
+										<tbody>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490"=
+>&nbsp;</td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+												<td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"color:#333333; =
+font-size:22px; line-height:22px;" valign=3D"top" width=3D"490">Recommended=
+ Products</td>
+												<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+												<td align=3D"left" bgcolor=3D"#FFFFFF" valign=3D"top" width=3D"=
+490">
+												<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"490">
+													<tbody>
+														<tr>
+															<td align=3D"left" valign=3D"top" width=3D"50"><img alt=3D""=
+ src=3D"https://d29inximif998n.cloudfront.net/newsletter/systweak/blogs/log=
+o_dpf.png" /></td>
+															<td align=3D"left" valign=3D"top" width=3D"30">&nbsp;</td>
+															<td align=3D"left" valign=3D"top" width=3D"410">
+															<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">
+																<tbody>
+																	<tr>
+																		<td align=3D"left" style=3D"color:#1cabe5; font-size:18px=
+; line-height:24px; font-weight:bold;" valign=3D"top" width=3D"346">Duplica=
+te Photos Fixer</td>
+																	</tr>
+																	<tr>
+																		<td align=3D"left" height=3D"2" style=3D"font-size:1px; l=
+ine-height:2px;" valign=3D"top" width=3D"346"><img alt=3D"" src=3D"https://=
+d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+																	</tr>
+																	<tr>
+																		<td align=3D"left" bgcolor=3D"#FFFFFF" class=3D"iphone-fo=
+nt-size" style=3D"color:#5a5a5a; font-size:13px; line-height:18px;" valign=
+=3D"top" width=3D"346">The easiest, quickest &amp; safest way to get rid of=
+ duplicate photos!</td>
+																	</tr>
+																	<tr>
+																		<td align=3D"left" bgcolor=3D"#FFFFFF" valign=3D"top" wid=
+th=3D"346">
+																		<table align=3D"left" bgcolor=3D"#FFFFFF" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+																			<tbody>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" height=3D"10" s=
+tyle=3D"font-size:1px; line-height:2px;" valign=3D"top"><img alt=3D"" src=
+=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /=
+></td>
+																				</tr>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"font-f=
+amily:Helvetica,Arial,sans-serif;line-height:1.7em;font-size:14px;margin-bo=
+ttom:10px; color:#4a90e2; font-weight:bold;" valign=3D"top"><a href=3D"http=
+://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3mkM-2BLlpbgy=
+qwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQsZgFIbKeqMILM63TG9VwOS=
+8-2FAlNah2pXMZAiKX60pP2chqaVolHASkYlo-2F9enIAwRobhgvVtdsQ2-2BPvu-2BpFGsroqy=
+OKjRg-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ib=
+osEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYC7iaEv6VdDGxA77xCDm97=
+S4l1LETIFQ-2Ben02itEn5MKJ4nlq9zGlJDQBUxF4u87uks2bVaDGnodoMNsxZ7P54kOYf7qMCD=
+I2i-2BmyygzOlSsq4Qp6vlqu8zj2p69GyiQkhH80ui-2BWHDDqPBRwGq1vM-2FqNNEs9V74WbqJ=
+Q6HytBIi36JqsmxdKJPoPBoZ6lOKvyK0BwYveDofK-2FDBCTW6ynm2CbLXCHoABdes-2B-2B6Pt=
+0wtg-3D-3D" style=3D"cursor:pointer; border:none; outline:none; text-decora=
+tion:none;  font-family:Helvetica,Arial,sans-serif;line-height:1.7em;font-s=
+ize:14px;margin-bottom:10px; color:#4a90e2; font-weight:bold;">Download Now=
+</a></td>
+																				</tr>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" height=3D"1" st=
+yle=3D"font-size:1px; line-height:1px;" valign=3D"top"><img alt=3D"" src=3D=
+"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /></=
+td>
+																				</tr>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"color:=
+#8c8c8c; font-size:11px; line-height:14px; text-align:left;" valign=3D"top"=
+>Windows 10/8.1/8/7/Vista/XP</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+												<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+												<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top" width=
+=3D"490">
+												<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"490">
+													<tbody>
+														<tr>
+															<td align=3D"left" valign=3D"top" width=3D"50"><img alt=3D""=
+ src=3D"https://d29inximif998n.cloudfront.net/newsletter/systweak/blogs/log=
+o_adu.png" /></td>
+															<td align=3D"left" valign=3D"top" width=3D"30">&nbsp;</td>
+															<td align=3D"left" valign=3D"top" width=3D"410">
+															<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">
+																<tbody>
+																	<tr>
+																		<td align=3D"left" style=3D"color:#ff5a00; font-size:18px=
+; line-height:24px; font-weight:bold;" valign=3D"top" width=3D"346">Advance=
+d Driver Updater</td>
+																	</tr>
+																	<tr>
+																		<td align=3D"left" height=3D"2" style=3D"font-size:1px; l=
+ine-height:2px;" valign=3D"top" width=3D"346"><img alt=3D"" src=3D"https://=
+d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+																	</tr>
+																	<tr>
+																		<td align=3D"left" bgcolor=3D"#FFFFFF" class=3D"iphone-fo=
+nt-size" style=3D"color:#5a5a5a; font-size:13px; line-height:18px;" valign=
+=3D"top" width=3D"346">Update outdated drivers to the most recent ones</td>
+																	</tr>
+																	<tr>
+																		<td align=3D"left" bgcolor=3D"#FFFFFF" valign=3D"top" wid=
+th=3D"346">
+																		<table align=3D"left" bgcolor=3D"#FFFFFF" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+																			<tbody>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" height=3D"10" s=
+tyle=3D"font-size:1px; line-height:2px;" valign=3D"top"><img alt=3D"" src=
+=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /=
+></td>
+																				</tr>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"font-f=
+amily:Helvetica,Arial,sans-serif;line-height:1.7em;font-size:14px;margin-bo=
+ttom:10px; color:#4a90e2; font-weight:bold;" valign=3D"top"><a href=3D"http=
+://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3mkM-2BLlpbgy=
+qwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQsZgFIbKenUuf3MA7WcsM2C=
+ut-2FtvxMYUSh55djTKRAJO3-2BKiCc3l-2B3P2aqcyOoRjSuhEdS2jN0qu5mmxME-2FY-2FBJx=
+urp-2Ff-2BE-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulh=
+uxP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYC7iaEv6VdDGxA77=
+xCDm97S4l1LETIFQ-2Ben02itEn5MKH3D-2FPws8kpOoTVMFgsFpBUpcB7-2FCBf64XI3xj1VZb=
+VDM-2F7Mvna9eVkZ6naSlpYYGKCt1fRVmLcI-2BMJtAAO3fp1lDx-2Fm3vEwVgBnP3uaOYe5PuG=
+PztCfSFF8WosiHSRb-2FtNhlUd800nWY1YQ174QohPoR4CnJQrvdVpKW9sNC3w1asZRnL8fu1Lf=
+xb1cj4m2Yg-3D-3D" style=3D"cursor:pointer; border:none; outline:none; text-=
+decoration: none; font-family:Helvetica,Arial,sans-serif;line-height:1.7em;=
+font-size:14px;margin-bottom:10px; color:#4a90e2; font-weight:bold;">Downlo=
+ad Now</a></td>
+																				</tr>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" height=3D"1" st=
+yle=3D"font-size:1px; line-height:1px;" valign=3D"top"><img alt=3D"" src=3D=
+"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /></=
+td>
+																				</tr>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"color:=
+#8c8c8c; font-size:11px; line-height:14px; text-align:left;" valign=3D"top"=
+>Windows 10/8.1/8/7/Vista/XP</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+												<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td align=3D"center" valign=3D"top" width=3D"25">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<!-- FOOTER SECTION-->
+		<tr>
+			<td align=3D"center" bgcolor=3D"#dfeaed" valign=3D"top">
+			<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"MsoNormalTable" width=3D"550">
+				<tbody>
+					<tr>
+						<td align=3D"center" class=3D"iphone-footer" style=3D"font-size:2px; =
+line-height:2px;" valign=3D"top" width=3D"30">&nbsp;</td>
+						<td align=3D"center" class=3D"iphone-footer" height=3D"15" style=3D"f=
+ont-size:2px; line-height:2px;" valign=3D"top" width=3D"540"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+						<td align=3D"center" class=3D"iphone-footer" style=3D"font-size:2px; =
+line-height:2px;" valign=3D"top" width=3D"30">&nbsp;</td>
+					</tr>
+					<tr>
+						<td align=3D"center" class=3D"iphone-footer" style=3D"font-family:Ari=
+al, Helvetica, sans-serif; font-size:11px; line-height:16px; color:#606060;=
+" valign=3D"top" width=3D"30">&nbsp;</td>
+						<td align=3D"center" class=3D"iphone-footer" style=3D"font-family:Ari=
+al, Helvetica, sans-serif; font-size:11px; line-height:16px; color:#606060;=
+" valign=3D"top" width=3D"540">You have received this message because you s=
+igned up for Systweak newsletter. We care about your privacy and will only =
+use your personal details in accordance with our <a href=3D"http://u1.produ=
+cts.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3mkM-2BLlpbgyqwzu-2BmlnG=
+80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQsZgFIbKekiTj73b4Le5x7SPN0k-2BX1UF=
+dcYuHk9cbH39-2BzSkPMvHw2DFl4dkqoftkiVGOmyeHJPyCrJVSGb60roQXa3QkDU-3D_vmTo0J=
+uUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ibosEYWoAn3upQq2B=
+NBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYC7iaEv6VdDGxA77xCDm97S4l1LETIFQ-2Ben=
+02itEn5MKH3vWUHu9mjXYFynA7G802LUtVu-2Bq8-2F-2BHu0b-2Bm84vcq9eqMBgEdK5RZXeA2=
+KkAbwRCktHbMegKl7LBEtyOFj-2F-2FNuptMa-2BstDn-2FX0NeG999pKzYj-2FOTs-2Fo74Vf7=
+vq56Yo3hDymanCw4S3KT6uOiHZ4mAiMa6LQU5A6HS03R-2BeU1cFlUi7dKzWdAiSRylXCt3JWg-=
+3D-3D" style=3D"color:#606060; text-decoration:underline;" target=3D"_blank=
+">PRIVACY POLICY</a><br />
+						<br />
+						<a href=3D"http://u1.products.systweak.com/wf/click?upn=3DcyTEjz0z9Js=
+8JeseFUGOSZGBh7fI2gzOeZ0Zt2VJ-2FIq5lvdpNrwNSUas3LRveMc11DYIxndmlyim-2Fcw6T2=
+-2BDQzhTmY9lDW2NQKc3IAP1OzA-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2=
+FJBTCR-2BVgK2ulhuxP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2E=
+YC7iaEv6VdDGxA77xCDm97S4l1LETIFQ-2Ben02itEn5MKP-2BiWRbC1M6KVVeqEGprPE7M1Ald=
+oi42rNVrYhfeSEYTKUSCaKVkEuFfYZwEfJCnW8VKsYtJ-2BGBGD0-2FJBM-2BavKRIe4T-2FVvY=
+fvQO9tW1PyYCpZx3706C0wFxBZJ9ApaKW-2BWWyVvFXZ4SdP6eKuwDlTlX6U77Z30uhR-2F2dQM=
+PLpI7ZoWCoblun8MLnVJv4xESFBg-3D-3D" style=3D"color:#606060;" target=3D"_bla=
+nk;">Update subscription preferences</a><br />
+						Don&#39;t wish to receive these messages? <a style=3D"color:#606060" =
+href=3D"http://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3=
+mkM-2BLlpbgyqwzu-2BmlnG80s-2FX7CnOBurucV-2FJ2-2FsGJnAIxSY43JlyPgvsg70hN3uMV=
+pHaCYmj32s-2FxOUxnjeLsWIhxFJy-2BoZy4IIrvJdNcIydjAt4W32d8v3RojlJ0RHc2XEIpcM6=
+mnOT4QPkaIVRUQHi0e1Web5xnEGNX4DzDMM1znPM4pIdoPnnh6hKKn9nOQ-3D-3D_vmTo0JuUW5=
+6-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ibosEYWoAn3upQq2BNBfk=
+8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYC7iaEv6VdDGxA77xCDm97S4l1LETIFQ-2Ben02it=
+En5MKDt7JtGEwt3cH9eu4F1mqb97-2FfqqdOpl7s8LrfDmOpP68GB-2FVnbTpyv982OdvSSUZwQ=
+5KZF1t4hnOefRNTO7SREpYcA1IZr32PgaSf1bFROVLw6uhE9PhhyskfEWkQAzsx-2FAN3Yx2PiY=
+6EGiQwsrHCO38yJTQ5xSEprJuceDSE9b5QYDqG3vIXxMUV8BSG3iRw-3D-3D" >Click here t=
+o Unsubscribe</a> | <a style=3D"color:#606060" href=3D"http://u1.products.s=
+ystweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3mkM-2BLlpbgyqwzu-2BmlnG80s-2=
+BgrtnmxS15SkywsnGwDA002RjCbTJAZpc0NGuco4AEEOghrDLybnul71vTEax345YGI7Gj9nkR4=
+JR5l-2BgDBQ6j-2BSLu61JNxdN7Ke9Q-2Bc7E-2BwGmnNo8H4e9kT6TbeZnm3E-3D_vmTo0JuUW=
+56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ibosEYWoAn3upQq2BNBf=
+k8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYC7iaEv6VdDGxA77xCDm97S4l1LETIFQ-2Ben02i=
+tEn5MKO91aEJD4cWJ6z7hFwHWvEE5BZhVB2dhH7hG3ylQea7O6QjWsiFN9lN9ys3Wl8EXhmsva7=
+GlFCq8h3zNWDN6IjTKrqZScokSPsXeBb1SPlW-2BmzEtY8KsTGutR2Vu2-2Fk67lXtUpf4dIZYZ=
+KeoXUiXoVi1BXOi1CWdqJL6cBPygiMBgDe0XiIuDn4woMPWMvkQ4w-3D-3D" >View in Brows=
+er</a><br />
+						<br />
+						This email was sent by:<br />
+						Systweak Software, E-73, Chitranjan Marg, C-Scheme, Jaipur, Rajasthan=
+, India<br />
+						<a href=3D"http://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWk=
+rS6QgWtj3mkM-2BLlpbgyqwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQs=
+ZgFIbKemSk3Gqc-2FgiyLV684uBTCpHEMRm2VH9ORx4My2gSKENp8eMzyJNeviPoKLrDE5XdYy7=
+Fd9eIj91BAuc-2B2CHO3CQ-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTC=
+R-2BVgK2ulhuxP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYC7ia=
+Ev6VdDGxA77xCDm97S4l1LETIFQ-2Ben02itEn5MKCgWakOt-2Bu2t48cSIl3XRCYNAKFIUbPkF=
+-2BSK-2FVZoeLyaFTI-2BP8LvsbWRR0S4NwAm2bk4Oi-2BKat9S-2FwI0MVl8ULp3SbKuB-2FeZ=
+IojfukCGJ8E-2B2M3HpNkwPHSd9G6tMadCOtHpur-2BHBU-2BYLsWFUhx9f1NzhCEKod3Qzudc8=
+KgrAiKPGleeDUiqgRscZMiBPyMryg-3D-3D" style=3D"color:#606060;" target=3D"_bl=
+ank">www.systweak.com</a> | <a href=3D"http://u1.products.systweak.com/wf/c=
+lick?upn=3DgWubcFWhiWkrS6QgWtj3mkM-2BLlpbgyqwzu-2BmlnG80s9sGgvAJDkLki6fFWSx=
+0C-2BHZb3qVW-2F93PzyQsZgFIbKeuRU0V9CZWia5y17Rih7p3TBPyWcbiG9SOGMQ83o4ErABXE=
+AROLzoBAKgzqhnDC3gopieiq6x39Ewiugr6TIcis-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlG=
+BeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-=
+2FN-2B-2BFq2EYC7iaEv6VdDGxA77xCDm97S4l1LETIFQ-2Ben02itEn5MKK2DkEjQqLbe5mlGV=
+k4Fl-2Bgr8Li8NdqTc6-2BecAzc0HesLE2EFTrrZmv2bE0N-2FgviUhNOlE3LUCOvP5Uk8sUXBj=
+xye9Gqw0kYjAYV5BbuUKeoeptUfrnAat1nfq3lkrrS9I57CLXJ-2B7hSYyzi5U2k2VKfo3RGwDA=
+GtCSu5vHYZ-2Fl4VHGMYptQx9XlOAtl6ROJ1A-3D-3D" style=3D"color:#606060;" targe=
+t=3D"_blank">Contact Us</a><br />
+						<br />
+						&copy; 2018 Systweak Software, All rights reserved.</td>
+						<td align=3D"center" class=3D"iphone-footer" style=3D"font-family:Ari=
+al, Helvetica, sans-serif; font-size:11px; line-height:16px; color:#606060;=
+" valign=3D"top" width=3D"30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td align=3D"center" bgcolor=3D"#dfeaed" valign=3D"top">
+			<table align=3D"center" bgcolor=3D"#dfeaed" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"640">
+				<tbody>
+					<tr>
+						<td align=3D"center" bgcolor=3D"#dfeaed" height=3D"30" valign=3D"top"=
+ width=3D"640">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<!-- //.FOOTER SECTION-->
+	</tbody>
+</table>
+
+<img src=3D"http://u1.products.systweak.com/wf/open?upn=3DvmTo0JuUW56-2FjNb=
+lluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ibosEYWoAn3upQq2BNBfk8H1Y0kv=
+X7SqHh3lFy6sC-2FN-2B-2BFq2EYC7iaEv6VdDGxA77xCDm97S4l1LETIFQ-2Ben02itEn5MKK3=
+RGcX8NtksM1HTyZvpBP2yQQQmAbmS88GfWOZj-2FOdltT-2F9LsrzfJUErDF1Db3DchNxggkQD6=
+jd66bUZ0oCdNcTRWRzl1EANA8dmuZYh5AawsqlRTCLbFY64ZWk7xoPWMMc8EgJ2kI8cFFBJqbnS=
+T7DkeWGY8j3KtowbgrbXpcFqi9Q10kp1S24jW9fixkKQA-3D-3D" alt=3D"" width=3D"1" h=
+eight=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !importan=
+t;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !import=
+ant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !impor=
+tant;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 =
+!important;"/>
+</body>
+</html>
+<img src=3D"http://nl.systweak.com/systweakblog/t/HafneCdt0zuKBr948rQckw/BB=
+S3e4iinvyX2bz0lSdn3g" alt=3D""/>
+
+--016f785bfad7c44bdb295379f2a68b52f2eb488a543a454af6a01db611a8--
+

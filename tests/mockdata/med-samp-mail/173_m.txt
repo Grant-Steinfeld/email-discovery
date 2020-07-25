@@ -1,0 +1,282 @@
+From nls-612644-2680-edpick_alert-80cec96590d0@maillist.ectnews.com  Mon Oct  8 19:19:46 2018
+Return-Path: <nls-612644-2680-edpick_alert-80cec96590d0@maillist.ectnews.com>
+X-Original-To: techinfo@agentidea.com
+Delivered-To: techinfo@agentidea.com
+Received: from maillist.ectnews.com (maillist.ectnews.com [50.18.206.155])
+	by agentidea.com (Postfix) with SMTP id C4FFE40D13
+	for <techinfo@agentidea.com>; Mon,  8 Oct 2018 19:19:45 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=ectnews.com; h=to:from:date:message-id:subject:mime-version:content-type; s=default; bh=k2bRVL7HWCf4h+wxhRiOUvQClOs=; b=UkTb3ZILov6p5MwB4lhGIwIYK9BOu19t6oelYqu47PaYlFWP+0RO/NjzrHwjqL8Q7ls3MtHtW9WRo7sr+e4ebVkXuviEUy1uf6bF8DnGs0K4mcVlQ8n4LFL4HGaKftD+xa4DXSIlQvJx2WHqrFo9iwWERMyfcECvIsZPx5GREDg=
+To: techinfo@agentidea.com
+From: "ECT News Network" <newsdesk@ectnews.com>
+Date: Mon, 08 Oct 2018 12:17:23 -0700
+Message-ID: <ENN_612644_ed-2680_nl-edpick_alert_sct-ENNSS_80cec96590d0613eb1598fb5851c129c_1539039520@maillist.ectnews.com>
+Subject: Editor's Pick: How to Position Your Brand for Holiday Success on Amazon
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_ENN_1539039520"
+
+This is a multi-part message in MIME format.
+
+--_ENN_1539039520
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+  How to Position Your Brand for Holiday Success on Amazon
+  Josh Neblett
+  Oct 8, 2018 9:40 AM PT
+  
+  The holiday season presents a significant opportunity for sellers to
+  capture unprecedented sales on Amazon. Cyber Week alone, the seven-day
+  period beginning the Tuesday prior to Thanksgiving and running through
+  Cyber Monday, is expected to account for 40 percent of all e-commerce
+  sales during the holidays. The bulk of those holiday sales are likely to
+  occur in one place: Amazon.com.
+  
+  See Full Story: http://www.ecommercetimes.com/edpick/85608.html
+  
+  More Picks:
+  
+  PC Innovation Is Back
+  http://www.technewsworld.com/edpick/85605.html
+  
+  The CRM Oligopoly
+  http://www.crmbuyer.com/edpick/85604.html
+  
+  5 Strategies for Collecting, Creating and 
+  Circulating Customer Testimonials
+  http://www.crmbuyer.com/edpick/85507.html
+  
+  6 Surefire Ways Etailers Can Boost Customer Loyalty
+  http://www.ecommercetimes.com/edpick/85602.html
+  
+  Connect with ECT News Network on Social Media
+  
+  Twitter: http://www.twitter.com/technewsworld
+  
+  Facebook: http://www.facebook.com/ectnews
+  
+  Google+: http://plus.google.com/+ectnews
+  
+  LinkedIn: http://www.linkedin.com/company/ect-news-network
+  
+  
+  This Editor's Pick alert is a premium service provided to ECT News 
+  Network newsletter subscribers. If you wish to make changes to your
+  subscription settings, please click to:
+  http://www.ectnews.com/perl/User.pl?action=newsletter_settings_html&username=GrantSteinfeld&auth_code=RIALcq1ciq
+  
+  And, if prompted, enter the following:
+  Username: GrantSteinfeld
+  Authorization Code: RIALcq1ciq
+  
+  
+  Copyright 2018 ECT News Network, Inc. 
+  16133 Ventura Blvd., Suite 700, Encino, CA 91436
+  All Rights Reserved.
+  
+
+--_ENN_1539039520
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 
+Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-
+transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="content-type" 
+content="text/html;charset=iso-8859-1" />
+	<title>Editor's Pick: How to Position Your Brand for Holiday Success on Amazon</title>
+	<style type="text/css" media="screen">
+
+	a, a:visited {
+		color: blue;
+		text-decoration: none;
+	}
+	a:hover {
+		color: red;
+		text-decoration: underline;
+	}
+
+	h1 a, h1 a:visited {
+		color: black;
+		text-decoration: none;
+	}
+	h1 a:hover {
+		color: red;
+		text-decoration: underline;
+	}
+	p  {
+		font-size: 12px;
+		font-family: verdana;
+		margin: 10px;
+	}
+	td  {
+		font-size: 12px;
+		font-family: verdana;
+	}
+	
+	.innerbox{
+		/* IE5 hack */
+		\margin: 0px 0px -3px 0px;
+		ma\rgin:  0px 0px 0px 0px;
+	}
+	</style>
+</head>
+
+<body>
+<span style="font-family:verdana">
+<div style="float:left;clear:left;
+box-shadow: 4px 4px 8px #cbcbcb;
+margin: 10px 0 10px 10px !important;padding:0px;">
+<div class="innerbox">
+<div style="width: 600px;padding: 0px;margin: 0px;">
+<div style="margin:0px;padding:0px;"><img 
+src="http://www.ectnews.com/images/2015/editors_pick_header_600x
+90.png" 
+alt="" style="display:block"
+height="90" width="600" border="0" /></div>
+<div style="background-color: #ffffff;
+padding: 0px;
+margin: 0px;
+width: 598px;
+border-right: solid 1px #cbcbcb;
+border-bottom: solid 1px #cbcbcb;
+border-left: solid 1px #cbcbcb;
+">
+<br />
+<div style="font-family: sans-serif;
+font-size: 24px; font-weight:bold;
+padding: 0px 10px 0px 10px;"><a href="http://www.ecommercetimes.com/edpick/85608.html" style="color:black;text-decoration:none">How to Position Your Brand for Holiday Success on Amazon</a></div>
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top" colspan="2" style="padding: 0px 0px 5px 10px">
+Josh Neblett<br />
+Oct 8, 2018 9:40 AM PT</td></tr>
+<tr><td valign="top" style="padding-left: 10px">
+<a href="http://www.ecommercetimes.com/edpick/85608.html"><img src="http://www.ecommercetimes.com/images/rw249482/holiday-shopping.jpg"  border="0" /></a></td>
+<td valign="top" style="padding:0px 10px;font-size:15px">
+The holiday season presents a significant opportunity for sellers to
+capture unprecedented sales on Amazon. Cyber Week alone, the seven-day
+period beginning the Tuesday prior to Thanksgiving and running through
+Cyber Monday, is expected to account for 40 percent of all e-commerce
+sales during the holidays. The bulk of those holiday sales are likely to
+occur in one place: Amazon.com.
+<a href="http://www.ecommercetimes.com/edpick/85608.html" style="text-decoration:none">[More...]</a></td></tr></table>
+<br />
+
+
+
+	<table width="100%" border="0" cellpading="0" cellspacing="0">
+	<tr><td style="padding:5px;">
+	<div style="clear:both;background-color:#cbcbcb;height:1px;" /></div>
+	</td></tr>
+	</table>
+	<div style="font-size:16px;font-family:sans-serif;font-weight:bold;padding:5px 0px 5px 10px;">More Picks:</div>
+	<table width="100%" border="0" cellpading="0" cellspacing="0">
+	<tr><td style="padding:5px;">
+	<div style="clear:both;background-color:#cbcbcb;height:1px;" /></div>
+	</td></tr>
+	<table width="100%" border="0" cellpading="0" cellspacing="0">
+		<tr>
+		<td valign="top" style="padding:3px 5px 0px 5px;"><a href="http://www.technewsworld.com/edpick/85605.html"><img src="http://www.technewsworld.com/images/rws713256/laptop-tablet-surface.jpg"  align="left" border="0" /></a></td>
+		<td valign="top" style="padding-right:10px;"><a style="font-family:sans-serif;font-size:16px;color:black;font-weight:bold;text-decoration:none" href="http://www.technewsworld.com/edpick/85605.html">PC Innovation Is Back</a>
+		<br />
+		There were two interesting product launches last week. HP delivered what is pretty much a clean slate rethinking of the 2-in-1 PC with the HP Folio, and Microsoft unveiled a refresh of its Surface Line. Both firms made a big deal of the fact that their products were much better than their Apple counterparts -- but Apple has been treating PCs like a drunk uncle for some time now. <a href="http://www.technewsworld.com/edpick/85605.html" style="text-decoration:none">[More...]</a>
+		</td></tr></table>
+		
+	<table width="100%" border="0" cellpading="0" cellspacing="0">
+	<tr><td style="padding:5px;">
+	<div style="clear:both;background-color:#cbcbcb;height:1px;" /></div>
+	</td></tr></table>
+	<table width="100%" border="0" cellpading="0" cellspacing="0">
+		<tr>
+		<td valign="top" style="padding:3px 5px 0px 5px;"><a href="http://www.crmbuyer.com/edpick/85604.html"><img src="http://www.crmbuyer.com/images/rws932241/crm-vendors.jpg"  align="left" border="0" /></a></td>
+		<td valign="top" style="padding-right:10px;"><a style="font-family:sans-serif;font-size:16px;color:black;font-weight:bold;text-decoration:none" href="http://www.crmbuyer.com/edpick/85604.html">The CRM Oligopoly</a>
+		<br />
+		As markets mature, they trend toward oligopoly or even outright monopoly. There isn't much difference, because an oligopoly has several members instead of just one. Examples include electric power generation, an oligopoly made up of vertically integrated monopolies in most areas, and the airline industry -- an oligopoly made up of many airlines that may have monopolies in regional hubs. <a href="http://www.crmbuyer.com/edpick/85604.html" style="text-decoration:none">[More...]</a>
+		</td></tr></table>
+		
+	<table width="100%" border="0" cellpading="0" cellspacing="0">
+	<tr><td style="padding:5px;">
+	<div style="clear:both;background-color:#cbcbcb;height:1px;" /></div>
+	</td></tr></table>
+	<table width="100%" border="0" cellpading="0" cellspacing="0">
+		<tr>
+		<td valign="top" style="padding:3px 5px 0px 5px;"><a href="http://www.crmbuyer.com/edpick/85507.html"><img src="http://www.crmbuyer.com/images/rws138573/customer-testimonials.jpg"  align="left" border="0" /></a></td>
+		<td valign="top" style="padding-right:10px;"><a style="font-family:sans-serif;font-size:16px;color:black;font-weight:bold;text-decoration:none" href="http://www.crmbuyer.com/edpick/85507.html">5 Strategies for Collecting, Creating and 
+Circulating Customer Testimonials</a>
+		<br />
+		Most of us understand how overwhelming it can be moving to a new city. Surrounded by a host of options for dining, shopping, daycare, leisure time, auto mechanics and everything else under the sun, making an educated decision on where to go involves some groundwork. So what is there to do? Many of us will turn to a new coworker or neighbor for recommendations. <a href="http://www.crmbuyer.com/edpick/85507.html" style="text-decoration:none">[More...]</a>
+		</td></tr></table>
+		
+	<table width="100%" border="0" cellpading="0" cellspacing="0">
+	<tr><td style="padding:5px;">
+	<div style="clear:both;background-color:#cbcbcb;height:1px;" /></div>
+	</td></tr></table>
+	<table width="100%" border="0" cellpading="0" cellspacing="0">
+		<tr>
+		<td valign="top" style="padding:3px 5px 0px 5px;"><a href="http://www.ecommercetimes.com/edpick/85602.html"><img src="http://www.ecommercetimes.com/images/rws794833/customer-loyalty.jpg"  align="left" border="0" /></a></td>
+		<td valign="top" style="padding-right:10px;"><a style="font-family:sans-serif;font-size:16px;color:black;font-weight:bold;text-decoration:none" href="http://www.ecommercetimes.com/edpick/85602.html">6 Surefire Ways Etailers Can Boost Customer Loyalty</a>
+		<br />
+		Given today's data and technological advancements, coupled with an abundance of choices for consumers, the importance of loyalty has never been greater. The marketing landscape has shifted as power has moved from sellers to buyers, and businesses have realized a heightened need for customer loyalty. Market fragmentation has dramatically increased competition, magnifying the need for loyalty. <a href="http://www.ecommercetimes.com/edpick/85602.html" style="text-decoration:none">[More...]</a>
+		</td></tr></table>
+		
+	<table width="100%" border="0" cellpading="0" cellspacing="0">
+	<tr><td style="padding:5px;">
+	<div style="clear:both;background-color:#cbcbcb;height:1px;" /></div>
+	</td></tr></table>
+	
+
+<div style="font-size:16px;font-family:sans-serif;font-
+weight:bold;padding:10px 0px 5px 10px;"><strong>Follow Us</strong></div>
+<table cellpadding="10" cellspacing="0" border="0" style="margin-left: 
+0px">
+<tr>
+<td><a href="https://www.facebook.com/ectnews"><img 
+src="http://www.ectnews.com/images/2015/navicon-facebook_32x32.png" 
+width="32" height="32" border="0" /></a></td>
+<td><a href="https://www.twitter.com/technewsworld"><img 
+src="http://www.ectnews.com/images/2015/navicon-twitter_32x32.png" 
+width="32" height="32" border="0" /></a></td>
+<td><a href="http://www.linkedin.com/company/ect-news-network"><img 
+src="http://www.ectnews.com/images/2015/navicon-linkedin_32x32.png" 
+width="32" height="32" border="0" /></a></td>
+<td><a href="https://plus.google.com/108979104378490788701/posts"><img 
+src="http://www.ectnews.com/images/2015/navicon-googleplus_32x32.png" 
+width="32" height="32" border="0" /></a></td>
+<td><a href="http://www.ectnews.com/about/link-to-us.xhtml#rss"><img 
+src="http://www.ectnews.com/images/2015/navicon-rss_32x32.png" 
+width="32" height="32" border="0" /></a></td>
+</tr></table>
+
+
+</div>
+</div>
+</div>
+</div>
+
+<div style="clear: left;width: 600px;
+font-family: verdana;font-size:9px;margin-left: 8px;">
+<p>
+This Editor's Pick alert is a premium service provided to ECT News 
+Network newsletter subscribers. If you wish to make changes to your
+subscription settings, please click to <a href="http://www.ectnews.com/perl/User.pl?action=newsletter_settings_html&username=GrantSteinfeld&auth_code=RIALcq1ciq">manage your account</a>.<img src="http://www.ectnews.com/perl/eo/edpick_alert/2680/612644/ENNSS_80cec96590d0613eb1598fb5851c129c/eo.gif" /></p>
+<p>
+Copyright 2018 ECT News Network, Inc. All Rights Reserved.
+<br /><a href="http://www.ectnews.com/">ECT News Network, Inc.
+</a> 
+16133 Ventura Blvd., Suite 700, Encino, CA  91436
+</p>
+</div>
+</span>
+</body>
+</html>
+		
+--_ENN_1539039520--
+

@@ -1,0 +1,1362 @@
+From bounce-mc.us11_45194293.587089-statnews3=agentidea.com@mail236.sea101.rsgsv.net  Mon Oct 15 10:17:32 2018
+Return-Path: <bounce-mc.us11_45194293.587089-statnews3=agentidea.com@mail236.sea101.rsgsv.net>
+X-Original-To: statnews3@agentidea.com
+Delivered-To: statnews3@agentidea.com
+Received: from mail236.sea101.rsgsv.net (mail236.sea101.rsgsv.net [148.105.15.236])
+	by agentidea.com (Postfix) with ESMTP id B2D1140D13
+	for <statnews3@agentidea.com>; Mon, 15 Oct 2018 10:17:32 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=k1; d=statnews.com;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:
+ Content-Type:MIME-Version; i=damian.garde@statnews.com;
+ bh=WfMvFk6fw/bqhMe2YwRCriADs9/Ai6lB4UX8RNmkblQ=;
+ b=Zuz/2MrI0HStUqtd/yis6jmGyXeSMTnsS7IMvIykGLn0uyvItj4UtAhsuyr47xd6EXlMPpIbfrUb
+   rqQGY04mwh3R0zfmlAf+e1HwnCC+lG1VXgKrAf+4gAX11U5zVyPWdzbDTmafqUEDmarV4Ozhf69B
+   rAcVCbfTysYPZZI//cI=
+Received: from (127.0.0.1) by mail236.sea101.rsgsv.net id hohkjo2ddl4k for <statnews3@agentidea.com>; Mon, 15 Oct 2018 10:17:27 +0000 (envelope-from <bounce-mc.us11_45194293.587089-statnews3=agentidea.com@mail236.sea101.rsgsv.net>)
+Subject: =?utf-8?Q?Retracting=20stem=20cell=20science=2C=20Trump=27s=20pricing=20transparency=20plan=2C=20&=20a=20new=20neoantigen=20trial?=
+From: =?utf-8?Q?STAT=3A=20The=20Readout?= <damian.garde@statnews.com>
+Reply-To: =?utf-8?Q?STAT=3A=20The=20Readout?= <damian.garde@statnews.com>
+To: <statnews3@agentidea.com>
+Date: Mon, 15 Oct 2018 10:17:27 +0000
+Message-ID: <f8609630ae206654824f897b6.fecc3a10a2.20181015101647.8ea7c208de.290e2117@mail236.sea101.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID8ea7c208defecc3a10a2**
+X-Campaign: mailchimpf8609630ae206654824f897b6.8ea7c208de
+X-campaignid: mailchimpf8609630ae206654824f897b6.8ea7c208de
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=f8609630ae206654824f897b6&id=8ea7c208de&e=fecc3a10a2
+X-MC-User: f8609630ae206654824f897b6
+Feedback-ID: 45194293:45194293.587089:us11:mc
+List-ID: f8609630ae206654824f897b6mc list <f8609630ae206654824f897b6.196217.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <https://statnews.us11.list-manage.com/unsubscribe?u=f8609630ae206654824f897b6&id=8cab1d7961&e=fecc3a10a2&c=8ea7c208de>, <mailto:unsubscribe-mc.us11_f8609630ae206654824f897b6.8ea7c208de-fecc3a10a2@mailin.mcsv.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1715217697"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1715217697
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+
+Sponsored by
+
+
+https://www.statnews.com/category/the-regulars/the-readout/?utm_source=3DS=
+TAT+Newsletters&utm_campaign=3D8ea7c208de-EMAIL_CAMPAIGN_2018_10_14_05_53&=
+utm_medium=3Demail&utm_term=3D0_8cab1d7961-8ea7c208de-150319813
+
+
+** An inquiry deflates hopes for heart stem cells
+------------------------------------------------------------
+
+It's been believed by some that the heart has regenerative capabilities. B=
+ut some of the major research underlying that idea now has been largely qu=
+ashed.
+
+In a statement yesterday=2C Harvard Medical School and Brigham and Women=
+=E2=80=99s Hospital said papers from the lab of Dr. Piero Anversa included=
+ falsified data (https://www.statnews.com/2018/10/14/harvard-brigham-retra=
+ctions-stem-cell/?utm_source=3DSTAT+Newsletters&utm_campaign=3D8ea7c208de-=
+EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=3Demail&utm_term=3D0_8cab1d7961=
+-8ea7c208de-150319813) ; they recommended 31 papers in all be retrac=
+ted.
+
+Dr. Piero Anversa=2C a cardiac stem cell researcher=2C gained a great deal=
+ of prestige in his field for showing that certain cells =E2=80=94 dubbed=
+ =E2=80=9Cc-kit cells=E2=80=9D =E2=80=94 could recreate heart tissue. But=
+ when researchers tried to reproduce the work=2C they failed=2C over and o=
+ver again. Now we may know why.
+
+=E2=80=9CThere are no stem cells in the heart=2C=E2=80=9D one researcher t=
+old STAT. =E2=80=9CQuit trying to publish those results.=E2=80=9D
+
+Read more. (https://www.statnews.com/2018/10/14/harvard-brigham-retraction=
+s-stem-cell/?utm_source=3DSTAT+Newsletters&utm_campaign=3D8ea7c208de-EMAIL=
+_CAMPAIGN_2018_10_14_05_53&utm_medium=3Demail&utm_term=3D0_8cab1d7961-8ea7=
+c208de-150319813)
+
+
+** Prices may soon be required in drug ads
+------------------------------------------------------------
+
+A drug=E2=80=99s list price will have to be disclosed in its advertisement=
+s=2C under an emerging plan from the Trump administration. The administrat=
+ion deputized an FDA working group to study the matter back in the spring=
+ and=2C as Politico reported Friday (https://www.politico.com/story/2018/1=
+0/12/trump-drug-list-prices-846181?utm_source=3DSTAT+Newsletters&utm_campa=
+ign=3D8ea7c208de-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=3Demail&utm_te=
+rm=3D0_8cab1d7961-8ea7c208de-150319813) =2C HHS might spell out the=
+ details as soon as Monday.
+
+The "list price" is the price set by the drug company=2C and often it's no=
+t actually the amount of money a patient ends up paying because of a range=
+ of factors=2C including discounts and insurance. FDA Commissioner Scott G=
+ottlieb told STAT (https://www.statnews.com/2018/05/18/scott-gottlieb-fda-=
+interview-drug-pricing/?utm_source=3DSTAT+Newsletters&utm_campaign=3D8ea7c=
+208de-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=3Demail&utm_term=3D0_8cab=
+1d7961-8ea7c208de-150319813) back in May that experts were trying to=
+ determine the best way to require drug companies to be more transparent a=
+bout their pricing.
+
+Watch (https://www.c-span.org/video/?452944-1/hhss-alex-azar-speaks-forum-=
+prescription-drug-prices&utm_source=3DSTAT+Newsletters&utm_campaign=3D8ea7=
+c208de-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=3Demail&utm_term=3D0_8ca=
+b1d7961-8ea7c208de-150319813)  out for details in a speech at 4 p.m.=
+ today by HHS Secretary Alex Azar=2C in which he is expected to discuss th=
+e administration's efforts to bring down drug prices.
+
+
+** Former Theranos execs may be in more trouble
+------------------------------------------------------------
+
+The list of grievances against Theranos's erstwhile CEO is reportedly more=
+ grievous than previously thought: The government=E2=80=99s criminal fraud=
+ case against Elizabeth Holmes and former deputy Sunny Balwani includes a=
+ number of undisclosed =E2=80=9Ccharges and activities=2C=E2=80=9D prosecu=
+tors say=2C according to Bloomberg (https://www.bloomberg.com/news/article=
+s/2018-10-12/theranos-criminal-case-is-broader-than-disclosed-u-s-says?utm=
+_source=3DSTAT+Newsletters&utm_campaign=3D8ea7c208de-EMAIL_CAMPAIGN_2018_1=
+0_14_05_53&utm_medium=3Demail&utm_term=3D0_8cab1d7961-8ea7c208de-=
+150319813) .
+
+=E2=80=9CThis story is bigger than what=E2=80=99s captured in the indictme=
+nt=2C=E2=80=9D prosecutor John C. Bostic told the judge overseeing the cas=
+e. The feds are combing through more than 200=2C000 pages of company infor=
+mation to prepare for trial =E2=80=94 including contracts with dozens of o=
+rganizations like Pfizer=2C Merck=2C and Johns Hopkins.
+
+Fodder=2C mayhap=2C for a Bad Blood (https://www.statnews.com/2018/04/12/t=
+heranos-bad-blood-carreyrou/?utm_source=3DSTAT+Newsletters&utm_campaign=3D=
+8ea7c208de-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=3Demail&utm_term=3D0=
+_8cab1d7961-8ea7c208de-150319813) 2?
+
+
+** Kicking off a personalized cancer vaccine trial
+------------------------------------------------------------
+
+Once considered unwieldy and impractical=2C the personalized cancer vaccin=
+e is now in the clinic =E2=80=94 with a phase 1 trial underway (https://he=
+alth.ucsd.edu/news/releases/Pages/2018-10-12-Is-the-Next-Big-Step-in-Cance=
+r-Therapy-Personalized-Vaccines.aspx?utm_source=3DSTAT+Newsletters&utm_cam=
+paign=3D8ea7c208de-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=3Demail&utm_=
+term=3D0_8cab1d7961-8ea7c208de-150319813) in San Diego.
+
+Researchers from the University of California=2C San Diego=2C and the La J=
+olla Institute of Allergy and Immunology are collaborating to treat 10 pat=
+ients =E2=80=94 including Tamara Strauss=2C a 59-year-old jewelry artist w=
+ho has been through around 20 rounds of chemo and three abdominal surgerie=
+s in the past three years.
+
+Notably=2C Strauss=E2=80=99s parents ushered the trial into fruition: Her=
+ parents=2C who are well-known philanthropists=2C donated $1 million to ge=
+t the study off the ground=2C the San Diego Union-Tribune (http://enewspap=
+er.sandiegouniontribune.com/infinity/article_share.aspx?guid=3D9e9f4a61-9b=
+e8-4573-886d-a87343c29c64&utm_source=3DSTAT+Newsletters&utm_campaign=3D8ea=
+7c208de-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=3Demail&utm_term=3D0_8c=
+ab1d7961-8ea7c208de-150319813) writes.
+
+The approach in this trial is unique in that it uses computer modeling to=
+ predict which neoantigens (https://www.nature.com/articles/d41586-017-087=
+06-3?utm_source=3DSTAT+Newsletters&utm_campaign=3D8ea7c208de-EMAIL_CAMPAIG=
+N_2018_10_14_05_53&utm_medium=3Demail&utm_term=3D0_8cab1d7961-8ea7c208de-=
+150319813) might work in tandem with the immune system to attack an i=
+ndividual patient=E2=80=99s cancer. It=E2=80=99s then tested in vials of t=
+he patient=E2=80=99s blood to check for T cell responses =E2=80=94 and fro=
+m there=2C injected into the patient. The idea with this early trial is to=
+ detect some level of efficacy before it=E2=80=99s used in the patient.
+
+
+** More reads
+------------------------------------------------------------
+* Rivals line up to take on the world's best-selling drug. (Financial Time=
+s (https://www.ft.com/content/b2b01d94-cbe9-11e8-b276-b9069bde0956?utm_sou=
+rce=3DSTAT+Newsletters&utm_campaign=3D8ea7c208de-EMAIL_CAMPAIGN_2018_10_14=
+_05_53&utm_medium=3Demail&utm_term=3D0_8cab1d7961-8ea7c208de-=
+150319813) )
+* FDA Commissioner Scott Gottlieb's 'Sunday Tweetorial' on generic drug ap=
+provals. (Twitter (https://twitter.com/SGottliebFDA/status/105151754271867=
+2896?utm_source=3DSTAT+Newsletters&utm_campaign=3D8ea7c208de-EMAIL_CAMPAIG=
+N_2018_10_14_05_53&utm_medium=3Demail&utm_term=3D0_8cab1d7961-8ea7c208de-=
+150319813) )
+* In public=2C lawmakers scold drug distributors. Come campaign season=2C=
+ they accept their cash willingly. (STAT (https://www.statnews.com/2018/10=
+/12/drug-distributors-campaign-cash/?utm_source=3DSTAT+Newsletters&utm_cam=
+paign=3D8ea7c208de-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=3Demail&utm_=
+term=3D0_8cab1d7961-8ea7c208de-150319813) )
+* Digital health trials may not want to do randomized trials=2C but they n=
+eed to. (STAT (https://www.statnews.com/2018/10/15/digital-health-startups=
+-randomized-trials/?utm_source=3DSTAT+Newsletters&utm_campaign=3D8ea7c208d=
+e-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=3Demail&utm_term=3D0_8cab1d79=
+61-8ea7c208de-150319813) )
+
+Thanks for reading! More tomorrow=2C
+Damian
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Monday=2C October 15=2C 2018
+
+** STAT (https://www.statnews.com/?utm_source=3DSTAT+Newsletters&utm_campa=
+ign=3D8ea7c208de-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=3Demail&utm_te=
+rm=3D0_8cab1d7961-8ea7c208de-150319813)
+
+** Facebook (https://www.facebook.com/statnews/?utm_source=3DSTAT+Newslett=
+ers&utm_campaign=3D8ea7c208de-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=
+=3Demail&utm_term=3D0_8cab1d7961-8ea7c208de-150319813)
+** Twitter (https://twitter.com/statnews/?utm_source=3DSTAT+Newsletters&ut=
+m_campaign=3D8ea7c208de-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=3Demail=
+&utm_term=3D0_8cab1d7961-8ea7c208de-150319813)
+** YouTube (https://www.youtube.com/channel/UC89FjSf9AT1O2qw6vxrrxDQ?utm_s=
+ource=3DSTAT+Newsletters&utm_campaign=3D8ea7c208de-EMAIL_CAMPAIGN_2018_10_=
+14_05_53&utm_medium=3Demail&utm_term=3D0_8cab1d7961-8ea7c208de-=
+150319813)
+** Instagram (https://www.instagram.com/statnews/?utm_source=3DSTAT+Newsle=
+tters&utm_campaign=3D8ea7c208de-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_medium=
+=3Demail&utm_term=3D0_8cab1d7961-8ea7c208de-150319813)
+1 Exchange Pl=2C Suite 201=2C Boston=2C MA 02109
+_icu.png?id=3DX4417792&campaign=3D4972&data=3Dstatnews3@agentidea.com _i=
+tu.png
+=C2=A92018=2C All Rights Reserved.
+** I no longer wish to receive STAT emails (https://statnews.us11.list-man=
+age.com/unsubscribe?u=3Df8609630ae206654824f897b6&id=3D8cab1d7961&e=3D=
+fecc3a10a2&c=3D8ea7c208de)
+
+** Update Email Preferences (https://statnews.us11.list-manage.com/profile=
+?u=3Df8609630ae206654824f897b6&id=3D8cab1d7961&e=3Dfecc3a10a2)
+| ** Contact Us (https://www.statnews.com/contact/?utm_source=3DSTAT+Newsl=
+etters&utm_campaign=3D8ea7c208de-EMAIL_CAMPAIGN_2018_10_14_05_53&utm_mediu=
+m=3Demail&utm_term=3D0_8cab1d7961-8ea7c208de-150319813)
+| ** View In Browser (https://mailchi.mp/statnews/tk-9rqdco1rvh?e=3D=
+fecc3a10a2)
+5cP.gif?contact_status=3DNewsletter Only
+--_----------=_MCPart_1715217697
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-micros=
+oft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+  <head>
+    <!-- STAT newsletter Template for MailChimp -->
+    <!--[if gte mso 15]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:AllowPNG />
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <meta charset=3D"UTF-8">
+    <meta http-equiv=3D"x-ua-compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial-sca=
+le=3D1">
+    <title>Retracting stem cell science=2C Trump's pricing transparency pl=
+an=2C & a new neoantigen trial</title>
+
+  <style type=3D"text/css">
+=09=09p{
+=09=09=09margin:1em 0;
+=09=09=09padding:0;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09display:block;
+=09=09=09margin-top:24px;
+=09=09=09margin-bottom:0;
+=09=09=09padding:0;
+=09=09=09color:#000000;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:130%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h1+p=2Ch2+p=2Ch3+p=2Ch4+p=2Ch5+p=2Ch6+p{
+=09=09=09margin-top:4px;
+=09=09}
+=09=09h1+img=2Ch2+img=2Ch3+img=2Ch4+img=2Ch5+img=2Ch6+img{
+=09=09=09margin-top:12px;
+=09=09}
+=09=09h1+p img:first-child=2Ch2+p img:first-child=2Ch3+p img:first-child=
+=2Ch4+p img:first-child=2Ch5+p img:first-child=2Ch6+p img:first-child{
+=09=09=09margin-top:12px;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100%;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100%;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09=09max-width:550px;
+=09=09}
+=09=09table{
+=09=09=09mso-table-lspace:0;
+=09=09=09mso-table-rspace:0;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cblockquote{
+=09=09=09mso-line-height-rule:exactly;
+=09=09}
+=09=09a[href^=3Dtel]=2Ca[href^=3Dsms]{
+=09=09=09color:inherit;
+=09=09=09cursor:default;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cbody=2Ctable=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass td=2C.ExternalCla=
+ss div=2C.ExternalClass span=2C.ExternalClass font{
+=09=09=09line-height:100%;
+=09=09}
+=09=09a[x-apple-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-decoration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=09font-family:inherit !important;
+=09=09=09font-weight:inherit !important;
+=09=09=09line-height:inherit !important;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding:9px;
+=09=09=09padding-top:20px;
+=09=09}
+=09=09.templateContainer{
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09#footerContent{
+=09=09=09padding-top:5px;
+=09=09=09padding-bottom:0;
+=09=09}
+=09=09.templatePreheader=2C.templateHeader=2C#templateIntro=2C.templateBod=
+y{
+=09=09=09padding-right:25px;
+=09=09=09padding-left:25px;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#F8F8F8;
+=09=09}
+=09=09.templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1{
+=09=09=09font-size:22px;
+=09=09}
+=09=09h2{
+=09=09=09font-size:18px;
+=09=09}
+=09=09h3{
+=09=09=09font-size:16px;
+=09=09}
+=09=09h4{
+=09=09=09font-size:14px;
+=09=09}
+=09=09h5{
+=09=09=09font-size:12px;
+=09=09}
+=09=09h6{
+=09=09=09font-size:10px;
+=09=09}
+=09=09.templatePreheader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border:1px solid #EEEEEE;
+=09=09=09border-top:3px solid #DDD;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09.templatePreheader=2C.templatePreheader p{
+=09=09=09color:#000000;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:12px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09}
+=09=09.templatePreheader a=2C.templatePreheader p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.templatePreheader p img{
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.templatePreheader.standard p img{
+=09=09=09margin-bottom:1px;
+=09=09}
+=09=09.templatePreheader.generic{
+=09=09=09border-top:3px solid #1FADB6;
+=09=09=09padding-top:8px;
+=09=09=09padding-bottom:8px;
+=09=09}
+=09=09.templatePreheader.generic .columnContainer.first p{
+=09=09=09text-align:left;
+=09=09}
+=09=09.templatePreheader.generic .columnContainer.last p{
+=09=09=09text-align:right;
+=09=09=09font-weight:normal;
+=09=09=09text-transform:uppercase;
+=09=09=09letter-spacing:2px;
+=09=09=09font-size:10px;
+=09=09=09margin-top:16px;
+=09=09}
+=09=09.templatePreheader.generic .columnContainer.last p a{
+=09=09=09color:#BBBBBB;
+=09=09}
+=09=09.templateSpacer p{
+=09=09=09margin:0;
+=09=09=09font-size:10px;
+=09=09}
+=09=09.templateRule{
+=09=09=09border-top:1px solid #EEEEEE;
+=09=09}
+=09=09.templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-top:3px solid #1FADB6;
+=09=09=09border-left:1px solid #EEEEEE;
+=09=09=09border-right:1px solid #EEEEEE;
+=09=09=09padding-top:18px;
+=09=09=09padding-bottom:0;
+=09=09}
+=09=09.templateHeader=2C.templateHeader p{
+=09=09=09color:#000000;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:17px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.templateHeader a=2C.templateHeader p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.templateHeader p.caption{
+=09=09=09text-align:right;
+=09=09=09text-transform:uppercase;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09color:#999999;
+=09=09=09margin:4px 0 0;
+=09=09=09line-height:130%;
+=09=09}
+=09=09.templateHeader.generic{
+=09=09=09border-top-style:none;
+=09=09=09padding:1px;
+=09=09=09border-bottom:1px solid #EEEEEE;
+=09=09}
+=09=09.templateHeader.generic img{
+=09=09=09vertical-align:top;
+=09=09=09max-width:596px;
+=09=09}
+=09=09.templateBody.generic{
+=09=09=09padding-top:9px;
+=09=09}
+=09=09#templateIntro{
+=09=09=09padding-bottom:28px;
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-left:1px solid #EEEEEE;
+=09=09=09border-right:1px solid #EEEEEE;
+=09=09}
+=09=09#templateIntro p{
+=09=09=09background-color:#EFF9FA;
+=09=09=09text-align:center;
+=09=09=09padding:20px;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-weight:bold;
+=09=09=09font-size:13px;
+=09=09=09margin:3px 0;
+=09=09=09line-height:1.35;
+=09=09}
+=09=09#templateIntro p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.templateBody{
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-left:1px solid #EEEEEE;
+=09=09=09border-right:1px solid #EEEEEE;
+=09=09=09border-bottom:1px solid #EEEEEE;
+=09=09=09padding-top:0;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09.templateBody=2C.templateBody p{
+=09=09=09color:#000000;
+=09=09=09font-family:Georgia=2Cserif;
+=09=09=09font-size:17px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.templateBody a=2C.templateBody p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.templateBody p.cta{
+=09=09=09margin:27px 0 40px !important;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09text-transform:uppercase;
+=09=09=09font-size:14px;
+=09=09=09letter-spacing:2px;
+=09=09}
+=09=09.templateBody p.cta a{
+=09=09=09color:#FFFFFF;
+=09=09=09background-color:#1FADB6;
+=09=09=09padding:10px 30px;
+=09=09}
+=09=09.templateBody p.author{
+=09=09=09color:#666666;
+=09=09=09font-size:14px;
+=09=09=09margin-top:12px;
+=09=09}
+=09=09.templateBody p.author span{
+=09=09=09text-transform:uppercase;
+=09=09}
+=09=09.templateBody p.caption{
+=09=09=09text-align:right;
+=09=09=09text-transform:uppercase;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09color:#999999;
+=09=09=09margin:4px 0 0;
+=09=09=09line-height:130%;
+=09=09}
+=09=09.templateBody p.caption+p{
+=09=09=09margin-top:9px;
+=09=09}
+=09=09.templateBody img{
+=09=09=09vertical-align:text-top;
+=09=09}
+=09=09.templateBody ul{
+=09=09=09list-style-type:square;
+=09=09=09padding-left:17px;
+=09=09=09margin-top:4px;
+=09=09}
+=09=09.templateBody.sponsor p:first-child{
+=09=09=09color:#DF4C51;
+=09=09=09text-transform:uppercase;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:10px;
+=09=09=09margin-top:24px;
+=09=09=09margin-bottom:0;
+=09=09=09letter-spacing:2px;
+=09=09}
+=09=09.templateBody.sponsor p+h1{
+=09=09=09margin-top:4px;
+=09=09}
+=09=09.templateBody.sponsor a=2C.templateBody.sponsor p a{
+=09=09=09color:#DF4C51;
+=09=09}
+=09=09.templateBody.sponsor.rss p:first-child{
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.templateBody.sponsor.rss h1{
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.templateBody.contact{
+=09=09=09background-color:#F8F8F8;
+=09=09=09background-image:url(https://gallery.mailchimp.com/f8609630ae2066=
+54824f897b6/images/82e08a18-2199-4c11-aa0a-6c7b954edcd0.png);
+=09=09=09background-repeat:repeat;
+=09=09=09background-size:auto;
+=09=09=09padding-top:10px;
+=09=09=09padding-bottom:10px;
+=09=09}
+=09=09.templateBody.contact p{
+=09=09=09text-align:center;
+=09=09=09text-transform:uppercase;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09margin:2em 0;
+=09=09=09letter-spacing:2px;
+=09=09}
+=09=09.templateBody.contact p:last-child{
+=09=09=09margin-bottom:3em;
+=09=09}
+=09=09.templateBody.rss h1{
+=09=09=09font-size:24px;
+=09=09}
+=09=09.templateBody.rss h1 a{
+=09=09=09color:#000000;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#F8F8F8;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:0;
+=09=09=09padding-bottom:9px;
+=09=09=09padding-left:0;
+=09=09=09padding-right:0;
+=09=09}
+=09=09#templateFooter a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09#dateBar=2C#dateBar p{
+=09=09=09text-align:right;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:10px;
+=09=09=09color:#999999;
+=09=09}
+=09=09#logoBar=2C#logoBar p{
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:17px;
+=09=09=09text-align:center;
+=09=09}
+=09=09#logoBar p{
+=09=09=09margin-top:18px;
+=09=09=09margin-bottom:9px;
+=09=09}
+=09=09#socialBar{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border:0;
+=09=09=09padding:0;
+=09=09}
+=09=09#socialBar=2C#socialBar p{
+=09=09=09color:#BBBBBB;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09=09margin:0;
+=09=09}
+=09=09#footerContent=2C#footerContent p{
+=09=09=09color:#BBBBBB;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09line-height:160%;
+=09=09=09text-align:center;
+=09=09}
+=09=09#footerContent a=2C#footerContent p a{
+=09=09=09color:#BBBBBB;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09#utilityBar{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border:0;
+=09=09=09padding-top:0;
+=09=09=09padding-bottom:20px;
+=09=09}
+=09=09#utilityBar=2C#utilityBar p{
+=09=09=09color:#BBBBBB;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09line-height:160%;
+=09=09=09text-align:center;
+=09=09}
+=09=09#utilityBar a=2C#utilityBar p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#utilityBar a.unsub{
+=09=09=09color:#BBBBBB;
+=09=09}
+=09=09.mcnPreviewText{
+=09=09=09display:none !important;
+=09=09}
+=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09img{
+=09=09=09max-width:100% !important;
+=09=09=09height:auto !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#bodyCell{
+=09=09=09padding-left:4px !important;
+=09=09=09padding-right:4px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.templatePreheader=2C.templateHeader=2C#templateIntro=2C.templateBod=
+y{
+=09=09=09padding-right:13px !important;
+=09=09=09padding-left:13px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.templatePreheader.generic .columnContainer.last p{
+=09=09=09margin-top:1em !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.templateHeader.generic{
+=09=09=09padding:1px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.columnContainer{
+=09=09=09max-width:100% !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.columnContainer.last{
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.templateBody.rss h1{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}</style></head>
+  <body style=3D"height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #F8F8F8;"=
+>
+    <!--
+-->
+    <center>
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" id=3D"bodyTable" style=3D"height: 100%;border-collap=
+se: collapse;mso-table-lspace: 0;mso-table-rspace: 0;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;margin: 0;padding: 0;width: 100%;back=
+ground-color: #F8F8F8;">
+        <tr>
+          <td align=3D"center" valign=3D"top" id=3D"bodyCell" style=3D"mso=
+-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;height: 100%;margin: 0;padding: 9px;width: 100%;padding-top: 20=
+px;">
+            <!-- BEGIN TEMPLATE // -->
+            <!--[if gte mso 9]>
+            <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" width=3D"600" style=3D"width:600px;">
+              <tr>
+                <td align=3D"center" valign=3D"top" width=3D"600" style=3D=
+"width:600px;">
+                  <![endif]-->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" class=3D"templateContainer" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0;mso-table-rspace: 0;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;border: 0;max-width: 600px !important;">
+              <!-- BEGIN PREHEADER // -->
+              <tr mc:hideable=3D"hideable_1" mchideable=3D"hideable_1">
+                <td valign=3D"top" class=3D"templatePreheader standard" st=
+yle=3D"background:#FFFFFF none no-repeat center/cover;mso-line-height-rule=
+: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;paddin=
+g-right: 25px;padding-left: 25px;background-color: #FFFFFF;background-imag=
+e: none;background-repeat: no-repeat;background-position: center;backgroun=
+d-size: cover;border: 1px solid #EEEEEE;border-top: 3px solid #DDD;padding=
+-top: 9px;padding-bottom: 9px;color: #000000;font-family: Arial=2Csans-ser=
+if;font-size: 12px;font-weight: bold;line-height: 150%;text-align: center;=
+">
+                  <!-- BEGIN MODULE: STANDARD PREHEADER // -->
+                  <p style=3D"margin: 1em 0;padding: 0;mso-line-height-rul=
+e: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color=
+: #000000;font-family: Arial=2Csans-serif;font-size: 12px;font-weight: bol=
+d;line-height: 150%;text-align: center;">Sponsored by <span><img src=3D"ht=
+tps://gallery.mailchimp.com/f8609630ae206654824f897b6/images/1f63b157-2850=
+-49ec-88bb-6c7a4bd1af57.png" width=3D"92" alt=3D"" style=3D"border: 0;heig=
+ht: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicub=
+ic;max-width: 550px;vertical-align: middle;margin-bottom: 1px;"></span>
+                </p>
+                <!-- // END MODULE: STANDARD PREHEADER -->
+              </td>
+            </tr>
+            <!-- // END PREHEADER -->
+            <!-- BEGIN SPACER // -->
+            <tr>
+              <td valign=3D"top" class=3D"templateSpacer" style=3D"mso-lin=
+e-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;">
+                <p style=3D"margin: 0;padding: 0;mso-line-height-rule: exa=
+ctly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-size:=
+ 10px;">=C2=A0</p>
+              </td>
+            </tr>
+            <!-- // END SPACER -->
+            <!-- BEGIN HEADER // -->
+            <tr>
+              <td valign=3D"top" class=3D"templateHeader standard" style=
+=3D"background:#FFFFFF none no-repeat center/cover;mso-line-height-rule: e=
+xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-r=
+ight: 25px;padding-left: 25px;background-color: #FFFFFF;background-image:=
+ none;background-repeat: no-repeat;background-position: center;background-=
+size: cover;border-top: 3px solid #1FADB6;border-left: 1px solid #EEEEEE;b=
+order-right: 1px solid #EEEEEE;padding-top: 18px;padding-bottom: 0;color:=
+ #000000;font-family: Arial=2Csans-serif;font-size: 17px;line-height: 150%=
+;text-align: left;">
+                <!-- BEGIN MODULE: HEADER IMAGE // -->
+
+                <a href=3D"https://statnews.us11.list-manage.com/track/cli=
+ck?u=3Df8609630ae206654824f897b6&id=3D0915a19ed4&e=3Dfecc3a10a2" style=3D=
+"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;color: #1FADB6;text-decoration: none;">
+
+                  <img src=3D"https://gallery.mailchimp.com/f8609630ae2066=
+54824f897b6/images/10582a1e-bac6-419c-a86a-fc5f40bd63c7.png" width=3D"550"=
+ alt=3D"The Readout" style=3D"border: 0;height: auto;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;max-width: 550px;"></a>
+
+                  <!-- // END MODULE: HEADER IMAGE -->
+                </td>
+              </tr>
+              <!-- // END HEADER -->
+              <!-- BEGIN INTRO // -->
+
+              <!-- // END INTRO -->
+              <!-- BEGIN RULE // -->
+              <tr>
+                <td valign=3D"top" class=3D"templateRule" style=3D"mso-lin=
+e-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;border-top: 1px solid #EEEEEE;">
+                </td>
+              </tr>
+              <!-- // END RULE -->
+              <tr mc:repeatable=3D"repeat_1" mc:variant=3D"standard" mc:re=
+peatindex=3D"0">
+                <td valign=3D"top" class=3D"templateBody standard" style=
+=3D"background:#FFFFFF none no-repeat center/cover;mso-line-height-rule: e=
+xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-r=
+ight: 25px;padding-left: 25px;background-color: #FFFFFF;background-image:=
+ none;background-repeat: no-repeat;background-position: center;background-=
+size: cover;border-left: 1px solid #EEEEEE;border-right: 1px solid #EEEEEE=
+;border-bottom: 1px solid #EEEEEE;padding-top: 0;padding-bottom: 9px;color=
+: #000000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;t=
+ext-align: left;">
+                  <!-- BEGIN MODULE: BODY CONTENT STANDARD // -->
+                  <div><h1 style=3D"display: block;margin-top: 24px;margin=
+-bottom: 0;padding: 0;color: #000000;font-family: Arial=2Csans-serif;font-=
+style: normal;font-weight: bold;line-height: 130%;letter-spacing: normal;t=
+ext-align: left;font-size: 22px;">An inquiry deflates hopes for heart stem=
+ cells</h1>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin-top: 4px;color:=
+ #000000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;te=
+xt-align: left;">It&#39;s been believed by some that the heart has regener=
+ative capabilities. But some of the major&nbsp;research underlying that id=
+ea now has been largely&nbsp;quashed.</p>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-fam=
+ily: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align: left;">=
+In a statement yesterday=2C Harvard Medical School and Brigham and Women&r=
+squo;s Hospital said papers from&nbsp;the lab of Dr. Piero Anversa <a href=
+=3D"https://statnews.us11.list-manage.com/track/click?u=3Df8609630ae206654=
+824f897b6&id=3D6df2ae01a8&e=3Dfecc3a10a2" target=3D"_blank" style=3D"mso-=
+line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;color: #1FADB6;text-decoration: none;">included falsified data</=
+a>; they recommended&nbsp;31 papers in all be retracted.<br>
+<br>
+Dr. Piero Anversa=2C a cardiac stem cell researcher=2C gained a great deal=
+ of prestige in his field for showing that certain cells &mdash; dubbed &l=
+dquo;c-kit cells&rdquo; &mdash; could recreate heart tissue. But when rese=
+archers tried to reproduce the work=2C they failed=2C over and over again.=
+ Now&nbsp;we may know why.</p>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-fam=
+ily: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align: left;">=
+&ldquo;There are no stem cells in the heart=2C&rdquo; one researcher told=
+ STAT. &ldquo;Quit trying to publish those results.&rdquo;</p>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-fam=
+ily: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align: left;">=
+<a href=3D"https://statnews.us11.list-manage.com/track/click?u=3Df8609630a=
+e206654824f897b6&id=3Ddcd174ea15&e=3Dfecc3a10a2" style=3D"mso-line-height=
+-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;c=
+olor: #1FADB6;text-decoration: none;">Read more.</a>&nbsp;</p>
+</div>
+                  <!-- // END MODULE: BODY CONTENT STANDARD -->
+                </td>
+              </tr><tr mc:repeatable=3D"repeat_1" mc:variant=3D"standard"=
+ mc:repeatindex=3D"1">
+                <td valign=3D"top" class=3D"templateBody standard" style=
+=3D"background:#FFFFFF none no-repeat center/cover;mso-line-height-rule: e=
+xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-r=
+ight: 25px;padding-left: 25px;background-color: #FFFFFF;background-image:=
+ none;background-repeat: no-repeat;background-position: center;background-=
+size: cover;border-left: 1px solid #EEEEEE;border-right: 1px solid #EEEEEE=
+;border-bottom: 1px solid #EEEEEE;padding-top: 0;padding-bottom: 9px;color=
+: #000000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;t=
+ext-align: left;">
+                  <!-- BEGIN MODULE: BODY CONTENT STANDARD // -->
+                  <div><h1 style=3D"display: block;margin-top: 24px;margin=
+-bottom: 0;padding: 0;color: #000000;font-family: Arial=2Csans-serif;font-=
+style: normal;font-weight: bold;line-height: 130%;letter-spacing: normal;t=
+ext-align: left;font-size: 22px;">Prices may soon be required in drug ads&=
+nbsp;</h1>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin-top: 4px;color:=
+ #000000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;te=
+xt-align: left;">A drug&rsquo;s list price will have to be disclosed in it=
+s advertisements=2C under an emerging&nbsp;plan from the Trump administrat=
+ion. The administration deputized an FDA working group to study the matter=
+ back in the spring and=2C as Politico <a href=3D"https://statnews.us11.li=
+st-manage.com/track/click?u=3Df8609630ae206654824f897b6&id=3Dde7438dc16&e=
+=3Dfecc3a10a2" target=3D"_blank" style=3D"mso-line-height-rule: exactly;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1FADB6;te=
+xt-decoration: none;">reported Friday</a>=2C HHS might spell out the detai=
+ls as soon as Monday.</p>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-fam=
+ily: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align: left;">=
+The &quot;list price&quot; is the price set by the drug company=2C and oft=
+en it&#39;s not actually the amount of money a patient ends up paying beca=
+use of a range of factors=2C including discounts and insurance. FDA Commis=
+sioner Scott Gottlieb told <a href=3D"https://statnews.us11.list-manage.co=
+m/track/click?u=3Df8609630ae206654824f897b6&id=3D34a56ad4af&e=3D=
+fecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;color: #1FADB6;text-decoration: none;">STAT</a>=
+ back in May that experts were trying to determine the best way to require=
+ drug companies to be more transparent about their pricing.&nbsp;</p>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-fam=
+ily: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align: left;">=
+<a href=3D"https://statnews.us11.list-manage.com/track/click?u=3Df8609630a=
+e206654824f897b6&id=3D5db00c8417&e=3Dfecc3a10a2" style=3D"mso-line-height=
+-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;c=
+olor: #1FADB6;text-decoration: none;">Watch</a>&nbsp;out for details in a=
+ speech at 4 p.m. today by HHS Secretary Alex Azar=2C in which he is expec=
+ted to discuss the administration&#39;s efforts to bring down drug prices.=
+</p>
+</div>
+                  <!-- // END MODULE: BODY CONTENT STANDARD -->
+                </td>
+              </tr><tr mc:repeatable=3D"repeat_1" mc:variant=3D"standard"=
+ mc:repeatindex=3D"2">
+                <td valign=3D"top" class=3D"templateBody standard" style=
+=3D"background:#FFFFFF none no-repeat center/cover;mso-line-height-rule: e=
+xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-r=
+ight: 25px;padding-left: 25px;background-color: #FFFFFF;background-image:=
+ none;background-repeat: no-repeat;background-position: center;background-=
+size: cover;border-left: 1px solid #EEEEEE;border-right: 1px solid #EEEEEE=
+;border-bottom: 1px solid #EEEEEE;padding-top: 0;padding-bottom: 9px;color=
+: #000000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;t=
+ext-align: left;">
+                  <!-- BEGIN MODULE: BODY CONTENT STANDARD // -->
+                  <div><h1 style=3D"display: block;margin-top: 24px;margin=
+-bottom: 0;padding: 0;color: #000000;font-family: Arial=2Csans-serif;font-=
+style: normal;font-weight: bold;line-height: 130%;letter-spacing: normal;t=
+ext-align: left;font-size: 22px;">Former Theranos execs may be in more&nbs=
+p;trouble</h1>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin-top: 4px;color:=
+ #000000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;te=
+xt-align: left;">The list of grievances against&nbsp;Theranos&#39;s erstwh=
+ile CEO&nbsp;is reportedly more grievous than previously thought: The gove=
+rnment&rsquo;s criminal fraud case against Elizabeth Holmes and former dep=
+uty Sunny Balwani includes a number of undisclosed &ldquo;charges and acti=
+vities=2C&rdquo;&nbsp;prosecutors say=2C <a href=3D"https://statnews.us11.=
+list-manage.com/track/click?u=3Df8609630ae206654824f897b6&id=3Daeafc04613&=
+e=3Dfecc3a10a2" target=3D"_blank" style=3D"mso-line-height-rule: exactly;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1FADB6;t=
+ext-decoration: none;">according to Bloomberg</a>.&nbsp;</p>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-fam=
+ily: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align: left;">=
+&ldquo;This story is bigger than what&rsquo;s captured in the indictment=
+=2C&rdquo; prosecutor John C. Bostic told the judge overseeing the case. T=
+he feds are combing through more than 200=2C000 pages of company informati=
+on to prepare for trial &mdash; including contracts with dozens of organiz=
+ations like Pfizer=2C Merck=2C and Johns Hopkins.</p>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-fam=
+ily: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align: left;">=
+Fodder=2C mayhap=2C for a <a href=3D"https://statnews.us11.list-manage.com=
+/track/click?u=3Df8609630ae206654824f897b6&id=3D0ad5dda57e&e=3Dfecc3a10a2=
+" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;color: #1FADB6;text-decoration: none;">Bad Blood<=
+/a> 2?</p>
+</div>
+                  <!-- // END MODULE: BODY CONTENT STANDARD -->
+                </td>
+              </tr><tr mc:repeatable=3D"repeat_1" mc:variant=3D"standard"=
+ mc:repeatindex=3D"3">
+                <td valign=3D"top" class=3D"templateBody standard" style=
+=3D"background:#FFFFFF none no-repeat center/cover;mso-line-height-rule: e=
+xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-r=
+ight: 25px;padding-left: 25px;background-color: #FFFFFF;background-image:=
+ none;background-repeat: no-repeat;background-position: center;background-=
+size: cover;border-left: 1px solid #EEEEEE;border-right: 1px solid #EEEEEE=
+;border-bottom: 1px solid #EEEEEE;padding-top: 0;padding-bottom: 9px;color=
+: #000000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;t=
+ext-align: left;">
+                  <!-- BEGIN MODULE: BODY CONTENT STANDARD // -->
+                  <div><h1 style=3D"display: block;margin-top: 24px;margin=
+-bottom: 0;padding: 0;color: #000000;font-family: Arial=2Csans-serif;font-=
+style: normal;font-weight: bold;line-height: 130%;letter-spacing: normal;t=
+ext-align: left;font-size: 22px;">Kicking off a personalized cancer vaccin=
+e trial</h1>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin-top: 4px;color:=
+ #000000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;te=
+xt-align: left;">Once considered unwieldy and impractical=2C the personali=
+zed cancer vaccine is now in the clinic &mdash; with a phase 1 trial&nbsp;=
+<a href=3D"https://statnews.us11.list-manage.com/track/click?u=3Df8609630a=
+e206654824f897b6&id=3D0485dede77&e=3Dfecc3a10a2" style=3D"mso-line-height=
+-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;c=
+olor: #1FADB6;text-decoration: none;">underway</a> in San Diego.&nbsp;</p>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-fam=
+ily: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align: left;">=
+Researchers from the University of California=2C San Diego=2C and the La J=
+olla Institute of Allergy and Immunology are collaborating to treat 10 pat=
+ients &mdash; including Tamara Strauss=2C a 59-year-old jewelry artist who=
+ has been through around 20 rounds of chemo and three abdominal surgeries=
+ in the past three years.</p>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-fam=
+ily: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align: left;">=
+Notably=2C Strauss&rsquo;s parents ushered the trial into fruition: Her pa=
+rents=2C who are well-known philanthropists=2C donated $1 million to get t=
+he study off the ground=2C the <a href=3D"https://statnews.us11.list-manag=
+e.com/track/click?u=3Df8609630ae206654824f897b6&id=3Db875bdbd97&e=3D=
+fecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;color: #1FADB6;text-decoration: none;">San D=
+iego Union-Tribune</a> writes.</p>
+
+<p style=3D"margin: 1em 0;padding: 0;mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-fam=
+ily: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-align: left;">=
+The approach in this trial is unique in that it uses computer modeling to=
+ predict which <a href=3D"https://statnews.us11.list-manage.com/track/clic=
+k?u=3Df8609630ae206654824f897b6&id=3Dd3df2e34f2&e=3Dfecc3a10a2" style=3D"=
+mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;color: #1FADB6;text-decoration: none;">neoantigens</a> might=
+ work in tandem with the immune system to attack an individual patient&rsq=
+uo;s cancer. It&rsquo;s then tested in vials of the patient&rsquo;s blood=
+ to check for T cell responses &mdash; and from there=2C injected into the=
+ patient. The idea with this early trial is to detect some level of effica=
+cy before it&rsquo;s used in the patient.&nbsp;</p>
+</div>
+                  <!-- // END MODULE: BODY CONTENT STANDARD -->
+                </td>
+              </tr><tr mc:repeatable=3D"repeat_1" mc:variant=3D"standard"=
+ mc:repeatindex=3D"4">
+                <td valign=3D"top" class=3D"templateBody standard" style=
+=3D"background:#FFFFFF none no-repeat center/cover;mso-line-height-rule: e=
+xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-r=
+ight: 25px;padding-left: 25px;background-color: #FFFFFF;background-image:=
+ none;background-repeat: no-repeat;background-position: center;background-=
+size: cover;border-left: 1px solid #EEEEEE;border-right: 1px solid #EEEEEE=
+;border-bottom: 1px solid #EEEEEE;padding-top: 0;padding-bottom: 9px;color=
+: #000000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;t=
+ext-align: left;">
+                  <!-- BEGIN MODULE: BODY CONTENT STANDARD // -->
+                  <div><h1 style=3D"display: block;margin-top: 24px;margin=
+-bottom: 0;padding: 0;color: #000000;font-family: Arial=2Csans-serif;font-=
+style: normal;font-weight: bold;line-height: 130%;letter-spacing: normal;t=
+ext-align: left;font-size: 22px;">More reads</h1>
+
+<ul style=3D"list-style-type: square;padding-left: 17px;margin-top: 4px;">
+=09<li style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">Rivals line up to take on the world&#39;s=
+ best-selling drug. (<a href=3D"https://statnews.us11.list-manage.com/trac=
+k/click?u=3Df8609630ae206654824f897b6&id=3Da9497ed440&e=3Dfecc3a10a2" tar=
+get=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;color: #1FADB6;text-decoration: none=
+;">Financial Times</a>)</li>
+=09<li style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">FDA Commissioner Scott Gottlieb&#39;s &#39=
+;Sunday Tweetorial&#39; on generic drug approvals. (<a href=3D"https://sta=
+tnews.us11.list-manage.com/track/click?u=3Df8609630ae206654824f897b6&id=3D=
+5b109a6773&e=3Dfecc3a10a2" target=3D"_blank" style=3D"mso-line-height-rul=
+e: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color=
+: #1FADB6;text-decoration: none;">Twitter</a>)</li>
+=09<li style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">In public=2C lawmakers scold drug distribu=
+tors. Come campaign season=2C they accept their cash willingly. (<a href=
+=3D"https://statnews.us11.list-manage.com/track/click?u=3Df8609630ae206654=
+824f897b6&id=3Dc8205a8bad&e=3Dfecc3a10a2" target=3D"_blank" style=3D"mso-=
+line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;color: #1FADB6;text-decoration: none;">STAT</a>)</li>
+=09<li style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">Digital health trials may not want to do r=
+andomized trials=2C but they need to. (<a href=3D"https://statnews.us11.li=
+st-manage.com/track/click?u=3Df8609630ae206654824f897b6&id=3D7c615e55a7&e=
+=3Dfecc3a10a2" target=3D"_blank" style=3D"mso-line-height-rule: exactly;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1FADB6;te=
+xt-decoration: none;">STAT</a>)</li>
+</ul>
+</div>
+                  <!-- // END MODULE: BODY CONTENT STANDARD -->
+                </td>
+              </tr><tr mc:repeatable=3D"repeat_1" mc:variant=3D"signature"=
+ mc:repeatindex=3D"5">
+                    <td valign=3D"top" class=3D"templateBody signature" st=
+yle=3D"background:#FFFFFF none no-repeat center/cover;mso-line-height-rule=
+: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;paddin=
+g-right: 25px;padding-left: 25px;background-color: #FFFFFF;background-imag=
+e: none;background-repeat: no-repeat;background-position: center;backgroun=
+d-size: cover;border-left: 1px solid #EEEEEE;border-right: 1px solid #EEEE=
+EE;border-bottom: 1px solid #EEEEEE;padding-top: 0;padding-bottom: 9px;col=
+or: #000000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%=
+;text-align: left;">
+                      <!-- BEGIN MODULE: BODY CONTENT SIGNATURE // -->
+                      <div><p style=3D"margin: 1em 0;padding: 0;mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #000000;font-family: Georgia=2Cserif;font-size: 17px;line-heigh=
+t: 150%;text-align: left;"><em>Thanks for reading! More tomorrow=2C</em></=
+p>
+<img alt=3D"Damian" data-file-id=3D"1004761" height=3D"62" src=3D"https://=
+gallery.mailchimp.com/f8609630ae206654824f897b6/images/5c827469-9267-4f15-=
+a7b2-e051020a3959.png" style=3D"border: 0px;width: 134px;height: 62px;marg=
+in: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubi=
+c;max-width: 550px;vertical-align: text-top;" width=3D"134"></div>
+                    <!-- // END MODULE: BODY CONTENT SIGNATURE -->
+                  </td>
+                </tr>
+
+
+
+
+              <!-- BEGIN FOOTER // -->
+              <tr>
+                <td valign=3D"top" id=3D"templateFooter" style=3D"backgrou=
+nd:#F8F8F8 none no-repeat center/cover;mso-line-height-rule: exactly;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #F8=
+F8F8;background-image: none;background-repeat: no-repeat;background-positi=
+on: center;background-size: cover;border-top: 0;border-bottom: 0;padding-t=
+op: 0;padding-bottom: 9px;padding-left: 0;padding-right: 0;">
+                  <!-- BEGIN MODULE: STANDARD FOOTER // -->
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" style=3D"border-collapse: collapse;mso-table-lspace: 0;mso=
+-table-rspace: 0;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;">
+                    <tr>
+                      <td valign=3D"top" id=3D"dateBar" style=3D"mso-line-=
+height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;text-align: right;font-family: Arial=2Csans-serif;font-size: 10px;co=
+lor: #999999;">
+                        <p style=3D"margin: 1em 0;padding: 0;mso-line-heig=
+ht-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;text-align: right;font-family: Arial=2Csans-serif;font-size: 10px;color:=
+ #999999;">Monday=2C October 15=2C 2018</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td valign=3D"top" id=3D"logoBar" style=3D"mso-line-=
+height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;font-family: Arial=2Csans-serif;font-size: 17px;text-align: center;"=
+>
+                        <p style=3D"margin: 1em 0;padding: 0;mso-line-heig=
+ht-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;font-family: Arial=2Csans-serif;font-size: 17px;text-align: center;margin=
+-top: 18px;margin-bottom: 9px;"><a href=3D"https://statnews.us11.list-mana=
+ge.com/track/click?u=3Df8609630ae206654824f897b6&id=3Dc6fa5613b6&e=3D=
+fecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;color: #1FADB6;text-decoration: none;"><img=
+ src=3D"https://gallery.mailchimp.com/f8609630ae206654824f897b6/images/d53=
+0babb-e16a-4199-b764-b3edc2ad8917.png" width=3D"80" alt=3D"STAT" style=3D"=
+border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolati=
+on-mode: bicubic;max-width: 550px;"></a>
+                      </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign=3D"top" id=3D"socialBar" style=3D"mso-line-=
+height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;background-color: #F8F8F8;border: 0;padding: 0;color: #BBBBBB;font-f=
+amily: Arial=2Csans-serif;font-size: 11px;line-height: 150%;text-align: ce=
+nter;margin: 0;">
+                      <p style=3D"margin: 0;padding: 0;mso-line-height-rul=
+e: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color=
+: #BBBBBB;font-family: Arial=2Csans-serif;font-size: 11px;line-height: 150=
+%;text-align: center;">
+                      <a href=3D"https://statnews.us11.list-manage.com/tra=
+ck/click?u=3Df8609630ae206654824f897b6&id=3D7b4762de57&e=3Dfecc3a10a2" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D"ht=
+tps://gallery.mailchimp.com/f8609630ae206654824f897b6/images/e56a2f39-94b1=
+-416d-9b03-cb8cbfff96b7.png" width=3D"30" alt=3D"Facebook" title=3D"Facebo=
+ok" style=3D"border: 0;height: auto;outline: none;text-decoration: none;-m=
+s-interpolation-mode: bicubic;max-width: 550px;"></a>
+                      =C2=A0
+                      <a href=3D"https://statnews.us11.list-manage.com/tra=
+ck/click?u=3Df8609630ae206654824f897b6&id=3Deaf11297a6&e=3Dfecc3a10a2" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D"ht=
+tps://gallery.mailchimp.com/f8609630ae206654824f897b6/images/34ace2fa-af9d=
+-4cf8-a2c2-e491c02464bd.png" width=3D"30" alt=3D"Twitter" title=3D"Twitter=
+" style=3D"border: 0;height: auto;outline: none;text-decoration: none;-ms-=
+interpolation-mode: bicubic;max-width: 550px;"></a>
+                      =C2=A0
+                      <a href=3D"https://statnews.us11.list-manage.com/tra=
+ck/click?u=3Df8609630ae206654824f897b6&id=3D9e2b6851a9&e=3Dfecc3a10a2" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D"ht=
+tps://gallery.mailchimp.com/f8609630ae206654824f897b6/images/8eab3604-cd8e=
+-4bc9-b577-9e98ae898f5b.png" width=3D"30" alt=3D"YouTube" title=3D"YouTube=
+" style=3D"border: 0;height: auto;outline: none;text-decoration: none;-ms-=
+interpolation-mode: bicubic;max-width: 550px;"></a>
+                      =C2=A0
+                      <a href=3D"https://statnews.us11.list-manage.com/tra=
+ck/click?u=3Df8609630ae206654824f897b6&id=3Dd8f3ac83cd&e=3Dfecc3a10a2" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D"ht=
+tps://gallery.mailchimp.com/f8609630ae206654824f897b6/images/c75510f1-ae31=
+-4ab6-a80b-9a9f97a5c08e.png" width=3D"30" alt=3D"Instagram" title=3D"Insta=
+gram" style=3D"border: 0;height: auto;outline: none;text-decoration: none;=
+-ms-interpolation-mode: bicubic;max-width: 550px;"></a>
+                    </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td valign=3D"top" id=3D"footerContent" style=3D"mso-lin=
+e-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;padding-top: 5px;padding-bottom: 0;color: #BBBBBB;font-family: Aria=
+l=2Csans-serif;font-size: 11px;line-height: 160%;text-align: center;">
+                    1 Exchange Pl=2C Suite 201=2C Boston=2C MA 02109
+                    <!-- DMD AIM TAG  -->
+                    <div style=3D"width:0;overflow:hidden;float:left;displ=
+ay:none;margin-bottom:-1px;">
+                      <img src=3D"http://www.medtargetsystem.com/_icu.png?=
+id=3DX4417792&amp;campaign=3D4972&amp;data=3Dstatnews3@agentidea.com" st=
+yle=3D"width: 0;overflow: hidden;float: left;display: none;margin-bottom:=
+ -1px;border: 0;height: auto;outline: none;text-decoration: none;-ms-inter=
+polation-mode: bicubic;max-width: 550px;" alt=3D"_icu.png?id=3D=
+X4417792&amp;campaign=3D4972&amp;data=3Dstatnews3@agentidea.com"><img src=3D"http:/=
+/www.medtargetsystem.com/_itu.png" style=3D"width: 0;overflow: hidden;floa=
+t: left;display: none;margin-bottom: -1px;border: 0;height: auto;outline:=
+ none;text-decoration: none;-ms-interpolation-mode: bicubic;max-width: 550=
+px;" alt=3D"_itu.png">
+                    </div>
+                    <!-- DMD AIM TAG END -->
+                    <br>
+                    =C2=A92018=2C All Rights Reserved.
+                  </td>
+                </tr>
+                <tr>
+                  <td valign=3D"top" id=3D"utilityBar" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;background-color: #F8F8F8;border: 0;padding-top: 0;padding-bottom: 20p=
+x;color: #BBBBBB;font-family: Arial=2Csans-serif;font-size: 11px;line-heig=
+ht: 160%;text-align: center;">
+                    <a href=3D"https://statnews.us11.list-manage.com/unsub=
+scribe?u=3Df8609630ae206654824f897b6&id=3D8cab1d7961&e=3Dfecc3a10a2&c=3D8ea7=
+c208de" class=3D"unsub" style=3D"mso-line-height-rule: exactly;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;color: #BBBBBB;text-decorat=
+ion: underline;">I no longer wish to receive STAT emails</a>
+                    <br><a href=3D"https://statnews.us11.list-manage.com/p=
+rofile?u=3Df8609630ae206654824f897b6&id=3D8cab1d7961&e=3Dfecc3a10a2" style=
+=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;color: #1FADB6;text-decoration: underline;">Update=C2=A0=
+Email=C2=A0Preferences</a> | <a href=3D"https://statnews.us11.list-manage.=
+com/track/click?u=3Df8609630ae206654824f897b6&id=3Dbfad4edc5e&e=3D=
+fecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;color: #1FADB6;text-decoration: underline;">Co=
+ntact=C2=A0Us</a>
+                    <!--
+ -->
+                    | <a href=3D"https://mailchi.mp/statnews/tk-9rqdco1rvh=
+?e=3Dfecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;color: #1FADB6;text-decoration: unde=
+rline;">View=C2=A0In=C2=A0Browser</a>
+                    <!--
+ -->
+                  </td>
+                </tr>
+              </table><img src=3D"https://b.bostonglobemedia.com/s/5cP.gif=
+?contact_status=3DNewsletter Only" height=3D"1" width=3D"1" alt=3D"5cP.g=
+if?contact_status=3DNewsletter Only" style=3D"border: 0;height: auto;out=
+line: none;text-decoration: none;-ms-interpolation-mode: bicubic;max-width=
+: 550px;">
+              <!-- // END MODULE: STANDARD FOOTER -->
+            </td>
+          </tr>
+          <!-- // END FOOTER -->
+        </table>
+        <!--[if gte mso 9]>
+      </td>
+    </tr>
+  </table>
+  <![endif]-->
+        <!-- // END TEMPLATE -->
+      </td>
+    </tr>
+  </table>
+</center>
+<img src=3D"https://statnews.us11.list-manage.com/track/open.php?u=3Df8609=
+630ae206654824f897b6&id=3D8ea7c208de&e=3Dfecc3a10a2" height=3D"1" width=
+=3D"1"></body>
+</html>
+--_----------=_MCPart_1715217697--
+

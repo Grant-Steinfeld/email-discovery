@@ -1,0 +1,681 @@
+From 921935-4744-1002@be5.maropost.com  Mon Oct  8 15:12:38 2018
+Return-Path: <921935-4744-1002@be5.maropost.com>
+X-Original-To: techinfo@agentidea.com
+Delivered-To: techinfo@agentidea.com
+Received: from mta1.techwalla.com (mta1.techwalla.com [162.247.118.156])
+	by agentidea.com (Postfix) with ESMTP id 546D840D13
+	for <techinfo@agentidea.com>; Mon,  8 Oct 2018 15:12:38 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+ s=default; d=techwalla.com; t=1539011558; l=1; h=from:subject:date:to;
+ bh=nR4OLZRZ0GUjrRPiikCTwjFrqv567Fsl8w66LhE1mcQ=;
+ b=LjhQCeKWptiuzewxZIBIl7jaLgOxs8P/+Lxq972Iv4RLge6z9c+OCMkoUh6pqdTWC39ZUJ
+ cTC+82qliEotOVwCcWcJfF1HvcUIrAFQOW9dAZvvekYquUAH0yXVJ6D2lRDaGFUQDB+jzm
+ CL3dv+tgoVADxasStxj5hLzD+CZO5nw=
+Received: from [<921935-4744-1002@be5.maropost.com>] ([<921935-4744-1002@be5.maropost.com>] helo=maropost.com) 
+ by 771426-mailer10 (envelope-from 921935-4744-1002@be5.maropost.com)
+ (Jetsend MTA 0.0.1 with ESMTP; Mon Oct  8 11:09:41 EDT 2018
+Date: Mon, 08 Oct 2018 11:09:38 -0400
+From: Techwalla <news@mail.techwalla.com>
+Reply-To: noreply@techwalla.com
+To: techinfo@agentidea.com
+Message-ID: <19092040-ad3a-0136-0224-42010a800fca@techwalla.com>
+Subject: This Viral Video Will Definitely Make You Cry
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5bbb733238037_65257d82ec41526184fc";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <mailto:921935-4744-1002-162.247.118.156-gmail@abuse.maropost.com>
+X-CampaignID: 4744
+X-Campaign-ID: 4744
+X-ContactID: 921935
+X-AccountID: 1002
+X-Binding: 162.247.118.156
+X-DkimDomain: techwalla.com
+X-DkimSelector: default
+X-Feedback-ID: 4744:372:1002
+X-rpcampaign: mpost_4744_372_1002
+
+
+----==_mimepart_5bbb733238037_65257d82ec41526184fc
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+
+
+This email was sent to techinfo@agentidea.com by news@mail.techwalla.com
+Manage Subscriptions
+http://links.techwalla.com/a/1002/unsubscribe/4744/921935/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc
+1655 26th St. Santa Monica, California, USA 90404 
+
+
+----==_mimepart_5bbb733238037_65257d82ec41526184fc
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://=
+www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<title>Techwalla Newsletter</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0 ">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<style type=3D"text/css">
+/*
+	Created By: Leaf Group
+	Created: April 2, 2018	=
+
+	Copyright 2018 LEAF GROUP
+*/
+body {
+-webkit-text-size-adjust: 100% !important;
+-ms-text-size-adjust: 100% !important;
+-webkit-font-smoothing: antialiased !important;
+}
+img {
+border: 0 !important;
+outline: none !important;
+}
+p {
+Margin: 0px !important;
+padding: 0px !important;
+}
+table {
+border-collapse: collapse;
+mso-table-lspace: 0px;
+mso-table-rspace: 0px;
+}
+td, a, span {
+border-collapse: collapse;
+mso-line-height-rule: exactly;
+}
+.ExternalClass * {
+line-height: 100%;
+}
+span.MsoHyperlink {
+mso-style-priority: 99;
+color: inherit;
+}
+span.MsoHyperlinkFollowed {
+mso-style-priority: 99;
+color: inherit;
+}
+.em_white a {
+color: #ffffff !important;
+text-decoration: none !important;
+}
+.gmailfix {
+display:none;
+display:none!important;
+}
+/*Stylesheed for the devices width between 481px to 599px*/
+@media only screen and (min-width:481px) and (max-width:659px) {
+*[class=3Dwrapper]{width: 100% !important;min-width:100% !important;}
+*[class=3Dfollow]{text-align: center !important;padding-right: 0 !importa=
+nt;padding-top: 0 !important; padding-bottom: 15px;}
+img[class=3Dfull_img] {width: 100% !important;height: auto !important;}
+tr[class=3Dhide] {display: none !important;}
+td[class=3Df11] {font-size: 11px !important;}
+td[class=3Df12] {font-size: 12px !important;}
+td[class=3Df18] {font-size: 18px !important; line-height: 28px !important=
+; padding:28px 18px !important;}
+td[class=3Dmob_title] {font-size: 18px !important; line-height: 28px !imp=
+ortant;padding:35px 18px 22px !important;}
+td[class=3Dmob_pad] {padding: 0 12px !important;}
+td[class=3Dfooter_pad]{padding:40px 20px !important;}
+td[class=3Dh20] {height: 20px !important;}
+td[class=3Dnav_pad] {padding:0 18px !important;}
+td[class=3Dnav_pad2] {padding:10px 0 !important;}
+table[class=3Dw300] {width: 300px !important;}
+}
+/*Stylesheed for the devices width between 0px to 480px*/
+@media only screen and (max-width:480px) {
+*[class=3Dwrapper]{width: 100% !important;min-width:100% !important;}
+*[class=3Dfollow]{text-align: center !important;padding-right: 0 !importa=
+nt;padding-top: 0 !important; padding-bottom: 15px;}
+img[class=3Dfull_img] {width: 100% !important;height: auto !important;}
+*[class=3Dhide] { display: none !important; }
+tr[class=3Dhide] {display: none !important;}
+td[class=3Df11] {font-size: 11px !important;}
+td[class=3Df12] {font-size: 12px !important;}
+td[class=3Df18] {font-size: 18px !important; line-height: 28px !important=
+; padding:28px 18px !important;}
+td[class=3Dmob_title] {font-size: 18px !important; line-height: 28px !imp=
+ortant;padding:35px 18px 22px !important;}
+td[class=3Dmob_pad] {padding: 0 12px !important;}
+td[class=3Dfooter_pad]{padding:40px 20px !important;}
+td[class=3Dh20] {height: 20px !important;}
+td[class=3Dnav_pad] {padding:25px 10px !important;}
+td[class=3Dnav_pad2] {padding:10px 0 !important;}
+table[class=3Dw300] {width: 300px !important;}
+}
+</style>
+</head>
+<body style=3D"margin:0px; padding:0px;">
+<div style=3D"display:none !important; opacity:0; color:transparent; mso-=
+hide:all; max-height:0px; overflow:hidden;">
+Get the tissues ready!
+</div>
+<img height=3D"1" width=3D"1" alt=3D"" style=3D"display:block;" src=3D"ht=
+tp://links.techwalla.com/a/1002/open/4744/921935/ad7ac226292380e8eecc64d7=
+dfab9ca39e55c6dc">
+
+	=
+
+<!-- LS Paste -->
+
+
+<!-- /LS Paste -->
+
+<!--Full width table start-->
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bg=
+color=3D"#EFEFEF">
+  <tr>
+    <td align=3D"center" valign=3D"top">
+<table width=3D"680" border=3D"0" align=3D"center" class=3D"wrapper" cell=
+padding=3D"0" cellspacing=3D"0" style=3D"table-layout:fixed;min-width:600=
+px;">
+        <tr class=3D"hide">
+          <td height=3D"1" style=3D"line-height:0px; font-size:0px;"><img=
+ src=3D"http://img.stitchcdn.com/ehow/2016/triggered/social_nav/spacer.gi=
+f" height=3D"1" width=3D"680" alt=3D"" style=3D"display:block;" border=3D=
+"0"></td>
+        </tr>
+        <tr>
+          <td align=3D"right" height=3D"20" valign=3D"middle" style=3D"fo=
+nt-family: Arial, sans-serif; font-size:11px; color:#878586;line-height:1=
+4px;"><a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/178f=
+76300bdc67f96404dad8bb8718a0d05bfc77/ad7ac226292380e8eecc64d7dfab9ca39e55=
+c6dc?message_id=3DIjE5MDkyMDQwLWFkM2EtMDEzNi0wMjI0LTQyMDEwYTgwMGZjYUB0ZWN=
+od2FsbGEuY29tIg=3D=3D" target=3D"_blank" style=3D"text-decoration:underli=
+ne;color:#707477;">View In Browser</a></td>
+        </tr>
+         =
+
+        <!-- Header start -->
+        <tr>
+          <td align=3D"center" style=3D"padding:20px 0;">
+<table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0">
+              <tr> =
+
+                <!-- Logo -->
+                <td align=3D"center" style=3D"padding-bottom:40px;"><a hr=
+ef=3D"http://links.techwalla.com/a/1002/click/4744/921935/add05128cf95d94=
+951111dea98c9d55e6b8db624/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc" targe=
+t=3D"_blank"><img src=3D"http://img.stitchcdn.com/techwalla/2016/template=
+s/navigation/logo.png" alt=3D"Techwalla" width=3D"221" style=3D"display:b=
+lock;height:auto;border:0;"></a></td>
+              </tr>
+              <!-- Navigation --> =
+
+              <!-- Navigation --> =
+
+              <tr>
+<td style=3D"padding:0 20px;">
+              <!-- Header end -->
+              <table width=3D"100%" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">
+                    =
+
+				  <!-- MAIN CONTENT PASTE -->
+			=
+
+				   =
+
+				 <!--Content Section -->
+<tr><td class=3D"mob_pad" align=3D"center">
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/909fa52473=
+96cf922f23238b37b0c5c9ee9a8d7e/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DQXJvdW5kIFRoZSBIb21l" target=3D"_blank"><img src=3D"https://s3-us-wes=
+t-1.amazonaws.com/contentlab.studiod/9/27/e66046c5d0c14a909542b5ecc2058bc=
+5.jpg" width=3D"640" alt=3D"Cavalier's New Portable Bluetooth Speaker Is =
+Stylish With Excellent Sound" style=3D"display:block; height:auto;border:=
+0;" border=3D"0" class=3D"full_img"></a>
+</td></tr>
+<tr><td><table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"border-collapse:collapse;"><tr><td bgcolor=
+=3D"#ffffff"><table width=3D"100%" align=3D"center" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+<tr>
+<!-- Title --><td class=3D"f18" align=3D"center" style=3D"font-size:28px;=
+line-height:35px;font-family:Helvetica,Arial,sans-serif;font-weight:300;p=
+adding:20px 30px">
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/15d5561f27=
+3afbf7ef033ca14c4f243be4024a06/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DQXJvdW5kIFRoZSBIb21l" target=3D"_blank" style=3D"color:#3b444e;text-d=
+ecoration:none;font-size:28px;line-height:35px;font-family:Helvetica, Ari=
+al,sans-serif;font-weight:300;">Cavalier's New Portable Bluetooth Speaker=
+ Is Stylish With Excellent Sound</a>
+</td>
+</tr>
+<tr>
+<!-- CTA --><td align=3D"center" style=3D"padding-bottom:30px;"><table wi=
+dth=3D"222" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0"><tr><td align=3D"center"><div>
+<!--[if mso]><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns=
+:w=3D"urn:schemas-microsoft-com:office:word" style=3D"height:46px;v-text-=
+anchor:middle;width:222px;" arcsize=3D"60%" href=3D"http://www.techwalla.=
+com/13715241/cavaliers-new-portable-bluetooth-speaker-is-stylish-with-exc=
+ellent-sound?utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D10=
+0818&c_crid=3Dcta" stroke=3D"f" fillcolor=3D"#23cd93"><w:anchorlock/><cen=
+ter><![endif]-->
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/f3f72e2dbe=
+a2e23a2ae8fa7a705d9a03639ce308/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DQXJvdW5kIFRoZSBIb21l" target=3D"_blank" style=3D"background-color:#23=
+cd93;color:#ffffff;display:inline-block;font-family:Helvetica, Arial, san=
+s-serif;font-size:14px;font-weight:bold;line-height:46px;text-align:cente=
+r;text-decoration:none;width:222px;-webkit-text-size-adjust:none;">READ M=
+ORE</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div></td></tr></table></td>
+</tr>
+</table></td></tr></table></td></tr>
+<!-- /Content Section -->
+<tr><td height=3D"40" class=3D"h20" style=3D"font-size:0;line-height:0;">=
+</td></tr>
+
+                     =
+
+				 <!--Content Section -->
+<tr><td class=3D"mob_pad" align=3D"center">
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/7c1724e4a7=
+89ed6df1090dc3deae578debbb2901/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DRmFtaWx5" target=3D"_blank"><img src=3D"https://s3-us-west-1.amazonaw=
+s.com/contentlab.studiod/8/31/02f84d7d90c5414d9dd88beb2524029c.jpg" width=
+=3D"640" alt=3D"This Mom Blogger Creates Tons of Healthy Recipes Your Kid=
+s Will Love" style=3D"display:block; height:auto;border:0;" border=3D"0" =
+class=3D"full_img"></a>
+</td></tr>
+<tr><td><table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"border-collapse:collapse;"><tr><td bgcolor=
+=3D"#ffffff"><table width=3D"100%" align=3D"center" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+<tr>
+<!-- Title --><td class=3D"f18" align=3D"center" style=3D"font-size:28px;=
+line-height:35px;font-family:Helvetica,Arial,sans-serif;font-weight:300;p=
+adding:20px 30px">
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/767733c873=
+87166fdce7bce421a151e650dadac0/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DRmFtaWx5" target=3D"_blank" style=3D"color:#3b444e;text-decoration:no=
+ne;font-size:28px;line-height:35px;font-family:Helvetica, Arial,sans-seri=
+f;font-weight:300;">This Mom Blogger Creates Tons of Healthy Recipes Your=
+ Kids Will Love</a>
+</td>
+</tr>
+<tr>
+<!-- CTA --><td align=3D"center" style=3D"padding-bottom:30px;"><table wi=
+dth=3D"222" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0"><tr><td align=3D"center"><div>
+<!--[if mso]><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns=
+:w=3D"urn:schemas-microsoft-com:office:word" style=3D"height:46px;v-text-=
+anchor:middle;width:222px;" arcsize=3D"60%" href=3D"http://www.techwalla.=
+com/13714694/this-mom-blogger-creates-tons-of-healthy-recipes-your-kids-w=
+ill-love?utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D100818=
+&c_crid=3Dcta" stroke=3D"f" fillcolor=3D"#23cd93"><w:anchorlock/><center>=
+<![endif]-->
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/4a7861409f=
+90b85aa30f2ca91b42056c624f8c8f/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DRmFtaWx5" target=3D"_blank" style=3D"background-color:#23cd93;color:#=
+ffffff;display:inline-block;font-family:Helvetica, Arial, sans-serif;font=
+-size:14px;font-weight:bold;line-height:46px;text-align:center;text-decor=
+ation:none;width:222px;-webkit-text-size-adjust:none;">READ MORE</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div></td></tr></table></td>
+</tr>
+</table></td></tr></table></td></tr>
+<!-- /Content Section -->
+<tr><td height=3D"40" class=3D"h20" style=3D"font-size:0;line-height:0;">=
+</td></tr>
+
+                     =
+
+				 <!--Content Section -->
+<tr><td class=3D"mob_pad" align=3D"center">
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/1b6573f0fc=
+d5055f9ec7ddf34c63967504752bf5/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DRmFtaWx5" target=3D"_blank"><img src=3D"https://s3-us-west-1.amazonaw=
+s.com/contentlab.studiod/9/24/2f4a0b682aea4d8ea397b681c30e039b.jpg" width=
+=3D"640" alt=3D"NOGGIN Preschool Offers Tons of Educational Shows for You=
+r Kids" style=3D"display:block; height:auto;border:0;" border=3D"0" class=
+=3D"full_img"></a>
+</td></tr>
+<tr><td><table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"border-collapse:collapse;"><tr><td bgcolor=
+=3D"#ffffff"><table width=3D"100%" align=3D"center" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+<tr>
+<!-- Title --><td class=3D"f18" align=3D"center" style=3D"font-size:28px;=
+line-height:35px;font-family:Helvetica,Arial,sans-serif;font-weight:300;p=
+adding:20px 30px">
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/da05bf5b92=
+734ff293aaab279f88d24a5ad83acb/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DRmFtaWx5" target=3D"_blank" style=3D"color:#3b444e;text-decoration:no=
+ne;font-size:28px;line-height:35px;font-family:Helvetica, Arial,sans-seri=
+f;font-weight:300;">NOGGIN Preschool Offers Tons of Educational Shows for=
+ Your Kids</a>
+</td>
+</tr>
+<tr>
+<!-- CTA --><td align=3D"center" style=3D"padding-bottom:30px;"><table wi=
+dth=3D"222" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0"><tr><td align=3D"center"><div>
+<!--[if mso]><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns=
+:w=3D"urn:schemas-microsoft-com:office:word" style=3D"height:46px;v-text-=
+anchor:middle;width:222px;" arcsize=3D"60%" href=3D"http://www.techwalla.=
+com/13715133/noggin-preschool-offers-tons-of-educational-shows-for-your-k=
+ids?utm_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D100818&c_cr=
+id=3Dcta" stroke=3D"f" fillcolor=3D"#23cd93"><w:anchorlock/><center><![en=
+dif]-->
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/697085f95c=
+afcd669af62a3f51b26f250a49f95e/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DRmFtaWx5" target=3D"_blank" style=3D"background-color:#23cd93;color:#=
+ffffff;display:inline-block;font-family:Helvetica, Arial, sans-serif;font=
+-size:14px;font-weight:bold;line-height:46px;text-align:center;text-decor=
+ation:none;width:222px;-webkit-text-size-adjust:none;">READ MORE</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div></td></tr></table></td>
+</tr>
+</table></td></tr></table></td></tr>
+<!-- /Content Section -->
+<tr><td height=3D"40" class=3D"h20" style=3D"font-size:0;line-height:0;">=
+</td></tr>
+
+                     =
+
+				 <!--Content Section -->
+<tr><td class=3D"mob_pad" align=3D"center">
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/f5820eb62a=
+4712f3586ca37999e40e6aba0b77a3/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DQXJvdW5kIFRoZSBIb21l" target=3D"_blank"><img src=3D"https://s3-us-wes=
+t-1.amazonaws.com/contentlab.studiod/10/3/c9fbdfa0a05a4421bf5f677f4e9a375=
+a.jpg" width=3D"640" alt=3D"If You Need a Good Cry, Watch The " happier m=
+usic video by marshmello and bastille style=3D"display:block; height:auto=
+;border:0;" border=3D"0" class=3D"full_img"></a>
+</td></tr>
+<tr><td><table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"border-collapse:collapse;"><tr><td bgcolor=
+=3D"#ffffff"><table width=3D"100%" align=3D"center" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+<tr>
+<!-- Title --><td class=3D"f18" align=3D"center" style=3D"font-size:28px;=
+line-height:35px;font-family:Helvetica,Arial,sans-serif;font-weight:300;p=
+adding:20px 30px">
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/1d0051b3b6=
+e805f32ec2309ac1977bf77a1f380e/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DQXJvdW5kIFRoZSBIb21l" target=3D"_blank" style=3D"color:#3b444e;text-d=
+ecoration:none;font-size:28px;line-height:35px;font-family:Helvetica, Ari=
+al,sans-serif;font-weight:300;">If You Need a Good Cry, Watch The "Happie=
+r" Music Video by Marshmello and Bastille</a>
+</td>
+</tr>
+<tr>
+<!-- CTA --><td align=3D"center" style=3D"padding-bottom:30px;"><table wi=
+dth=3D"222" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0"><tr><td align=3D"center"><div>
+<!--[if mso]><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns=
+:w=3D"urn:schemas-microsoft-com:office:word" style=3D"height:46px;v-text-=
+anchor:middle;width:222px;" arcsize=3D"60%" href=3D"http://www.techwalla.=
+com/13715345/if-you-need-a-good-cry-watch-the-happier-music-video-by-mars=
+hmello-and-bastille?utm_source=3Dnewsletter&utm_medium=3Demail&utm_campai=
+gn=3D100818&c_crid=3Dcta" stroke=3D"f" fillcolor=3D"#23cd93"><w:anchorloc=
+k/><center><![endif]-->
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/d50d14edc3=
+83b577e6a7a326841ecbe7a6b6a53c/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DQXJvdW5kIFRoZSBIb21l" target=3D"_blank" style=3D"background-color:#23=
+cd93;color:#ffffff;display:inline-block;font-family:Helvetica, Arial, san=
+s-serif;font-size:14px;font-weight:bold;line-height:46px;text-align:cente=
+r;text-decoration:none;width:222px;-webkit-text-size-adjust:none;">READ M=
+ORE</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div></td></tr></table></td>
+</tr>
+</table></td></tr></table></td></tr>
+<!-- /Content Section -->
+<tr><td height=3D"40" class=3D"h20" style=3D"font-size:0;line-height:0;">=
+</td></tr>
+
+                     =
+
+				 <!--Content Section -->
+<tr><td class=3D"mob_pad" align=3D"center">
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/3cb06b1fa1=
+0d07664f2036d710984e59b825389a/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DQ29vbA=3D=3D" target=3D"_blank"><img src=3D"https://s3-us-west-1.amaz=
+onaws.com/contentlab.studiod/10/2/6d442e22aa6241348323f1804f26dc7a.jpg" w=
+idth=3D"640" alt=3D"Amazon Will Now Pay Its Employees at Least $15 an Hou=
+r" style=3D"display:block; height:auto;border:0;" border=3D"0" class=3D"f=
+ull_img"></a>
+</td></tr>
+<tr><td><table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"border-collapse:collapse;"><tr><td bgcolor=
+=3D"#ffffff"><table width=3D"100%" align=3D"center" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+<tr>
+<!-- Title --><td class=3D"f18" align=3D"center" style=3D"font-size:28px;=
+line-height:35px;font-family:Helvetica,Arial,sans-serif;font-weight:300;p=
+adding:20px 30px">
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/380cd99879=
+231e5a796e80e222dd4cb39eee2948/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DQ29vbA=3D=3D" target=3D"_blank" style=3D"color:#3b444e;text-decoratio=
+n:none;font-size:28px;line-height:35px;font-family:Helvetica, Arial,sans-=
+serif;font-weight:300;">Amazon Will Now Pay Its Employees at Least $15 an=
+ Hour</a>
+</td>
+</tr>
+<tr>
+<!-- CTA --><td align=3D"center" style=3D"padding-bottom:30px;"><table wi=
+dth=3D"222" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0"><tr><td align=3D"center"><div>
+<!--[if mso]><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns=
+:w=3D"urn:schemas-microsoft-com:office:word" style=3D"height:46px;v-text-=
+anchor:middle;width:222px;" arcsize=3D"60%" href=3D"http://www.techwalla.=
+com/13715341/amazon-will-now-pay-its-employees-at-least-15-an-hour?utm_so=
+urce=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D100818&c_crid=3Dcta" =
+stroke=3D"f" fillcolor=3D"#23cd93"><w:anchorlock/><center><![endif]-->
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/402d2ecf06=
+748dcc70da483a2892cda0ffddc982/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DQ29vbA=3D=3D" target=3D"_blank" style=3D"background-color:#23cd93;col=
+or:#ffffff;display:inline-block;font-family:Helvetica, Arial, sans-serif;=
+font-size:14px;font-weight:bold;line-height:46px;text-align:center;text-d=
+ecoration:none;width:222px;-webkit-text-size-adjust:none;">READ MORE</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div></td></tr></table></td>
+</tr>
+</table></td></tr></table></td></tr>
+<!-- /Content Section -->
+<tr><td height=3D"40" class=3D"h20" style=3D"font-size:0;line-height:0;">=
+</td></tr>
+
+                     =
+
+				 <!--Content Section -->
+<tr><td class=3D"mob_pad" align=3D"center">
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/088336b283=
+cf1525ecd5387aa9cc2aeac6977a7f/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DQXJvdW5kIFRoZSBIb21l" target=3D"_blank"><img src=3D"https://s3-us-wes=
+t-1.amazonaws.com/contentlab.studiod/10/1/bc373cac5d1047d896de5ae571d5341=
+d.jpg" width=3D"640" alt=3D"Temi Is the Personal Robot on Wheels You've D=
+reamed About" style=3D"display:block; height:auto;border:0;" border=3D"0"=
+ class=3D"full_img"></a>
+</td></tr>
+<tr><td><table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"border-collapse:collapse;"><tr><td bgcolor=
+=3D"#ffffff"><table width=3D"100%" align=3D"center" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+<tr>
+<!-- Title --><td class=3D"f18" align=3D"center" style=3D"font-size:28px;=
+line-height:35px;font-family:Helvetica,Arial,sans-serif;font-weight:300;p=
+adding:20px 30px">
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/09e171358c=
+2627d948fdf7b5558a6df6c2ce4977/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DQXJvdW5kIFRoZSBIb21l" target=3D"_blank" style=3D"color:#3b444e;text-d=
+ecoration:none;font-size:28px;line-height:35px;font-family:Helvetica, Ari=
+al,sans-serif;font-weight:300;">Temi Is the Personal Robot on Wheels You'=
+ve Dreamed About</a>
+</td>
+</tr>
+<tr>
+<!-- CTA --><td align=3D"center" style=3D"padding-bottom:30px;"><table wi=
+dth=3D"222" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0"><tr><td align=3D"center"><div>
+<!--[if mso]><v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns=
+:w=3D"urn:schemas-microsoft-com:office:word" style=3D"height:46px;v-text-=
+anchor:middle;width:222px;" arcsize=3D"60%" href=3D"http://www.techwalla.=
+com/13715317/temi-is-the-personal-robot-on-wheels-youve-dreamed-about?utm=
+_source=3Dnewsletter&utm_medium=3Demail&utm_campaign=3D100818&c_crid=3Dct=
+a" stroke=3D"f" fillcolor=3D"#23cd93"><w:anchorlock/><center><![endif]-->=
+
+<a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/e01281cd95=
+27392dbfb2cf5a25bc6d98294e099d/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc?a=
+t=3DQXJvdW5kIFRoZSBIb21l" target=3D"_blank" style=3D"background-color:#23=
+cd93;color:#ffffff;display:inline-block;font-family:Helvetica, Arial, san=
+s-serif;font-size:14px;font-weight:bold;line-height:46px;text-align:cente=
+r;text-decoration:none;width:222px;-webkit-text-size-adjust:none;">READ M=
+ORE</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div></td></tr></table></td>
+</tr>
+</table></td></tr></table></td></tr>
+<!-- /Content Section -->
+<tr><td height=3D"40" class=3D"h20" style=3D"font-size:0;line-height:0;">=
+</td></tr>
+
+                     =
+
+                    <!-- /MAIN CONTENT PASTE -->
+                    <!-- Footer start -->
+                    =
+
+                    <tr>
+                      <td class=3D"footer_pad" align=3D"center" bgcolor=3D=
+"#ffffff" style=3D"padding:26px;"><table width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0">
+                          <tr>
+                            <td><table width=3D"100%" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0">
+                                <tr>
+                                  <td align=3D"center"><table width=3D"34=
+0" class=3D"wrapper" align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0">
+                                      <tr>
+                                        <td align=3D"center">
+<table width=3D"178" class=3D"wrapper" align=3D"left" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0">
+                                            <tr>
+                                              <td class=3D"follow" align=3D=
+"center" style=3D"font-size:30px;color:#3b444e;font-family:Museo Sans,Hel=
+vetica,Arial,sans-serif;padding-right:22px;padding-top:2px;">Follow Us!</=
+td>
+                                              <!-- Social Media --> =
+
+                                            </tr>
+                                          </table>
+                                          <table width=3D"158" class=3D"w=
+rapper" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                                            <tr>
+                                              <td align=3D"center"><table=
+ width=3D"158" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0">
+                                                  <tr>
+                                                    <td><a href=3D"http:/=
+/links.techwalla.com/a/1002/click/4744/921935/375ba545281f17a1a44504a0d44=
+fb0659a191ae9/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc" target=3D"_blank"=
+><img src=3D"http://img.stitchcdn.com/techwalla/2016/templates/navigation=
+/fb.png" alt=3D"Facebook" width=3D"40" style=3D"display:block;height:auto=
+;border:0;"></a></td>
+                                                    <td style=3D"padding:=
+0 18px;"><a href=3D"http://links.techwalla.com/a/1002/click/4744/921935/4=
+a0c16067f8a4765eeff43b9f6cee5e7ab94d2d2/ad7ac226292380e8eecc64d7dfab9ca39=
+e55c6dc" target=3D"_blank"><img src=3D"http://img.stitchcdn.com/techwalla=
+/2016/templates/navigation/twitter.png" alt=3D"Twitter" width=3D"40" styl=
+e=3D"display:block;height:auto;border:0;"></a></td>
+                                                    <td><a href=3D"http:/=
+/links.techwalla.com/a/1002/click/4744/921935/5995b295c210c47b56188ffb5d8=
+2543d014713d2/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc" target=3D"_blank"=
+><img src=3D"http://img.stitchcdn.com/techwalla/2016/templates/navigation=
+/youtube.png" alt=3D"Youtube" width=3D"40" style=3D"display:block;height:=
+auto;border:0;"></a></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                          </table>
+</td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td style=3D"padding:32px 0 40px 0;"><table w=
+idth=3D"480" class=3D"wrapper" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+                                <tr>
+                                  <td height=3D"1" bgcolor=3D"dadada" sty=
+le=3D"font-size:0;line-height:0;">=C2=A0</td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td align=3D"center" style=3D"color:#3B444E;f=
+ont-size:12px;font-family:Helvetica,Arial,sans-serif;">=C2=A9  Leaf Group=
+ Ltd. All Rights Reserved. 1655 26th St. Santa Monica, CA 90404</td>
+                          </tr>
+                          <tr>
+                            <td align=3D"center" style=3D"color:#3B444E;f=
+ont-size:12px;font-family:Helvetica,Arial,sans-serif ;padding:15px 0;">Yo=
+u received this email because you are subscribed to Techwalla's Newslette=
+r. If you prefer not to receive emails from Techwalla you may <a href=3D"=
+http://links.techwalla.com/a/1002/click/4744/921935/d9427312eab07ad49357b=
+366b79e754cf4a48634/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc" target=3D"_=
+blank" style=3D"color:#017eb2;text-decoration:none;">unsubscribe</a>.</td=
+>
+                          </tr>
+                          <tr>
+                            <td align=3D"center" style=3D"color:#3B444E;f=
+ont-size:12px;font-family:Helvetica,Arial,sans-serif ;">Use of this web s=
+ite constitutes acceptance of the Techwalla <a href=3D"http://links.techw=
+alla.com/a/1002/click/4744/921935/41c71f196fd9cbe5d1502e4cc90deb940cd704f=
+2/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc" target=3D"_blank" style=3D"co=
+lor:#017eb2;text-decoration:none;">Terms of Use</a> and <a href=3D"http:/=
+/links.techwalla.com/a/1002/click/4744/921935/b9633661aaf124d2edccaf5d6db=
+31b8be48eece1/ad7ac226292380e8eecc64d7dfab9ca39e55c6dc" target=3D"_blank"=
+ style=3D"color:#017eb2;text-decoration:none;">Privacy Policy</a>.</td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <!-- Footer end -->
+                  </table>
+</td>
+              </tr>
+              <!-- Content end -->
+            </table>
+			</td>
+</tr>
+		</table>
+	  </td>
+</tr>
+</table>
+      <!--Full width table End-->
+      =
+
+      <div class=3D"gmailfix" style=3D"white-space:nowrap; font:15px cour=
+ier; line-height:0;"> </div>
+
+  =
+
+
+</body>
+</html>
+
+
+
+----==_mimepart_5bbb733238037_65257d82ec41526184fc--
+

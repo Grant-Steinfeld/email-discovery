@@ -1,0 +1,555 @@
+From Hollister@e.hollisterco.com  Mon Oct 15 11:42:06 2018
+Return-Path: <Hollister@e.hollisterco.com>
+X-Original-To: commerce@agentidea.com
+Delivered-To: commerce@agentidea.com
+Received: from omp.e.hollisterco.com (omp.e.hollisterco.com [12.130.136.39])
+	by agentidea.com (Postfix) with ESMTP id 5A7A240D13
+	for <commerce@agentidea.com>; Mon, 15 Oct 2018 11:42:06 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=hollisterco; d=e.hollisterco.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:
+ Subject:List-Unsubscribe:Message-ID; i=Hollister@e.hollisterco.com;
+ bh=nfrZpJ4doQCg7gayJQPSe/7uCihltTbPlzHRW7ctkHI=;
+ b=5qjoMMfJrMQctkeijamYqPVdgFsav8AQ2ENw5VaRAAGZgJxn1VRAWxLHsqSto78rpPOy4ojH9SIQ
+   z0/Vs8M8vIsy8o0QvWaQ6kEE8JoapA/CbWadrQWuTO90eT7ovSabPbz5N3xaUYwb+mNpT+XJrKY5
+   AGSCDaKIMbvjgQdBeNw=
+Received: by omp.e.hollisterco.com id hohugs2fm30i for <commerce@agentidea.com>; Mon, 15 Oct 2018 04:42:05 -0700 (envelope-from <Hollister@e.hollisterco.com>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 15 Oct 2018 04:42:05 -0700
+To: commerce@agentidea.com
+From: =?UTF-8?B?SG9sbGlzdGVy?= <Hollister@e.hollisterco.com>
+Reply-To: =?UTF-8?B?SG9sbGlzdGVy?= <reply@e.hollisterco.com>
+Subject: Get 50-70% off all clearance!
+Feedback-ID: 6991:25300142:oraclersys
+List-Unsubscribe: <https://e.hollisterco.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGn&_ei_=EolaGGF4SNMvxFF7KucKuWMl0SRTF-kWgQJCdoN8st5UPTVmsq4nWy3Rp5o3No9uHV1OYxwAg2CpDLqkVOxzlqE>, <mailto:unsubscribe-YQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGn@imh.rsys2.com?subject=List-Unsubscribe>
+X-sgxh1: JhuuLjJLxHnLglpKLHQJhu
+X-rext: 5.interact2.EgykCG1AQD7TqeLRINckH4i0AbcwrUr3yuSBFDqlFQbIWFa6S_A0czX5xo3Uz-TD5ygvEg
+X-cid: hollister.21773722
+Message-ID: <0.1.25F.21A.1D4647C18955B04.0@omp.e.hollisterco.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22 xmlns:v=3D=22urn:schem=
+as-microsoft-com:vml=22>
+<head>
+<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3DUTF=
+-8=22/>
+<meta name=3D=22format-detection=22 content=3D=22telephone=3Dno=22 />=20
+<meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width; initial-scal=
+e=3D1=2E0; maximum-scale=3D1=2E0; user-scalable=3Dno;=22 />
+<meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3D9; IE=3D8; IE=3D=
+7; IE=3DEDGE=22 />
+<title>Hollister</title>
+<style type=3D=22text/css=22>
+/* Some resets and issue fixes */
+
+html =7B
+	-webkit-text-size-adjust: none;
+=7D
+=2EReadMsgBody =7B
+	width: 100%;
+=7D
+=2EExternalClass =7B
+	width: 100%;
+=7D
+=2EExternalClass * =7B
+	line-height: 100%
+=7D
+body =7B
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	margin: 0 auto;
+=7D
+/* End reset */
+
+
+
+/* CSS for hiding content in desktop/webmail clients */
+a=2Eno_underline =7B
+	text-decoration: none;
+=7D</style>
+</head>
+<body style=3D=22margin:0; padding:0;=22 bgcolor=3D=22=23FCFCFA=22>
+	<table width=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22 align=3D=22center=22 bgcolor=3D=22=23FCFCFA=22>
+		<tr>
+			<td valign=3D=22top=22 align=3D=22center=22>=20
+                <table border=3D=220=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22>
+                    <tr>
+                        <td height=3D=2220=22 style=3D=22line-height:20px; =
+font-size:0px;=22><div style=3D=22width:1px; height:20px;=22><img src=3D=22=
+https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/hollister/content=
+library/promo_templates/images/sp=2Epng=22 width=3D=221=22 height=3D=2220=
+=22 border=3D=220=22 style=3D=22display:block;=22 /></div></td>
+                    </tr>
+                </table>
+                <table width=3D=22570=22 border=3D=220=22 cellpadding=3D=22=
+0=22 cellspacing=3D=220=22 bgcolor=3D=22=23FCFCFA=22>
+                    <tr>
+                        <td width=3D=2217=22 style=3D=22line-height:1px; fo=
+nt-size:0px;=22> <div style=3D=22width:17px; height:1px;=22><img border=3D=
+=220=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/=
+hollister/contentlibrary/promo_shared/images/sp=2Epng=22 width=3D=2217=22 h=
+eight=3D=221=22 style=3D=22display:block=22/> </div></td>
+                        <td align=3D=22left=22 valign=3D=22top=22 style=3D=
+=22color:=23666666; font-size: 10px; line-height: 14px; font-family: Arial,=
+ Helvetica, sans-serif;=22>
+
+<a href=3D=22https://e=2Ehollisterco=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjH=
+JlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq=
+29YPnNGnVXtpKX%3DDWYBUDWT&_ei_=3DEo8YwIqhA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8Qq=
+bZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT4biDoTXLG8UNBtjkfok7loqm11qu7zegrWM=
+slCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=22 style=3D=22color:=23666666; tex=
+t-decoration:none=22 target=3D=22_blank=22> <span style=3D=22color:=2366666=
+6;text-decoration:none;=22>=20
+
+
+<=21-- Insert words -->
+
+How low can we go? =F0=9F=91=87
+
+<=21-- /End words -->
+=09
+</span></a>
+
+                        </td>
+                        <td align=3D=22right=22 valign=3D=22top=22>
+                            <table border=3D=220=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22 align=3D=22right=22>
+                                <tr>
+                                    <td valign=3D=22top=22 align=3D=22right=
+=22 style=3D=22color:=23666666; text-decoration:none; font-size: 10px; line=
+-height: 14px; font-family: Arial, Helvetica, sans-serif;=22> View on <a hr=
+ef=3D=22https://e=2Ehollisterco=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQG=
+nPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPn=
+NGnVXtpKX%3DDWYBUDAT&_ei_=3DEmgAtNEOg9EdlXFjZgYIkCSt2bUnJO850x0evT7qZI4bkFW=
+xZCOo1ImukchTJpg6g5M2LLYw2pAbx6CmdeEzV0Hdvb7gxZZZO0VBAyOh7mMeFI6os7_OpUVfca=
+r6HwGOgTVwgqFPNYtkMm1_eY-OGHGykqnYjWbr4t7-9mYXl_tJRHM5g6uCIMbwIp4OoQaUXqwXv=
+zlqCrUyUHJ0ZSp2xlPMujk1RCp9VZTcMG_mz_v7YubYE3OL5chTuizs8MZY1v3ftRLLnpoN0hIR=
+inJZlYQm_9GnKWeYZSt2X2AKcoWjoAbqyh2aX5xIIhoXoxCt00SOamvqA_8MZsLBBoUPoXjWgHW=
+_X9XbsRGZm4CCUgbmDIowrKH7T74TA4ltERjZAIqp5wOVrMRgG5p5MTkE_FqLbvQnP6QEpQC7o3=
+-heU_xuFDlJqCzZqZG2vxjyBpH1iGH1Bk6_jpeG8zfx3sYF1JtXv_LELRMHwpMBv0gRBohUGhvD=
+nNYcRLLqLb1JKEfz-YNKL5bsm_cL3c23IuUydjbKEs=2E=22 style=3D=22color:=23666666=
+; text-decoration:underline=22 target=3D=22_blank=22> <span style=3D=22colo=
+r:=23666666;text-decoration:underline;=22> Web Browser </span> </a> </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td width=3D=2217=22 style=3D=22line-height:1px; fo=
+nt-size:0px;=22><div style=3D=22width:1px; height:1px;=22><img border=3D=22=
+0=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/hol=
+lister/contentlibrary/promo_shared/images/sp=2Epng=22 width=3D=2217=22 heig=
+ht=3D=221=22 style=3D=22display:block=22 /></div></td>
+                    </tr>
+                </table>
+                <table border=3D=220=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22>
+                    <tr>
+                        <td height=3D=2220=22 style=3D=22line-height:20px; =
+font-size:0px;=22><div style=3D=22width:1px; height:20px;=22><img src=3D=22=
+https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/hollister/content=
+library/promo_templates/images/sp=2Epng=22 width=3D=221=22 height=3D=2220=
+=22 border=3D=220=22 style=3D=22display:block;=22 /></div></td>
+                    </tr>
+                </table>
+
+
+
+                <table width=3D=22570=22 border=3D=220=22 align=3D=22center=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                    <tr>
+                        <td align=3D=22left=22 valign=3D=22top=22>=20
+
+
+
+
+
+<table align=3D=22center=22 border=3D=220=22 width=3D=22570=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 bgcolor=3D=22=23f7f3ea=22>
+
+
+<tr>
+<td width=3D=22570=22 height=3D=2234=22><div style=3D=22height:34px;=22><a =
+href=3D=22https://e=2Ehollisterco=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlT=
+QGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29Y=
+PnNGnVXtpKX%3DDWYBUDCT&_ei_=3DEo8YwIqhA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8QqbZZ=
+DdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMslC=
+ZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i2/responsysimages/hollister/contentlibrary/201810_week3=
+/101518_hco_active_uscan_promo_clearance/Images/1015-HCO-US_01=2Ejpg=22 sty=
+le=3D=22display:block=22 border=3D=220=22 width=3D=22570=22 height=3D=2234=
+=22 alt=3D=22=22/></a></div></td>
+</tr>
+
+
+
+
+<tr>
+<td width=3D=22570=22 height=3D=22231=22><div style=3D=22height:231px;=22><=
+a href=3D=22https://e=2Ehollisterco=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJ=
+lTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq2=
+9YPnNGnVXtpKX%3DDWYBWRRT&_ei_=3DEo8YwIqhA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8Qqb=
+ZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMs=
+lCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i2/responsysimages/hollister/contentlibrary/201810_wee=
+k3/101518_hco_active_uscan_promo_clearance/Images/1015-HCO-US_02=2Ejpg=22 s=
+tyle=3D=22display:block=22 border=3D=220=22 width=3D=22570=22 height=3D=222=
+31=22 alt=3D=22ALL CLEARANCE 50-70% OFF=22/></a></div></td>
+</tr>
+
+
+<tr>
+<td><table align=3D=22center=22 border=3D=220=22 width=3D=22570=22 cellpadd=
+ing=3D=220=22 cellspacing=3D=220=22>
+<tr>
+<td width=3D=22285=22 height=3D=2258=22><div style=3D=22height:58px;=22><a =
+href=3D=22https://e=2Ehollisterco=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlT=
+QGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29Y=
+PnNGnVXtpKX%3DDWYBWRTT&_ei_=3DEo8YwIqhA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8QqbZZ=
+DdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMslC=
+ZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/hol=
+lister/contentlibrary/201810_week3/101518_hco_active_uscan_promo_clearance/=
+Images/1015-HCO-US_03=2Ejpg=22 style=3D=22display:block=22 border=3D=220=22=
+ width=3D=22285=22 height=3D=2258=22 alt=3D=22=22 /></a></div></td>
+<td width=3D=22285=22 height=3D=2258=22><div style=3D=22height:58px;=22><a =
+href=3D=22https://e=2Ehollisterco=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlT=
+QGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29Y=
+PnNGnVXtpKX%3DDWYBWRWT&_ei_=3DEo8YwIqhA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8QqbZZ=
+DdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMslC=
+ZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=22>
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/hol=
+lister/contentlibrary/201810_week3/101518_hco_active_uscan_promo_clearance/=
+Images/1015-HCO-US_04=2Ejpg=22 style=3D=22display:block=22 border=3D=220=22=
+ width=3D=22285=22 height=3D=2258=22 alt=3D=22=22 /></a></div></td>
+</tr>
+</table></td>
+</tr>
+=09
+=09
+
+
+<tr>
+<td width=3D=22570=22 height=3D=2243=22><div style=3D=22height:43px;=22><a =
+href=3D=22https://e=2Ehollisterco=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlT=
+QGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29Y=
+PnNGnVXtpKX%3DDWYBWRAT&_ei_=3DEgUJGF5uU7XBZmWTWaMoSUPd6HdLzA9gBRJiiWvP5BLqF=
+Q-hRTlQSjr77QK_NXMBhpzer6Jn_4gHZJNw2mbTvSTs5F7supOh8y1ZA_b1Q5w29ElFN3v166aR=
+TfaYJm9EFzVEQgJJ-xQ3TltYn8_KuBKVQscXXkpBwgSwz6LTpLx11g=2E=22><img src=3D=22=
+https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/hollister/content=
+library/201810_week3/101518_hco_active_uscan_promo_clearance/Images/1015-HC=
+O-US_05=2Ejpg=22 style=3D=22display:block=22 border=3D=220=22 width=3D=2257=
+0=22 height=3D=2243=22 alt=3D=22*Online only=2E Off original prices=2E Pric=
+e reflects discount=2E See Details=22/></a></div></td>
+</tr>
+=09
+
+
+
+<tr>
+<td width=3D=22570=22 height=3D=22779=22><div style=3D=22height:779px;=22><=
+a href=3D=22https://e=2Ehollisterco=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJ=
+lTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq2=
+9YPnNGnVXtpKX%3DDWYBWRCT&_ei_=3DEo8YwIqhA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8Qqb=
+ZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMs=
+lCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=22><img src=3D=22https://static=2Ec=
+dn=2Eresponsys=2Enet/i2/responsysimages/hollister/contentlibrary/201810_wee=
+k3/101518_hco_active_uscan_promo_clearance/Images/1015-HCO-US_06=2Ejpg=22 s=
+tyle=3D=22display:block=22 border=3D=220=22 width=3D=22570=22 height=3D=227=
+79=22 alt=3D=22=22/></a></div></td>
+</tr>
+
+
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+                        </td>
+                    </tr>
+                </table>
+
+
+
+
+    <table width=3D=22570=22 border=3D=220=22 align=3D=22center=22 cellpadd=
+ing=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+            <td width=3D=22570=22 height=3D=22128=22> <div style=3D=22width=
+:570px; height:128px;=22><a href=3D=22https://e=2Ehollisterco=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzg=
+zaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWSRT&_ei_=3DEo8YwIqhA3r4inhM-=
+DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT4biDoTXLG8=
+UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=22><img s=
+rc=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/hollister=
+/contentlibrary/dynamic_shell/bottom_nav/images/030418_US_1_club=2Ejpg=22 w=
+idth=3D=22570=22 height=3D=22128=22 border=3D=220=22 alt=3D=22=22 style=3D=
+=22display:block;=22 /></a></div></td>
+        </tr>
+        <tr>
+            <td>       =20
+                <table width=3D=22570=22 border=3D=220=22 align=3D=22center=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                    <tr>
+                        <td width=3D=22285=22 height=3D=2271=22> <div style=
+=3D=22width:285px; height:71px;=22><a href=3D=22https://e=2Ehollisterco=2Ec=
+om/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm=
+17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWSTT&_ei_=3DEo8YwIq=
+hA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT=
+4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=
+=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages=
+/hollister/contentlibrary/dynamic_shell/bottom_nav/images/030418_US_2_guys=
+=2Ejpg=22 width=3D=22285=22 height=3D=2271=22 border=3D=220=22 alt=3D=22=22=
+ style=3D=22display:block;=22 /></a></div></td>
+                        <td width=3D=22285=22 height=3D=2271=22> <div style=
+=3D=22width:285px; height:71px;=22><a href=3D=22https://e=2Ehollisterco=2Ec=
+om/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm=
+17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWSWT&_ei_=3DEo8YwIq=
+hA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT=
+4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=
+=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages=
+/hollister/contentlibrary/dynamic_shell/bottom_nav/images/030418_US_3_girls=
+=2Ejpg=22 width=3D=22285=22 height=3D=2271=22 border=3D=220=22 alt=3D=22=22=
+ style=3D=22display:block;=22 /></a></div></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td width=3D=22570=22 height=3D=2270=22> <div style=3D=22width:=
+570px; height:70px;=22><a href=3D=22https://e=2Ehollisterco=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgza=
+Ib4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWSAT&_ei_=3DEo8YwIqhA3r4inhM-Dc=
+nqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT4biDoTXLG8UN=
+Btjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/hollister/c=
+ontentlibrary/dynamic_shell/bottom_nav/images/030418_US_4_jeans=2Ejpg=22 wi=
+dth=3D=22570=22 height=3D=2270=22 border=3D=220=22 alt=3D=22=22 style=3D=22=
+display:block;=22 /></a></div></td>
+        </tr>
+        <tr>
+            <td>       =20
+                <table width=3D=22570=22 border=3D=220=22 align=3D=22center=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                    <tr>
+                        <td width=3D=22285=22 height=3D=2278=22> <div style=
+=3D=22width:285px; height:78px;=22><a href=3D=22https://e=2Ehollisterco=2Ec=
+om/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm=
+17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWSCT&_ei_=3DEo8YwIq=
+hA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT=
+4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=
+=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages=
+/hollister/contentlibrary/dynamic_shell/bottom_nav/images/030418_US_5_finda=
+store=2Ejpg=22 width=3D=22285=22 height=3D=2278=22 border=3D=220=22 alt=3D=
+=22=22 style=3D=22display:block;=22 /></a></div></td>
+                        <td width=3D=22285=22 height=3D=2278=22> <div style=
+=3D=22width:285px; height:78px;=22><a href=3D=22https://e=2Ehollisterco=2Ec=
+om/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm=
+17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWTRT&_ei_=3DEo8YwIq=
+hA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT=
+4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=
+=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages=
+/hollister/contentlibrary/dynamic_shell/bottom_nav/images/062618-hol-footer=
+-gilly-US_03=2Ejpg=22 width=3D=22285=22 height=3D=2278=22 border=3D=220=22 =
+alt=3D=22=22 style=3D=22display:block;=22 /></a></div></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+
+    <table width=3D=22570=22 border=3D=220=22 align=3D=22center=22 cellpadd=
+ing=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+            <td>       =20
+                <table width=3D=22570=22 border=3D=220=22 align=3D=22center=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                    <tr>
+                        <td width=3D=22156=22 height=3D=22106=22> <div styl=
+e=3D=22width:156px; height:106px;=22><a href=3D=22https://e=2Ehollisterco=
+=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3=
+jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWTTT&_ei_=3DEo8=
+YwIqhA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0O=
+fGuT4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7v=
+M=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysim=
+ages/hollister/contentlibrary/dynamic_shell/social_navs/images/030418_Socia=
+l_1_insta=2Ejpg=22 width=3D=22156=22 height=3D=22106=22 border=3D=220=22 al=
+t=3D=22=22 style=3D=22display:block;=22 /></a></div></td>
+                        <td width=3D=22129=22 height=3D=22106=22> <div styl=
+e=3D=22width:129px; height:106px;=22><a href=3D=22https://e=2Ehollisterco=
+=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3=
+jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWTWT&_ei_=3DEo8=
+YwIqhA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0O=
+fGuT4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7v=
+M=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysim=
+ages/hollister/contentlibrary/dynamic_shell/social_navs/images/030418_Socia=
+l_2_snap=2Ejpg=22 width=3D=22129=22 height=3D=22106=22 border=3D=220=22 alt=
+=3D=22=22 style=3D=22display:block;=22 /></a></div></td>
+                        <td width=3D=22118=22 height=3D=22106=22> <div styl=
+e=3D=22width:118px; height:106px;=22><a href=3D=22https://e=2Ehollisterco=
+=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3=
+jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWTAT&_ei_=3DEo8=
+YwIqhA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0O=
+fGuT4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7v=
+M=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysim=
+ages/hollister/contentlibrary/dynamic_shell/social_navs/images/030418_Socia=
+l_3_fb=2Ejpg=22 width=3D=22118=22 height=3D=22106=22 border=3D=220=22 alt=
+=3D=22=22 style=3D=22display:block;=22 /></a></div></td>
+                        <td width=3D=22167=22 height=3D=22106=22> <div styl=
+e=3D=22width:167px; height:106px;=22><a href=3D=22https://e=2Ehollisterco=
+=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3=
+jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWTCT&_ei_=3DEo8=
+YwIqhA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0O=
+fGuT4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7v=
+M=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysim=
+ages/hollister/contentlibrary/dynamic_shell/social_navs/images/030418_Socia=
+l_4_twitter=2Ejpg=22 width=3D=22167=22 height=3D=22106=22 border=3D=220=22 =
+alt=3D=22=22 style=3D=22display:block;=22 /></a></div></td>
+                    </tr>=20
+                </table>
+            </td>
+        </tr>
+	</table>
+
+
+    <table width=3D=22570=22 border=3D=220=22 align=3D=22center=22 cellpadd=
+ing=3D=220=22 cellspacing=3D=220=22>
+        <tr>
+            <td>       =20
+                <table width=3D=22570=22 border=3D=220=22 align=3D=22center=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                    <tr>
+                        <td width=3D=22285=22 height=3D=2281=22> <div style=
+=3D=22width:285px; height:81px;=22><a href=3D=22https://e=2Ehollisterco=2Ec=
+om/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm=
+17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWURT&_ei_=3DEolaGGF=
+4SNMvxFF7KucKuWMl0SRTF-kWgQJCdoN8st5UPTVmsq4nWy3Rp5o3No9uHV1OYxwAg2CpDLqkVO=
+xzlqE=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/respons=
+ysimages/hollister/contentlibrary/dynamic_shell/apps/images/030418_apps_1_a=
+pple=2Ejpg=22 width=3D=22285=22 height=3D=2281=22 border=3D=220=22 alt=3D=
+=22=22 style=3D=22display:block;=22 /></a></div></td>
+                        <td width=3D=22285=22 height=3D=2281=22> <div style=
+=3D=22width:285px; height:81px;=22><a href=3D=22https://e=2Ehollisterco=2Ec=
+om/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm=
+17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWUTT&_ei_=3DEolaGGF=
+4SNMvxFF7KucKuWMl0SRTF-kWgQJCdoN8st5UPTVmsq4nWy3Rp5o3No9uHV1OYxwAg2CpDLqkVO=
+xzlqE=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/respons=
+ysimages/hollister/contentlibrary/dynamic_shell/apps/images/030418_apps_2_g=
+oogle=2Ejpg=22 width=3D=22285=22 height=3D=2281=22 border=3D=220=22 alt=3D=
+=22=22 style=3D=22display:block;=22 /></a></div></td>
+                    </tr>=20
+                </table>
+            </td>
+        </tr>
+       =20
+	</table>
+
+
+	<table width=3D=22570=22 border=3D=220=22 cellpadding=3D=220=22 cellspacin=
+g=3D=220=22 align=3D=22center=22>
+		<tr>
+			<td align=3D=22center=22 style=3D=22font: 9px Arial, Helvetica, sans-ser=
+if; color: =23444444;=22>
+            This email is not endorsed and / or sponsored by any third-part=
+y social media sites=2E <br /> =20
+            All social media logos and trademarks displayed in this email a=
+re property of their respective owners=2E <br /><br />             =20
+            To ensure delivery to your inbox, add <a href=3D=22mailto:Holli=
+ster=40e=2Ehollisterco=2Ecom=22 style=3D=22color:=23444444;=22>Hollister=40=
+e=2Ehollisterco=2Ecom</a> to your address book=2E<br /><br />
+            This is a product offering from Hollister Co=2E <br /> =20
+            You have received this email since you subscribed to receive ma=
+rketing emails from Hollister Co=2E <br /> =20
+            In order to unsubscribe, please <a href=3D=22https://e=2Ehollis=
+terco=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6=
+IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWUWT&_ei_=
+=3DEo8YwIqhA3r4inhM-DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1=
+JuHI0OfGuT4biDoTXLG8UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20H=
+wmWf7vM=2E=22 style=3D=22color:=23444444;=22>click here</a> and submit your=
+ email address=2E <br /><br />            =20
+            Please see our <a href=3D=22https://e=2Ehollisterco=2Ecom/pub/c=
+c?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbt=
+zgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWUAT&_ei_=3DEo8YwIqhA3r4inh=
+M-DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT4biDoTXL=
+G8UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=22 styl=
+e=3D=22color:=23444444;=22><span style=3D=22color:=23444444;=22>Website Ter=
+ms of Use</span></a> and <a href=3D=22https://e=2Ehollisterco=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzg=
+zaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWUCT&_ei_=3DEo8YwIqhA3r4inhM-=
+DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT4biDoTXLG8=
+UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=22 style=
+=3D=22color:=23444444;=22><span style=3D=22color:=23444444;=22>Club Cali Te=
+rms</span></a>, and to know how we use your personal data, <br />
+            please see our <a href=3D=22https://e=2Ehollisterco=2Ecom/pub/c=
+c?_ri_=3DX0Gzc2X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbt=
+zgzaIb4zgHA1X6RJFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWWRT&_ei_=3DEo8YwIqhA3r4inh=
+M-DcnqNJXTR9w2AAFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT4biDoTXL=
+G8UNBtjkfok7loqm11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=22 styl=
+e=3D=22color:=23444444;=22><span style=3D=22color:=23444444;=22>Privacy Pol=
+icy=2E</span></a><br /><br />
+            Hollister Co=2E - 100 Hollister Way, New Albany OH 43054<br />
+            <a href=3D=22https://e=2Ehollisterco=2Ecom/pub/cc?_ri_=3DX0Gzc2=
+X%3DYQpglLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6R=
+JFzcYzfhU3Fq29YPnNGnVXtpKX%3DDWYBWWTT&_ei_=3DEo8YwIqhA3r4inhM-DcnqNJXTR9w2A=
+AFBlneUbz8QqbZZDdUJSN5tP1xwyF7DVwEvcMgbHW1JuHI0OfGuT4biDoTXLG8UNBtjkfok7loq=
+m11qu7zegrWMslCZogO_w1a8_Xn3ycMpB5VvPKp20HwmWf7vM=2E=22 style=3D=22color:=
+=23444444;=22><span style=3D=22color:=23444444;=22>www=2EHollisterCo=2Ecom<=
+/span></a>
+			</td>
+		</tr>
+	</table>
+	<table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cellspa=
+cing=3D=220=22 width=3D=22570=22>
+		<tr>
+            <td width=3D=221=22 height=3D=2225=22><div style=3D=22width:1px=
+; height:25px;=22><img border=3D=220=22 width=3D=221=22 height=3D=2225=22 s=
+rc=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i2/responsysimages/hollister=
+/contentlibrary/promo_shared/images/1x2=2Egif=22 style=3D=22display:block;=
+=22 /></div></td>
+		</tr>
+    </table>
+
+<=21-- cond(eq(lookup(MARKET_SITE),US),concat(<img src=3D=22http://ad=2Edou=
+bleclick=2Enet/ad/N3093=2E547841VISUALIQINC/B8378507=2E114991699;sz=3D1x1;o=
+rd=3D,todayformat(0,yyyy-MM-dd),;u=3D,lookup(CUSTOMER_ID_),=7C,lookup(CMP),=
+?=22 border=3D=220=22 width=3D=221=22 height=3D=221=22 />),nothing()) -->
+
+            </td>
+        </tr>
+    </table><br>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22border: 0px; =
+padding: 0px; margin: 0px; position: absolute; display: none; float: left=
+=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img src=3D=22https://e=2Ehollisterco=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DYQp=
+glLjHJlTQGnPs8ES6za9B2zbLe0bvJsaWpR6IJOj3jUPm17zg9zbtzgzaIb4zgHA1X6RJFzcYzf=
+hU3Fq29YPnNGnVXHkMX%3Dw&_ei_=3DEolaGGF4SNMvxFF7KucKuWMl0SRTF-kWgQJCdoN8st5U=
+PTVmsq4nWy3Rp5o3No9uHV1OYxwAg2CpDLqkVOxzlqE=2E=22></img>
+<br><IMG SRC=3D=22https://tags=2Ebluekai=2Ecom/site/27363?e_id_s=3D2017fb1b=
+f4958ebb4fd0fb12da89ff049d7be0e3d40299e2369d4c450405cf17&e_id_m=3D68de99d27=
+8318214409a2bbd28c4c9c1&phint=3Dchannel=3Demail=22 HEIGHT=3D=221=22 WIDTH=
+=3D=221=22>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+
+

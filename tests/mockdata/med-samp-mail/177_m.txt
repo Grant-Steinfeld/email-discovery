@@ -1,0 +1,1191 @@
+From service@email.kayak.com  Tue Oct  9 06:46:07 2018
+Return-Path: <service@email.kayak.com>
+X-Original-To: commerce@agentidea.com
+Delivered-To: commerce@agentidea.com
+Received: from mta1a1.kayak-m.sparkpostelite.com (mta1a1.kayak-m.sparkpostelite.com [52.88.240.252])
+	by agentidea.com (Postfix) with ESMTP id 4887440D13
+	for <commerce@agentidea.com>; Tue,  9 Oct 2018 06:46:07 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email.kayak.com;
+	s=scph0216; t=1539067565; i=@email.kayak.com;
+	bh=OGvlbHG4mz8DT6ebDK0myoz/B06CS2nKVo2DG2ea2x4=;
+	h=Date:From:To:Message-ID:Subject:Content-Type;
+	b=MTpFqkR2Y0f4rQf/Po1z7ialt2BFP96ZxZ+T/u65/754Rcbg+3WoKErkSbkPOETnI
+	 xTJqnNMuC7E/WQ3kN4k1jZWvtjOxkwVx+MI1HxSR48h93kV31URb1YM2UPw830pWeV
+	 MNoHJznStJmIzvIVffDjkAIN5KTQghzQf1GxREFM=
+X-MSFBL: gond+AUj4I5v/aAwiNn8zRVk0MCHyh1KWG2wUd5ehKc=|eyJzdWJhY2NvdW50X2l
+	kIjoiMCIsIm1lc3NhZ2VfaWQiOiIwMDAwYWQ0ZWJjNWI2ZTVlNWFhMiIsImN1c3R
+	vbWVyX2lkIjoiMSIsInRlbmFudF9pZCI6ImtheWFrIiwiciI6ImNvbW1lcmNlQGF
+	nZW50aWRlYS5jb20ifQ==
+Authentication-Results:  c.mta2vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (LOGIN)
+Received: from [185.6.168.245] ([185.6.168.245:55912] helo=p5hermes011.zrh.kayak.com)
+	by c.mta2vsmtp.cc.prd.sparkpost (envelope-from <service@email.kayak.com>)
+	(ecelerity 4.2.39.66161 r(Core:4.2.39.65)) with ESMTPSA (cipher=ECDHE-RSA-AES256-GCM-SHA384) 
+	id A5/2A-24174-DAE4CBB5; Tue, 09 Oct 2018 06:46:05 +0000
+Received: from p5hermes011.zrh.kayak.com (localhost.localdomain [127.0.0.1])
+	by p5hermes011.zrh.kayak.com (8.14.7/8.14.7) with ESMTP id w996k2ux011737
+	for <commerce@agentidea.com>; Tue, 9 Oct 2018 02:46:03 -0400
+Date: Tue, 9 Oct 2018 02:46:02 -0400 (EDT)
+From: KAYAK <service@email.kayak.com>
+Sender: KAYAK <service@email.kayak.com>
+To: commerce@agentidea.com
+Message-ID: <e2.MTAkJDQkTi9BJHVzJHA1LnpyaA==.1539067562.842660@p5hermes011>
+Subject: Prices holding steady for flights from PHL to one of these top
+ destinations, starting at $95.
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-R9-Home-URL: http://www.kayak.com
+List-Unsubscribe: <mailto:unsubscribe@kayak-m.sparkpostelite.com?subject=unsubscribe:gUZAgVh1wNxlUQ-T7wvSLPVVknVVqPGzaqnziMJA4BE~|eyAicmNwdF90byI6ICJjb21tZXJjZUBhZ2VudGlkZWEuY29tIiwgInRlbmFudF9pZCI6ICJrYXlhayIsICJjdXN0b21lcl9pZCI6ICIxIiwgIm1lc3NhZ2VfaWQiOiAiMDAwMGFkNGViYzViNmU1ZTVhYTIiLCAic3ViYWNjb3VudF9pZCI6ICIwIiB9>
+List-Id: <kayak-1-0>
+
+ <script type=3D"application/ld+json"> [{ "@context": "http://schema.org/",=
+ "@type": "Organization", "name": "KAYAK", "logo": "https://www.kayak.com/e=
+img/coreImages/KAYAK_K.jpg" } ,{ "@context": "http://schema.org/", "@type":=
+ "DiscountOffer", "description": "Price Up $1", "discountCode": "", "availa=
+bilityStarts": "", "availabilityEnds": "" } ,{ "@context": "http://schema.o=
+rg/", "@type": "PromotionCard", "image": "http://www.kayak.com/rimg/dimg/08=
+/c0/6640626c-city-9900-16326ed6fc2.jpg?width=3D450&height=3D115&xhint=3D280=
+0&yhint=3D2122&crop=3Dtrue" } ]
+</script> <!DOCTYPE html> <head> <meta name=3D"x-apple-disable-message-refo=
+rmatting"> <style type=3D"text/css"> td, span, div, a { text-decoration: no=
+ne } a[x-apple-data-detectors] { color: inherit !important; text-decoration=
+: none !important; font-size: inherit !important; font-family: inherit !imp=
+ortant; font-weight: inherit !important; line-height: inherit !important; }=
+ .suppressGoogleStyle a { color: inherit !important; text-decoration: none =
+!important; } .showOnMobile { display: none !important;} @media screen and =
+(max-width:480px) { .wrapper {min-width:320px !important;} .flexible {width=
+:100% !important;} .flexibleImage { width:100% !important; height:auto !imp=
+ortant; } .hideOnMobile { display: none !important; } .showOnMobile { displ=
+ay: inline !important; } .leftAlignMobile { text-align: left !important; pa=
+dding-left: 20px; padding-bottom: 7px; } .rightAlignMobile { text-align: ri=
+ght !important; } .mobileWhiteBackground { background-color: white !importa=
+nt; padding-top:0px !important; } .mobileTextSize22 { font-size:22px !impor=
+tant; } .mobileTextSize20 { font-size:20px !important; } .mobileTextSize17 =
+{ font-size:17px !important; } .mobileTextSize16 { font-size:16px !importan=
+t; } .mobileTextSize15 { font-size:15px !important; } .mobileTextSize14 { f=
+ont-size:14px !important; } .mobileTextSize13 { font-size:13px !important; =
+} .mobileTextSize12 { font-size:12px !important; } .mobileTextSize11 { font=
+-size:11px !important; } .mobileTextSize10 { font-size:10px !important; } .=
+mobileTextSize9 { font-size:9px !important; } .mobileTextSize8 { font-size:=
+8px !important; } .mobileBorder { border: 2px solid #B5B9C6; } .mobileCarsP=
+adding { padding-top: 11px !important; padding-bottom: 10px !important; pad=
+ding-left: 11px !important; padding-right: 11px !important; } .mobileCarSty=
+le { padding-bottom:3px !important; font-size:12px !important; } .mobilePad=
+ding{ padding-top:10px !important; padding-left:10px !important; padding-ri=
+ght:10px !important; } .mobileSmallPadding{ padding-top:10px !important; pa=
+dding-left:5px !important; padding-right:5px !important; } .mobileSmallBott=
+omPadding { padding-bottom: 5px !important; } } @media print { .showOnMobil=
+e { display: none !important; } } </style> <script type=3D"application/ld+j=
+son"> [{ "@context": "http://schema.org/", "@type": "Organization", "name":=
+ "KAYAK", "logo": "https://www.kayak.com/eimg/coreImages/KAYAK_K.jpg" } ,{ =
+"@context": "http://schema.org/", "@type": "DiscountOffer", "description": =
+"Price Up $1", "discountCode": "", "availabilityStarts": "", "availabilityE=
+nds": "" } ,{ "@context": "http://schema.org/", "@type": "PromotionCard", "=
+image": "http://www.kayak.com/rimg/dimg/08/c0/6640626c-city-9900-16326ed6fc=
+2.jpg?width=3D450&height=3D115&xhint=3D2800&yhint=3D2122&crop=3Dtrue" } ]
+</script> </head> <body width=3D"100%" class=3D"mobilePadding" style=3D"fon=
+t-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; back=
+ground-color:#E4E5EA"> <!-- X-250ok-CID:buzzalert_20181009--> <table class=
+=3D"wrapper" width=3D"100%" cellspacing=3D'0' cellpadding=3D'0' border=3D'0=
+'> <tbody> <tr> <td align=3D"center" width=3D"100%"> <table class=3D"flexib=
+le" width=3D"700" align=3D"center" cellspacing=3D'0' cellpadding=3D'0' bord=
+er=3D'0' style=3D"background-color:#ffffff"> <tbody> <!--CaldwellHeader3 - =
+Phoenix--> <tr style=3D"background-color:#E4E5EA"> <td class=3D"hideOnMobil=
+e" style=3D"height: 20px" name=3D"pixel"> <span style=3D"color: #ffffff;dis=
+play:none;font-size:1px;line-height:1px;font-family:'Helvetica Neue',Helvet=
+ica,Arial,'DejaVuSansBook',sans-serif;;max-height:0px;max-width:0px;opacity=
+:0;overflow:hidden;mso-hide:all;"> Don't miss out on booking your next trip=
+. </span> <img src=3D"http://www.kayak.com//h/hermes/pixel/email/pricealert=
+?&uid=3D503503720132&token=3DQ0wxWA7kRfs_a3JZKkipNr&alertList=3D169565871&a=
+ffiliate=3Dbuzzalert&type=3Da&experiment=3D13005-2&brand=3DKAYAK&campaign=
+=3Dbuzzalert_10_up_Y&ctime=3Dnull&senddate=3D2018-10-09&startdate=3Dnull&en=
+ddate=3Dnull" width=3D"1" height=3D"1" border=3D"0" /> </td>
+</tr> <!--Header - Phoenix-->
+<tr name=3D"phoenix-header"> <td style=3D"background: #FFFFFF"> <table cell=
+spacing=3D'0' cellpadding=3D'0' border=3D'0' width=3D"100%"> <tr> <td width=
+=3D"149" height=3D"29" style=3D"vertical-align: middle; align: left; width:=
+ 149px; height: 29px; padding-left: 10px;padding-top: 7px; padding-bottom:6=
+px"> <a href=3D"http://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=
+=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzaler=
+t_10_up_Y%2F%2F503503720132%2Fheader%2Flogo%2F%2F%2F%2F%2F&experiment=3D130=
+05-2&brand=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=
+=3D%2F"><img src=3D"https://www.kayak.com/eimg/coreImages/kayak-logo@2x.png=
+" border=3D"0" height=3D"29" width=3D"149"></a> </td> <td style=3D"vertical=
+-align: middle; align: left; padding-left: 20px;"> <a href=3D"http://www.ka=
+yak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&emailToken=3D=
+Q0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2=
+Fheader%2Fflights%2F%2F%2F%2F%2F&experiment=3D13005-2&brand=3DKAYAK&campaig=
+n=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=3D%2Fflights" style=3D"text=
+-decoration:none;"> <img width=3D"20px" valign=3D"middle" alt=3D"Flights" s=
+rc=3D"https://www.kayak.com/eimg/coreImages/phoenix-flights-icon.png"> </a>=
+&nbsp;&nbsp; <a href=3D"http://www.kayak.com/h/hermes/redirect/in?a=3Dbuzza=
+lert&uid=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2F=
+buzzalert_10_up_Y%2F%2F503503720132%2Fheader%2Fhotels%2F%2F%2F%2F%2F&experi=
+ment=3D13005-2&brand=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018-1=
+0-09&url=3D%2Fhotels" style=3D"text-decoration:none;"> <img width=3D"20px" =
+valign=3D"middle" alt=3D"Hotels" src=3D"https://www.kayak.com/eimg/coreImag=
+es/phoenix-hotels-icon.png"> </a>&nbsp;&nbsp; <a href=3D"http://www.kayak.c=
+om/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&emailToken=3DQ0wxW=
+A7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Fhead=
+er%2Fcars%2F%2F%2F%2F%2F&experiment=3D13005-2&brand=3DKAYAK&campaign=3Dbuzz=
+alert_10_up_Y&senddate=3D2018-10-09&url=3D%2Fcars" style=3D"text-decoration=
+:none;"> <img width=3D"20px" valign=3D"middle" alt=3D"Cars" src=3D"https://=
+www.kayak.com/eimg/coreImages/phoenix-cars-icon.png"> </a> <span class=3D"h=
+ideOnMobile">&nbsp;&nbsp; <a href=3D"http://www.kayak.com/h/hermes/redirect=
+/in?a=3Dbuzzalert&uid=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=
+=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Fheader%2Fpackages%2F%2F=
+%2F%2F%2F&experiment=3D13005-2&brand=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&s=
+enddate=3D2018-10-09&url=3D%2Fpackages" style=3D"text-decoration:none;"> <i=
+mg width=3D"20px" style=3D"padding-right:20px" valign=3D"middle" alt=3D"Pac=
+kages" src=3D"https://www.kayak.com/eimg/coreImages/phoenix-packages-icon.p=
+ng"> </a> </span> </td> </tr> </table> </td>
+</tr> <!-- Search Bar - Phoenix-->
+<!--[if !mso]> <!---->
+<tr> <td style=3D"background: #E4E5EA"> <a href=3D"https://www.kayak.com/h/=
+hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzaler=
+t_10_up_Y%2F%2F503503720132%2FsearchBar%2F%2F%2F%2F%2F%2F&xp=3D13005-2&bran=
+d=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_=
+a3JZKkipNr&url=3D%2F" style=3D"text-decoration: none"> <span> <table cellsp=
+acing=3D'0' cellpadding=3D'0' border=3D'0' class=3D"flexible" style=3D"back=
+ground-color:white; background-image:url(https://www.kayak.com/eimg/coreIma=
+ges/kayak-gradient-1160x126.png);" width=3D"100%"> <tr> <td style=3D"paddin=
+g: 15px"> <table cellspacing=3D'0' cellpadding=3D'0' border=3D'0' style=3D"=
+vertical-align: middle" width=3D"100%"> <tr> <td align=3D"left" style=3D"ba=
+ckground-image:url(https://www.kayak.com/eimg/coreImages/transparent-search=
+-box.png); padding-left:10px ; line-height: 13px;vertical-align: middle" wi=
+dth=3D"700"> <span style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'D=
+ejaVuSansBook',sans-serif; ; font-size: 13px; color:#FFFFFF; letter-spacing=
+: 0.5px; text-decoration: none">Search</span> </td> <td align=3D"right" sty=
+le=3D"padding-left: 10px;vertical-align: middle"> <img src=3D"https://www.k=
+ayak.com/eimg/coreImages/phoenix-arrow-button.png" alt=3D"arrow" height=3D"=
+30px" width=3D"30px" style=3D"display: block" border=3D"0"> </td> </tr> </t=
+able> </td> </tr> </table> </span> </a> </td>
+</tr>
+<!-- <![endif]--> <tr id=3D"flightCardV3"> <td style=3D"background-color:#E=
+4E5EA "> <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzaler=
+t&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Fa=
+lert_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_0%2FgenericSearch%2F95%=
+2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&=
+emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Falerts"> <img class=3D"flexibl=
+eImage" width=3D"100%" style=3D"margin:0; padding:0; display:block;" src=3D=
+"http://www.kayak.com/rimg/dimg/08/c0/6640626c-city-9900-16326ed6fc2.jpg?wi=
+dth=3D700&height=3D150&xhint=3D2800&yhint=3D2122&crop=3Dtrue" border=3D"0" =
+alt=3D"http://www.kayak.com/rimg/dimg/08/c0/6640626c-city-9900-16326ed6fc2.=
+jpg?width=3D700&height=3D150&xhint=3D2800&yhint=3D2122&crop=3Dtrue"/> </a> =
+</td> </tr> <tr> <td style=3D"background-color:#ffffff"> <table cellspacing=
+=3D'0' cellpadding=3D'0' border=3D'0' style=3D"width: 100% ; padding-left:2=
+0px ; padding-right:20px ; padding-top:25px" width=3D"100%"> <tr> <td style=
+=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-seri=
+f; font-size: 30px; font-weight: bold; color: #212121" align=3D"left" class=
+=3D'mobileTextSize22'> PHL - Top Destinations </td> <td style=3D"font-famil=
+y:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; font-size: =
+30px; font-weight: bold; color: #212121 ; text-align: right; padding-left: =
+10px;" align=3D"right" class=3D'mobileTextSize22'> $95<span style=3D"vertic=
+al-align: super ; font-size: 16px"> ^</span> </td> </tr> <tr> <td style=3D"=
+font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; f=
+ont-size: 14px ; color: #8B8B8E; padding-bottom:25px" class=3D"mobileTextSi=
+ze13"> Anytime </td> </tr> </table> </td>
+</tr> <tr> <td style=3D"background-color:#ffffff"> <table cellspacing=3D'0'=
+ cellpadding=3D'0' border=3D'0' style=3D"width: 100%; padding-left:20px; pa=
+dding-right:20px;" width=3D"100%"> <tr> <td colspan=3D"2" class=3D'mobileTe=
+xtSize10' style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSans=
+Book',sans-serif;; font-size: 12px; color: #212121; text-transform: upperca=
+se; font-weight: bold; padding-bottom: 10px;"> Today's best flight deals </=
+td> </tr> </table> </td>
+</tr> <tr> <td id=3D"top-cities-featured-results" style=3D"padding-bottom: =
+5px"> <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&u=
+id=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Faler=
+t_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_1%2FbuzzItem%2F95%2Fup%2F&=
+xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailTok=
+en=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-MCO%2F2018-10-15%2F2018-=
+10-16"> <table style=3D"width: 100% ; padding-left:10px ; padding-right:10p=
+x" width=3D"100%" class=3D"flexible"> <tr> <td> <table cellspacing=3D'0' ce=
+llpadding=3D'0' border=3D'0' class=3D"flexible mobileBorder" style=3D"borde=
+r: 1px solid #B5B9C6; width: 100%; " width=3D"100%"> <tr> <td style=3D"padd=
+ing:10px 0px 10px 20px;width: 45px; height:38px;border:0px;" border=3D"0" r=
+owspan=3D"3" class=3D"hideOnMobile"> <a href=3D"https://www.kayak.com/h/her=
+mes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_1=
+0_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2F=
+fare_1%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzal=
+ert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights=
+%2FPHL-MCO%2F2018-10-15%2F2018-10-16"> <img src=3D"http://www.kayak.com/rim=
+g/provider-logos/airlines/v/NK.png?crop=3Dfalse&width=3D108&height=3D92&fal=
+lback=3Ddefault1.png&_v=3Daa64bec99354db13345d8c7d6afd14d11372fa8d" style=
+=3D"width: 45px; height: 38px; border:0px;" width=3D"45" height=3D"38" bord=
+er=3D"0" alt=3D"Spirit Airlines Logo" align=3D"left"/> </a> </td> <td class=
+=3D"mobileTextSize13" style=3D"font-family:'Helvetica Neue',Helvetica,Arial=
+,'DejaVuSansBook',sans-serif; font-size: 18px;font-weight: bold ; color: #2=
+12121; padding:20px 0px 10px 20px;"> <a href=3D"https://www.kayak.com/h/her=
+mes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_1=
+0_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2F=
+fare_1%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzal=
+ert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights=
+%2FPHL-MCO%2F2018-10-15%2F2018-10-16" style=3D"color: #212121">to Orlando (=
+MCO)</a> </td> <td class=3D"mobileTextSize13" style=3D"font-family:'Helveti=
+ca Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; font-size: 18px;font-=
+weight: bold ; color: #212121; text-align: right; padding:20px 10px 10px;">=
+ <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D=
+503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2=
+FflightTopCitiesCheapestAnytimeAlert%2Ffare_1%2FbuzzItem%2F95%2Fup%2F&xp=3D=
+13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3D=
+Q0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-MCO%2F2018-10-15%2F2018-10-16=
+" style=3D"color: #212121">$95<span style=3D"vertical-align: super ; font-s=
+ize: 12px">^</span></a> </td> </tr> <tr> <td class=3D"mobileTextSize13" sty=
+le=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-se=
+rif; font-size: 14px ; color: #0F0F0F; padding:0px 0px 20px 20px;"> <a href=
+=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D50350372=
+0132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightT=
+opCitiesCheapestAnytimeAlert%2Ffare_1%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&=
+brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7k=
+Rfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-MCO%2F2018-10-15%2F2018-10-16" style=
+=3D"color: #212121">10/15/18 - 10/16/18</a> </td> </tr> <tr> <td class=3D"m=
+obileTextSize13" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'Dej=
+aVuSansBook',sans-serif; font-size: 14px ; color: #151515 ; padding:0px 0px=
+ 20px 20px;"> <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuz=
+zalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F50350372013=
+2%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_1%2FbuzzItem%2F95%=
+2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&=
+emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-MCO%2F2018-10-15=
+%2F2018-10-16" style=3D"color: #212121">Spirit Airlines</a> </td> </tr> </t=
+able> </td> </tr> </table> </a> </td> </tr> <tr> <td id=3D"top-cities-featu=
+red-results" style=3D"padding-bottom: 5px"> <a href=3D"https://www.kayak.co=
+m/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzz=
+alert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestAnytimeA=
+lert%2Ffare_2%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=
+=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%=
+2Fflights%2FPHL-FLL%2F2018-12-02%2F2018-12-03"> <table style=3D"width: 100%=
+ ; padding-left:10px ; padding-right:10px" width=3D"100%" class=3D"flexible=
+"> <tr> <td> <table cellspacing=3D'0' cellpadding=3D'0' border=3D'0' class=
+=3D"flexible mobileBorder" style=3D"border: 1px solid #B5B9C6; width: 100%;=
+ " width=3D"100%"> <tr> <td style=3D"padding:10px 0px 10px 20px;width: 45px=
+; height:38px;border:0px;" border=3D"0" rowspan=3D"3" class=3D"hideOnMobile=
+"> <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=
+=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_=
+1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_2%2FbuzzItem%2F95%2Fup%2F&xp=
+=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=
+=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-FLL%2F2018-12-02%2F2018-12=
+-03"> <img src=3D"http://www.kayak.com/rimg/provider-logos/airlines/v/NK.pn=
+g?crop=3Dfalse&width=3D108&height=3D92&fallback=3Ddefault1.png&_v=3Daa64bec=
+99354db13345d8c7d6afd14d11372fa8d" style=3D"width: 45px; height: 38px; bord=
+er:0px;" width=3D"45" height=3D"38" border=3D"0" alt=3D"Spirit Airlines Log=
+o" align=3D"left"/> </a> </td> <td class=3D"mobileTextSize13" style=3D"font=
+-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; font-=
+size: 18px;font-weight: bold ; color: #212121; padding:20px 0px 10px 20px;"=
+> <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=
+=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_=
+1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_2%2FbuzzItem%2F95%2Fup%2F&xp=
+=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=
+=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-FLL%2F2018-12-02%2F2018-12=
+-03" style=3D"color: #212121">to Fort Lauderdale (FLL)</a> </td> <td class=
+=3D"mobileTextSize13" style=3D"font-family:'Helvetica Neue',Helvetica,Arial=
+,'DejaVuSansBook',sans-serif; font-size: 18px;font-weight: bold ; color: #2=
+12121; text-align: right; padding:20px 10px 10px;"> <a href=3D"https://www.=
+kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femai=
+l%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapest=
+AnytimeAlert%2Ffare_2%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&ca=
+mpaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&u=
+rl=3D%2Fflights%2FPHL-FLL%2F2018-12-02%2F2018-12-03" style=3D"color: #21212=
+1">$101<span style=3D"vertical-align: super ; font-size: 12px">^</span></a>=
+ </td> </tr> <tr> <td class=3D"mobileTextSize13" style=3D"font-family:'Helv=
+etica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; font-size: 14px ; =
+color: #0F0F0F; padding:0px 0px 20px 20px;"> <a href=3D"https://www.kayak.c=
+om/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuz=
+zalert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestAnytime=
+Alert%2Ffare_2%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=
+=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%=
+2Fflights%2FPHL-FLL%2F2018-12-02%2F2018-12-03" style=3D"color: #212121">12/=
+2/18 - 12/3/18</a> </td> </tr> <tr> <td class=3D"mobileTextSize13" style=3D=
+"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; =
+font-size: 14px ; color: #151515 ; padding:0px 0px 20px 20px;"> <a href=3D"=
+https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132=
+&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCi=
+tiesCheapestAnytimeAlert%2Ffare_2%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&bran=
+d=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_=
+a3JZKkipNr&url=3D%2Fflights%2FPHL-FLL%2F2018-12-02%2F2018-12-03" style=3D"c=
+olor: #212121">Spirit Airlines</a> </td> </tr> </table> </td> </tr> </table=
+> </a> </td> </tr> <tr> <td id=3D"top-cities-featured-results" style=3D"pad=
+ding-bottom: 5px"> <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=
+=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F50350=
+3720132%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_3%2FbuzzItem=
+%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=
+=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-TPA%2F2018=
+-12-01%2F2018-12-08"> <table style=3D"width: 100% ; padding-left:10px ; pad=
+ding-right:10px" width=3D"100%" class=3D"flexible"> <tr> <td> <table cellsp=
+acing=3D'0' cellpadding=3D'0' border=3D'0' class=3D"flexible mobileBorder" =
+style=3D"border: 1px solid #B5B9C6; width: 100%; " width=3D"100%"> <tr> <td=
+ style=3D"padding:10px 0px 10px 20px;width: 45px; height:38px;border:0px;" =
+border=3D"0" rowspan=3D"3" class=3D"hideOnMobile"> <a href=3D"https://www.k=
+ayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail=
+%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestA=
+nytimeAlert%2Ffare_3%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&cam=
+paign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&ur=
+l=3D%2Fflights%2FPHL-TPA%2F2018-12-01%2F2018-12-08"> <img src=3D"http://www=
+.kayak.com/rimg/provider-logos/airlines/v/AA.png?crop=3Dfalse&width=3D108&h=
+eight=3D92&fallback=3Ddefault2.png&_v=3De9d74b31db77b6207fb6f03d73b66cbaa83=
+58b50" style=3D"width: 45px; height: 38px; border:0px;" width=3D"45" height=
+=3D"38" border=3D"0" alt=3D"American Airlines Logo" align=3D"left"/> </a> <=
+/td> <td class=3D"mobileTextSize13" style=3D"font-family:'Helvetica Neue',H=
+elvetica,Arial,'DejaVuSansBook',sans-serif; font-size: 18px;font-weight: bo=
+ld ; color: #212121; padding:20px 0px 10px 20px;"> <a href=3D"https://www.k=
+ayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail=
+%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestA=
+nytimeAlert%2Ffare_3%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&cam=
+paign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&ur=
+l=3D%2Fflights%2FPHL-TPA%2F2018-12-01%2F2018-12-08" style=3D"color: #212121=
+">to Tampa (TPA)</a> </td> <td class=3D"mobileTextSize13" style=3D"font-fam=
+ily:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; font-size=
+: 18px;font-weight: bold ; color: #212121; text-align: right; padding:20px =
+10px 10px;"> <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzz=
+alert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132=
+%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_3%2FbuzzItem%2F95%2=
+Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&e=
+mailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-TPA%2F2018-12-01%=
+2F2018-12-08" style=3D"color: #212121">$117<span style=3D"vertical-align: s=
+uper ; font-size: 12px">^</span></a> </td> </tr> <tr> <td class=3D"mobileTe=
+xtSize13" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSans=
+Book',sans-serif; font-size: 14px ; color: #0F0F0F; padding:0px 0px 20px 20=
+px;"> <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&u=
+id=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Faler=
+t_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_3%2FbuzzItem%2F95%2Fup%2F&=
+xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailTok=
+en=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-TPA%2F2018-12-01%2F2018-=
+12-08" style=3D"color: #212121">12/1/18 - 12/8/18</a> </td> </tr> <tr> <td =
+class=3D"mobileTextSize13" style=3D"font-family:'Helvetica Neue',Helvetica,=
+Arial,'DejaVuSansBook',sans-serif; font-size: 14px ; color: #151515 ; paddi=
+ng:0px 0px 20px 20px;"> <a href=3D"https://www.kayak.com/h/hermes/redirect/=
+in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F5=
+03503720132%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_3%2Fbuzz=
+Item%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&s=
+etlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-TPA%2F=
+2018-12-01%2F2018-12-08" style=3D"color: #212121">American Airlines</a> </t=
+d> </tr> </table> </td> </tr> </table> </a> </td> </tr> <tr> <td id=3D"top-=
+cities-featured-results" style=3D"padding-bottom: 5px"> <a href=3D"https://=
+www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2F=
+email%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesChea=
+pestAnytimeAlert%2Ffare_4%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkaya=
+k&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkip=
+Nr&url=3D%2Fflights%2FPHL-CHI%2F2018-11-05%2F2018-11-07"> <table style=3D"w=
+idth: 100% ; padding-left:10px ; padding-right:10px" width=3D"100%" class=
+=3D"flexible"> <tr> <td> <table cellspacing=3D'0' cellpadding=3D'0' border=
+=3D'0' class=3D"flexible mobileBorder" style=3D"border: 1px solid #B5B9C6; =
+width: 100%; " width=3D"100%"> <tr> <td style=3D"padding:10px 0px 10px 20px=
+;width: 45px; height:38px;border:0px;" border=3D"0" rowspan=3D"3" class=3D"=
+hideOnMobile"> <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbu=
+zzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F5035037201=
+32%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_4%2FbuzzItem%2F95=
+%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den=
+&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-CHI%2F2018-11-0=
+5%2F2018-11-07"> <img src=3D"http://www.kayak.com/rimg/provider-logos/airli=
+nes/v/F9.png?crop=3Dfalse&width=3D108&height=3D92&fallback=3Ddefault2.png&_=
+v=3De90db8feb9d8f1cbbf24c678b9fad383698712b8" style=3D"width: 45px; height:=
+ 38px; border:0px;" width=3D"45" height=3D"38" border=3D"0" alt=3D"Frontier=
+ Logo" align=3D"left"/> </a> </td> <td class=3D"mobileTextSize13" style=3D"=
+font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; f=
+ont-size: 18px;font-weight: bold ; color: #212121; padding:20px 0px 10px 20=
+px;"> <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&u=
+id=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Faler=
+t_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_4%2FbuzzItem%2F95%2Fup%2F&=
+xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailTok=
+en=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-CHI%2F2018-11-05%2F2018-=
+11-07" style=3D"color: #212121">to Chicago (CHI)</a> </td> <td class=3D"mob=
+ileTextSize13" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaV=
+uSansBook',sans-serif; font-size: 18px;font-weight: bold ; color: #212121; =
+text-align: right; padding:20px 10px 10px;"> <a href=3D"https://www.kayak.c=
+om/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuz=
+zalert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestAnytime=
+Alert%2Ffare_4%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=
+=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%=
+2Fflights%2FPHL-CHI%2F2018-11-05%2F2018-11-07" style=3D"color: #212121">$16=
+9<span style=3D"vertical-align: super ; font-size: 12px">^</span></a> </td>=
+ </tr> <tr> <td class=3D"mobileTextSize13" style=3D"font-family:'Helvetica =
+Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; font-size: 14px ; color:=
+ #0F0F0F; padding:0px 0px 20px 20px;"> <a href=3D"https://www.kayak.com/h/h=
+ermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert=
+_10_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%=
+2Ffare_4%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzz=
+alert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Ffligh=
+ts%2FPHL-CHI%2F2018-11-05%2F2018-11-07" style=3D"color: #212121">11/5/18 - =
+11/7/18</a> </td> </tr> <tr> <td class=3D"mobileTextSize13" style=3D"font-f=
+amily:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; font-si=
+ze: 14px ; color: #151515 ; padding:0px 0px 20px 20px;"> <a href=3D"https:/=
+/www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2=
+Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesChe=
+apestAnytimeAlert%2Ffare_4%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkay=
+ak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKki=
+pNr&url=3D%2Fflights%2FPHL-CHI%2F2018-11-05%2F2018-11-07" style=3D"color: #=
+212121">Frontier</a> </td> </tr> </table> </td> </tr> </table> </a> </td> <=
+/tr> <tr> <td id=3D"top-cities-featured-results" style=3D"padding-bottom: 5=
+px"> <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&ui=
+d=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert=
+_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_5%2FbuzzItem%2F95%2Fup%2F&x=
+p=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToke=
+n=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-MEX%2F2019-01-12%2F2019-0=
+1-13"> <table style=3D"width: 100% ; padding-left:10px ; padding-right:10px=
+" width=3D"100%" class=3D"flexible"> <tr> <td> <table cellspacing=3D'0' cel=
+lpadding=3D'0' border=3D'0' class=3D"flexible mobileBorder" style=3D"border=
+: 1px solid #B5B9C6; width: 100%; " width=3D"100%"> <tr> <td style=3D"paddi=
+ng:10px 0px 10px 20px;width: 45px; height:38px;border:0px;" border=3D"0" ro=
+wspan=3D"3" class=3D"hideOnMobile"> <a href=3D"https://www.kayak.com/h/herm=
+es/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10=
+_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2Ff=
+are_5%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzale=
+rt_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%=
+2FPHL-MEX%2F2019-01-12%2F2019-01-13"> <img src=3D"http://www.kayak.com/rimg=
+/provider-logos/airlines/v/AM.png?crop=3Dfalse&width=3D108&height=3D92&fall=
+back=3Ddefault2.png&_v=3D18acce5c1bc260dc1ba4804d45e16f92591a40ba" style=3D=
+"width: 45px; height: 38px; border:0px;" width=3D"45" height=3D"38" border=
+=3D"0" alt=3D"Aeromexico Logo" align=3D"left"/> </a> </td> <td class=3D"mob=
+ileTextSize13" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaV=
+uSansBook',sans-serif; font-size: 18px;font-weight: bold ; color: #212121; =
+padding:20px 0px 10px 20px;"> <a href=3D"https://www.kayak.com/h/hermes/red=
+irect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%=
+2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_5%=
+2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_=
+up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-=
+MEX%2F2019-01-12%2F2019-01-13" style=3D"color: #212121">to Mexico City (MEX=
+)</a> </td> <td class=3D"mobileTextSize13" style=3D"font-family:'Helvetica =
+Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; font-size: 18px;font-wei=
+ght: bold ; color: #212121; text-align: right; padding:20px 10px 10px;"> <a=
+ href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503=
+503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Ffl=
+ightTopCitiesCheapestAnytimeAlert%2Ffare_5%2FbuzzItem%2F95%2Fup%2F&xp=3D130=
+05-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0w=
+xWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-MEX%2F2019-01-12%2F2019-01-13" s=
+tyle=3D"color: #212121">$223<span style=3D"vertical-align: super ; font-siz=
+e: 12px">^</span></a> </td> </tr> <tr> <td class=3D"mobileTextSize13" style=
+=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-seri=
+f; font-size: 14px ; color: #0F0F0F; padding:0px 0px 20px 20px;"> <a href=
+=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D50350372=
+0132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightT=
+opCitiesCheapestAnytimeAlert%2Ffare_5%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&=
+brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7k=
+Rfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-MEX%2F2019-01-12%2F2019-01-13" style=
+=3D"color: #212121">1/12/19 - 1/13/19</a> </td> </tr> <tr> <td class=3D"mob=
+ileTextSize13" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaV=
+uSansBook',sans-serif; font-size: 14px ; color: #151515 ; padding:0px 0px 2=
+0px 20px;"> <a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzza=
+lert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%=
+2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_5%2FbuzzItem%2F95%2F=
+up%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&em=
+ailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-MEX%2F2019-01-12%2=
+F2019-01-13" style=3D"color: #212121">Aeromexico</a> </td> </tr> </table> <=
+/td> </tr> </table> </a> </td> </tr> <tr> <td id=3D"top-cities-featured-res=
+ults" style=3D"padding-bottom: 5px"> <a href=3D"https://www.kayak.com/h/her=
+mes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_1=
+0_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2F=
+fare_6%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzal=
+ert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights=
+%2FPHL-CUN%2F2019-01-19%2F2019-01-24"> <table style=3D"width: 100% ; paddin=
+g-left:10px ; padding-right:10px" width=3D"100%" class=3D"flexible"> <tr> <=
+td> <table cellspacing=3D'0' cellpadding=3D'0' border=3D'0' class=3D"flexib=
+le mobileBorder" style=3D"border: 1px solid #B5B9C6; width: 100%; " width=
+=3D"100%"> <tr> <td style=3D"padding:10px 0px 10px 20px;width: 45px; height=
+:38px;border:0px;" border=3D"0" rowspan=3D"3" class=3D"hideOnMobile"> <a hr=
+ef=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503=
+720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Ffligh=
+tTopCitiesCheapestAnytimeAlert%2Ffare_6%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-=
+2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA=
+7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-CUN%2F2019-01-19%2F2019-01-24"> <im=
+g src=3D"http://www.kayak.com/rimg/provider-logos/airlines/v/UA.png?crop=3D=
+false&width=3D108&height=3D92&fallback=3Ddefault1.png&_v=3D3113c2af5f5288a9=
+2a09ef0b3600d0a82f88813a" style=3D"width: 45px; height: 38px; border:0px;" =
+width=3D"45" height=3D"38" border=3D"0" alt=3D"United Airlines Logo" align=
+=3D"left"/> </a> </td> <td class=3D"mobileTextSize13" style=3D"font-family:=
+'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; font-size: 18=
+px;font-weight: bold ; color: #212121; padding:20px 0px 10px 20px;"> <a hre=
+f=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D5035037=
+20132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fflight=
+TopCitiesCheapestAnytimeAlert%2Ffare_6%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2=
+&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7=
+kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-CUN%2F2019-01-19%2F2019-01-24" style=
+=3D"color: #212121">to Cancun (CUN)</a> </td> <td class=3D"mobileTextSize13=
+" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sa=
+ns-serif; font-size: 18px;font-weight: bold ; color: #212121; text-align: r=
+ight; padding:20px 10px 10px;"> <a href=3D"https://www.kayak.com/h/hermes/r=
+edirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_=
+Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_=
+6%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_1=
+0_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPH=
+L-CUN%2F2019-01-19%2F2019-01-24" style=3D"color: #212121">$238<span style=
+=3D"vertical-align: super ; font-size: 12px">^</span></a> </td> </tr> <tr> =
+<td class=3D"mobileTextSize13" style=3D"font-family:'Helvetica Neue',Helvet=
+ica,Arial,'DejaVuSansBook',sans-serif; font-size: 14px ; color: #0F0F0F; pa=
+dding:0px 0px 20px 20px;"> <a href=3D"https://www.kayak.com/h/hermes/redire=
+ct/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%=
+2F503503720132%2Falert_1%2FflightTopCitiesCheapestAnytimeAlert%2Ffare_6%2Fb=
+uzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_=
+Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflights%2FPHL-CUN=
+%2F2019-01-19%2F2019-01-24" style=3D"color: #212121">1/19/19 - 1/24/19</a> =
+</td> </tr> <tr> <td class=3D"mobileTextSize13" style=3D"font-family:'Helve=
+tica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif; font-size: 14px ; c=
+olor: #151515 ; padding:0px 0px 20px 20px;"> <a href=3D"https://www.kayak.c=
+om/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuz=
+zalert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightTopCitiesCheapestAnytime=
+Alert%2Ffare_6%2FbuzzItem%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=
+=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%=
+2Fflights%2FPHL-CUN%2F2019-01-19%2F2019-01-24" style=3D"color: #212121">Uni=
+ted Airlines</a> </td> </tr> </table> </td> </tr> </table> </a> </td> </tr>=
+ <tr><td style=3D"padding: 5px 20px 10px"> <table width=3D"700" class=3D"fl=
+exible" cellspacing=3D'0' cellpadding=3D'0' border=3D'0'> <tr><td> <a href=
+=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D50350372=
+0132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2FflightT=
+opCitiesCheapestAnytimeAlert%2Ffare_0%2Fedit%2F95%2Fup%2F&xp=3D13005-2&bran=
+d=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_=
+a3JZKkipNr&url=3D%2Falerts%3Faction%3Dprepop%26alertid%3D169565871"> <!--[i=
+f mso]>
+<table cellspacing=3D'0' cellpadding=3D'0' border=3D'0' width=3D"47%" style=
+=3D"border: 1px solid #B5B9C6;" align=3D"left">
+<![endif]-->
+<![if !mso]>
+<table cellspacing=3D'0' cellpadding=3D'0' border=3D'0' width=3D"49%" class=
+=3D"mobilePadding" style=3D"border: 1px solid #B5B9C6;" align=3D"left">
+<![endif]> <tr> <td style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'=
+DejaVuSansBook',sans-serif;; vertical-align: top; padding: 10px;font-size: =
+18px; color: #8B8B8E" align=3D"center" class=3D"mobileTextSize13"> Edit </t=
+d> </tr> </table> </a> <table width=3D"2%" cellspacing=3D'0' cellpadding=3D=
+'0' border=3D'0' align=3D"left"> <tr> <td> &nbsp; </td> </tr> </table> <a h=
+ref=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D50350=
+3720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fflig=
+htTopCitiesCheapestAnytimeAlert%2Ffare_0%2Fdelete%2F95%2Fup%2F&xp=3D13005-2=
+&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7=
+kRfs_a3JZKkipNr&url=3D%2Fk%2Falertops%3Fa%3DS%26alertid%3D169565871%26t%3DQ=
+0wxWA7kRfs_a3JZKkipNr%26u%3D503503720132"> <!--[if mso]>
+<table cellspacing=3D'0' cellpadding=3D'0' border=3D'0' width=3D"47%" style=
+=3D"border: 1px solid #B5B9C6;" align=3D"left">
+<![endif]-->
+<![if !mso]>
+<table cellspacing=3D'0' cellpadding=3D'0' border=3D'0' width=3D"49%" class=
+=3D"mobilePadding" style=3D"border: 1px solid #B5B9C6;" align=3D"left">
+<![endif]> <tr> <td style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'=
+DejaVuSansBook',sans-serif;; vertical-align: top; padding: 10px;font-size: =
+18px; color: #8B8B8E" align=3D"center" class=3D"mobileTextSize13"> Delete <=
+/td> </tr> </table> </a> </td></tr> </table>
+</td></tr> <tr> <td style=3D"background-color:white;"> <a style=3D"text-dec=
+oration:none;" href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzza=
+lert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%=
+2Falert_1%2Fxsell%2FtopCityHotel%2Fdealslink%2F95%2Fup%2F&xp=3D13005-2&bran=
+d=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_=
+a3JZKkipNr&url=3D%2Fhotels"> <table width=3D"100%" class=3D"flexible" cells=
+pacing=3D'0' cellpadding=3D'0' border=3D'0' style=3D"background-color:white=
+;"> <tr> <td align=3D"center" style=3D"background-color:white;padding-top:1=
+0px;padding-bottom:10px;border-bottom:1px solid #f5f5f5;font-family:'Helvet=
+ica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size:16px;font-=
+weight:bold;color:#000000;text-align:center;"> <a style=3D"text-decoration:=
+none; color:#000000" href=3D"https://www.kayak.com/h/hermes/redirect/in?a=
+=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F50350=
+3720132%2Falert_1%2Fxsell%2FtopCityHotel%2Fdealslink%2F95%2Fup%2F&xp=3D1300=
+5-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wx=
+WA7kRfs_a3JZKkipNr&url=3D%2Fhotels"> Hotel Deals </a> </td> </tr> </table> =
+</a> </td>
+</tr> <tr> <td style=3D"background-color:white;padding-left:20px;padding-ri=
+ght:20px;"> <a style=3D"text-decoration:none;" href=3D"https://www.kayak.co=
+m/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzz=
+alert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel1%2Fdealsli=
+nk%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&set=
+lc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLas-Vegas%2CN=
+V-c35107%2F2018-10-26%2F2018-10-27%2F2adults"> <table width=3D"100%" class=
+=3D"flexible" cellspacing=3D'0' cellpadding=3D'0' border=3D'0' style=3D"bac=
+kground-color:white;padding-top:10px;"> <tr> <td align=3D"center" width=3D"=
+100%"> <a style=3D"text-decoration:none;" href=3D"https://www.kayak.com/h/h=
+ermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert=
+_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel1%2FcitySearch_t=
+ext%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&se=
+tlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLas-Vegas%2C=
+NV-c35107%2F2018-10-26%2F2018-10-27%2F2adults"> <font style=3D"font-family:=
+'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size:18p=
+x;font-weight:300;color:#FF690F;text-decoration:underline;">Las Vegas, NV</=
+font> </a> </td> </tr> <tr> <td width=3D"100%" style=3D"padding-top:5px;"> =
+<a style=3D"text-decoration:none;" href=3D"https://www.kayak.com/h/hermes/r=
+edirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_=
+Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel1%2FcitySearch_image%2F=
+95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3D=
+en&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLas-Vegas%2CNV-c35=
+107%2F2018-10-26%2F2018-10-27%2F2adults"> <img class=3D"flexibleImage" src=
+=3D"http://www.kayak.com/rimg/dimg/60/fa/63274ccd-city-35107-162881ffb3b.jp=
+g?width=3D700&height=3D350&xhint=3D3268&yhint=3D2709&crop=3Dtrue" border=3D=
+"0" height=3D"350px" width=3D"700px" alt=3D"City Image" style=3D"margin:0; =
+padding:0;display:block;"> </a> </td> </tr> </table> </a> </td> </tr> <tr> =
+<td style=3D"background-color:white;padding-left:20px;padding-right:20px;">=
+ <table width=3D"100%" class=3D"flexible" cellspacing=3D'0' cellpadding=3D'=
+0' border=3D'0' style=3D"padding-bottom:20px;border-bottom:1px solid #e7e7e=
+7;"> <tr> <td width=3D"100%"> <table width=3D"100%" cellspacing=3D'0' cellp=
+adding=3D'0' border=3D'0' style=3D"border-left:1px solid #e7e7e7;border-rig=
+ht:1px solid #e7e7e7;"> <tr> <td> <a style=3D"text-decoration:none;" href=
+=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D50350372=
+0132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2=
+FtopCityHotel1%2FcitySearch_lowPrice%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkaya=
+k&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkip=
+Nr&url=3D%2Fhotels%2FLas-Vegas%2CNV-c35107%2F2018-10-26%2F2018-10-27%2F2adu=
+lts"> <table width=3D"100%" cellspacing=3D'0' cellpadding=3D'0' border=3D'0=
+' style=3D"padding:10px;border-bottom:1px solid #e7e7e7;"> <tr> <td align=
+=3D"left" valign=3D"top"> <a style=3D"text-decoration:none;" href=3D"https:=
+//www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%=
+2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHo=
+tel1%2FcitySearch_lowPrice%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=
+=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%=
+2Fhotels%2FLas-Vegas%2CNV-c35107%2F2018-10-26%2F2018-10-27%2F2adults"> <fon=
+t class=3D"mobileTextSize15" style=3D"font-family:'Helvetica Neue',Helvetic=
+a,Arial,'DejaVuSansBook',sans-serif;;font-size:18px;font-weight:normal;colo=
+r:#000000;">Starting at</font> </a> </td> <td align=3D"right" valign=3D"top=
+"> <a style=3D"text-decoration:none;" href=3D"https://www.kayak.com/h/herme=
+s/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_=
+up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel1%2FcitySearch_lowPr=
+ice%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&se=
+tlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLas-Vegas%2C=
+NV-c35107%2F2018-10-26%2F2018-10-27%2F2adults"> <font class=3D"mobileTextSi=
+ze15" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook=
+',sans-serif;;font-size:18px;font-weight:bold;color:#000000;">$122</font> <=
+/a> </td> </tr> </table> </a> </td> </tr> <tr> <td> <a style=3D"text-decora=
+tion:none;" href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzaler=
+t&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Fa=
+lert_1%2Fxsell%2FtopCityHotel1%2FhotelSearch_3star%2F95%2Fup%2F&xp=3D13005-=
+2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA=
+7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLas-Vegas%2CNV-c35107-h31404%2F2018-10-2=
+6%2F2018-10-27%2F2adults"> <table width=3D"100%" cellspacing=3D'0' cellpadd=
+ing=3D'0' border=3D'0' style=3D"padding:10px;border-bottom:1px solid #e7e7e=
+7;"> <tr> <td align=3D"left" valign=3D"top"> <a style=3D"text-decoration:no=
+ne;" href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=
+=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_=
+1%2Fxsell%2FtopCityHotel1%2FhotelSearch_3star%2F95%2Fup%2F&xp=3D13005-2&bra=
+nd=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs=
+_a3JZKkipNr&url=3D%2Fhotels%2FLas-Vegas%2CNV-c35107-h31404%2F2018-10-26%2F2=
+018-10-27%2F2adults"> <img border=3D"0" src=3D"https://www.kayak.com/eimg/c=
+oreImages/hotels/stars-3.png"/> </a> </td> <td align=3D"right" valign=3D"to=
+p"> <a style=3D"text-decoration:none;" href=3D"https://www.kayak.com/h/herm=
+es/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10=
+_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel1%2FhotelSearch_3st=
+ar%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&set=
+lc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLas-Vegas%2CN=
+V-c35107-h31404%2F2018-10-26%2F2018-10-27%2F2adults"> <font class=3D"mobile=
+TextSize15" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSa=
+nsBook',sans-serif;;font-size:18px;font-weight:bold;color:#000000;">$122</f=
+ont> </a> </td> </tr> </table> </a> </td> </tr> <tr> <td> <a style=3D"text-=
+decoration:none;" href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbu=
+zzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F5035037201=
+32%2Falert_1%2Fxsell%2FtopCityHotel1%2FhotelSearch_4star%2F95%2Fup%2F&xp=3D=
+13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3D=
+Q0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLas-Vegas%2CNV-c35107-h64683%2F201=
+8-10-26%2F2018-10-27%2F2adults"> <table width=3D"100%" cellspacing=3D'0' ce=
+llpadding=3D'0' border=3D'0' style=3D"padding:10px;border-bottom:1px solid =
+#e7e7e7;"> <tr> <td align=3D"left" valign=3D"top"> <a style=3D"text-decorat=
+ion:none;" href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert=
+&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Fal=
+ert_1%2Fxsell%2FtopCityHotel1%2FhotelSearch_4star%2F95%2Fup%2F&xp=3D13005-2=
+&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7=
+kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLas-Vegas%2CNV-c35107-h64683%2F2018-10-26=
+%2F2018-10-27%2F2adults"> <img border=3D"0" src=3D"https://www.kayak.com/ei=
+mg/coreImages/hotels/stars-4.png"/> </a> </td> <td align=3D"right" valign=
+=3D"top"> <a style=3D"text-decoration:none;" href=3D"https://www.kayak.com/=
+h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzal=
+ert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel1%2FhotelSear=
+ch_4star%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up=
+_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLas-Veg=
+as%2CNV-c35107-h64683%2F2018-10-26%2F2018-10-27%2F2adults"> <font class=3D"=
+mobileTextSize15" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'De=
+jaVuSansBook',sans-serif;;font-size:18px;font-weight:bold;color:#000000;">$=
+190</font> </a> </td> </tr> </table> </a> </td> </tr> <tr> <td> <a style=3D=
+"text-decoration:none;" href=3D"https://www.kayak.com/h/hermes/redirect/in?=
+a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F5035=
+03720132%2Falert_1%2Fxsell%2FtopCityHotel1%2FhotelSearch_5star%2F95%2Fup%2F=
+&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailTo=
+ken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLas-Vegas%2CNV-c35107-h31420=
+%2F2018-10-26%2F2018-10-27%2F2adults"> <table width=3D"100%" cellspacing=3D=
+'0' cellpadding=3D'0' border=3D'0' style=3D"padding:10px;border-bottom:1px =
+solid #e7e7e7;"> <tr> <td align=3D"left" valign=3D"top"> <a style=3D"text-d=
+ecoration:none;" href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuz=
+zalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F50350372013=
+2%2Falert_1%2Fxsell%2FtopCityHotel1%2FhotelSearch_5star%2F95%2Fup%2F&xp=3D1=
+3005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ=
+0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLas-Vegas%2CNV-c35107-h31420%2F2018=
+-10-26%2F2018-10-27%2F2adults"> <img border=3D"0" src=3D"https://www.kayak.=
+com/eimg/coreImages/hotels/stars-5.png"/> </a> </td> <td align=3D"right" va=
+lign=3D"top"> <a style=3D"text-decoration:none;" href=3D"https://www.kayak.=
+com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbu=
+zzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel1%2Fhotel=
+Search_5star%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_1=
+0_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLas=
+-Vegas%2CNV-c35107-h31420%2F2018-10-26%2F2018-10-27%2F2adults"> <font class=
+=3D"mobileTextSize15" style=3D"font-family:'Helvetica Neue',Helvetica,Arial=
+,'DejaVuSansBook',sans-serif;;font-size:18px;font-weight:bold;color:#000000=
+;">$247</font> </a> </td> </tr> </table> </a> </td> </tr> </table> </td> </=
+tr> </table> </td> </tr> <tr> <td style=3D"background-color:white;padding-l=
+eft:20px;padding-right:20px;"> <a style=3D"text-decoration:none;" href=3D"h=
+ttps://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&=
+p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopC=
+ityHotel2%2FhotelSearch_5star%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campa=
+ign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=
+=3D%2Fhotels%2FNew-Orleans%2CLA-c22085%2F2018-10-26%2F2018-10-27%2F2adults"=
+> <table width=3D"100%" class=3D"flexible" cellspacing=3D'0' cellpadding=3D=
+'0' border=3D'0' style=3D"background-color:white;padding-top:10px;"> <tr> <=
+td align=3D"center" width=3D"100%"> <a style=3D"text-decoration:none;" href=
+=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D50350372=
+0132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2=
+FtopCityHotel2%2FcitySearch_text%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&ca=
+mpaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&u=
+rl=3D%2Fhotels%2FNew-Orleans%2CLA-c22085%2F2018-10-26%2F2018-10-27%2F2adult=
+s"> <font style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSans=
+Book',sans-serif;;font-size:18px;font-weight:300;color:#FF690F;text-decorat=
+ion:underline;">New Orleans, LA</font> </a> </td> </tr> <tr> <td width=3D"1=
+00%" style=3D"padding-top:5px;"> <a style=3D"text-decoration:none;" href=3D=
+"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D50350372013=
+2&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2Fto=
+pCityHotel2%2FcitySearch_image%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&camp=
+aign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=
+=3D%2Fhotels%2FNew-Orleans%2CLA-c22085%2F2018-10-26%2F2018-10-27%2F2adults"=
+> <img class=3D"flexibleImage" src=3D"http://www.kayak.com/rimg/dimg/c7/ee/=
+3c5fc036-city-22085-1634b95c875.jpg?width=3D700&height=3D350&xhint=3D2108&y=
+hint=3D1341&crop=3Dtrue" border=3D"0" height=3D"350px" width=3D"700px" alt=
+=3D"City Image" style=3D"margin:0; padding:0;display:block;"> </a> </td> </=
+tr> </table> </a> </td> </tr> <tr> <td style=3D"background-color:white;padd=
+ing-left:20px;padding-right:20px;"> <table width=3D"100%" class=3D"flexible=
+" cellspacing=3D'0' cellpadding=3D'0' border=3D'0' style=3D"padding-bottom:=
+20px;border-bottom:1px solid #e7e7e7;"> <tr> <td width=3D"100%"> <table wid=
+th=3D"100%" cellspacing=3D'0' cellpadding=3D'0' border=3D'0' style=3D"borde=
+r-left:1px solid #e7e7e7;border-right:1px solid #e7e7e7;"> <tr> <td> <a sty=
+le=3D"text-decoration:none;" href=3D"https://www.kayak.com/h/hermes/redirec=
+t/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2=
+F503503720132%2Falert_1%2Fxsell%2FtopCityHotel2%2FcitySearch_lowPrice%2F95%=
+2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&=
+emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FNew-Orleans%2CLA-c220=
+85%2F2018-10-26%2F2018-10-27%2F2adults"> <table width=3D"100%" cellspacing=
+=3D'0' cellpadding=3D'0' border=3D'0' style=3D"padding:10px;border-bottom:1=
+px solid #e7e7e7;"> <tr> <td align=3D"left" valign=3D"top"> <a style=3D"tex=
+t-decoration:none;" href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3D=
+buzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F50350372=
+0132%2Falert_1%2Fxsell%2FtopCityHotel2%2FcitySearch_lowPrice%2F95%2Fup%2F&x=
+p=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToke=
+n=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FNew-Orleans%2CLA-c22085%2F2018=
+-10-26%2F2018-10-27%2F2adults"> <font class=3D"mobileTextSize15" style=3D"f=
+ont-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;fo=
+nt-size:18px;font-weight:normal;color:#000000;">Starting at</font> </a> </t=
+d> <td align=3D"right" valign=3D"top"> <a style=3D"text-decoration:none;" h=
+ref=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D50350=
+3720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsel=
+l%2FtopCityHotel2%2FcitySearch_lowPrice%2F95%2Fup%2F&xp=3D13005-2&brand=3Dk=
+ayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZK=
+kipNr&url=3D%2Fhotels%2FNew-Orleans%2CLA-c22085%2F2018-10-26%2F2018-10-27%2=
+F2adults"> <font class=3D"mobileTextSize15" style=3D"font-family:'Helvetica=
+ Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size:18px;font-wei=
+ght:bold;color:#000000;">$334</font> </a> </td> </tr> </table> </a> </td> <=
+/tr> <tr> <td> <a style=3D"text-decoration:none;" href=3D"https://www.kayak=
+.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fb=
+uzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel2%2Fhote=
+lSearch_3star%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_=
+10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FNe=
+w-Orleans%2CLA-c22085-h32177%2F2018-10-26%2F2018-10-27%2F2adults"> <table w=
+idth=3D"100%" cellspacing=3D'0' cellpadding=3D'0' border=3D'0' style=3D"pad=
+ding:10px;border-bottom:1px solid #e7e7e7;"> <tr> <td align=3D"left" valign=
+=3D"top"> <a style=3D"text-decoration:none;" href=3D"https://www.kayak.com/=
+h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzal=
+ert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel2%2FhotelSear=
+ch_3star%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up=
+_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FNew-Orl=
+eans%2CLA-c22085-h32177%2F2018-10-26%2F2018-10-27%2F2adults"> <img border=
+=3D"0" src=3D"https://www.kayak.com/eimg/coreImages/hotels/stars-3.png"/> <=
+/a> </td> <td align=3D"right" valign=3D"top"> <a style=3D"text-decoration:n=
+one;" href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=
+=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_=
+1%2Fxsell%2FtopCityHotel2%2FhotelSearch_3star%2F95%2Fup%2F&xp=3D13005-2&bra=
+nd=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs=
+_a3JZKkipNr&url=3D%2Fhotels%2FNew-Orleans%2CLA-c22085-h32177%2F2018-10-26%2=
+F2018-10-27%2F2adults"> <font class=3D"mobileTextSize15" style=3D"font-fami=
+ly:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size:=
+18px;font-weight:bold;color:#000000;">$404</font> </a> </td> </tr> </table>=
+ </a> </td> </tr> <tr> <td> <a style=3D"text-decoration:none;" href=3D"http=
+s://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=
+=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCi=
+tyHotel2%2FhotelSearch_4star%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campai=
+gn=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=
+=3D%2Fhotels%2FNew-Orleans%2CLA-c22085-h36059%2F2018-10-26%2F2018-10-27%2F2=
+adults"> <table width=3D"100%" cellspacing=3D'0' cellpadding=3D'0' border=
+=3D'0' style=3D"padding:10px;border-bottom:1px solid #e7e7e7;"> <tr> <td al=
+ign=3D"left" valign=3D"top"> <a style=3D"text-decoration:none;" href=3D"htt=
+ps://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=
+=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCi=
+tyHotel2%2FhotelSearch_4star%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campai=
+gn=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=
+=3D%2Fhotels%2FNew-Orleans%2CLA-c22085-h36059%2F2018-10-26%2F2018-10-27%2F2=
+adults"> <img border=3D"0" src=3D"https://www.kayak.com/eimg/coreImages/hot=
+els/stars-4.png"/> </a> </td> <td align=3D"right" valign=3D"top"> <a style=
+=3D"text-decoration:none;" href=3D"https://www.kayak.com/h/hermes/redirect/=
+in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F5=
+03503720132%2Falert_1%2Fxsell%2FtopCityHotel2%2FhotelSearch_4star%2F95%2Fup=
+%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emai=
+lToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FNew-Orleans%2CLA-c22085-h=
+36059%2F2018-10-26%2F2018-10-27%2F2adults"> <font class=3D"mobileTextSize15=
+" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sa=
+ns-serif;;font-size:18px;font-weight:bold;color:#000000;">$334</font> </a> =
+</td> </tr> </table> </a> </td> </tr> </table> </td> </tr> </table> </td> <=
+/tr> <tr> <td style=3D"background-color:white;padding-left:20px;padding-rig=
+ht:20px;"> <a style=3D"text-decoration:none;" href=3D"https://www.kayak.com=
+/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzza=
+lert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel3%2FhotelSea=
+rch_5star%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_u=
+p_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLos-An=
+geles%2CCA-c16078%2F2018-10-26%2F2018-10-27%2F2adults"> <table width=3D"100=
+%" class=3D"flexible" cellspacing=3D'0' cellpadding=3D'0' border=3D'0' styl=
+e=3D"background-color:white;padding-top:10px;"> <tr> <td align=3D"center" w=
+idth=3D"100%"> <a style=3D"text-decoration:none;" href=3D"https://www.kayak=
+.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fb=
+uzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel3%2Fcity=
+Search_text%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10=
+_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLos-=
+Angeles%2CCA-c16078%2F2018-10-26%2F2018-10-27%2F2adults"> <font style=3D"fo=
+nt-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;fon=
+t-size:18px;font-weight:300;color:#FF690F;text-decoration:underline;">Los A=
+ngeles, CA</font> </a> </td> </tr> <tr> <td width=3D"100%" style=3D"padding=
+-top:5px;"> <a style=3D"text-decoration:none;" href=3D"https://www.kayak.co=
+m/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzz=
+alert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel3%2FcitySea=
+rch_image%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_u=
+p_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLos-An=
+geles%2CCA-c16078%2F2018-10-26%2F2018-10-27%2F2adults"> <img class=3D"flexi=
+bleImage" src=3D"http://www.kayak.com/rimg/dimg/a0/1a/964aedfa-city-16078-1=
+46cf1d70a5.jpg?width=3D700&height=3D350&xhint=3D1388&yhint=3D1012&crop=3Dtr=
+ue" border=3D"0" height=3D"350px" width=3D"700px" alt=3D"City Image" style=
+=3D"margin:0; padding:0;display:block;"> </a> </td> </tr> </table> </a> </t=
+d> </tr> <tr> <td style=3D"background-color:white;padding-left:20px;padding=
+-right:20px;"> <table width=3D"100%" class=3D"flexible" cellspacing=3D'0' c=
+ellpadding=3D'0' border=3D'0' style=3D"padding-bottom:20px;"> <tr> <td widt=
+h=3D"100%"> <table width=3D"100%" cellspacing=3D'0' cellpadding=3D'0' borde=
+r=3D'0' style=3D"border-left:1px solid #e7e7e7;border-right:1px solid #e7e7=
+e7;"> <tr> <td> <a style=3D"text-decoration:none;" href=3D"https://www.kaya=
+k.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2F=
+buzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel3%2Fcit=
+ySearch_lowPrice%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzale=
+rt_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2=
+FLos-Angeles%2CCA-c16078%2F2018-10-26%2F2018-10-27%2F2adults"> <table width=
+=3D"100%" cellspacing=3D'0' cellpadding=3D'0' border=3D'0' style=3D"padding=
+:10px;border-bottom:1px solid #e7e7e7;"> <tr> <td align=3D"left" valign=3D"=
+top"> <a style=3D"text-decoration:none;" href=3D"https://www.kayak.com/h/he=
+rmes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_=
+10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel3%2FcitySearch_lo=
+wPrice%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y=
+&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLos-Angel=
+es%2CCA-c16078%2F2018-10-26%2F2018-10-27%2F2adults"> <font class=3D"mobileT=
+extSize15" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSan=
+sBook',sans-serif;;font-size:18px;font-weight:normal;color:#000000;">Starti=
+ng at</font> </a> </td> <td align=3D"right" valign=3D"top"> <a style=3D"tex=
+t-decoration:none;" href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3D=
+buzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F50350372=
+0132%2Falert_1%2Fxsell%2FtopCityHotel3%2FcitySearch_lowPrice%2F95%2Fup%2F&x=
+p=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToke=
+n=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLos-Angeles%2CCA-c16078%2F2018=
+-10-26%2F2018-10-27%2F2adults"> <font class=3D"mobileTextSize15" style=3D"f=
+ont-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;fo=
+nt-size:18px;font-weight:bold;color:#000000;">$115</font> </a> </td> </tr> =
+</table> </a> </td> </tr> <tr> <td> <a style=3D"text-decoration:none;" href=
+=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D50350372=
+0132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2=
+FtopCityHotel3%2FhotelSearch_3star%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&=
+campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr=
+&url=3D%2Fhotels%2FLos-Angeles%2CCA-c16078-h32443%2F2018-10-26%2F2018-10-27=
+%2F2adults"> <table width=3D"100%" cellspacing=3D'0' cellpadding=3D'0' bord=
+er=3D'0' style=3D"padding:10px;border-bottom:1px solid #e7e7e7;"> <tr> <td =
+align=3D"left" valign=3D"top"> <a style=3D"text-decoration:none;" href=3D"h=
+ttps://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&=
+p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopC=
+ityHotel3%2FhotelSearch_3star%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campa=
+ign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=
+=3D%2Fhotels%2FLos-Angeles%2CCA-c16078-h32443%2F2018-10-26%2F2018-10-27%2F2=
+adults"> <img border=3D"0" src=3D"https://www.kayak.com/eimg/coreImages/hot=
+els/stars-3.png"/> </a> </td> <td align=3D"right" valign=3D"top"> <a style=
+=3D"text-decoration:none;" href=3D"https://www.kayak.com/h/hermes/redirect/=
+in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F5=
+03503720132%2Falert_1%2Fxsell%2FtopCityHotel3%2FhotelSearch_3star%2F95%2Fup=
+%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emai=
+lToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLos-Angeles%2CCA-c16078-h=
+32443%2F2018-10-26%2F2018-10-27%2F2adults"> <font class=3D"mobileTextSize15=
+" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sa=
+ns-serif;;font-size:18px;font-weight:bold;color:#000000;">$115</font> </a> =
+</td> </tr> </table> </a> </td> </tr> <tr> <td> <a style=3D"text-decoration=
+:none;" href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&ui=
+d=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert=
+_1%2Fxsell%2FtopCityHotel3%2FhotelSearch_4star%2F95%2Fup%2F&xp=3D13005-2&br=
+and=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRf=
+s_a3JZKkipNr&url=3D%2Fhotels%2FLos-Angeles%2CCA-c16078-h32048%2F2018-10-26%=
+2F2018-10-27%2F2adults"> <table width=3D"100%" cellspacing=3D'0' cellpaddin=
+g=3D'0' border=3D'0' style=3D"padding:10px;border-bottom:1px solid #e7e7e7;=
+"> <tr> <td align=3D"left" valign=3D"top"> <a style=3D"text-decoration:none=
+;" href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D5=
+03503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Falert_1%2F=
+xsell%2FtopCityHotel3%2FhotelSearch_4star%2F95%2Fup%2F&xp=3D13005-2&brand=
+=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a=
+3JZKkipNr&url=3D%2Fhotels%2FLos-Angeles%2CCA-c16078-h32048%2F2018-10-26%2F2=
+018-10-27%2F2adults"> <img border=3D"0" src=3D"https://www.kayak.com/eimg/c=
+oreImages/hotels/stars-4.png"/> </a> </td> <td align=3D"right" valign=3D"to=
+p"> <a style=3D"text-decoration:none;" href=3D"https://www.kayak.com/h/herm=
+es/redirect/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10=
+_up_Y%2F%2F503503720132%2Falert_1%2Fxsell%2FtopCityHotel3%2FhotelSearch_4st=
+ar%2F95%2Fup%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzalert_10_up_Y&set=
+lc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fhotels%2FLos-Angeles%2=
+CCA-c16078-h32048%2F2018-10-26%2F2018-10-27%2F2adults"> <font class=3D"mobi=
+leTextSize15" style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVu=
+SansBook',sans-serif;;font-size:18px;font-weight:bold;color:#000000;">$137<=
+/font> </a> </td> </tr> </table> </a> </td> </tr> </table> </td> </tr> </ta=
+ble> </td> </tr> <tr id=3D"staticCrossSell"> <td style=3D"background-color:=
+white;padding-top: 10px" align=3D"center"> <table class=3D"flexible" width=
+=3D"700" cellspacing=3D'0' cellpadding=3D'0' border=3D'0'> <tr> <td style=
+=3D"padding: 0px 10px 10px;"> <table class=3D"flexible" align=3D"left" cell=
+spacing=3D'0' cellpadding=3D'0' border=3D'0' style=3D"padding-top:5px; padd=
+ing-bottom:5px"> <tr> <td style=3D"padding: 0px 10px;" width=3D"320"> <div>
+<!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://www.kayak.com/h/hermes/redire=
+ct/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%=
+2F503503720132%2Fxsell%2Fflight%2F%2Fstaticbutton%2F%2F%2F&xp=3D13005-2&bra=
+nd=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs=
+_a3JZKkipNr&url=3D%2Fflights" style=3D"height:40px;v-text-anchor:middle;wid=
+th:310px;padding-bottom:24px;" arcsize=3D"10%" stroke=3D"f" fillcolor=3D"#F=
+F690F"> <w:anchorlock/> <center style=3D"font-family:'Helvetica Neue',Helve=
+tica,Arial,'DejaVuSansBook',sans-serif;;font-size:14px!important;font-weigh=
+t:bold;color:#ffffff;"> Find flights </center>
+</v:roundrect>
+<![endif]-->
+</div>
+<div>
+<!--[if !mso]> <!---->
+<a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D5=
+03503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Fxsell%2Ffl=
+ight%2F%2Fstaticbutton%2F%2F%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzza=
+lert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fflight=
+s" style=3D"display:block;text-decoration:none;font-family:'Helvetica Neue'=
+,Helvetica,Arial,'DejaVuSansBook',sans-serif;;min-height:0px;font-size:14px=
+!important;line-height:24x;width:100%;border-radius:1px;-moz-border-radius:=
+1px;-webkit-border-radius:1px;-khtml-border-radius:3px;color:#FFFFFF;backgr=
+ound-color:#FF690F;text-align:center;vertical-align:middle;padding: 8px 0px=
+;" class=3D"buttonStyle">Find flights</a>
+<!-- <![endif]-->
+</div> </td> </tr> </table> <table class=3D"flexible" align=3D"left" cellsp=
+acing=3D'0' cellpadding=3D'0' border=3D'0' style=3D"padding-top:5px; paddin=
+g-bottom:5px"> <tr> <td style=3D"padding: 0px 10px;" width=3D"320"> <div>
+<!--[if mso]>
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://www.kayak.com/h/hermes/redire=
+ct/in?a=3Dbuzzalert&uid=3D503503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%=
+2F503503720132%2Fxsell%2Fcar%2F%2Fstaticbutton%2F%2F%2F&xp=3D13005-2&brand=
+=3Dkayak&campaign=3Dbuzzalert_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a=
+3JZKkipNr&url=3D%2Fcars" style=3D"height:40px;v-text-anchor:middle;width:31=
+0px;padding-bottom:24px;" arcsize=3D"10%" stroke=3D"f" fillcolor=3D"#FF690F=
+"> <w:anchorlock/> <center style=3D"font-family:'Helvetica Neue',Helvetica,=
+Arial,'DejaVuSansBook',sans-serif;;font-size:14px!important;font-weight:bol=
+d;color:#ffffff;"> Find cars </center>
+</v:roundrect>
+<![endif]-->
+</div>
+<div>
+<!--[if !mso]> <!---->
+<a href=3D"https://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D5=
+03503720132&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Fxsell%2Fca=
+r%2F%2Fstaticbutton%2F%2F%2F&xp=3D13005-2&brand=3Dkayak&campaign=3Dbuzzaler=
+t_10_up_Y&setlc=3Den&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&url=3D%2Fcars" sty=
+le=3D"display:block;text-decoration:none;font-family:'Helvetica Neue',Helve=
+tica,Arial,'DejaVuSansBook',sans-serif;;min-height:0px;font-size:14px!impor=
+tant;line-height:24x;width:100%;border-radius:1px;-moz-border-radius:1px;-w=
+ebkit-border-radius:1px;-khtml-border-radius:3px;color:#FFFFFF;background-c=
+olor:#FF690F;text-align:center;vertical-align:middle;padding: 8px 0px;" cla=
+ss=3D"buttonStyle">Find cars</a>
+<!-- <![endif]-->
+</div> </td> </tr> </table> </td> </tr> </table> </td>
+</tr> <!--CaldwellFooter2--> <tr> <td style=3D"padding-left:25px; padding-r=
+ight:25px; background-color:#ffffff;"> <table cellspacing=3D'0' cellpadding=
+=3D'0' border=3D'0' width=3D"100%" style=3D"border-top: 1px solid #e1e1e5">=
+ <tr> <td style=3D"padding-top:50px ; text-align: center"> <span class=3D"h=
+ideOnMobile"> &nbsp;&nbsp;&nbsp;&nbsp;<a style=3D"font-family:'Helvetica Ne=
+ue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size: 12px;color: #54=
+5456;font-weight:bold;letter-spacing: 0px;text-decoration:none" href=3D"htt=
+p://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&ema=
+ilToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F5035=
+03720132%2Ffooter%2Fhotels%2F%2F%2F%2F%2F&experiment=3D13005-2&brand=3DKAYA=
+K&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=3D%2Fhotels">Hotel=
+s</a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<a style=3D"font-fami=
+ly:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size:=
+ 12px;color: #545456;font-weight:bold;letter-spacing: 0px;text-decoration:n=
+one" href=3D"http://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D=
+503503720132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_1=
+0_up_Y%2F%2F503503720132%2Ffooter%2Fflights%2F%2F%2F%2F%2F&experiment=3D130=
+05-2&brand=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=
+=3D%2Fflights">Flights</a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;=
+<a style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',s=
+ans-serif;;font-size: 12px;color: #545456;font-weight:bold;letter-spacing: =
+0px;text-decoration:none" href=3D"http://www.kayak.com/h/hermes/redirect/in=
+?a=3Dbuzzalert&uid=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%=
+2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Ffooter%2Fcars%2F%2F%2F%2F%2=
+F&experiment=3D13005-2&brand=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&senddate=
+=3D2018-10-09&url=3D%2Fcars">Cars</a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&=
+nbsp;&nbsp;<a style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVu=
+SansBook',sans-serif;;font-size: 12px;color: #545456;font-weight:bold;lette=
+r-spacing: 0px;text-decoration:none" href=3D"http://www.kayak.com/h/hermes/=
+redirect/in?a=3Dbuzzalert&uid=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3JZK=
+kipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Ffooter%2Fpackage=
+s%2F%2F%2F%2F%2F&experiment=3D13005-2&brand=3DKAYAK&campaign=3Dbuzzalert_10=
+_up_Y&senddate=3D2018-10-09&url=3D%2Fpackages">Packages</a>&nbsp;&nbsp;&nbs=
+p;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<a style=3D"font-family:'Helvetica Neue',H=
+elvetica,Arial,'DejaVuSansBook',sans-serif;;font-size: 12px;color: #545456;=
+font-weight:bold;letter-spacing: 0px;text-decoration:none" href=3D"http://w=
+ww.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&emailTok=
+en=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720=
+132%2Ffooter%2Ftrips%2F%2F%2F%2F%2F&experiment=3D13005-2&brand=3DKAYAK&camp=
+aign=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=3D%2Ftrips">Trips</a>&nb=
+sp;&nbsp;&nbsp;&nbsp; </span> <span class=3D"showOnMobile"> &nbsp;<a style=
+=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-seri=
+f;;font-size: 12px;color: #545456;font-weight:bold;letter-spacing: 0px;text=
+-decoration:none" href=3D"http://www.kayak.com/h/hermes/redirect/in?a=3Dbuz=
+zalert&uid=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%=
+2Fbuzzalert_10_up_Y%2F%2F503503720132%2Ffooter%2Fhotels%2F%2F%2F%2F%2F&expe=
+riment=3D13005-2&brand=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018=
+-10-09&url=3D%2Fhotels">Hotels</a>&nbsp; &nbsp;<a style=3D"font-family:'Hel=
+vetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size: 12px;c=
+olor: #545456;font-weight:bold;letter-spacing: 0px;text-decoration:none" hr=
+ef=3D"http://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D5035037=
+20132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%=
+2F%2F503503720132%2Ffooter%2Fflights%2F%2F%2F%2F%2F&experiment=3D13005-2&br=
+and=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=3D%2Ffli=
+ghts">Flights</a>&nbsp; &nbsp;<a style=3D"font-family:'Helvetica Neue',Helv=
+etica,Arial,'DejaVuSansBook',sans-serif;;font-size: 12px;color: #545456;fon=
+t-weight:bold;letter-spacing: 0px;text-decoration:none" href=3D"http://www.=
+kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&emailToken=
+=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F50350372013=
+2%2Ffooter%2Fcars%2F%2F%2F%2F%2F&experiment=3D13005-2&brand=3DKAYAK&campaig=
+n=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=3D%2Fcars">Cars</a>&nbsp; <=
+br> &nbsp;<a style=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuS=
+ansBook',sans-serif;;font-size: 12px;color: #545456;font-weight:bold;letter=
+-spacing: 0px;text-decoration:none" href=3D"http://www.kayak.com/h/hermes/r=
+edirect/in?a=3Dbuzzalert&uid=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3JZKk=
+ipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Ffooter%2Fpackages=
+%2F%2F%2F%2F%2F&experiment=3D13005-2&brand=3DKAYAK&campaign=3Dbuzzalert_10_=
+up_Y&senddate=3D2018-10-09&url=3D%2Fpackages">Packages</a>&nbsp; &nbsp;<a s=
+tyle=3D"font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-=
+serif;;font-size: 12px;color: #545456;font-weight:bold;letter-spacing: 0px;=
+text-decoration:none" href=3D"http://www.kayak.com/h/hermes/redirect/in?a=
+=3Dbuzzalert&uid=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2F=
+email%2Fbuzzalert_10_up_Y%2F%2F503503720132%2Ffooter%2Ftrips%2F%2F%2F%2F%2F=
+&experiment=3D13005-2&brand=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&senddate=
+=3D2018-10-09&url=3D%2Ftrips">Trips</a>&nbsp; </span> </td> </tr> <tr> <td =
+style=3D"padding-top:30px;font-family:'Helvetica Neue',Helvetica,Arial,'Dej=
+aVuSansBook',sans-serif;;font-size: 12px;color: #8B8B8E;letter-spacing: 0px=
+;text-decoration:none;text-align:center"> &copy; 2018 KAYAK Software Corpor=
+ation </td> </tr> <tr> <td style=3D"padding-top:8px;font-family:'Helvetica =
+Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size: 12px;color: #=
+8B8B8E;letter-spacing: 0px;text-decoration:none;text-align:center"> <span c=
+lass=3D"suppressGoogleStyle">7 Market Street&nbsp;&nbsp;Stamford, CT 06902-=
+5810 US</span> </td> </tr> <tr> <td style=3D"padding-bottom:0px;padding-top=
+:8px;font-family:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-ser=
+if;;font-size: 12px;color: #8B8B8E;letter-spacing: 0px;text-decoration:none=
+;text-align:center"> <span class=3D"hideOnMobile"> <a style=3D"font-family:=
+'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size: 12=
+px;color: #8B8B8E;letter-spacing: 0px;text-decoration:none;text-align:cente=
+r" href=3D"http://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D50=
+3503720132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_=
+up_Y%2F%2F503503720132%2Ffooter%2Funsubscribe%2F%2F%2F%2F%2F&experiment=3D1=
+3005-2&brand=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=
+=3D%2Fk%2Falertops%3Fu%3D503503720132%26t%3DQ0wxWA7kRfs_a3JZKkipNr%26a%3Dsa=
+ll">Unsubscribe</a>&nbsp;&#124;&nbsp; <a style=3D"font-family:'Helvetica Ne=
+ue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size: 12px;color: #8B=
+8B8E;letter-spacing: 0px;text-decoration:none;text-align:center" href=3D"ht=
+tp://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&em=
+ailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503=
+503720132%2Ffooter%2Fpreferences%2F%2F%2F%2F%2F&experiment=3D13005-2&brand=
+=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=3D%2Falerts=
+">Email Preferences</a>&nbsp;&#124;&nbsp; <a style=3D"font-family:'Helvetic=
+a Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size: 12px;color:=
+ #8B8B8E;letter-spacing: 0px;text-decoration:none;text-align:center" href=
+=3D"http://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720=
+132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F=
+%2F503503720132%2Ffooter%2Ffeedback%2F%2F%2F%2F%2F&experiment=3D13005-2&bra=
+nd=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=3D%2Ffeed=
+back">Feedback</a>&nbsp;&#124;&nbsp; <a style=3D"font-family:'Helvetica Neu=
+e',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size: 12px;color: #8B8=
+B8E;letter-spacing: 0px;text-decoration:none;text-align:center" href=3D"htt=
+p://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&ema=
+ilToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F5035=
+03720132%2Ffooter%2Fprivacy%2F%2F%2F%2F%2F&experiment=3D13005-2&brand=3DKAY=
+AK&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=3D%2Fprivacy">Pri=
+vacy Policy</a> </span> <span class=3D"showOnMobile"> <a style=3D"font-fami=
+ly:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size:=
+ 12px;color: #8B8B8E;letter-spacing: 0px;text-decoration:none;text-align:ce=
+nter" href=3D"http://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=
+=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzaler=
+t_10_up_Y%2F%2F503503720132%2Ffooter%2Funsubscribe%2F%2F%2F%2F%2F&experimen=
+t=3D13005-2&brand=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018-10-0=
+9&url=3D%2Fk%2Falertops%3Fu%3D503503720132%26t%3DQ0wxWA7kRfs_a3JZKkipNr%26a=
+%3Dsall">Unsubscribe</a>&nbsp;&#124;&nbsp; <a style=3D"font-family:'Helveti=
+ca Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size: 12px;color=
+: #8B8B8E;letter-spacing: 0px;text-decoration:none;text-align:center" href=
+=3D"http://www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720=
+132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F=
+%2F503503720132%2Ffooter%2Fpreferences%2F%2F%2F%2F%2F&experiment=3D13005-2&=
+brand=3DKAYAK&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=3D%2Fa=
+lerts">Email Preferences</a> <br> <a style=3D"font-family:'Helvetica Neue',=
+Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size: 12px;color: #8B8B8E=
+;letter-spacing: 0px;text-decoration:none;text-align:center" href=3D"http:/=
+/www.kayak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&emailT=
+oken=3DQ0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F5035037=
+20132%2Ffooter%2Ffeedback%2F%2F%2F%2F%2F&experiment=3D13005-2&brand=3DKAYAK=
+&campaign=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=3D%2Ffeedback">Feed=
+back</a>&nbsp;&#124;&nbsp; <a style=3D"font-family:'Helvetica Neue',Helveti=
+ca,Arial,'DejaVuSansBook',sans-serif;;font-size: 12px;color: #8B8B8E;letter=
+-spacing: 0px;text-decoration:none;text-align:center" href=3D"http://www.ka=
+yak.com/h/hermes/redirect/in?a=3Dbuzzalert&uid=3D503503720132&emailToken=3D=
+Q0wxWA7kRfs_a3JZKkipNr&p=3D%2Femail%2Fbuzzalert_10_up_Y%2F%2F503503720132%2=
+Ffooter%2Fprivacy%2F%2F%2F%2F%2F&experiment=3D13005-2&brand=3DKAYAK&campaig=
+n=3Dbuzzalert_10_up_Y&senddate=3D2018-10-09&url=3D%2Fprivacy">Privacy Polic=
+y</a> </span> </td> </tr> <tr> <td align=3D"center" style=3D"padding-bottom=
+:0px ; padding-top:25px;"> &nbsp;<a style=3D"text-decoration: none" href=3D=
+"http://www.kayak.com/h/hermes/redirect/out?a=3Dbuzzalert&p=3D%2Femail%2Fbu=
+zzalert_10_up_Y%2F%2F503503720132%2Ffooter%2Ffacebook%2F%2F%2F%2F%2F&experi=
+ment=3D13005-2&brand=3DKAYAK&uid=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3=
+JZKkipNr&h=3Do-NVoNcSgKaQoEGyt3QmAbW0oIc&campaign=3Dbuzzalert_10_up_Y&url=
+=3Dhttps%3A%2F%2Fwww.facebook.com%2Fkayak"> <img src=3D"https://www.kayak.c=
+om/eimg/coreImages/facebook-caldwell-asset.png" height=3D"30" width=3D"30" =
+border=3D"0" /> </a>&nbsp; &nbsp;<a style=3D"text-decoration: none" href=3D=
+"http://www.kayak.com/h/hermes/redirect/out?a=3Dbuzzalert&p=3D%2Femail%2Fbu=
+zzalert_10_up_Y%2F%2F503503720132%2Ffooter%2Ftwitter%2F%2F%2F%2F%2F&experim=
+ent=3D13005-2&brand=3DKAYAK&uid=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3J=
+ZKkipNr&h=3DRBh_-wSQ40EDoJ-dFR9F-xxSxmg&campaign=3Dbuzzalert_10_up_Y&url=3D=
+https%3A%2F%2Ftwitter.com%2FKAYAK"> <img src=3D"https://www.kayak.com/eimg/=
+coreImages/twitter-caldwell-asset.png" height=3D"30" width=3D"30" border=3D=
+"0" /> </a>&nbsp; &nbsp;<a style=3D"text-decoration: none" href=3D"http://w=
+ww.kayak.com/h/hermes/redirect/out?a=3Dbuzzalert&p=3D%2Femail%2Fbuzzalert_1=
+0_up_Y%2F%2F503503720132%2Ffooter%2Fyoutube%2F%2F%2F%2F%2F&experiment=3D130=
+05-2&brand=3DKAYAK&uid=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr&h=
+=3DF6IwgybkUPzvgsNFtsddpnec-N0&campaign=3Dbuzzalert_10_up_Y&url=3Dhttps%3A%=
+2F%2Fwww.youtube.com%2Fuser%2FKAYAK"> <img src=3D"https://www.kayak.com/eim=
+g/coreImages/youtube-caldwell-asset.png" height=3D"30" width=3D"30" border=
+=3D"0" /> </a>&nbsp; &nbsp;<a style=3D"text-decoration: none" href=3D"http:=
+//www.kayak.com/h/hermes/redirect/out?a=3Dbuzzalert&p=3D%2Femail%2Fbuzzaler=
+t_10_up_Y%2F%2F503503720132%2Ffooter%2Finstagram%2F%2F%2F%2F%2F&experiment=
+=3D13005-2&brand=3DKAYAK&uid=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3JZKk=
+ipNr&h=3Dffyy3Swhq1x7bfZZf1PJwXPTt5c&campaign=3Dbuzzalert_10_up_Y&url=3Dhtt=
+ps%3A%2F%2Fwww.instagram.com%2FKAYAK"> <img src=3D"https://www.kayak.com/ei=
+mg/coreImages/instagram-caldwell-asset.png" height=3D"30" width=3D"30" bord=
+er=3D"0" /> </a>&nbsp; &nbsp;<a style=3D"text-decoration: none" href=3D"htt=
+p://www.kayak.com/h/hermes/redirect/out?a=3Dbuzzalert&p=3D%2Femail%2Fbuzzal=
+ert_10_up_Y%2F%2F503503720132%2Ffooter%2Fblog%2F%2F%2F%2F%2F&experiment=3D1=
+3005-2&brand=3DKAYAK&uid=3D503503720132&emailToken=3DQ0wxWA7kRfs_a3JZKkipNr=
+&h=3DSdGxSPdRYft2M3JMsO5i1kI0gow&campaign=3Dbuzzalert_10_up_Y&url=3Dhttps%3=
+A%2F%2Fwww.kayak.com%2Fnews%2F"> <img src=3D"https://www.kayak.com/eimg/cor=
+eImages/blog-caldwell-asset.png" height=3D"30" width=3D"30" border=3D"0" />=
+ </a>&nbsp; </td> </tr> <tr> <td style=3D"padding-top: 20px ; padding-left:=
+ 10px ; pddding-right: 10px ; text-align: center ; "> <span style=3D"font-f=
+amily:'Helvetica Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-si=
+ze: 12px;color: #8B8B8E;letter-spacing: 0px;text-decoration:none;text-align=
+:center"> ^ Fares displayed are for round-trip economy class travel found b=
+y our users in the last 24-48 hours. Fares include all taxes and fees but m=
+ay not include baggage fees charged by carriers. Seats are limited and may =
+not be available on all flights or days. Fares are subject to change and ma=
+y not be available on all flights or dates. </span> </td> </tr> <tr> <td st=
+yle=3D"padding-top: 20px ; padding-left: 10px ; pddding-right: 10px ; text-=
+align: center ; padding-bottom:70px"> <span style=3D"font-family:'Helvetica=
+ Neue',Helvetica,Arial,'DejaVuSansBook',sans-serif;;font-size: 12px;color: =
+#8B8B8E;letter-spacing: 0px;text-decoration:none;text-align:center"> Prices=
+ in this email are correct as of the last 48 hours. Prices are per night an=
+d based on a double-occupancy room for check in: Friday, October 26 until c=
+heck-out: Saturday, October 27, unless otherwise stated. Cancellation, avai=
+lability, and payment policies vary. Please check actual property policies =
+before making a reservation. All prices are in USD. </span> </td> </tr> </t=
+able> </td>
+</tr> <tr style=3D"background-color: #E4E5EA"> <td style=3D"padding-top: 20=
+px"> &nbsp; </td>
+</tr> </tbody> </table> </td> </tr> </tbody> </table> </body> </html>
+

@@ -1,0 +1,1989 @@
+From bounces+1718164-741c-vcinfo=agentidea.com@email.strictlyvc.com  Mon Oct  8 23:15:12 2018
+Return-Path: <bounces+1718164-741c-vcinfo=agentidea.com@email.strictlyvc.com>
+X-Original-To: vcinfo@agentidea.com
+Delivered-To: vcinfo@agentidea.com
+Received: from o16824518x221.outbound-mail.sendgrid.net (o16824518x221.outbound-mail.sendgrid.net [168.245.18.221])
+	by agentidea.com (Postfix) with ESMTP id 9AD9040D13
+	for <vcinfo@agentidea.com>; Mon,  8 Oct 2018 23:15:10 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=email.strictlyvc.com; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=svc2015; bh=PFSfe+oSl+ZSRCMo2Am9yXPmp5A=; b=RC/RQwxMBAk2+0qbJB
+	2no3LkOEkwUFGmX+RKp7shH7At4ps3B667djqpAdsv2qcVfwM2HHdyizzOPCW1ru
+	A/UQXjwR3o0JSjrnyJVTxz7SSknlzQnLqX1mn6YwV81ftYs4MNP+/1ZcZzw2lqA0
+	54/1ENB7wFLQxPU1dvFuwy7HU=
+Content-Type: multipart/alternative; boundary=246599d359a17e8e74fe897ad8ee24fff4b3caed0556719ebbb8a17265f2
+Date: Mon, 08 Oct 2018 23:14:54 +0000 (UTC)
+From: "StrictlyVC" <connie@strictlyvc.com>
+Mime-Version: 1.0
+Reply-To: connie@strictlyvc.com
+Subject: StrictlyVC - October 8, 2018
+To: vcinfo@agentidea.com
+Message-ID: <ERaJHH9IToChg5EdBbTIsQ@ismtpd0029p1mdw1.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@email.strictlyvc.com?subject=http://email.strictlyvc.com/asm/unsubscribe/*q*user_id=1718164*a*data=yS_eB-pDsRMWRoYuJAksBb5avxQjP7dBtHLLBllDuM6DVvC7eyfkEtDjUaHmDQJAnyLA0BX9dohDG6XnNLn9-PU3FifgxKzeNBw3CdMVWlZONOIOZ0cCQK34ZuRUK6taRMUceTibj7Ga6t2W7GKrqVTOARlzX8OGv-du86U0cQ79mYvvhOQOyWGtvc7uFLNMb3reUJTvWWitCjiR1LGeicL-dnmodCKJv-ZJkCDTXFne0hweTZokpMqiVjgpoQK9OUoPb_1OuWQu-kmxzftVYiUHIhOIqPef8WqTQh_g43__gBehbNxrVk5ekmN06ySY17gUMs_-uX9byuypc7wvcfdTWdyMQ41E2lUomfr-nksVXoX6ibvQue5URRjvcEMJ-YFDbpc6Go3CifynnMwT_rQvUTJGjobX7_GgWZvGMhzLOjuEt7aVauBonVyr6MqPKJW2uVNIF6xWWiWDtFkSbzkog_i1BBtdXpaAtE7uBnIng91Rv0CALfRCiu9_qXpSBFMzhyIruhqgMxPND-ulYxAZec7zpdyWLknPbpnw7W0=>
+X-SG-EID: 2ya8XbQwXomjThqzKnf7m9jKmE1xUZBMrUmo3OAQM+wG+GYxdN/eM91NgncbVcd0Wobbf4tLmEWg7s
+ HbHL+t9tU+6rp3ijLyeqeYm24gfmVI0YLeR+y2POKMQqy8adQWEyDzKIj1k6K/CcoXZbz9YbzpuEvn
+ 3wV9Iw5FyFK0gY38PKp8166cPDI2f2AQjOfX11mTXg0WudSb1ogrKg/wRLxdDwvfQCjs8GFvLHVs/m
+ U=
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP1NLq8vvooQSeVifetlpWrLxRGBe3DFMXZ718
+ EqELL6bqhChGSUhe5XXWr1aj/U9tfCRXIp5hi0eyJesK+94GaviKnMy9Gi3cmons2XDrAJnepItshR
+ pfRlRFYTDIIM4nfoCOi/GKDAl06T0ModyJ3b
+
+--246599d359a17e8e74fe897ad8ee24fff4b3caed0556719ebbb8a17265f2
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+The news you need to know.
+
+October 8, 2018
+
+Hello! Happy Monday.:)
+
+Top News
+
+Google exposed the private data of hundreds of thousands of users of the Go=
+ogle+ social network and then opted not to disclose the issue this past spr=
+ing http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY=
+-LA/t40/WQfLT4lCURbmpRSkGVxcC0p7PXpvBFk0NqI0Q-2BrfMhqxmLg-2BmhEmcVSGXyF-2Bo=
+PEudHsGGjxo0UptBXbvQiZ-2B1uXEBauktfRKU6B-2Beg68qHFpWFPLuozkJp5hFjBMBPEiipkG=
+qqPSInoVAL-2FZdc22c5ghM7369vmzigpH60ldRn8-3D save its reputation and keep r=
+egulators off its back, according to people briefed on the incident and doc=
+uments reviewed by The WSJ. Now, Google is shutting it down http://email.st=
+rictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t41/wspANFbyofa=
+CTRUcC3Fm5y7NVF7iKzS5jQvvc8q1q03Hx0arjD11SBK8mbb2UGxU1hjpSzICvgE81XWjzfn2tL=
+ZtlSVzkyAVv676B80GUgLBY7FFPBCHmPdw60MfdhLJ
+
+Saudi Arabia is preparing to double-down on SoftBanks's massive Vision Fund=
+.=C2=A0According to Crown Prince Mohammed Bin Salman, the country's soverei=
+gn fund will make another $45 billion investment http://email.strictlyvc.co=
+m/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t42/5AERylSNVCCwj1pUwpeO2Q=
+tNYDiK-2FZC7X9T0SXzgzbMb0cxyQisq-2FjEB7T4CidzDSC59CDGhgrZJsnJ00DKY7jWBoT6lf=
+EPpYgEe7LjVwjXQuPIrnv-2FYY3OBy6HSKUSuXyHJXEvpm-2B0DbwCADBO-2Bc47-2BXfuTmiGn=
+VYm0DLlZYfU-3D in a second Vision Fund.=C2=A0
+
+Sponsored By ...
+
+Treble is on a mission to help startups achieve exits. With 8 exits under o=
+ur belt, our team has Silicon Valley roots and headquarters in Austin, Texa=
+s. We specialize in executing funding announcements, ideating and securing =
+publication of thought leadership content and engaging media in a strategic=
+ and targeted way that generates brand visibility for our venture backed cl=
+ients. We're also hiring. Contact us here http://email.strictlyvc.com/mpss/=
+c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t43/4qDHkbW6BT1NqyIA-2B68kjpBJa-2=
+BELAmp3hOgMpCBycng-3D
+
+This Top Venture Firm=C2=A0Just Tripled the Amount of Money It Can Invest i=
+n E-Commerce Businesses
+
+Last year, retail e-commerce sales worldwide reached $2.3 trillion, a 24.8 =
+percent increase over the previous year, according to eMarketer. A growing =
+percentage of that spend was being captured by startups with strong online =
+identities that are savvy about collecting and analyzing their customer dat=
+a.
+
+Involved with many of them, from the eyewear company Warby Parker to the co=
+smetics startup Glossier to the athleisure brand Outside Voices, is Forerun=
+ner Ventures, a seven-year-old, San Francisco-based venture firm that has b=
+uilt its own name around expertise in e-commerce =E2=80=94 and which sees a=
+ giant opportunity to fund many more brands.
+
+Forerunner suddenly has much more capital to chase those opportunities, too=
+, having just closed its fourth fund with $360 million in capital commitmen=
+ts. That=E2=80=99s almost exactly triple the size of its previous, $122, th=
+ird fund, closed in 2016.
+
+That investors are eager to give Forerunner more money to deploy isn=E2=80=
+=99t surprising. In addition to a strong portfolio of still-private compani=
+es, which also includes the vitamin company Ritual, the luggage company Awa=
+y, and the men=E2=80=99s wellness brand Hims, the firm has already seen a n=
+umber of big exits in recent years.
+
+One of its very first checks, in fact, went to Dollar Shave Club, which sol=
+d to Unilever for $1 billion in 2016. Roughly one month later, Wal-mart spe=
+nt $3.3 billion to acquire another of its startups, the web retailer Jet.co=
+m. Meanwhile, last year, a third investment, the menswear brand Bonobos, so=
+ld for $310 million, again to Wal-mart.
+
+The firm =E2=80=94 which was somewhat famously founded by former equity res=
+earch analyst Kirsten Green=C2=A0 and largely co-run by general partner Eur=
+ie Kim =E2=80=94 also made a high-profile hire four months ago. It poached =
+longtime VC Brian O=E2=80=99Malley, who=E2=80=99d spent the previous four y=
+ears with Accel and who co-invested alongside Forerunner over the years, in=
+cluding in Away and Dollar Shave Club, as well as the booking platform Hote=
+lTonight and the home goods store Serena & Lily.
+
+Not only does the move underscore that Forerunner is maturing, it signals a=
+ bigger push into software-as-a-service businesses, where O=E2=80=99Malley =
+has been active, including by leading investments into companies like Duett=
+o, which makes pricing, revenue management, and forecasting software for ho=
+tels and casinos worldwide.
+
+Indeed, on a call with Green on Friday about the firm=E2=80=99s rapid growt=
+h since closing its first institutional fund with $40 million six years ago=
+, she talked about Forerunner=E2=80=99s interest in business-to-business op=
+portunities that support the firm=E2=80=99s broader thesis of focusing on t=
+he consumer.
+
+More here. http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6=
+TubnEJY-LA/t44/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJKNeUPOUeHK9hwiEYXX7ay-2F9q=
+88gYyzTCwWVjSnIbWPY7KVQf7kbE0XEHlNdgf7oTTs1B07zeCDyyxhs8e3lX0BlBvjfqPDQzza2=
+8K5lrXBpgqlN9EOZzSLnRT-2Bm-2B9tSZPvFcxR57k-3D
+
+New Fundings
+
+AlterG, a 13-year-old, Fremont, Ca.-based maker=C2=A0of rehabilitation and =
+therapy equipment, has raised $6 million in funding, including from Sorehsa=
+ AG, Leerink Revelation Partners, Partner Ventures, and Versant Ventures. M=
+ore here http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6Tu=
+bnEJY-LA/t45/1A43zuFX8f5Q4KEd9xb2-2BwDcZTY8BBDY94bI0fbCZ34-3D
+
+Front Range Biosciences, a three-year-old, Lafayette, Co.-based cannabis bi=
+otech company, just raised $10 million in Series A funding. Investors inclu=
+de Phyto Partners, WelCan Capital, Salveo Capital, Cornerstone Opportunity =
+Partners, Sand Hill Angels, Harvard Business School Alumni Angels of New Yo=
+rk, New York Angels and Altitude Investment Management. More here http://em=
+ail.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t46/xiAQs=
+QFD-2Bs3B-2F8odWWcTdr27Km8eDAgJHe4eD3tSw9w-3D
+
+Fusion Coolant Systems, a five-year-old, Canton, Mi.-based company that mak=
+es advanced carbon dioxide cooling and lubrication systems, has raised $8 m=
+illion in Series C funding co-led by Material Impact and Michigan Capital A=
+dvisors, with participation from Michigan Investment in New Technology Star=
+tups, Amherst Fund and Invest Michigan. More here http://email.strictlyvc.c=
+om/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t47/XQcNJyVtDLfK5d06hhEm3=
+-2FLiSp5NKYoPwyfHfB3yEy8-3D
+
+Goodlord, a four-year-old, London-based startup whose cloud-based software =
+helps real estate agents, landlords and tenants manage the rental process, =
+has raised =C2=A37 million in Series B funding led by Finch Capital, with p=
+articipation from earlier investor Rocket Internet/GFC. TechCrunch has more=
+ here http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnE=
+JY-LA/t48/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJKNeUPOUeEyLjp5NkHBmk0ub6AHhcc0O=
+1GdKRa-2FqkjJr2p-2FCU3n0g-3D-3D
+
+ICHunt.com, a three-year-old, Shenzhen, China-based trading platform for el=
+ectronic components, has raised $23 million in Series B funding led by affi=
+liates of Haitong Securities. China Money Network has more here http://emai=
+l.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t49/3DCIlWX=
+Z31WG30B8Z3Hwmw6rxqWcmMHbkLI8Jw6hVDgjBlkmTd5a3HyS9KOu1UpyT2vqsfyq0vHybvcisA=
+CFvwNyJ-2FCCHth4j5mLy8VUNqtK4NQfx5ospeVImFapZLsAl3HXOVAXs9OnNb-2BGrUoKNw-3D=
+-3D
+
+Kitchen United, a 1.5-year-old, Pasadena, Ca.-based virtual restaurant conc=
+ept=C2=A0 designed primarily to met the needs of restaurant operators looki=
+ng to build off-premise business (they share can share both kitchen space a=
+nd the infrastructure required to launch delivery-only concepts or test the=
+ir brands in new markets), has raised $10 million in Series A funding led b=
+y GV. TechCrunch looks at what the company, and its competitors, are doing =
+here http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJ=
+Y-LA/t50/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJKNeUPOUeG7-2BLaiEqr5a8nkj8edhdVc=
+5RRs7Ory-2FNtm-2FZEc3b9sb36-2B-2Fr7N5fK1zXgtduf3Ty8aKupshxO-2FQX5sRxrsw-2FY=
+-2F
+
+Klarna, the 13-year-old, Stockholm,=C2=A0Sweden-based, Sequoia Capital-back=
+ed=C2=A0payments startup that helps online shoppers arrange for financing a=
+t the point of sale, just raised $20 million from fashion retailer=C2=A0H&M=
+. The company is Klarna's second backer from the fashion world. TechCrunch =
+has more here http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5T=
+ra6TubnEJY-LA/t51/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJKNeUPOUeF2L6i14wCAdcyD-=
+2BFn52MM53M4O5EsXeEkFi5rsMsqs0odrOUmkbpOHPS1aLzVE6CPdCNjBJq3CVcrRFL69NOinuX=
+cnPRueBvQ9ZVcbFdM8kcc7XWYzVV9D1GmTakAde58-3D
+
+Lambda School, a year-old, San Ramon, Ca..-based computer science academy t=
+hat trains students to become software engineers, has raised $14 million in=
+ Series A funding led by GV, with participation from the payments company S=
+tripe, among others. EdSurge has more here http://email.strictlyvc.com/mpss=
+/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t52/Qq-2BxkAsu-2BQ2dLl-2BF1z8awe=
+7xhh2dl1uy-2Bx0yGC0SBnGGS5HjFoxuJw4X-2FdeWRiqWf8rFfgOGqP-2FgOebSrLEiiRzpJqf=
+6HR6M90kCOQxtj6mhNg-2F7owiA4puB269ypKBw4Ks4I9A5HB9oaWTCMNsVJQ-3D-3D
+
+Nubank, a five-year-old, S=C3=A3o Paulo, Brazil-based financial services co=
+mpany, has raised $180 million from the Chinese internet giant Tencent=C2=
+=A0at a post-money valuation of $4 billion, reports The Information http://=
+email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t53/iT0=
+Ize-2BAwgFCI-2BDBMV9CXPrKjXrbgPVdhwCItrm5irU8GNEGB3vUBHD-2FzGgV2-2F4VpwNwzB=
+gSQCu9YvHWMef9OzkUxVV2hEQhe5yeWjaexkq4u3elklczG7tjoFdw-2FHRjd-2FrCKeVTJ537H=
+81iPZq-2FQQ-3D-3D TechCrunch has more here http://email.strictlyvc.com/mpss=
+/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t54/uxy1oodU7sc9xqxBp79HlanIguwK=
+iIIWvJKNeUPOUeGifCMLugojgyioLJOaPPXqhvmQgOXFkzB28kYPVsel7zLBUDShDMWJaD-2BZB=
+k-2B5yAM-3D
+
+ONE Championship, a seven-year-old, Singapore-based company that has become=
+ among Asia's largest sports media companies, just closed on $166 million i=
+n Series D funding led by Sequoia Capital, which also backed the company's =
+Series C round. Other investors in the deal include Temasek and Greenoaks C=
+apital. Forbes has more here http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/=
+t.2lj/pyU9vVf5Tra6TubnEJY-LA/t55/lX24KFg-2BAcpggrGVRlRUXYjeEe8gKu246rJmp4yv=
+gBJa0LfA21qAZRlhhF2ARSlykRPynp0rPigqwppGxAWeKlTv-2B-2BdHJfzUVlMhm0n-2BEvmK3=
+Xg0sjkYcOuXqzLBPDarAepaVD0qGHQzHm1qTYqNBiIsWRgXCVPdp8Uu9p-2FhQk0iF0hKjNJpD4=
+xWbzKx36IX598sBlbvVsNM3K0YmSKQow-3D-3D
+
+RankScience, a two-year-old, San Francisco-based startup that offers AI-enh=
+anced SEO split-testing, has raised $1.8 million in funding led by Initiali=
+zed Capital, with participation from Adam D=E2=80=99Angelo, Michael Seibel,=
+ BoxGroup, Liquid2 Ventures, FundersClub, and Jenny 8 Lee. TechCrunch has m=
+ore here http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6Tu=
+bnEJY-LA/t56/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJKNeUPOUeHIByRcpgDC8qAj-2F-2B=
+DQmao2crqEG9UZ-2BJ8eQakNkIlplhmQGj3DaHAibIHWPBAiSLofhon58nk20JZTal5wLXZuH71=
+OugkHgS4ReDVpQv2dkl25t9fyeo39qWDYFQEJM5yIXc-2BnYcIfGxPODD49PJkY
+
+Stringr, a five-year-old, San Francisco-based marketplace that allows media=
+ organizations to buy video footage from amateur and professional videograp=
+hers, has raised $1 million in funding, including from The Associated Press=
+, Advection Growth Capital, McClatchy, and G5 Capital. More here http://ema=
+il.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t57/Ey2E0c=
+ZeDClTvPEYGcEMIAV5bIg5jgYoXDmO68DsvSE-3D
+
+Varjo Technologies, a two-year-old, Helsinki, Finland-based startup that ha=
+s developed a virtual reality headset capable of =E2=80=9Chuman-eye resolut=
+ion,=E2=80=9D just raised $31 million in Series B funding. Atomico led the =
+round and was joined by investors including Next47, EQT Ventures and Lifeli=
+ne Ventures. TechCrunch has more here http://email.strictlyvc.com/mpss/c/0w=
+A/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t58/uxy1oodU7sc9xqxBp79HlanIguwKiIIWv=
+JKNeUPOUeGTQJnh8rqQySR7zdM90Pea
+
+Sponsored By ...
+
+VC investments in Latin America are anticipated to reach $2.5 billion this =
+year, up from $1.1 billion last year. Starta Ventures http://email.strictly=
+vc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t59/6I-2FSoQB6kgR2sJS=
+QyB57O9fd-2FXss2vr5yLGwhtw5kHw-3D together with BrightSky Ventures http://e=
+mail.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t60/tRKK=
+i4SJU9RfOqV8bY-2F3SIjuQelXmxzQArNCLxGDnu0zHpRcStTWNEchjCZYyGcv are investin=
+g into pre- and post- Series A revenue-generating U.S. startups that can le=
+verage not only capital but a special program that will help them expand wi=
+thin Latam. Our local strategic partners are Mindset Ventures and Verity Gr=
+oup. Learn more about our accelerator program and submit your deck by Octob=
+er 15th http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6Tub=
+nEJY-LA/t61/6I-2FSoQB6kgR2sJSQyB57O5ZvjvGY44se-2BZ5vXq-2BwPnWjN-2BEqRmBnZmJ=
+fng1eO2tD next track begins in November.=C2=A0
+
+New Funds
+
+Catalyst Labs, an early-stage venture fund led by longtime VC Jon Sakoda, w=
+ho left NEA earlier this year after a 12-year run, is targeting $500 millio=
+n for its debut fund, shows an SEC filing http://email.strictlyvc.com/mpss/=
+c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t62/P-2Fnw6Jt98HSGaLgRdFB4FUNiDRx=
+Bzyl9faojRsH9kKvsr9NqaZaoenHYnMArjm43xklgFEEbGrhEFA0wJdQexmzWZqOPDuqAoD3jn9=
+HbWoeGd8xLfSRkORzX8-2B2WBxGC first flagged by Axios.=C2=A0According to a WS=
+J report earlier this year http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.=
+2lj/pyU9vVf5Tra6TubnEJY-LA/t63/WQfLT4lCURbmpRSkGVxcC6udm314WtcPyNujUJWX0TDo=
+d6TjvGnovcZSZ5ncGqrxZgX5iY-2Bn2Afu5weSF2dcjzN5bigenP4U3Rem0VG2vwAsTGKZeCLtE=
+MfvafSRjw3OHkXsmYYEenEniTZmDj2tTA-3D-3D Cisco is the firm's=C2=A0lead inves=
+tor.
+
+Mosaic Ventures, a four-year-old, London-based venture firm, has officially=
+ closed on=C2=A0$150 million for its second early-stage fund. TechCrunch ha=
+s more here http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra=
+6TubnEJY-LA/t64/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJKNeUPOUeHGoTn2b-2BWpIEtkw=
+KLs51lr9TUqOhBdB-2BeEfzIgRi6n5w-3D-3D
+
+IPOs
+
+PhaseBio Pharma, a 16-year-old, Malvern, Pa.-based drug developer focused o=
+n orphan cardiopulmonary diseases, has revealed plans to sell=C2=A0five mil=
+lion shares at between $12 and $14, which would give it a market value of $=
+270 million in the middle of that range. Nasdaq has a bit more here http://=
+email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t65/VAA=
+MJEwQmCnVjrEFRVlkRi0kXvUkvZ2BtgT2s1-2Fk517IczHA6dXISz-2Bix-2BEz5HL-2FP88Mm6=
+ZQi1iSuP2lwrclbDNrrqS9L1tIpGIfva2ihVmI6U6klgOuEmJRIfEs21hwozbWvaZ8YQWRM2zE4=
+qdRcw-3D-3D
+
+Exits
+
+Circle,=C2=A0the peer-to-peer payments company that closed a $110 million r=
+ound http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJ=
+Y-LA/t66/3PddIM770X7yCq-2Br3p8OggIwQNyMKDiRjTczgFoGrpLclgBhGRX55OAuHUvSYEpx=
+0LdYDKSt6zbsElfQBPz1zyBYSFZSiod70WOyqhAOUaFRqWbsFiTILFBfyKtJg-2FwfAytXpfBuz=
+DOzhuiostGT5Q-3D-3D funding back in May, has agreed to acquire SeedInvest, =
+a New York-based equity crowdfunding platform. Financial terms haven't been=
+ disclosed. SeedInvest had raised a roughly=C2=A0$11.4 million in venture f=
+unding from Scot Ventures, Archer Gray, and Great Oaks Venture Capital, amo=
+ng others. Crowdfund Insider looks at what the tie-up could mean here http:=
+//email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t67/-=
+2F5EBizqf6udmI01ZlRNJsolLg6NwwaWz-2FxeveMP3AVO-2BbV-2F5DL8s7ffj2HHCergcmB5c=
+RQEQze-2BgGzQOhLBDNW3kd-2Fk4cbKjEc9Oy-2BsRNea4mQ3uG1oftdlJfVa8ipf9c5NUg-2Fx=
+KOKDckdq9frq3w9Y3zeTCfaITSAaSy5wysYgMEvrr1ZcgUJwhL409u73U8Rgs7kr8JEjnDGb2oE=
+ZBTA-3D-3D
+
+LinkedIn, now a Microsoft subsidiary, is=C2=A0acquiring=C2=A0Glint, a start=
+up that provides employment engagement services for businesses and other or=
+ganizations. Terms of the deal aren't=C2=A0being disclosed, though a source=
+ tells CNBC the company is being scooped up for more than $400 million http=
+://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t68/=
+S8C1P5ygROwCz4A-2FURjqORQ-2FKoVLWupo1-2BY5nrzyJG9YH-2Bnun62q4wQPxSLSpvJlbrQ=
+hn5E3BOz8hm5UVF9IfVo2XCvvhOgZrdz9dSvZi0eRS1GXhVnI2HX5vwpYKCxH75R7-2FLxLKpHm=
+mYvGkxsjZQ-3D-3D Glint had raised nearly $80 million, including from Bessem=
+er Venture Partners and Norwest Venture Partners, and was valued at around =
+$220 million in its last round, according to PitchBook. TechCrunch has more=
+ here http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnE=
+JY-LA/t69/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJKNeUPOUeGIcU3-2FaLwbkM9EfaQT-2B=
+LhxfncdyTzvF8uYB7A6ORx7OMPIkiG-2F3St9h6u6jsankxRbvYF3n4j8SiaN8ADb6X13NATEzr=
+pt109LC5LLAZtDAQ-3D-3D
+
+People
+
+Facebook exec Joel Kaplan, who attended Bret Kavanaugh's Senate confirmatio=
+n hearing, reportedly said it was wrong of him not to tell frustrated compa=
+ny leaders that=C2=A0he planned to attend, after his appearance created a b=
+acklash http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6Tub=
+nEJY-LA/t70/TJ-2FpNrR-2F8PkdaWf1jVyAga8hvcm-2B0j-2B02CsM0WdUAjDNu6SdG1gMF3G=
+2TipNojAJGcIjh7Av3uMWMNQ-2BvGsFPCeSqPfGaUiVBDjlcX3U4pk-3D inside the compan=
+y. Still, Kaplan evidently didn't feel too concerned=C2=A0about his show of=
+ support for Kavanaugh, a former colleague. Hours after Kavanaugh was was c=
+onfirmed as a Supreme Court Justice on Saturday, Kaplan and his wife hosted=
+ a celebration http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5=
+Tra6TubnEJY-LA/t71/BK-2FddZHorvpZqC2XOaq6m5T-2B0SlV8wftBglqwkLoDRXa1bptgXw7=
+gk3iOe-2F-2F1NElIK6xTNmDydM7g0CPwMQ0v8aFJdIkM3SOatkFxGxnzA8qMiq6o-2B7VIYiq3=
+4pIIawG him at their home.
+
+Essential Reads
+
+Facebook, are you serious http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2=
+lj/pyU9vVf5Tra6TubnEJY-LA/t72/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJKNeUPOUeFoj=
+Fsqy0pq3001covcp5K1OJS5jMbIhpZ7bevMC-2FJf7tm4dQoMyyGX4-2BWZGMs032U-3D
+
+Google is the dominant digital advertising platform in the U.S. and will ta=
+ke in an estimated 37 percent of digital ad budgets in 2018. But some adver=
+tisers are reportedly moving more than half of the budget they normally spe=
+nd with Google search to Amazon ads instead http://email.strictlyvc.com/mps=
+s/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t73/S8C1P5ygROwCz4A-2FURjqORQ-2=
+FKoVLWupo1-2BY5nrzyJG-2Baqo9S4aIBlYyDoSXgZB2yTuA58bj6eUzfXIxtNQXy3wd-2BiC6F=
+WTEfTVKQvKSEhHi-2BBqf6xQvX1d8iJNspLRVjdapcPL-2FS9FE1bQMTS69FRA-3D-3D
+
+Can a blockchain tech "hub" speed along development of blockchain tech? Oas=
+is Labs, Binance Labs, Accel, Pantera Capital, and a16z are among those wil=
+ling to give it a shot http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/=
+pyU9vVf5Tra6TubnEJY-LA/t74/57ffCQTd-2BaZuWRxN25SDaTDJJr9jdMAtDp3vqnNpj8asjt=
+4ARZ9QKw-2BxEs2s6l2bRSWA6Ef6Q2N6zna-2F-2FrXYRs8AM18WBDS3-2BIYlQCHJbzJ5FX4MU=
+8m8vFTjFyoE3gtK
+
+Detours
+
+Stunning photography http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/py=
+U9vVf5Tra6TubnEJY-LA/t75/Ovbff2p8-2FVwyzxd8GrOJXkH6lu1ydBq6FvK8dg-2FJwHUCq-=
+2FtMuCqobjGfo8-2BgsytsItWLO5OChh16A7tjM-2Fk4pNyI9kUC4UShom4SE6sYgzo-3D of E=
+thiopia.
+
+School lunches http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5=
+Tra6TubnEJY-LA/t76/RxYoO86EcW3GPES-2BRuGgUpuwMYrjuNtwawMMGvnGLLDQFYruJhxUHu=
+mw82A42wTjaxg0KZ9TCtP06x7DZJbfew-3D-3D the globe.
+
+Shrooms. You might not be done with them yet http://email.strictlyvc.com/mp=
+ss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t77/wspANFbyofaCTRUcC3Fm5y7NVF=
+7iKzS5jQvvc8q1q02kAT6C9nUkbVp-2BcvqnDXh-2BDPR2pBFvhrwMdluJdwe51-2BWhcYPI-2B=
+g8W-2BfiV8c9sP-2BiWs55mYEXjGf7-2FuqYkktMU
+
+Retail Therapy
+
+The best place to buy houseplants http://email.strictlyvc.com/mpss/c/0wA/lD=
+caAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/t78/HZ-2BDef-2Bk9gRHZIvfAiwjx2k7W6lqj1m7s=
+Fq-2BAhiG-2B-2BRNBU03Erl9aM0bQ2AqPVeZvtaRzWQL2j6uyexDhF5tnEHBNPxZxu0d-2Frr4=
+h-2BBBCC8-3D Mundane, yes, but who couldn't use more houseplants?
+
+Subscribe! http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6=
+TubnEJY-LA/t79/Ey2E0cZeDClTvPEYGcEMIAjaIIAvS74cokJZZCWOL60vm4WmscxZymKTdmiB=
+yFAD
+
+StrictlyVC
+
+268 Bush St., No. 2710
+
+San Francisco, CA 94104-3503
+
+To unsubscribe, please click=C2=A0here http://email.strictlyvc.com/asm/unsu=
+bscribe/?user_id=3D1718164&data=3DyS_eB-pDsRMWRoYuJAksBb5avxQjP7dBtHLLBllDu=
+M6DVvC7eyfkEtDjUaHmDQJAnyLA0BX9dohDG6XnNLn9-PU3FifgxKzeNBw3CdMVWlZONOIOZ0cC=
+QK34ZuRUK6taRMUceTibj7Ga6t2W7GKrqVTOARlzX8OGv-du86U0cQ79mYvvhOQOyWGtvc7uFLN=
+Mb3reUJTvWWitCjiR1LGeicL-dnmodCKJv-ZJkCDTXFne0hweTZokpMqiVjgpoQK9OUoPb_1OuW=
+Qu-kmxzftVYiUHIhOIqPef8WqTQh_g43__gBehbNxrVk5ekmN06ySY17gUMs_-uX9byuypc7wvc=
+fdTWdyMQ41E2lUomfr-nksVXoX6ibvQue5URRjvcEMJ-YFDbpc6Go3CifynnMwT_rQvUTJGjobX=
+7_GgWZvGMhzLOjuEt7aVauBonVyr6MqPKJW2uVNIF6xWWiWDtFkSbzkog_i1BBtdXpaAtE7uBnI=
+ng91Rv0CALfRCiu9_qXpSBFMzhyIruhqgMxPND-ulYxAZec7zpdyWLknPbpnw7W0=3D.=
+
+--246599d359a17e8e74fe897ad8ee24fff4b3caed0556719ebbb8a17265f2
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version=3D"2" class=3D"sg-campaigns" xmlns=3D"http://www.=
+w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1, minimum-scale=3D1, maximum-scale=3D1" /><!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge" /><!--<![end=
+if]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <style type=3D"text/css">
+      body {width: 600px;margin: 0 auto;}
+      table {border-collapse: collapse;}
+      table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+      img {-ms-interpolation-mode: bicubic;}
+    </style>
+    <![endif]-->
+
+    <style type=3D"text/css">
+      body, p, div {
+        font-family: arial;
+        font-size: 14px;
+      }
+      body {
+        color: #000000;
+      }
+      body a {
+        color: #1188E6;
+        text-decoration: none;
+      }
+      p { margin: 0; padding: 0; }
+      table.wrapper {
+        width:100% !important;
+        table-layout: fixed;
+        -webkit-font-smoothing: antialiased;
+        -webkit-text-size-adjust: 100%;
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      img.max-width {
+        max-width: 100% !important;
+      }
+      .column.of-2 {
+        width: 50%;
+      }
+      .column.of-3 {
+        width: 33.333%;
+      }
+      .column.of-4 {
+        width: 25%;
+      }
+      @media screen and (max-width:480px) {
+        .preheader .rightColumnContent,
+        .footer .rightColumnContent {
+            text-align: left !important;
+        }
+        .preheader .rightColumnContent div,
+        .preheader .rightColumnContent span,
+        .footer .rightColumnContent div,
+        .footer .rightColumnContent span {
+          text-align: left !important;
+        }
+        .preheader .rightColumnContent,
+        .preheader .leftColumnContent {
+          font-size: 80% !important;
+          padding: 5px 0;
+        }
+        table.wrapper-mobile {
+          width: 100% !important;
+          table-layout: fixed;
+        }
+        img.max-width {
+          height: auto !important;
+          max-width: 480px !important;
+        }
+        a.bulletproof-button {
+          display: block !important;
+          width: auto !important;
+          font-size: 80%;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+        .columns {
+          width: 100% !important;
+        }
+        .column {
+          display: block !important;
+          width: 100% !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+        }
+      }
+    </style>
+    <!--user entered Head Start-->
+=20=20=20=20
+     <!--End Head user entered-->
+  </head>
+  <body>
+    <center class=3D"wrapper" data-link-color=3D"#1188E6" data-body-style=
+=3D"font-size: 14px; font-family: arial; color: #000000; background-color: =
+#ffffff;">
+      <div class=3D"webkit">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" class=3D"wrapper" bgcolor=3D"#ffffff">
+          <tr>
+            <td valign=3D"top" bgcolor=3D"#ffffff" width=3D"100%">
+              <table width=3D"100%" role=3D"content-container" class=3D"out=
+er" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                <tr>
+                  <td width=3D"100%">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                      <tr>
+                        <td>
+                          <!--[if mso]>
+                          <center>
+                          <table><tr><td width=3D"600">
+                          <![endif]-->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" style=3D"width: 100%; max-width:600px;" align=3D"cent=
+er">
+                            <tr>
+                              <td role=3D"modules-container" style=3D"paddi=
+ng: 0px 0px 0px 0px; color: #000000; text-align: left;" bgcolor=3D"#ffffff"=
+ width=3D"100%" align=3D"left">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+    <table class=3D"module preheader preheader-hide" role=3D"module" data-t=
+ype=3D"preheader" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%"
+           style=3D"display: none !important; mso-hide: all; visibility: hi=
+dden; opacity: 0; color: transparent; height: 0; width: 0;">
+      <tr>
+        <td role=3D"module-content">
+          <p>The news you need to know.</p>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div><span style=3D"color:#000080;"><span style=3D"font-family:=
+georgia,serif;"><span style=3D"font-size:20px;"><strong>October 8, 2018</st=
+rong></span></span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">Hello! Happy Monday.:)</span></span></div>
+
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div style=3D"font-style: normal; font-variant-ligatures: norma=
+l; font-variant-caps: normal; font-weight: 400; font-family: arial; font-si=
+ze: 14px; color: rgb(0, 0, 0);"><span style=3D"font-size: 14px; color: rgb(=
+0, 0, 128);"><span style=3D"font-family: georgia, serif; font-size: 14px;">=
+<span style=3D"font-weight: 600; font-size: 20px; text-align: inherit; back=
+ground-color: transparent;">Top News</span></span></span></div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; font-family: arial; font-size: 14px; co=
+lor: rgb(0, 0, 0);">&nbsp;</div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-size: 14px;">
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-size: 14px;">
+<div style=3D""><span style=3D"font-size:14px;"><span style=3D"font-family:=
+verdana,geneva,sans-serif;">Google exposed the private data of hundreds of =
+thousands of users of the Google+ social network and then <a href=3D"http:/=
+/email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h0/WQf=
+LT4lCURbmpRSkGVxcC0p7PXpvBFk0NqI0Q-2BrfMhqxmLg-2BmhEmcVSGXyF-2BoPEudHsGGjxo=
+0UptBXbvQiZ-2B1uXEBauktfRKU6B-2Beg68qHFpWFPLuozkJp5hFjBMBPEiipkGqqPSInoVAL-=
+2FZdc22cweVvYfemxyh4itQYDy3EjM-3D">opted not to disclose the issue this pas=
+t spring</a>&nbsp;to save its reputation and keep regulators off its back, =
+according to people briefed on the incident and documents reviewed by The W=
+SJ. Now, Google is <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA=
+/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h1/wspANFbyofaCTRUcC3Fm5y7NVF7iKzS5jQvvc8q1q0=
+3Hx0arjD11SBK8mbb2UGxU1hjpSzICvgE81XWjzfn2tLZtlSVzkyAVv676B80GUgJyWEUW4vNyv=
+KiUij4l-2Bscj">shutting it down</a>.</span></span></div>
+
+<div style=3D"">&nbsp;</div>
+
+<div style=3D""><span style=3D"font-size:14px;"><span style=3D"font-family:=
+verdana,geneva,sans-serif;">Saudi Arabia is preparing to double-down on Sof=
+tBanks&#39;s massive Vision Fund.&nbsp;According to Crown Prince Mohammed B=
+in Salman, the country&#39;s sovereign fund will make <a href=3D"http://ema=
+il.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h2/5AERylS=
+NVCCwj1pUwpeO2QtNYDiK-2FZC7X9T0SXzgzbMb0cxyQisq-2FjEB7T4CidzDSC59CDGhgrZJsn=
+J00DKY7jWBoT6lfEPpYgEe7LjVwjXQuPIrnv-2FYY3OBy6HSKUSuXyHJXEvpm-2B0DbwCADBO-2=
+Bc47-2BXfuTmiGnVYm0DLlZYfU-3D">another $45 billion investment</a> in a seco=
+nd Vision Fund.&nbsp;</span></span></div>
+</div>
+</div>
+
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div><span style=3D"color:#000080;"><span style=3D"font-family:=
+georgia,serif;"><span style=3D"text-align: inherit; background-color: trans=
+parent; font-size: 20px; font-weight: 600;">Sponsored By ...</span></span><=
+/span></div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-family: arial; color: rgb(0, 0, 0); background-color=
+: rgb(255, 255, 255);">&nbsp;</div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; background-color: rgb(255, 255, 255);">
+<div style=3D"color: rgb(34, 34, 34); font-style: normal; font-variant-liga=
+tures: normal; font-variant-caps: normal; background-color: rgb(255, 255, 2=
+55);"><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,ge=
+neva,sans-serif;"><strong>Treble</strong> is on a mission to help startups =
+achieve exits. With 8 exits under our belt, our team has Silicon Valley roo=
+ts and headquarters in Austin, Texas. We specialize in executing funding an=
+nouncements, ideating and securing publication of thought leadership conten=
+t and engaging media in a strategic and targeted way that generates brand v=
+isibility for our venture backed clients. We're also hiring. <a href=3D"htt=
+p://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h3/=
+4qDHkbW6BT1NqyIA-2B68kjjEe-2Bfz8W-2BKwOumCfXaG8fM-3D">Contact us here</a>.<=
+/span></span></div>
+</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div style=3D"font-style: normal; font-variant-ligatures: norma=
+l; font-variant-caps: normal; font-weight: 300; font-family: arial; font-si=
+ze: 14px; color: rgb(0, 0, 0);"><span style=3D"font-size: 14px; color: rgb(=
+0, 0, 128);"><span style=3D"font-family: georgia, serif; font-size: 14px;">=
+<span style=3D"font-weight: 600; font-size: 20px; text-align: inherit; back=
+ground-color: transparent;">This Top Venture Firm&nbsp;Just Tripled the Amo=
+unt of Money It Can Invest in E-Commerce Businesses</span></span></span></d=
+iv>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-size: 14px; color: rgb(0, 0, 0);">
+<div style=3D"font-family: arial; font-weight: 400; font-size: 14px;">&nbsp=
+;</div>
+
+<div style=3D"font-size: 14px;">
+<div style=3D"font-size: 14px;">
+<div style=3D"font-size: 14px;">
+<div style=3D"font-size: 14px;">
+<div style=3D"font-size: 14px;">
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">Last year, retail e-commerce sales worldwide reached $2.3 =
+trillion, a 24.8 percent increase over the previous year, according to eMar=
+keter. A growing percentage of that spend was being captured by startups wi=
+th strong online identities that are savvy about collecting and analyzing t=
+heir customer data.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">Involved with many of them, from the eyewear company Warby=
+ Parker to the cosmetics startup Glossier to the athleisure brand Outside V=
+oices, is Forerunner Ventures, a seven-year-old, San Francisco-based ventur=
+e firm that has built its own name around expertise in e-commerce =E2=80=94=
+ and which sees a giant opportunity to fund many more brands.</span></span>=
+</div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">Forerunner suddenly has much more capital to chase those o=
+pportunities, too, having just closed its fourth fund with $360 million in =
+capital commitments. That=E2=80=99s almost exactly triple the size of its p=
+revious, $122, third fund, closed in 2016.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">That investors are eager to give Forerunner more money to =
+deploy isn=E2=80=99t surprising. In addition to a strong portfolio of still=
+-private companies, which also includes the vitamin company Ritual, the lug=
+gage company Away, and the men=E2=80=99s wellness brand Hims, the firm has =
+already seen a number of big exits in recent years.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">One of its very first checks, in fact, went to Dollar Shav=
+e Club, which sold to Unilever for $1 billion in 2016. Roughly one month la=
+ter, Wal-mart spent $3.3 billion to acquire another of its startups, the we=
+b retailer Jet.com. Meanwhile, last year, a third investment, the menswear =
+brand Bonobos, sold for $310 million, again to Wal-mart.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">The firm =E2=80=94 which was somewhat famously founded by =
+former equity research analyst Kirsten Green&nbsp; and largely co-run by ge=
+neral partner Eurie Kim =E2=80=94 also made a high-profile hire four months=
+ ago. It poached longtime VC Brian O=E2=80=99Malley, who=E2=80=99d spent th=
+e previous four years with Accel and who co-invested alongside Forerunner o=
+ver the years, including in Away and Dollar Shave Club, as well as the book=
+ing platform HotelTonight and the home goods store Serena &amp; Lily.</span=
+></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">Not only does the move underscore that Forerunner is matur=
+ing, it signals a bigger push into software-as-a-service businesses, where =
+O=E2=80=99Malley has been active, including by leading investments into com=
+panies like Duetto, which makes pricing, revenue management, and forecastin=
+g software for hotels and casinos worldwide.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">Indeed, on a call with Green on Friday about the firm=E2=
+=80=99s rapid growth since closing its first institutional fund with $40 mi=
+llion six years ago, she talked about Forerunner=E2=80=99s interest in busi=
+ness-to-business opportunities that support the firm=E2=80=99s broader thes=
+is of focusing on the consumer.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t=
+.2lj/pyU9vVf5Tra6TubnEJY-LA/h4/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJKNeUPOUeHK=
+9hwiEYXX7ay-2F9q88gYyzTCwWVjSnIbWPY7KVQf7kbE0XEHlNdgf7oTTs1B07zeCDyyxhs8e3l=
+X0BlBvjfqPDQzza28K5lrXBpgqlN9EOZzSLnRT-2Bm-2B9tSZPvFcxR57k-3D">More here.</=
+a></span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div style=3D"font-style: normal; font-variant-ligatures: norma=
+l; font-variant-caps: normal; background-color: rgb(255, 255, 255);">
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; font-family: arial; font-size: 14px; co=
+lor: rgb(0, 0, 0); background-color: rgb(255, 255, 255);"><span style=3D"fo=
+nt-size: 14px; color: rgb(0, 0, 128);"><span style=3D"font-family: georgia,=
+ serif; font-size: 14px;"><span style=3D"font-weight: 600; font-size: 20px;=
+ text-align: inherit; background-color: transparent;">New Fundings</span></=
+span></span></div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-size: 14px; color: rgb(0, 0, 0); background-color: r=
+gb(255, 255, 255);">
+<div>&nbsp;</div>
+
+<div>
+<div>
+<div>
+<div>
+<div>
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><strong>AlterG</strong>, a 13-year-old, Fremont, Ca.-based=
+ maker&nbsp;of rehabilitation and therapy equipment, has raised $6 million =
+in funding, including from <strong>Sorehsa AG</strong>, <strong>Leerink Rev=
+elation Partners</strong>, <strong>Partner Ventures</strong>, and <strong>V=
+ersant Ventures</strong>. <a href=3D"http://email.strictlyvc.com/mpss/c/0wA=
+/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h5/1A43zuFX8f5Q4KEd9xb2-2B2Kvyz4Qpq2Cy=
+H9qgvioWOM-3D">More here</a>.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><strong>Front Range Biosciences</strong>, a three-year-old=
+, Lafayette, Co.-based cannabis biotech company, just raised $10 million in=
+ Series A funding. Investors include <strong>Phyto Partners</strong>, <stro=
+ng>WelCan Capital</strong>, <strong>Salveo Capital</strong>, <strong>Corner=
+stone Opportunity Partners</strong>, <strong>Sand Hill Angels</strong>, <st=
+rong>Harvard Business School Alumni Angels of New York</strong>, <strong>Ne=
+w York Angels</strong> and <strong>Altitude Investment Management</strong>.=
+ <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra=
+6TubnEJY-LA/h6/xiAQsQFD-2Bs3B-2F8odWWcTdrxUXe6sWvt5UdF1fz9e4bE-3D">More her=
+e</a>.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><strong>Fusion Coolant Systems</strong>, a five-year-old, =
+Canton, Mi.-based company that makes advanced carbon dioxide cooling and lu=
+brication systems, has raised $8 million in Series C funding co-led by <str=
+ong>Material Impact</strong> and <strong>Michigan Capital Advisors</strong>=
+, with participation from <strong>Michigan Investment in New Technology Sta=
+rtups</strong>, <strong>Amherst Fund</strong> and <strong>Invest Michigan</=
+strong>. <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU=
+9vVf5Tra6TubnEJY-LA/h7/XQcNJyVtDLfK5d06hhEm34b30VNYVPrKkVe2U9OEEFc-3D">More=
+ here</a>.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><strong>Goodlord</strong>, a four-year-old, London-based s=
+tartup whose cloud-based software helps real estate agents, landlords and t=
+enants manage the rental process, has raised &pound;7 million in Series B f=
+unding led by <strong>Finch Capital</strong>, with participation from earli=
+er investor <strong>Rocket Internet/GFC</strong>. TechCrunch has <a href=3D=
+"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA=
+/h8/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJKNeUPOUeEyLjp5NkHBmk0ub6AHhcc0hx6BaNv=
+Kk-2BPfGCnwQ8a-2BFA-3D-3D">more here</a>.</span></span></div>
+
+<div><br />
+<span style=3D"font-size:14px;"><span style=3D"font-family:verdana,geneva,s=
+ans-serif;"><strong>ICHunt.com</strong>, a three-year-old, Shenzhen, China-=
+based trading platform for electronic components, has raised $23 million in=
+ Series B funding led by affiliates of <strong>Haitong Securities</strong>.=
+ China Money Network has <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/=
+lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h9/3DCIlWXZ31WG30B8Z3Hwmw6rxqWcmMHbkLI8=
+Jw6hVDgjBlkmTd5a3HyS9KOu1UpyT2vqsfyq0vHybvcisACFvwNyJ-2FCCHth4j5mLy8VUNqtK4=
+NQfx5ospeVImFapZLsAHQRp03CND2LlnI2b7zQ29A-3D-3D">more here</a>.</span></spa=
+n></div>
+
+<div><br />
+<span style=3D"font-size:14px;"><span style=3D"font-family:verdana,geneva,s=
+ans-serif;"><strong>Kitchen United</strong>, a 1.5-year-old, Pasadena, Ca.-=
+based virtual restaurant concept&nbsp; designed primarily to met the needs =
+of restaurant operators looking to build off-premise business (they share c=
+an share both kitchen space and the infrastructure required to launch deliv=
+ery-only concepts or test their brands in new markets), has raised $10 mill=
+ion in Series A funding led by <strong>GV</strong>. TechCrunch looks at wha=
+t the company, and its competitors, are doing <a href=3D"http://email.stric=
+tlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h10/uxy1oodU7sc9xq=
+xBp79HlanIguwKiIIWvJKNeUPOUeG7-2BLaiEqr5a8nkj8edhdVc5RRs7Ory-2FNtm-2FZEc3b9=
+sb36-2B-2Fr7N5fK1zXgtduf3Ty-2FS4L-2FjeaXlm2CBr8d6uLA8">here</a>.</span></sp=
+an></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><strong>Klarna</strong>, the 13-year-old, Stockholm,&nbsp;=
+Sweden-based, Sequoia Capital-backed&nbsp;payments startup that helps onlin=
+e shoppers arrange for financing at the point of sale, just raised $20 mill=
+ion from fashion retailer&nbsp;<strong>H&amp;M</strong>. The company is Kla=
+rna&#39;s second backer from the fashion world. TechCrunch has <a href=3D"h=
+ttp://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h=
+11/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJKNeUPOUeF2L6i14wCAdcyD-2BFn52MM53M4O5E=
+sXeEkFi5rsMsqs0odrOUmkbpOHPS1aLzVE6CPdCNjBJq3CVcrRFL69NOinuXcnPRueBvQ9ZVcbF=
+dM8kcZ4GVDrIUbNcKACLvmda9I-3D">more here</a>.&nbsp;</span></span></div>
+
+<div><br />
+<span style=3D"font-size:14px;"><span style=3D"font-family:verdana,geneva,s=
+ans-serif;"><strong>Lambda School</strong>, a year-old, San Ramon, Ca..-bas=
+ed computer science academy that trains students to become software enginee=
+rs, has raised $14 million in Series A funding led by <strong>GV</strong>, =
+with participation from the payments company <strong>Stripe</strong>, among=
+ others. EdSurge has <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDca=
+AA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h12/Qq-2BxkAsu-2BQ2dLl-2BF1z8awe7xhh2dl1uy-=
+2Bx0yGC0SBnGGS5HjFoxuJw4X-2FdeWRiqWf8rFfgOGqP-2FgOebSrLEiiRzpJqf6HR6M90kCOQ=
+xtj6mhNg-2F7owiA4puB269ypKBw">more here</a>.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><strong>Nubank</strong>, a five-year-old, S&atilde;o Paulo=
+, Brazil-based financial services company, has raised $180 million from the=
+ Chinese internet giant <strong>Tencent&nbsp;</strong>at a post-money valua=
+tion of $4 billion, <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaA=
+A/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h13/iT0Ize-2BAwgFCI-2BDBMV9CXPrKjXrbgPVdhwCI=
+trm5irU8GNEGB3vUBHD-2FzGgV2-2F4VpwNwzBgSQCu9YvHWMef9OzkUxVV2hEQhe5yeWjaexkq=
+4u3elklczG7tjoFdw-2FHRjwUDAVSqKW-2BzX4JBb-2FT2-2BNA-3D-3D">reports The Info=
+rmation</a>. TechCrunch has <a href=3D"http://email.strictlyvc.com/mpss/c/0=
+wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h14/uxy1oodU7sc9xqxBp79HlanIguwKiIIW=
+vJKNeUPOUeGifCMLugojgyioLJOaPPXqhvmQgOXFkzB28kYPVsel7zZ0BOK82Lc-2FeHlM3ubRX=
+8w-3D">more here</a>.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><strong>ONE Championship</strong>, a seven-year-old, Singa=
+pore-based company that has become among Asia&#39;s largest sports media co=
+mpanies, just closed on $166 million in Series D funding led by <strong>Seq=
+uoia Capital</strong>, which also backed the company&#39;s Series C round. =
+Other investors in the deal include <strong>Temasek</strong> and <strong>Gr=
+eenoaks Capital</strong>. Forbes has <a href=3D"http://email.strictlyvc.com=
+/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h15/lX24KFg-2BAcpggrGVRlRUX=
+YjeEe8gKu246rJmp4yvgBJa0LfA21qAZRlhhF2ARSlykRPynp0rPigqwppGxAWeKlTv-2B-2BdH=
+JfzUVlMhm0n-2BEvmK3Xg0sjkYcOuXqzLBPDarAepaVD0qGHQzHm1qTYqNBiIsWRgXCVPdp8Uu9=
+p-2FhQk0iF0hKjNJpD4xWbzKx36IXkeneE7pa3KD3-2FAy6qh868g-3D-3D">more here</a>.=
+</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><strong>RankScience</strong>, a two-year-old, San Francisc=
+o-based startup that offers AI-enhanced SEO split-testing, has raised $1.8 =
+million in funding led by <strong>Initialized Capital</strong>, with partic=
+ipation from <strong>Adam D&rsquo;Angelo</strong>, <strong>Michael Seibel</=
+strong>, <strong>BoxGroup</strong>, <strong>Liquid2 Ventures</strong>, <str=
+ong>FundersClub</strong>, and <strong>Jenny 8 Lee</strong>. TechCrunch has =
+<a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6=
+TubnEJY-LA/h16/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJKNeUPOUeHIByRcpgDC8qAj-2F-=
+2BDQmao2crqEG9UZ-2BJ8eQakNkIlplhmQGj3DaHAibIHWPBAiSLofhon58nk20JZTal5wLXZuH=
+71OugkHgS4ReDVpQv2dkl25t9fyeo39qWDYFQEJM5yAxZOzcFTr-2F1U9uaJQ0vWt">more her=
+e</a>.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><strong>Stringr</strong>, a five-year-old, San Francisco-b=
+ased marketplace that allows media organizations to buy video footage from =
+amateur and professional videographers, has raised $1 million in funding, i=
+ncluding from <strong>The Associated Press</strong>, <strong>Advection Grow=
+th Capital</strong>,<strong> McClatchy</strong>, and <strong>G5 Capital</st=
+rong>. <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9v=
+Vf5Tra6TubnEJY-LA/h17/Ey2E0cZeDClTvPEYGcEMIEvzBQhW-2FEiVp-2FtJQ7TJCQ8-3D">M=
+ore here</a>.</span></span></div>
+
+<div><br />
+<span style=3D"font-size:14px;"><span style=3D"font-family:verdana,geneva,s=
+ans-serif;"><strong>Varjo Technologies</strong>, a two-year-old, Helsinki, =
+Finland-based startup that has developed a virtual reality headset capable =
+of &ldquo;human-eye resolution,&rdquo; just raised $31 million in Series B =
+funding. <strong>Atomico</strong> led the round and was joined by investors=
+ including <strong>Next47</strong>, <strong>EQT Ventures</strong> and <stro=
+ng>Lifeline Ventures</strong>. TechCrunch has <a href=3D"http://email.stric=
+tlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h18/uxy1oodU7sc9xq=
+xBp79HlanIguwKiIIWvJKNeUPOUeHXt9hLTuF1ekD853aglQaq">more here</a>.</span></=
+span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div style=3D"font-style: normal; font-variant-ligatures: norma=
+l; font-variant-caps: normal; font-weight: 400; font-family: arial; font-si=
+ze: 14px; color: rgb(0, 0, 0);"><span style=3D"font-size: 14px; color: rgb(=
+0, 0, 128);"><span style=3D"font-family: georgia, serif; font-size: 14px;">=
+<span style=3D"font-weight: 600; font-size: 20px; text-align: inherit; back=
+ground-color: transparent;">Sponsored By ...</span></span></span></div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; font-family: arial; font-size: 14px; co=
+lor: rgb(0, 0, 0);">&nbsp;</div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; font-size: 14px;">
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-size: 14px;">
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">VC investments in Latin America are anticipated to reach $=
+2.5 billion this year, up from $1.1 billion last year. <a href=3D"http://em=
+ail.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h19/6I-2F=
+SoQB6kgR2sJSQyB57O9ldhBAIminRVk-2B8qCiSHck-3D">Starta Ventures</a>, togethe=
+r with <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9v=
+Vf5Tra6TubnEJY-LA/h20/tRKKi4SJU9RfOqV8bY-2F3SIjuQelXmxzQArNCLxGDnu2AoA2KMli=
+eIb4MiCydYGm3">BrightSky Ventures</a>, are investing into pre- and post- Se=
+ries A revenue-generating U.S. startups that can leverage not only capital =
+but a special program that will help them expand within Latam. Our local st=
+rategic partners are Mindset Ventures and Verity Group. Learn more about ou=
+r accelerator program and submit your deck <a href=3D"http://email.strictly=
+vc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h21/6I-2FSoQB6kgR2sJS=
+QyB57O5ZvjvGY44se-2BZ5vXq-2BwPnU-3D">by October 15th</a>.&nbsp;</span></spa=
+n><span style=3D"color: rgb(0, 0, 0); font-family: verdana, geneva, sans-se=
+rif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; f=
+ont-variant-caps: normal; font-weight: 400;">Our next track begins in Novem=
+ber.&nbsp;</span></div>
+</div>
+</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div style=3D"font-style: normal; font-variant-ligatures: norma=
+l; font-variant-caps: normal; font-weight: 400; font-family: arial; font-si=
+ze: 14px; color: rgb(0, 0, 0);"><font color=3D"#000080" face=3D"georgia, se=
+rif"><span style=3D"font-weight: 600; font-size: 20px;">New Funds</span></f=
+ont></div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; font-family: arial; font-size: 14px; co=
+lor: rgb(0, 0, 0);">&nbsp;</div>
+
+<div>
+<div>
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><strong>Catalyst Labs</strong>, an early-stage venture fun=
+d led by longtime VC <strong>Jon Sakoda</strong>, who left NEA earlier this=
+ year after a 12-year run, is targeting $500 million for its debut fund, sh=
+ows an <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9v=
+Vf5Tra6TubnEJY-LA/h22/P-2Fnw6Jt98HSGaLgRdFB4FUNiDRxBzyl9faojRsH9kKvsr9NqaZa=
+oenHYnMArjm43xklgFEEbGrhEFA0wJdQexmzWZqOPDuqAoD3jn9HbWoeGd8xLfSRkORzX8-2B2W=
+BxGC">SEC filing</a> first flagged by Axios.&nbsp;According to a WSJ report=
+ <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra=
+6TubnEJY-LA/h23/WQfLT4lCURbmpRSkGVxcC6udm314WtcPyNujUJWX0TDod6TjvGnovcZSZ5n=
+cGqrxZgX5iY-2Bn2Afu5weSF2dcjzN5bigenP4U3Rem0VG2vwAsTGKZeCLtEMfvafSRjw3O4uJp=
+MbarLFr6dizrwZF79A-3D-3D">earlier this year</a>, Cisco is the firm&#39;s&nb=
+sp;lead investor.</span></span></div>
+
+<div><br />
+<span style=3D"font-size:14px;"><span style=3D"font-family:verdana,geneva,s=
+ans-serif;"><strong>Mosaic Ventures</strong>, a four-year-old, London-based=
+ venture firm, has officially closed on&nbsp;$150 million for its second ea=
+rly-stage fund. TechCrunch has <a href=3D"http://email.strictlyvc.com/mpss/=
+c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h24/uxy1oodU7sc9xqxBp79HlanIguwKi=
+IIWvJKNeUPOUeHGoTn2b-2BWpIEtkwKLs51lrq-2BavVLT097V6EVUB1hOOxw-3D-3D">more h=
+ere</a>.</span></span></div>
+</div>
+</div>
+
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div style=3D"font-style: normal; font-variant-ligatures: norma=
+l; font-variant-caps: normal; font-weight: 400; font-family: arial; font-si=
+ze: 14px; color: rgb(0, 0, 0);"><font color=3D"#000080" face=3D"georgia, se=
+rif"><span style=3D"font-weight: 600; font-size: 20px;">IPOs</span></font><=
+/div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; font-family: arial; font-size: 14px; co=
+lor: rgb(0, 0, 0);">&nbsp;</div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-size: 14px; color: rgb(0, 0, 0);">
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-size: 14px;">
+<div style=3D"font-size: 14px;">
+<div style=3D"font-size: 14px;">
+<div>
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-size: 14px; color: rgb(0, 0, 0);">
+<div style=3D"">
+<div style=3D"">
+<div style=3D"">
+<div>
+<div>
+<div>
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><strong>PhaseBio Pharma</strong>, a 16-year-old, Malvern, =
+Pa.-based drug developer focused on orphan cardiopulmonary diseases, has re=
+vealed plans to sell&nbsp;five million shares at between $12 and $14, which=
+ would give it a market value of $270 million in the middle of that range. =
+Nasdaq has a bit more <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDc=
+aAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h25/VAAMJEwQmCnVjrEFRVlkRi0kXvUkvZ2BtgT2s1=
+-2Fk517IczHA6dXISz-2Bix-2BEz5HL-2FP88Mm6ZQi1iSuP2lwrclbDNrrqS9L1tIpGIfva2ih=
+VmI6U6klgOuEmJRIfEs21hwhwuH2aXbYVw2dql5Rb0ekQ-3D-3D">here</a>.</span></span=
+></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div style=3D"font-style: normal; font-variant-ligatures: norma=
+l; font-variant-caps: normal; font-weight: 400; font-family: arial; font-si=
+ze: 14px; color: rgb(0, 0, 0);"><font color=3D"#000080" face=3D"georgia, se=
+rif"><span style=3D"font-weight: 600; font-size: 20px;">Exits</span></font>=
+</div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; font-family: arial; font-size: 14px; co=
+lor: rgb(0, 0, 0);">&nbsp;</div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-size: 14px; color: rgb(0, 0, 0);">
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-size: 14px;">
+<div style=3D"font-size: 14px;">
+<div style=3D"font-size: 14px;">
+<div style=3D"font-size: 14px;"><span style=3D"font-size:14px;"><span style=
+=3D"font-family:verdana,geneva,sans-serif;"><strong>Circle</strong>,&nbsp;t=
+he peer-to-peer payments company that closed a <a href=3D"http://email.stri=
+ctlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h26/3PddIM770X7yC=
+q-2Br3p8OggIwQNyMKDiRjTczgFoGrpLclgBhGRX55OAuHUvSYEpx0LdYDKSt6zbsElfQBPz1zy=
+BYSFZSiod70WOyqhAOUaFRqWbsFiTILFBfyKtJg-2FwfzM6XjLFLxh6sJUkbAXt21w-3D-3D">$=
+110 million round</a>&nbsp;of funding back in May, has agreed to acquire <s=
+trong>SeedInvest</strong>, a New York-based equity crowdfunding platform. F=
+inancial terms haven&#39;t been disclosed. SeedInvest had raised a roughly&=
+nbsp;$11.4 million in venture funding from <strong>Scot Ventures</strong>,<=
+strong> Archer Gray</strong>, and <strong>Great Oaks Venture Capital</stron=
+g>, among others. Crowdfund Insider looks at what the tie-up could mean <a =
+href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6Tub=
+nEJY-LA/h27/-2F5EBizqf6udmI01ZlRNJsolLg6NwwaWz-2FxeveMP3AVO-2BbV-2F5DL8s7ff=
+j2HHCergcmB5cRQEQze-2BgGzQOhLBDNW3kd-2Fk4cbKjEc9Oy-2BsRNea4mQ3uG1oftdlJfVa8=
+ipf9c5NUg-2FxKOKDckdq9frq3w9Y3zeTCfaITSAaSy5wysYgMEvrr1ZcgUJwhL409u73U431-2=
+FdXHxr85zh6V5-2BFD5lw-3D-3D">here</a>.&nbsp;</span></span></div>
+
+<div style=3D"font-size: 14px;">&nbsp;</div>
+
+<div style=3D"font-size: 14px;">
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;"><strong>LinkedIn</strong>, now a Microsoft subsidiary, is&=
+nbsp;acquiring&nbsp;<strong>Glint</strong>, a startup that provides employm=
+ent engagement services for businesses and other organizations. Terms of th=
+e deal aren&#39;t&nbsp;being disclosed, though a source tells CNBC the comp=
+any is being scooped up for <a href=3D"http://email.strictlyvc.com/mpss/c/0=
+wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h28/S8C1P5ygROwCz4A-2FURjqORQ-2FKoVL=
+Wupo1-2BY5nrzyJG9YH-2Bnun62q4wQPxSLSpvJlbrQhn5E3BOz8hm5UVF9IfVo2XCvvhOgZrdz=
+9dSvZi0eRS1GXhVnI2HX5vwpYKCxHEIoKtwwikKBoFQtmhStAIQ-3D-3D">more than $400 m=
+illion</a>. Glint had raised nearly $80 million, including from <strong>Bes=
+semer Venture Partners</strong> and <strong>Norwest Venture Partners</stron=
+g>, and was valued at around $220 million in its last round, according to P=
+itchBook. TechCrunch has <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/=
+lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h29/uxy1oodU7sc9xqxBp79HlanIguwKiIIWvJK=
+NeUPOUeGIcU3-2FaLwbkM9EfaQT-2BLhxfncdyTzvF8uYB7A6ORx7OMPIkiG-2F3St9h6u6jsan=
+kxRbvYF3n4j8SiaN8ADb6X137VveVp3DM-2Bb5X6G-2FnxwBlg-3D-3D">more here</a>.</s=
+pan></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div>
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; font-family: arial; font-size: 14px; co=
+lor: rgb(0, 0, 0);"><span style=3D"font-style: normal; font-variant-ligatur=
+es: normal; font-variant-caps: normal; font-weight: 600; font-family: georg=
+ia, serif; font-size: 20px; color: rgb(0, 0, 128);">People</span></div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; font-family: arial; font-size: 14px; co=
+lor: rgb(0, 0, 0);">&nbsp;</div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; font-size: 14px; color: rgb(0, 0, 0);">=
+<span style=3D"font-size:14px;"><span style=3D"font-family:verdana,geneva,s=
+ans-serif;">Facebook exec <strong>Joel Kaplan</strong>, who attended Bret K=
+avanaugh&#39;s Senate confirmation hearing, reportedly said it was wrong of=
+ him not to tell frustrated company leaders that&nbsp;he planned to attend,=
+ after his appearance <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDc=
+aAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h30/TJ-2FpNrR-2F8PkdaWf1jVyAga8hvcm-2B0j-2=
+B02CsM0WdUAjDNu6SdG1gMF3G2TipNojAJGcIjh7Av3uMWMNQ-2BvGsFPCeSqPfGaUiVBDjlcX3=
+U4pk-3D">created a backlash</a> inside the company. Still, Kaplan evidently=
+ didn&#39;t feel <em>too </em>concerned&nbsp;about his show of support for =
+Kavanaugh, a former colleague. Hours after Kavanaugh was was confirmed as a=
+ Supreme Court Justice on Saturday, Kaplan and his wife <a href=3D"http://e=
+mail.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h31/BK-2=
+FddZHorvpZqC2XOaq6m5T-2B0SlV8wftBglqwkLoDRXa1bptgXw7gk3iOe-2F-2F1NElIK6xTNm=
+DydM7g0CPwMQ0v8aFJdIkM3SOatkFxGxnzA-2FhlQcA88WD3Wqf7T5GuPSU">hosted a celeb=
+ration</a>&nbsp;for him at their home.</span></span></div>
+</div>
+
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div><span style=3D"color: rgb(0, 0, 128); font-family: georgia=
+, serif; font-size: 20px; font-style: normal; font-variant-ligatures: norma=
+l; font-variant-caps: normal; font-weight: 600; background-color: rgb(255, =
+255, 255);">Essential Reads</span></div>
+
+<div>&nbsp;</div>
+
+<div>
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">Facebook, <a href=3D"http://email.strictlyvc.com/mpss/c/0w=
+A/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h32/uxy1oodU7sc9xqxBp79HlanIguwKiIIWv=
+JKNeUPOUeFojFsqy0pq3001covcp5K1OJS5jMbIhpZ7bevMC-2FJf7tnBV7iYNatRA8qAoSZM9R=
+Q-3D">are you serious</a>?</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">Google is the dominant digital advertising platform in the=
+ U.S. and will take in an estimated 37 percent of digital ad budgets in 201=
+8. But some advertisers are reportedly moving more than half of the budget =
+they normally spend with Google search to <a href=3D"http://email.strictlyv=
+c.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h33/S8C1P5ygROwCz4A-2F=
+URjqORQ-2FKoVLWupo1-2BY5nrzyJG-2Baqo9S4aIBlYyDoSXgZB2yTuA58bj6eUzfXIxtNQXy3=
+wd-2BiC6FWTEfTVKQvKSEhHi-2BBqf6xQvX1d8iJNspLRVjIVUmsy-2BnuxpTk4ubugooQQ-3D-=
+3D">Amazon ads instead</a>.</span></span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"font-size:14px;"><span style=3D"font-family:verdana,gen=
+eva,sans-serif;">Can a blockchain tech &quot;hub&quot; speed along developm=
+ent of blockchain tech? Oasis Labs, Binance Labs, Accel, Pantera Capital, a=
+nd a16z are among those <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/l=
+DcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h34/57ffCQTd-2BaZuWRxN25SDaTDJJr9jdMAtDp=
+3vqnNpj8asjt4ARZ9QKw-2BxEs2s6l2bRSWA6Ef6Q2N6zna-2F-2FrXYRs8AM18WBDS3-2BIYlQ=
+CHJbzLyC4X6r9mRlfI27yoK-2FZe9">willing to give it a shot</a>!</span></span>=
+</div>
+</div>
+
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div style=3D"font-style: normal; font-variant-ligatures: norma=
+l; font-variant-caps: normal; font-weight: 300; font-family: arial; font-si=
+ze: 14px; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);"><span=
+ style=3D"color:#000080;"><span style=3D"font-family:georgia,serif;"><span =
+style=3D"font-weight: 600; font-size: 20px; background-color: transparent; =
+text-align: inherit;">Detours</span></span></span></div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; font-family: arial; font-size: 14px; co=
+lor: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">&nbsp;</div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; font-size: 14px; color: rgb(0, 0, 0); b=
+ackground-color: rgb(255, 255, 255);">
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; font-size: 14px; color: rgb(0, 0, 0); b=
+ackground-color: rgb(255, 255, 255);"><font face=3D"verdana, geneva, sans-s=
+erif"><a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vV=
+f5Tra6TubnEJY-LA/h35/Ovbff2p8-2FVwyzxd8GrOJXkH6lu1ydBq6FvK8dg-2FJwHUCq-2FtM=
+uCqobjGfo8-2BgsytsItWLO5OChh16A7tjM-2Fk4pNyI9kUC4UShom4SE6sYgzo-3D">Stunnin=
+g photography</a> of Ethiopia.</font></div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; font-size: 14px; color: rgb(0, 0, 0); b=
+ackground-color: rgb(255, 255, 255);">&nbsp;</div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; font-size: 14px; color: rgb(0, 0, 0); b=
+ackground-color: rgb(255, 255, 255);"><font face=3D"verdana, geneva, sans-s=
+erif"><a href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vV=
+f5Tra6TubnEJY-LA/h36/RxYoO86EcW3GPES-2BRuGgUpuwMYrjuNtwawMMGvnGLLDQFYruJhxU=
+Humw82A42wTjsuwgxCvQSJbVJxKLsifxOQ-3D-3D">School lunches </a>around the glo=
+be.</font></div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; font-size: 14px; color: rgb(0, 0, 0); b=
+ackground-color: rgb(255, 255, 255);">&nbsp;</div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; font-size: 14px; color: rgb(0, 0, 0); b=
+ackground-color: rgb(255, 255, 255);"><font face=3D"verdana, geneva, sans-s=
+erif">Shrooms. You might <a href=3D"http://email.strictlyvc.com/mpss/c/0wA/=
+lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h37/wspANFbyofaCTRUcC3Fm5y7NVF7iKzS5jQv=
+vc8q1q02kAT6C9nUkbVp-2BcvqnDXh-2BDPR2pBFvhrwMdluJdwe51-2BWhcYPI-2Bg8W-2BfiV=
+8c9sP-2Bgk0cjDQQdi1RZQH-2BwFtdmc">not be done with them yet</a>.&nbsp;</fon=
+t></div>
+</div>
+
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div style=3D"font-style: normal; font-variant-ligatures: norma=
+l; font-variant-caps: normal; font-family: arial; color: rgb(0, 0, 0); back=
+ground-color: rgb(255, 255, 255);"><span style=3D"color:#000080;"><span sty=
+le=3D"font-family: georgia, serif; font-style: normal; font-variant-ligatur=
+es: normal; font-variant-caps: normal; text-align: inherit; font-size: 20px=
+; font-weight: 600;">Retail Therapy</span></span></div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-family: arial; color: rgb(0, 0, 0); background-color=
+: rgb(255, 255, 255);">&nbsp;</div>
+
+<div style=3D"font-variant-ligatures: normal; font-variant-caps: normal; co=
+lor: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
+<div style=3D"font-variant-ligatures: normal; font-variant-caps: normal; fo=
+nt-weight: 300; font-size: 14px; color: rgb(0, 0, 0);"><font face=3D"verdan=
+a, geneva, sans-serif">The <a href=3D"http://email.strictlyvc.com/mpss/c/0w=
+A/lDcaAA/t.2lj/pyU9vVf5Tra6TubnEJY-LA/h38/HZ-2BDef-2Bk9gRHZIvfAiwjx2k7W6lqj=
+1m7sFq-2BAhiG-2B-2BRNBU03Erl9aM0bQ2AqPVeZvtaRzWQL2j6uyexDhF5tnK5W7Frx5jjbQz=
+ctzPIb2qI-3D">best place to buy houseplants</a>. Mundane, yes, but who coul=
+dn&#39;t use more houseplants?</font></div>
+</div>
+
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"2px"
+                 style=3D"line-height:2px; font-size:2px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 2px 0px;"
+                bgcolor=3D"#5A66AF"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table  border=3D"0"
+            cellpadding=3D"0"
+            cellspacing=3D"0"
+            align=3D"center"
+            width=3D"100%"
+            role=3D"module"
+            data-type=3D"columns"
+            data-version=3D"2"
+            style=3D"padding:14px 0px 0px 0px;background-color:#f3efef;box-=
+sizing:border-box;"
+            bgcolor=3D"#f3efef">
+      <tr role=3D'module-content'>
+        <td height=3D"100%" valign=3D"top">
+            <!--[if (gte mso 9)|(IE)]>
+              <center>
+                <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wid=
+th=3D"100%" style=3D"border-spacing:0;border-collapse:collapse;table-layout=
+: fixed;" >
+                  <tr>
+            <![endif]-->
+=20=20=20=20=20=20=20=20=20=20
+    <!--[if (gte mso 9)|(IE)]>
+      <td width=3D"300.000px" valign=3D"top" style=3D"padding: 0px 0px 0px =
+0px;border-collapse: collapse;" >
+    <![endif]-->
+
+    <table  width=3D"300.000"
+            style=3D"width:300.000px;border-spacing:0;border-collapse:colla=
+pse;margin:0px 0px 0px 0px;"
+            cellpadding=3D"0"
+            cellspacing=3D"0"
+            align=3D"left"
+            border=3D"0"
+            bgcolor=3D"#f3efef"
+            class=3D"column column-0 of-2
+                  empty"
+      >
+      <tr>
+        <td style=3D"padding:0px;margin:0px;border-spacing:0;">
+            <table border=3D"0" cellPadding=3D"0" cellSpacing=3D"0" class=
+=3D"module" data-role=3D"module-button" data-type=3D"button" role=3D"module=
+" style=3D"table-layout:fixed" width=3D"100%"><tbody><tr><td align=3D"left"=
+ class=3D"outer-td" style=3D"padding:0px 0px 0px 0px"><table border=3D"0" c=
+ellPadding=3D"0" cellSpacing=3D"0" class=3D"button-css__deep-table___2OZyb =
+wrapper-mobile" style=3D"text-align:left"><tbody><tr><td align=3D"center" b=
+gcolor=3D"#5A66AF" class=3D"inner-td" style=3D"border-radius:6px;font-size:=
+16px;text-align:left;background-color:inherit"><a style=3D"background-color=
+:#5A66AF;border:1px solid #333333;border-color:#333333;border-radius:6px;bo=
+rder-width:1px;color:#ffffff;display:inline-block;font-family:arial,helveti=
+ca,sans-serif;font-size:16px;font-weight:normal;letter-spacing:0px;line-hei=
+ght:16px;padding:12px 18px 12px 18px;text-align:center;text-decoration:none=
+" href=3D"http://email.strictlyvc.com/mpss/c/0wA/lDcaAA/t.2lj/pyU9vVf5Tra6T=
+ubnEJY-LA/h39/Ey2E0cZeDClTvPEYGcEMIAjaIIAvS74cokJZZCWOL60vm4WmscxZymKTdmiBy=
+FAD" target=3D"_blank">Subscribe!</a></td></tr></tbody></table></td></tr></=
+tbody></table>
+        </td>
+      </tr>
+    </table>
+
+    <!--[if (gte mso 9)|(IE)]>
+      </td>
+    <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+      <td width=3D"300.000px" valign=3D"top" style=3D"padding: 0px 0px 0px =
+0px;border-collapse: collapse;" >
+    <![endif]-->
+
+    <table  width=3D"300.000"
+            style=3D"width:300.000px;border-spacing:0;border-collapse:colla=
+pse;margin:0px 0px 0px 0px;"
+            cellpadding=3D"0"
+            cellspacing=3D"0"
+            align=3D"left"
+            border=3D"0"
+            bgcolor=3D"#f3efef"
+            class=3D"column column-1 of-2
+                  empty"
+      >
+      <tr>
+        <td style=3D"padding:0px;margin:0px;border-spacing:0;">
+=20=20=20=20=20=20=20=20=20=20=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 18px 0px;line-height:22px;text-align:i=
+nherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div>StrictlyVC<br>
+268 Bush St., No. 2710<br>
+San Francisco, CA 94104-3503</div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D"color: rgb(0, 0, 0); font-family: arial; font-size: 14p=
+x; font-style: normal; font-variant-ligatures: normal; font-variant-caps: n=
+ormal; font-weight: 400; background-color: rgb(243, 239, 239);">To unsubscr=
+ibe, please click&nbsp;</span><a href=3D"http://email.strictlyvc.com/asm/un=
+subscribe/?user_id=3D1718164&data=3DyS_eB-pDsRMWRoYuJAksBb5avxQjP7dBtHLLBll=
+DuM6DVvC7eyfkEtDjUaHmDQJAnyLA0BX9dohDG6XnNLn9-PU3FifgxKzeNBw3CdMVWlZONOIOZ0=
+cCQK34ZuRUK6taRMUceTibj7Ga6t2W7GKrqVTOARlzX8OGv-du86U0cQ79mYvvhOQOyWGtvc7uF=
+LNMb3reUJTvWWitCjiR1LGeicL-dnmodCKJv-ZJkCDTXFne0hweTZokpMqiVjgpoQK9OUoPb_1O=
+uWQu-kmxzftVYiUHIhOIqPef8WqTQh_g43__gBehbNxrVk5ekmN06ySY17gUMs_-uX9byuypc7w=
+vcfdTWdyMQ41E2lUomfr-nksVXoX6ibvQue5URRjvcEMJ-YFDbpc6Go3CifynnMwT_rQvUTJGjo=
+bX7_GgWZvGMhzLOjuEt7aVauBonVyr6MqPKJW2uVNIF6xWWiWDtFkSbzkog_i1BBtdXpaAtE7uB=
+nIng91Rv0CALfRCiu9_qXpSBFMzhyIruhqgMxPND-ulYxAZec7zpdyWLknPbpnw7W0=3D" styl=
+e=3D"background-color: rgb(243, 239, 239); font-style: normal; font-variant=
+-ligatures: normal; font-variant-caps: normal; font-weight: 400; font-famil=
+y: arial; font-size: 14px;">here</a><span style=3D"color: rgb(0, 0, 0); fon=
+t-family: arial; font-size: 14px; font-style: normal; font-variant-ligature=
+s: normal; font-variant-caps: normal; font-weight: 400; background-color: r=
+gb(243, 239, 239);">.</span></div>
+        </td>
+      </tr>
+    </table>
+=20=20
+        </td>
+      </tr>
+    </table>
+
+    <!--[if (gte mso 9)|(IE)]>
+      </td>
+    <![endif]-->
+            <!--[if (gte mso 9)|(IE)]>
+                  <tr>
+                </table>
+              </center>
+            <![endif]-->
+        </td>
+      </tr>
+    </table>
+=20=20
+                              </td>
+                            </tr>
+                          </table>
+                          <!--[if mso]>
+                          </td></tr></table>
+                          </center>
+                          <![endif]-->
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </center>
+=20=20
+<img src=3D"http://email.strictlyvc.com/mpss/o/0wA/lDcaAA/t.2lj/pyU9vVf5Tra=
+6TubnEJY-LA/o.gif" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+--246599d359a17e8e74fe897ad8ee24fff4b3caed0556719ebbb8a17265f2--
+

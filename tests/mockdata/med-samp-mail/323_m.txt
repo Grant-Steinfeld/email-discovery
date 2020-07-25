@@ -1,0 +1,537 @@
+From nytimes@email.newyorktimes.com  Sat Oct 20 11:34:58 2018
+Return-Path: <nytimes@email.newyorktimes.com>
+X-Original-To: breakingnews@agentidea.com
+Delivered-To: breakingnews@agentidea.com
+Received: from mta820.e.newyorktimesinfo.com (mta820.e.newyorktimesinfo.com [66.77.119.192])
+	by agentidea.com (Postfix) with ESMTP id 4472340D13
+	for <breakingnews@agentidea.com>; Sat, 20 Oct 2018 11:34:58 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=0; d=email.newyorktimes.com;
+ h=Message-ID:List-Unsubscribe:MIME-Version:From:To:Date:Subject:Content-Type;
+ i=nytimes@email.newyorktimes.com;
+ bh=9nYziKXttlM22WqDbs6XVJ8FB72rN8KJaBNZORPNuio=;
+ b=NCUjb/hr++7UStdnH51FaLGAIpgrd7nXd+ozUJ9EaElfSiEbdHfwDqH14tBcOjEUB9xoNfZ6IZuv
+   quv/U9Iy8mEYodENZwfTJrovpqpHSWFszy1C4EC4hGz7C5qszTFyw9SOh1Vu5HcOd6lAUPE1EIR+
+   zhQZ9NvNFevM8Urdon4=
+Received: from nj5pmer21 (10.24.78.121) by mta820.e.newyorktimesinfo.com id hpc9e42bq58p for <breakingnews@agentidea.com>; Sat, 20 Oct 2018 07:34:57 -0400 (envelope-from <nytimes@email.newyorktimes.com>)
+Errors-to: nytimes@email.newyorktimes.com
+Message-ID: <623.1879547280.201810201134576401622.0008363785@email.newyorktimes.com>
+List-Unsubscribe: <mailto:unsubscribe-e91ce1a20096a3881aa0388456635a0e@email.newyorktimes.com?subject=Unsubscribe>
+X-Mailer: XyzMailer
+X-Xyz-cr: 623
+X-Xyz-cn: 52506
+X-Xyz-bcn: 52244
+X-Xyz-md: 100
+X-Xyz-mg: 1879547280
+X-Xyz-et: 122
+X-Xyz-pk: 54870692
+X-Xyz-ct: 521660
+X-Xyz-bct: 519782
+X-PVIQ: 000273-000603-000623-052506-000000
+X-CM-MessageId: 623-52506
+MIME-Version: 1.0
+From: "The New York Times" <nytimes@email.newyorktimes.com>
+To: "breakingnews@agentidea.com" <breakingnews@agentidea.com>
+Date: 20 Oct 2018 11:34:57 +0000
+Subject: Thanks for reading. We're treating you to 6 standout articles.
+Content-Type: multipart/alternative;
+ boundary=--boundary_8363665_9c112daf-d00d-48c0-8367-1d7a0184dd2a
+
+
+----boundary_8363665_9c112daf-d00d-48c0-8367-1d7a0184dd2a
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+=0AArticles Recommended for You.=0A=0A- - - - - - - - - - - - - -=
+ - - - - - - - - - - - - - - - - - - - - - - =0A=0AView in browse=
+r:=0Ahttp://x.e.newyorktimesinfo.com/ats/msg.aspx?sg1=3De91ce1a20=
+096a3881aa0388456635a0e=0A=0A- - - - - - - - - - - - - - - - - - =
+- - - - - - - - - - - - - - - - - - =0A=0AThe New York Times=0A=0A=
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -=
+ - - - =0A=0ARecent reporting that's worth a look=0ASuggestions f=
+or you=0A=0AClick here to view email with images:=0Ahttp://x.e.ne=
+wyorktimesinfo.com/ats/msg.aspx?sg1=3De91ce1a20096a3881aa03884566=
+35a0e=0A=0A- - - - - - - - - - - - - - - - - - - - - - - - - - - =
+- - - - - - - - - =0A=0AThis email was sent to breakingnews@agent=
+idea.com=0A=0AAccount Login:=0Ahttp://l.email.newyorktimes.com/rt=
+s/go2.aspx?t=3D629999&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE=
+-P5of0=0A=0AHelp Center:=0Ahttp://l.email.newyorktimes.com/rts/go=
+2.aspx?t=3D630000&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5o=
+f0=0A=0AAttn.: Customer Service, P.O. Box 8041, Davenport, IA 528=
+08-8041=0A=0ATerms of Service:=0Ahttp://l.email.newyorktimes.com/=
+rts/go2.aspx?t=3D630001&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237s=
+pE-P5of0=0A=0APrivacy Policy:=0Ahttp://l.email.newyorktimes.com/r=
+ts/go2.aspx?t=3D630002&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237sp=
+E-P5of0=0A=0AUnsubscribe:=0Ahttp://x.e.newyorktimesinfo.com/ats/s=
+how.aspx?cr=3D623&fm=3D30&tp=3Di-H55-A3-Des-23CO6i-1y-3iENA-1c-2B=
+hu-237spE-2HJYDB=0A=0A(c)2018 The New York Times Company | 620 Ei=
+ghth Ave., New York, NY, 10018=0A=0A
+----boundary_8363665_9c112daf-d00d-48c0-8367-1d7a0184dd2a
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "h=
+ttp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html =
+xmlns=3D"http://www.w3.org/1999/xhtml">=0A<head><meta name=3D"ROB=
+OTS" content=3D"NOINDEX, NOFOLLOW" /><meta http-equiv=3D"Content-=
+Type" content=3D"text/html; charset=3Dutf-8" /><meta name=3D"view=
+port" content=3D"width=3Ddevice-width, maximum-scale=3D1.0" /><me=
+ta content=3D"telephone=3Dno" name=3D"format-detection" /><!--[if=
+ !mso]><!-- --><meta http-equiv=3D"X-UA-Compatible" content=3D"IE=
+=3Dedge" /><!--<![endif]-->=0A<title></title>=0A<style type=3D"te=
+xt/css">body {=0A        margin: 0 !important;=0A        padding:=
+ 0 !important;=0A        -webkit-text-size-adjust: 100% !importan=
+t;=0A        -ms-text-size-adjust: 100% !important;=0A        -we=
+bkit-font-smoothing: antialiased !important;=0A    }=0A    =0A   =
+ img {=0A        border: 0 !important;=0A        outline: none !i=
+mportant;=0A    }=0A    =0A    p {=0A        margin: 0px !importa=
+nt;=0A        padding: 0px !important;=0A    }=0A    =0A    table=
+ {=0A        border-collapse: collapse;=0A        mso-table-lspac=
+e: 0px;=0A        mso-table-rspace: 0px;=0A    }=0A    =0A    td,=
+=0A    a,=0A    span {=0A        border-collapse: collapse;=0A   =
+     mso-line-height-rule: exactly;=0A    }=0A    =0A    .Externa=
+lClass * {=0A        line-height: 100%;=0A    }=0A    =0A    a[x-=
+apple-data-detectors] {=0A        color: inherit !important;=0A  =
+      text-decoration: none !important;=0A        font-size: inhe=
+rit !important;=0A        font-family: inherit !important;=0A    =
+    font-weight: inherit !important;=0A        line-height: inher=
+it !important;=0A    }=0A    =0A    .appleLinks a {=0A        col=
+or: #666666;=0A        text-decoration: none;=0A    }=0A    =0A  =
+  .appleLinksBlack a {=0A        color: #000001;=0A        text-d=
+ecoration: none;=0A    }=0A    =0A    =0A    @media only screen a=
+nd (max-width:640px) {=0A        table[class=3Dmain_table],=0A   =
+     .main_table {=0A            width: 100% !important;=0A      =
+  }=0A        td[class=3Dem_hide],=0A        br[class=3Dem_hide],=
+=0A        span[class=3Dem_hide],=0A        div[class=3Dem_hide],=
+=0A        .em_hide {=0A            display: none !important;=0A =
+       }=0A        td[class=3Dmobpad],=0A        .mobpad {=0A    =
+        padding: 25px !important;=0A        }=0A        td[class=3D=
+mobpadCX],=0A        .mobpadCX {=0A            padding: 15px !imp=
+ortant;=0A            font-size: 15px !important;=0A            l=
+ine-height: 17px !important;=0A        }=0A        img[class=3Dem=
+_img],=0A        .em_img {=0A            width: 100% !important;=0A=
+            height: auto !important;=0A        }=0A        div[cl=
+ass=3Dshow],=0A        .show {=0A            display: block !impo=
+rtant;=0A            margin: 0 !important;=0A            padding:=
+ 0 !important;=0A            overflow: visible !important;=0A    =
+        width: auto !important;=0A            max-height: inherit=
+ !important;=0A        }=0A        td[class=3Dem_center], .em_cen=
+ter {=0A          text-align: center !important;=0A        }=0A  =
+      td[class=3Dem_center_text], .em_center_text {=0A          t=
+ext-align: center !important;=0A        }=0A        td[class=3DEM=
+_Text_14], .EM_Text_14 {=0A          font-size: 14px !important;=0A=
+        }=0A        td[class=3DEM_Text_20], .EM_Text_20 {=0A     =
+     font-size: 20px !important;=0A          line-height: 30px !i=
+mportant;=0A        }=0A        td[class=3Dem_text_mob_2], .em_te=
+xt_mob_2 {=0A          font-size: 13px !important;=0A          li=
+ne-height: 18px !important;=0A        }=0A        td[class=3Dmobp=
+ad2],  .mobpad2 {=0A          padding: 0px 30px !important;=0A   =
+     }=0A        td[class=3Dmobpad3],  .mobpad3 {=0A          pad=
+ding: 0px 35px !important;=0A          font-size: 18px !important=
+;=0A          line-height: 27px !important;=0A        }=0A       =
+ td[class=3Dmobpad4], .mobpad4 {=0A          padding: 0px 20px !i=
+mportant;=0A        }=0A        td[class=3Dem_10px_left], .em_10p=
+x_left{=0A            padding-left: 10px !important;=0A          =
+  padding-right: 10px !important;=0A=0A        }=0A        td[cla=
+ss=3Dem_left_text],.em_left_text{=0A            text-align: left =
+!important;=0A        }=0A        span[class=3D"em_menu"], .em_me=
+nu{=0A            display: block !important;=0A            width:=
+ 100% !important;=0A        }=0A       td[class=3D"em_2rem_height=
+"], .em_2rem_height{=0A          height: 32px !important;=0A     =
+   }  =0A    }=0A    =0A    @media only screen and (max-width:480=
+px) {=0A        td[class=3Dmobpad],=0A        .mobpad {=0A       =
+     padding: 20px !important;=0A        }=0A    }=0A    =0A    @=
+media only screen and (min-width:480px) and (max-width:640px) {=0A=
+        td[class=3Dmobpad],=0A        .mobpad {=0A            pad=
+ding: 25px !important;=0A        }=0A    }=0A</style>=0A</head>=0A=
+<body><img src=3D"http://l.email.newyorktimes.com/rts/open.aspx?t=
+p=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0" height=3D"1" wi=
+dth=3D"1" style=3D"display:none">=0A<img src=3D"https://pixel.app=
+.returnpath.net/pixel.gif?r=3D9dbaad520ccf62ad66a806f22f1f3b4689e=
+74e0c&c=3D7KFFJ&s=3D79812053" width=3D"1" height=3D"1" />=0A=0A<!=
+-- Newsletter MI -->=0A<table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" height=3D"1" width=3D"1">=0A<tbody>=0A<tr>=0A<td st=
+yle=3D"font-size:0px; line-height:0px;"><img height=3D"1" src=3D"=
+http://m-ink.newyorktimesinfo.com/p/cp/74483cebc0455ee2/o.gif?mi_=
+u=3D79812053" width=3D"1" /></td>=0A</tr>=0A</tbody>=0A</table>=0A=
+<!-- Recommendations MI -->=0A=0A<table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" height=3D"1" width=3D"1">=0A<tbody>=0A<tr>=0A=
+<td style=3D"font-size:0px; line-height:0px;"><img height=3D"1" s=
+rc=3D"http://m-ink.newyorktimesinfo.com/p/cp/cb6c7197b8161650/o.g=
+if?mi_u=3D79812053&amp;mi_user_hash=3D8bee0a152fe713d851a4979fdb1=
+bba16b16273ca129b9029b012f25c" width=3D"1" /></td>=0A</tr>=0A</tb=
+ody>=0A</table>=0A=0A<table align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%">=0A<tbody>=0A<tr>=0A<=
+td valign=3D"top">=0A<table align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" class=3D"main_table" width=3D"640"><=
+!-- PRE-HEADER -->=0A<tbody>=0A<tr>=0A<td align=3D"left" colspan=3D=
+"2" style=3D"font-family: Arial, Helvetica, sans-serif; font-size=
+:11px; text-align:left; color:#ffffff; font-weight:200;" valign=3D=
+"top">Articles Recommended for You.</td>=0A</tr>=0A<!-- END PRE-H=
+EADER --><!--NYT LOGO/VIB-->=0A<tr>=0A<td>=0A<table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A<tbody>=0A<=
+tr>=0A<td align=3D"left" height=3D"10" style=3D"font-size:1px; li=
+ne-height:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" va=
+lign=3D"top"></td>=0A</tr>=0A<tr>=0A<td>=0A<table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A<tbody>=0A<tr=
+>=0A<td align=3D"left" class=3D"em_10px_left" style=3D" width:60%=
+; padding-left:0px" valign=3D"middle"><a href=3D"http://l.email.n=
+ewyorktimes.com/rts/go2.aspx?h=3D630003&tp=3Di-H43-A3-Des-23CO6i-=
+1y-3iENA-1c-237spE-P5of0" style=3D"color:#000001;text-decoration:=
+ underline;" target=3D"_blank"><img alt=3D"The New York Times" bo=
+rder=3D"0" height=3D"40" src=3D"http://i.email.newyorktimes.com/w=
+pm/623/ContentUploads/Images/2018-New-Template-NYT_Logo_Small.png=
+" style=3D"display:block; color: #000000; font-family: Arial; fon=
+t-size: 12px;" width=3D"150" /></a></td>=0A<td align=3D"right" cl=
+ass=3D"em_hide" style=3D" width:100%; font-family: Arial, Helveti=
+ca, sans-serif; font-size:11px; text-align:right; color:#999999; =
+padding-right:0px;" valign=3D"middle"><a href=3D"http://x.e.newyo=
+rktimesinfo.com/ats/msg.aspx?sg1=3De91ce1a20096a3881aa0388456635a=
+0e" target=3D"_blank" style=3D"color:#373737;">View in browser</a=
+>=0A </td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A<tr>=0A=
+<td align=3D"left" height=3D"1" style=3D"font-size:1px; line-heig=
+ht:1px; mso-line-height-alt:0; mso-margin-top-alt:1px; background=
+: #000000;" valign=3D"top"></td>=0A</tr>=0A</tbody>=0A</table>=0A=
+</td>=0A</tr>=0A<!-- END NYT LOGO/VIB-->=0A<tr>=0A<td colspan=3D"=
+2">=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%"><!-- MAIN CONTENT --><!--HERO-->=0A<tbody>=0A<tr>=0A<=
+td align=3D"left" height=3D"55" style=3D"font-size:1px; line-heig=
+ht:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;" valign=3D=
+"top"></td>=0A</tr>=0A<tr>=0A<td align=3D"center" style=3D"font-f=
+amily: Georgia, serif;font-color:#000001;font-size:16px;" valign=3D=
+"top"><img alt=3D"Recent reporting that's worth a look | Suggesti=
+ons for you" border=3D"0" class=3D"em_width_90pt" height=3D"78" s=
+rc=3D"http://i.email.newyorktimes.com/wpm/623/ContentUploads/Imag=
+es/CRS-15064_MonthlyRecommendations_Email_Update_CH.png" style=3D=
+"" width=3D"360" /></td>=0A</tr>=0A<!--end HERO--><!--BEGIN BODY =
+1 COLUMN-->=0A<tr>=0A<td>=0A<table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%">=0A<tbody>=0A<tr>=0A<td class=3D=
+"em_hide" width=3D"15"></td>=0A<td class=3D"mobpad">=0A<table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A<=
+tbody>=0A<tr>=0A<td align=3D"left" height=3D"35" style=3D"font-si=
+ze:1px; line-height:1px; mso-line-height-alt:0; mso-margin-top-al=
+t:1px;" valign=3D"top"></td>=0A</tr>=0A<tr>=0A<td align=3D"center=
+" style=3D"font-family:Helvetica, Arial, sans-serif;font-size:16p=
+x;text-align:center;color:#000001;line-height:22px;font-weight:50=
+0;" valign=3D"top">Because there&rsquo;s so much to see in The Ti=
+mes, we want to help you find your best reads. The stories includ=
+ed here were selected using algorithms based on subscriber readin=
+g habits. Some selections might reflect your interests or those o=
+f others. See an extended reading list on our <a href=3D"http://l=
+.email.newyorktimes.com/rts/go2.aspx?h=3D630004&tp=3Di-H43-A3-Des=
+-23CO6i-1y-3iENA-1c-237spE-P5of0" style=3D"color: #000001; text-d=
+ecoration: underline" target=3D"_blank">Recommendations Page</a>.=
+</td>=0A</tr>=0A<tr>=0A<td align=3D"left" height=3D"25" style=3D"=
+font-size:1px; line-height:1px; mso-line-height-alt:0; mso-margin=
+-top-alt:1px;" valign=3D"top"></td>=0A</tr>=0A</tbody>=0A</table>=
+=0A</td>=0A<td class=3D"em_hide" width=3D"15"></td>=0A</tr>=0A</t=
+body>=0A</table>=0A</td>=0A</tr>=0A<!--END BODY 1 COLUMN--><!--re=
+commendations section-->=0A<tr>=0A<td align=3D"left" class=3D"em_=
+hide" valign=3D"top">=0A<table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%"><!--recommendation 1-->=0A<tbody>=0A=
+<tr>=0A<td align=3D"left" class=3D"em_hide" valign=3D"top"><a dat=
+a-link-name=3D"mi01" href=3D"http://l.email.newyorktimes.com/rts/=
+go2.aspx?h=3D630005&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P=
+5of0&x=3D79812053" style=3D"display: block;"><img alt=3D"Display =
+images to show real-time content" border=3D"0" class=3D"em_img" s=
+rc=3D"http://m-ink.newyorktimesinfo.com/p/rp/b0798180723ba286.png=
+?mi_u=3D79812053" style=3D"border: 0; display: block;" /></a></td=
+>=0A</tr>=0A<!--end of reco 1--><!--recommendation 2-->=0A<tr>=0A=
+<td align=3D"left" class=3D"em_hide" valign=3D"top"><a data-link-=
+name=3D"mi02" href=3D"http://l.email.newyorktimes.com/rts/go2.asp=
+x?h=3D630006&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D=
+79812053" style=3D"display: block;"><img alt=3D"Display images to=
+ show real-time content" border=3D"0" class=3D"em_img" src=3D"htt=
+p://m-ink.newyorktimesinfo.com/p/rp/503d2d3b43ec7bc8.png?mi_u=3D7=
+9812053" style=3D"border: 0; display: block;" /></a></td>=0A</tr>=
+=0A<!--end of reco 2--><!--recommendation 3-->=0A<tr>=0A<td align=
+=3D"left" class=3D"em_hide" valign=3D"top"><a data-link-name=3D"m=
+i03" href=3D"http://l.email.newyorktimes.com/rts/go2.aspx?h=3D630=
+007&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D7981205=
+3" style=3D"display: block;"><img alt=3D"Display images to show r=
+eal-time content" border=3D"0" class=3D"em_img" src=3D"http://m-i=
+nk.newyorktimesinfo.com/p/rp/9d34fa01a9d5f791.png?mi_u=3D79812053=
+" style=3D"border: 0; display: block;" /></a></td>=0A</tr>=0A<!--=
+end of reco 3--><!--recommendation 4-->=0A<tr>=0A<td align=3D"lef=
+t" class=3D"em_hide" valign=3D"top"><a data-link-name=3D"mi04" hr=
+ef=3D"http://l.email.newyorktimes.com/rts/go2.aspx?h=3D630008&tp=3D=
+i-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D79812053" style=3D=
+"display: block;"><img alt=3D"Display images to show real-time co=
+ntent" border=3D"0" class=3D"em_img" src=3D"http://m-ink.newyorkt=
+imesinfo.com/p/rp/7c660a70bcf3bdee.png?mi_u=3D79812053" style=3D"=
+border: 0; display: block;" /></a></td>=0A</tr>=0A<!--end of reco=
+ 4--><!--recommendation 5-->=0A<tr>=0A<td align=3D"left" class=3D=
+"em_hide" valign=3D"top"><a data-link-name=3D"mi05" href=3D"http:=
+//l.email.newyorktimes.com/rts/go2.aspx?h=3D630009&tp=3Di-H43-A3-=
+Des-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D79812053" style=3D"displa=
+y: block;"><img alt=3D"Display images to show real-time content" =
+border=3D"0" class=3D"em_img" src=3D"http://m-ink.newyorktimesinf=
+o.com/p/rp/f6625c88d2ca920e.png?mi_u=3D79812053" style=3D"border:=
+ 0; display: block;" /></a></td>=0A</tr>=0A<!--end of reco 5--><!=
+--recommendation 6-->=0A<tr>=0A<td align=3D"left" class=3D"em_hid=
+e" valign=3D"top"><a data-link-name=3D"mi06" href=3D"http://l.ema=
+il.newyorktimes.com/rts/go2.aspx?h=3D630010&tp=3Di-H43-A3-Des-23C=
+O6i-1y-3iENA-1c-237spE-P5of0&x=3D79812053" style=3D"display: bloc=
+k;"><img alt=3D"Display images to show real-time content" border=3D=
+"0" class=3D"em_img" src=3D"http://m-ink.newyorktimesinfo.com/p/r=
+p/4e4992b61175068c.png?mi_u=3D79812053" style=3D"border: 0; displ=
+ay: block;" /></a></td>=0A</tr>=0A<!--end of reco 6-->=0A</tbody>=
+=0A</table>=0A</td>=0A</tr>=0A<!--[if !mso]><!-- -->=0A<tr>=0A<td=
+ align=3D"center" bgcolor=3D"#FFFFFF">=0A<div class=3D"show" styl=
+e=3D"font-size: 0; max-height: 0; overflow: hidden; display: none=
+;">=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%"><!--mobile reco 1-->=0A<tbody>=0A<tr>=0A<td align=3D"=
+center" valign=3D"top"><a data-link-name=3D"mi07" href=3D"http://=
+l.email.newyorktimes.com/rts/go2.aspx?h=3D630011&tp=3Di-H43-A3-De=
+s-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D79812053" style=3D"display:=
+ block;"><img alt=3D"Display images to show real-time content" bo=
+rder=3D"0" class=3D"em_img" src=3D"http://m-ink.newyorktimesinfo.=
+com/p/rp/509350b0f1fdd28e.png?mi_u=3D79812053" style=3D"border: 0=
+; display: block;" /></a></td>=0A</tr>=0A<!-- end mobile reco 1--=
+><!--mobile reco 2-->=0A<tr>=0A<td align=3D"center" valign=3D"top=
+"><a data-link-name=3D"mi08" href=3D"http://l.email.newyorktimes.=
+com/rts/go2.aspx?h=3D630012&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-=
+237spE-P5of0&x=3D79812053" style=3D"display: block;"><img alt=3D"=
+Display images to show real-time content" border=3D"0" class=3D"e=
+m_img" src=3D"http://m-ink.newyorktimesinfo.com/p/rp/c3a4f24ab48d=
+4241.png?mi_u=3D79812053" style=3D"border: 0; display: block;" />=
+</a></td>=0A</tr>=0A<!--end mobile reco 2--><!--mobile reco 3-->=0A=
+<tr>=0A<td align=3D"center" valign=3D"top"><a data-link-name=3D"m=
+i09" href=3D"http://l.email.newyorktimes.com/rts/go2.aspx?h=3D630=
+013&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D7981205=
+3" style=3D"display: block;"><img alt=3D"Display images to show r=
+eal-time content" border=3D"0" class=3D"em_img" src=3D"http://m-i=
+nk.newyorktimesinfo.com/p/rp/c898ceb9e3333438.png?mi_u=3D79812053=
+" style=3D"border: 0; display: block;" /></a></td>=0A</tr>=0A<!--=
+end mobile reco 3--><!--mobile reco 4-->=0A<tr>=0A<td align=3D"ce=
+nter" valign=3D"top"><a data-link-name=3D"mi10" href=3D"http://l.=
+email.newyorktimes.com/rts/go2.aspx?h=3D630014&tp=3Di-H43-A3-Des-=
+23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D79812053" style=3D"display: b=
+lock;"><img alt=3D"Display images to show real-time content" bord=
+er=3D"0" class=3D"em_img" src=3D"http://m-ink.newyorktimesinfo.co=
+m/p/rp/21c1d7d52b61d48f.png?mi_u=3D79812053" style=3D"border: 0; =
+display: block;" /></a></td>=0A</tr>=0A<!--end mobile reco 4--><!=
+--mobile reco 5-->=0A<tr>=0A<td align=3D"center" valign=3D"top"><=
+a data-link-name=3D"mi11" href=3D"http://l.email.newyorktimes.com=
+/rts/go2.aspx?h=3D630015&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237=
+spE-P5of0&x=3D79812053" style=3D"display: block;"><img alt=3D"Dis=
+play images to show real-time content" border=3D"0" class=3D"em_i=
+mg" src=3D"http://m-ink.newyorktimesinfo.com/p/rp/d983c882038c430=
+f.png?mi_u=3D79812053" style=3D"border: 0; display: block;" /></a=
+></td>=0A</tr>=0A<!--end mobile reco 5--><!--mobile reco 6-->=0A<=
+tr>=0A<td align=3D"center" valign=3D"top"><a data-link-name=3D"mi=
+12" href=3D"http://l.email.newyorktimes.com/rts/go2.aspx?h=3D6300=
+16&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D79812053=
+" style=3D"display: block;"><img alt=3D"Display images to show re=
+al-time content" border=3D"0" class=3D"em_img" src=3D"http://m-in=
+k.newyorktimesinfo.com/p/rp/4b3d31fd85d52bbd.png?mi_u=3D79812053"=
+ style=3D"border: 0; display: block;" /></a></td>=0A</tr>=0A<!--e=
+nd mobile reco 6-->=0A</tbody>=0A</table>=0A</div>=0A</td>=0A</tr=
+>=0A<!--<![endif]--><!--BEGIN BODY 1 COLUMN-->=0A<tr>=0A<td align=
+=3D"left" style=3D"padding-left:30px; padding-right:30px; backgro=
+und: #e6e6e6;" valign=3D"top">=0A<table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%">=0A<tbody>=0A<tr>=0A<td alig=
+n=3D"center" style=3D" padding-top:30px; padding-bottom:35px; bac=
+kground: #e6e6e6;" valign=3D"top">=0A<table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%">=0A<tbody>=0A<tr>=0A<t=
+d align=3D"center" class=3D"mobtxt" style=3D"font-family:Arial, H=
+elvetica, sans-serif; font-size:16px; line-height: 21px; font-wei=
+ght:bold; color: #000001;" valign=3D"top">Did you like these reco=
+mmendations?</td>=0A</tr>=0A<tr>=0A<td align=3D"center" style=3D"=
+padding-top:20px;" valign=3D"top">=0A<table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100">=0A<tbody>=0A<tr>=0A<td=
+ align=3D"center" valign=3D"top" width=3D"32"><a href=3D"http://l=
+.email.newyorktimes.com/rts/go2.aspx?h=3D630017&tp=3Di-H43-A3-Des=
+-23CO6i-1y-3iENA-1c-237spE-P5of0" target=3D"_blank"><img alt=3D"U=
+P" border=3D"0" height=3D"38" src=3D"http://i.email.newyorktimes.=
+com/wpm/623/ContentUploads/Images/CRS-15064_Monthly_Recommendatio=
+ns_April_EM_Finger_UP.png" style=3D"display:block;" width=3D"38" =
+/></a></td>=0A<td align=3D"right" valign=3D"top" width=3D"32"><a =
+href=3D"http://l.email.newyorktimes.com/rts/go2.aspx?h=3D630017&t=
+p=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0" target=3D"_blan=
+k"><img alt=3D"DOWN" border=3D"0" height=3D"38" src=3D"http://i.e=
+mail.newyorktimes.com/wpm/623/ContentUploads/Images/CRS-15064_Mon=
+thly_Recommendations_April_EM_Finger_DOWN.png" style=3D"display:b=
+lock;" width=3D"38" /></a></td>=0A</tr>=0A</tbody>=0A</table>=0A<=
+/td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A<=
+/table>=0A</td>=0A</tr>=0A<!--MI Newsletter Module Starts--><!--H=
+ERO-->=0A<tr>=0A<td align=3D"center" class=3D"em_hide" style=3D"f=
+ont-family: Georgia, serif;font-color:#000001;font-size:16px; bac=
+kground:#e4e4e4;padding-bottom:25px;" valign=3D"top"><img alt=3D"=
+What's popular with subscribers?" border=3D"0" class=3D"em_img" s=
+rc=3D"http://i.email.newyorktimes.com/wpm/623/ContentUploads/Imag=
+es/CRS-13797_Subs_Behavior_Triggered_Newsletters_DK_Title.png" st=
+yle=3D"display:block;" width=3D"320" /></td>=0A</tr>=0A<!--[if !m=
+so]><!-- -->=0A<tr>=0A<td align=3D"center" style=3D"background:#e=
+4e4e4;">=0A<div class=3D"show" style=3D"font-size: 0; max-height:=
+ 0; overflow: hidden; display: none;">=0A<table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%">=0A<tbody>=0A<tr>=0A=
+<td align=3D"center" style=3D"font-family: Georgia, serif;font-co=
+lor:#000001;font-size:16px;" valign=3D"top"><img alt=3D"What's po=
+pular with subscribers?" border=3D"0" class=3D"em_img" height=3D"=
+200" src=3D"http://i.email.newyorktimes.com/wpm/623/ContentUpload=
+s/Images/CRS-16763_AdditionalEngagmentModules_Newsletters2_mobile=
+_hero-IMG.jpg" style=3D"display:block;" width=3D"640" /></td>=0A<=
+/tr>=0A</tbody>=0A</table>=0A</div>=0A</td>=0A</tr>=0A<!--<![endi=
+f]--><!--end HERO-->=0A<tr>=0A<td style=3D"background:#e4e4e4;">=0A=
+<table bgcolor=3D"#e4e4e4" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">=0A<tbody>=0A<tr>=0A<td class=3D"em_hid=
+e" style=3D"background:#e4e4e4;" width=3D"40"></td>=0A<td class=3D=
+"mobpad10">=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"main_table" width=3D"560"><!--Newslettters List--><!=
+--1-->=0A<tbody>=0A<tr>=0A<td align=3D"left" class=3D"em_hide" st=
+yle=3D"padding-top: 0px; padding-bottom:10px;" valign=3D"top"><a =
+href=3D"http://l.email.newyorktimes.com/rts/go2.aspx?h=3D630018&t=
+p=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D79812053%7c8=
+bee0a152fe713d851a4979fdb1bba16b16273ca129b9029b012f25c" style=3D=
+"display: block;" target=3D"_blank"><img alt=3D"Display images to=
+ show real-time content" border=3D"0" src=3D"http://m-ink.newyork=
+timesinfo.com/p/rp/da81afdb6472a86e.png?mi_u=3D79812053&amp;mi_us=
+er_hash=3D8bee0a152fe713d851a4979fdb1bba16b16273ca129b9029b012f25=
+c" style=3D"border: 0; display: block;max-width:260px !important;=
+" width=3D"260" /></a></td>=0A<!--2-->=0A<td class=3D"em_hide" wi=
+dth=3D"40"></td>=0A<td align=3D"left" class=3D"em_hide" style=3D"=
+padding-top: 0px; padding-bottom:10px;" valign=3D"top"><a href=3D=
+"http://l.email.newyorktimes.com/rts/go2.aspx?h=3D630019&tp=3Di-H=
+43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D79812053%7c8bee0a15=
+2fe713d851a4979fdb1bba16b16273ca129b9029b012f25c" style=3D"displa=
+y: block;" target=3D"_blank"><img alt=3D"Display images to show r=
+eal-time content" border=3D"0" src=3D"http://m-ink.newyorktimesin=
+fo.com/p/rp/6719b80d18269fad.png?mi_u=3D79812053&amp;mi_user_hash=
+=3D8bee0a152fe713d851a4979fdb1bba16b16273ca129b9029b012f25c" styl=
+e=3D"border: 0; display: block;max-width:260px !important;" width=
+=3D"260" /></a></td>=0A</tr>=0A<!--3-->=0A<tr>=0A<td align=3D"lef=
+t" class=3D"em_hide" style=3D"padding-top: 0px; padding-bottom:15=
+px;" valign=3D"top"><a href=3D"http://l.email.newyorktimes.com/rt=
+s/go2.aspx?h=3D630020&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE=
+-P5of0&x=3D79812053%7c8bee0a152fe713d851a4979fdb1bba16b16273ca129=
+b9029b012f25c" style=3D"display: block;" target=3D"_blank"><img a=
+lt=3D"Display images to show real-time content" border=3D"0" src=3D=
+"http://m-ink.newyorktimesinfo.com/p/rp/49bda7301fad0f4a.png?mi_u=
+=3D79812053&amp;mi_user_hash=3D8bee0a152fe713d851a4979fdb1bba16b1=
+6273ca129b9029b012f25c" style=3D"border: 0; display: block;max-wi=
+dth:260px !important;" width=3D"260" /></a></td>=0A<!--4-->=0A<td=
+ class=3D"em_hide" width=3D"40"></td>=0A<td align=3D"left" class=3D=
+"em_hide" style=3D"padding-top: 0px; padding-bottom:15px;" valign=
+=3D"top"><a href=3D"http://l.email.newyorktimes.com/rts/go2.aspx?=
+h=3D630021&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D=
+79812053%7c8bee0a152fe713d851a4979fdb1bba16b16273ca129b9029b012f2=
+5c" style=3D"display: block;" target=3D"_blank"><img alt=3D"Displ=
+ay images to show real-time content" border=3D"0" src=3D"http://m=
+-ink.newyorktimesinfo.com/p/rp/fa3dba988018f5c4.png?mi_u=3D798120=
+53&amp;mi_user_hash=3D8bee0a152fe713d851a4979fdb1bba16b16273ca129=
+b9029b012f25c" style=3D"border: 0; display: block;max-width:260px=
+ !important;" width=3D"260" /></a></td>=0A</tr>=0A<!-- end Newsle=
+tters List --><!--[if !mso]><!-- -->=0A<tr>=0A<td align=3D"center=
+" style=3D"background:#e4e4e4;">=0A<div class=3D"show" style=3D"f=
+ont-size: 0; max-height: 0; overflow: hidden; display: none;">=0A=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%"><!-- mobile 1 -->=0A<tbody>=0A<tr>=0A<td align=3D"center" s=
+tyle=3D"padding-top: 30px;" valign=3D"top"><a href=3D"http://l.em=
+ail.newyorktimes.com/rts/go2.aspx?h=3D630022&tp=3Di-H43-A3-Des-23=
+CO6i-1y-3iENA-1c-237spE-P5of0&x=3D79812053%7c8bee0a152fe713d851a4=
+979fdb1bba16b16273ca129b9029b012f25c" style=3D"display: block;" t=
+arget=3D"_blank"><img alt=3D"Display images to show real-time con=
+tent" border=3D"0" class=3D"em_img" src=3D"http://m-ink.newyorkti=
+mesinfo.com/p/rp/cdc2927066f685f1.png?mi_u=3D79812053&amp;mi_user=
+_hash=3D8bee0a152fe713d851a4979fdb1bba16b16273ca129b9029b012f25c"=
+ style=3D"border: 0; display: block;max-width:300px !important;" =
+/></a></td>=0A</tr>=0A<!-- mobile 2 -->=0A<tr>=0A<td align=3D"cen=
+ter" style=3D"padding-top: 20px;" valign=3D"top"><a href=3D"http:=
+//l.email.newyorktimes.com/rts/go2.aspx?h=3D630023&tp=3Di-H43-A3-=
+Des-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D79812053%7c8bee0a152fe713=
+d851a4979fdb1bba16b16273ca129b9029b012f25c" style=3D"display: blo=
+ck;" target=3D"_blank"><img alt=3D"Display images to show real-ti=
+me content" border=3D"0" class=3D"em_img" src=3D"http://m-ink.new=
+yorktimesinfo.com/p/rp/692ebde045bc4267.png?mi_u=3D79812053&amp;m=
+i_user_hash=3D8bee0a152fe713d851a4979fdb1bba16b16273ca129b9029b01=
+2f25c" style=3D"border: 0; display: block;max-width:300px !import=
+ant;" /></a></td>=0A</tr>=0A<!-- mobile 3 -->=0A<tr>=0A<td align=3D=
+"center" style=3D"padding-top: 20px;" valign=3D"top"><a href=3D"h=
+ttp://l.email.newyorktimes.com/rts/go2.aspx?h=3D630024&tp=3Di-H43=
+-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D79812053%7c8bee0a152f=
+e713d851a4979fdb1bba16b16273ca129b9029b012f25c" style=3D"display:=
+ block;" target=3D"_blank"><img alt=3D"Display images to show rea=
+l-time content" border=3D"0" class=3D"em_img" src=3D"http://m-ink=
+.newyorktimesinfo.com/p/rp/e482f535898b8e71.png?mi_u=3D79812053&a=
+mp;mi_user_hash=3D8bee0a152fe713d851a4979fdb1bba16b16273ca129b902=
+9b012f25c" style=3D"border: 0; display: block;max-width:300px !im=
+portant;" /></a></td>=0A</tr>=0A<!-- mobile 4 -->=0A<tr>=0A<td al=
+ign=3D"center" style=3D"padding-top: 20px;" valign=3D"top"><a hre=
+f=3D"http://l.email.newyorktimes.com/rts/go2.aspx?h=3D630025&tp=3D=
+i-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0&x=3D79812053%7c8bee0=
+a152fe713d851a4979fdb1bba16b16273ca129b9029b012f25c" style=3D"dis=
+play: block;" target=3D"_blank"><img alt=3D"Display images to sho=
+w real-time content" border=3D"0" class=3D"em_img" src=3D"http://=
+m-ink.newyorktimesinfo.com/p/rp/42ae446ea4a0a538.png?mi_u=3D79812=
+053&amp;mi_user_hash=3D8bee0a152fe713d851a4979fdb1bba16b16273ca12=
+9b9029b012f25c" style=3D"border: 0; display: block;max-width:300p=
+x !important;" /></a></td>=0A</tr>=0A</tbody>=0A</table>=0A</div>=
+=0A</td>=0A</tr>=0A<!--<![endif]-->=0A</tbody>=0A</table>=0A</td>=
+=0A<td class=3D"em_hide" style=3D"background:#e4e4e4;" width=3D"4=
+0"></td>=0A</tr>=0A<tr>=0A<td align=3D"left" class=3D"em_hide" he=
+ight=3D"30" style=3D"font-size:1px; line-height:1px; mso-line-hei=
+ght-alt:0; mso-margin-top-alt:1px;" valign=3D"top"></td>=0A</tr>=0A=
+</tbody>=0A</table>=0A</td>=0A</tr>=0A<!--BEGIN BODY 1 COLUMN-->=0A=
+<tr>=0A<td style=3D"background:#e4e4e4;">=0A<table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A<tbody>=0A<t=
+r>=0A<td class=3D"em_hide" style=3D"background:#e4e4e4;" width=3D=
+"60"></td>=0A<td class=3D"mobpad">=0A<table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%"><!--START CTA-->=0A<tb=
+ody>=0A<tr>=0A<td align=3D"center">=0A<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td align=3D"cen=
+ter" bgcolor=3D"#000000" style=3D"-webkit-border-radius:4px; -moz=
+-border-radius:4px; border-radius:4px;"><a href=3D"http://l.email=
+.newyorktimes.com/rts/go2.aspx?h=3D630026&tp=3Di-H43-A3-Des-23CO6=
+i-1y-3iENA-1c-237spE-P5of0" style=3D"font-size: 14px; font-family=
+: Helvetica, Arial, sans-serif; color: #FFFFFF; text-decoration: =
+none; text-decoration: none; -webkit-border-radius:4px; -moz-bord=
+er-radius:4px; border-radius:4px; padding: 8px 20px; border: 1px =
+solid #000000; display: inline-block; font-weight:bold;" target=3D=
+"_blank">SEE ALL NEWSLETTERS</a></td>=0A</tr>=0A</tbody>=0A</tabl=
+e>=0A</td>=0A</tr>=0A<!--END CTA-->=0A<tr>=0A<td align=3D"left" h=
+eight=3D"75" style=3D"font-size:1px; line-height:1px; mso-line-he=
+ight-alt:0; mso-margin-top-alt:1px;" valign=3D"top"></td>=0A</tr>=
+=0A</tbody>=0A</table>=0A</td>=0A<td class=3D"em_hide" style=3D"b=
+ackground:#e4e4e4;" width=3D"60"></td>=0A</tr>=0A</tbody>=0A</tab=
+le>=0A</td>=0A</tr>=0A<!--END BODY 1 COLUMN--><!--END BODY 1 COLU=
+MN--><!--END MAIN CONTENT--><!-- BEGIN DISCLAIMER  -->=0A<tr>=0A<=
+td align=3D"left" class=3D"mobpad" style=3D"font-family:Helvetica=
+, Arial, Sans Serif; color:#999999; font-size:11px; padding:25px;=
+ border-top:1px solid #cacaca; line-height:14px;" valign=3D"top">=
+This email was sent to <a href=3D"mailto:breakingnews@agentidea.c=
+om" style=3D"font-family: Helvetica, Arial, sans-serif;font-size:=
+11px; font-weight:normal;color:#999999;text-decoration:none;">bre=
+akingnews@agentidea.com</a><br />=0A<br />=0A<a href=3D"http://l.=
+email.newyorktimes.com/rts/go2.aspx?h=3D630027&tp=3Di-H43-A3-Des-=
+23CO6i-1y-3iENA-1c-237spE-P5of0" style=3D"color:#999999;text-deco=
+ration:none;" target=3D"_blank">Account Login</a> | <a href=3D"ht=
+tp://l.email.newyorktimes.com/rts/go2.aspx?h=3D630028&tp=3Di-H43-=
+A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of0" style=3D"color:#999999;te=
+xt-decoration:none;" target=3D"_blank">Help Center</a><br />=0AAt=
+tn.: Customer Service, P.O. Box 8041, Davenport, IA 52808-8041<br=
+ />=0A<br />=0A<a href=3D"http://l.email.newyorktimes.com/rts/go2=
+.aspx?h=3D630029&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-237spE-P5of=
+0" style=3D"color:#999999;text-decoration:none;" target=3D"_blank=
+">Terms of Service</a> | <a href=3D"http://l.email.newyorktimes.c=
+om/rts/go2.aspx?h=3D630030&tp=3Di-H43-A3-Des-23CO6i-1y-3iENA-1c-2=
+37spE-P5of0" style=3D"color:#999999;text-decoration:none;">Privac=
+y Policy</a> | <a href=3D"http://x.e.newyorktimesinfo.com/ats/sho=
+w.aspx?cr=3D623&fm=3D30&tp=3Di-H55-A3-Des-23CO6i-1y-3iENA-1c-2Bhu=
+-237spE-2HJYDB" style=3D"color:#999999;text-decoration:none;" tar=
+get=3D"_blank">Unsubscribe</a><br />=0A<br />=0A&copy;2018 The Ne=
+w York Times Company | <span class=3D"contact">620 Eighth Ave., N=
+ew York, NY 10018</span></td>=0A</tr>=0A<!-- END DISCLAIMER  -->=0A=
+</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=
+=0A</tr>=0A</tbody>=0A</table>=0A<!--No scaling when gmail app do=
+n't read css classes -->=0A=0A<div class=3D"em_hide" style=3D"dis=
+play: block; white-space: nowrap; font-style: normal; font-varian=
+t: normal; font-weight: normal; font-stretch: normal; font-size: =
+15px; font-family: courier; line-height: 0;">&nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>=
+=0A</body>=0A</html>=0A
+----boundary_8363665_9c112daf-d00d-48c0-8367-1d7a0184dd2a--
+
+
+

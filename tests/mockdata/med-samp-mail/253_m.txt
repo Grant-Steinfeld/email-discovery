@@ -1,0 +1,2290 @@
+From bounce-mc.us10_42243853.830791-vcinfo=agentidea.com@mail74.suw151.rsgsv.net  Sun Oct 14 21:00:45 2018
+Return-Path: <bounce-mc.us10_42243853.830791-vcinfo=agentidea.com@mail74.suw151.rsgsv.net>
+X-Original-To: vcinfo@agentidea.com
+Delivered-To: vcinfo@agentidea.com
+Received: from mail74.suw151.rsgsv.net (mail74.suw151.rsgsv.net [198.2.175.74])
+	by agentidea.com (Postfix) with ESMTP id 84D4740D13
+	for <vcinfo@agentidea.com>; Sun, 14 Oct 2018 21:00:45 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=mail74.suw151.rsgsv.net; s=k1; t=1539550844;
+	bh=k1f7MtHvbpAx4QZOMyfCRYtzd0Hs3CZSqEYK2ojGypE=;
+	h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:
+	 Content-Type:MIME-Version;
+	b=Jk2LVBKHECO0ylxx0f2aBjc3waXN7G+GZljhzxH/UPw8b7QXJhglj3Sfeq3OWZUAu
+	 CrfPUbmFN+tQ2oFKV7jQPXYEpa3n/4jDIcSNquT/G4gdB/LZt1wEGggWnJWX9y+r7Q
+	 PGKqraHNN7X0s/J1odelRRWQ4HCP554oEIzFNPbc=
+Received: from localhost (localhost [127.0.0.1])
+	by mail74.suw151.rsgsv.net (MailChimp) with ESMTP id 42YDW00jWlzDRK85t
+	for <vcinfo@agentidea.com>; Sun, 14 Oct 2018 21:00:44 +0000 (GMT)
+x-mcpf-jobid: mc.us10_42243853.830791.5bc3ae464af8b.full_000003
+Subject: =?utf-8?Q?Snippets=3A=20October=2014=2C=202018.=20Promoters?=
+From: =?utf-8?Q?Social=20Capital?= <snippets@socialcapital.com>
+Reply-To: =?utf-8?Q?Social=20Capital?= <snippets@socialcapital.com>
+To: <vcinfo@agentidea.com>
+Date: Sun, 14 Oct 2018 21:00:32 +0000
+Message-ID: <d7f0f45160075006b25756cd0.36ce2cba36.20181014210005.c004ca425b.ff58e1dd@mail74.suw151.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CIDc004ca425b36ce2cba36**
+X-Campaign: mailchimpd7f0f45160075006b25756cd0.c004ca425b
+X-campaignid: mailchimpd7f0f45160075006b25756cd0.c004ca425b
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=d7f0f45160075006b25756cd0&id=c004ca425b&e=36ce2cba36
+X-MC-User: d7f0f45160075006b25756cd0
+Feedback-ID: 42243853:42243853.830791:us10:mc
+List-ID: d7f0f45160075006b25756cd0mc list <d7f0f45160075006b25756cd0.150497.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <https://socialcapital.us10.list-manage.com/unsubscribe?u=d7f0f45160075006b25756cd0&id=159d546edd&e=36ce2cba36&c=c004ca425b>, <mailto:unsubscribe-mc.us10_d7f0f45160075006b25756cd0.c004ca425b-36ce2cba36@mailin.mcsv.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_196638969"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_196638969
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+The Promoter as a recurring historical figure any time there=E2=80=99s hyp=
+e around a new thing.
+
+
+** Snippets - October 14=2C 2018
+------------------------------------------------------------
+
+
+** As always=2C please forward this weekly mailer to friends and colleague=
+s and encourage them to sign up (http://s23p.us10.list-manage.com/subscrib=
+e?u=3Dd7f0f45160075006b25756cd0&id=3D159d546edd) . You can also view this=
+ email and past issues in your browser (http://us10.campaign-archive1.com/=
+home/?u=3Dd7f0f45160075006b25756cd0&id=3D159d546edd) . Enjoy!
+------------------------------------------------------------
+This week=E2=80=99s theme: The Promoter as a recurring historical figure a=
+ny time there=E2=80=99s hype around a new thing=2C but why the term - and=
+ one particular aspect of their role - is uniquely missing from Silicon Va=
+lley.
+In our ongoing Snippets series on bubbles (https://medium.com/social-capit=
+al/a-tale-of-two-stories-that-weve-heard-from-our-neighbors-september-30-2=
+018-snippets-ca2f512c18b5) =2C last week we talked about a core aspect of=
+ human behavior that drives much of our world forward: mimicry (https://me=
+dium.com/social-capital/mimicry-october-7-2018-snippets-ba8661c140c1) . Th=
+is week=2C we=E2=80=99ll look at one particular person who plays a central=
+ role in the innovation economy=2C and whose job is to exploit mimicry to=
+ its full potential in order to create interest and demand where previousl=
+y nothing existed before. We call these people promoters.
+
+I=E2=80=99ve always found it a bit funny that the term =E2=80=9Cpromoter=
+=E2=80=9D gets barely=2C if ever at all=2C used in Silicon Valley. It=E2=
+=80=99s simply not part of the vocabulary=2C the way it was commonly used=
+ in on Wall Street to describe stock promoters=2C or is still used today i=
+n the music industry to describe event promoters. Promoters=2C after all=
+=2C have a very important job: they create awareness and interest for some=
+thing new=2C and then use that awareness to sell tickets=2C or stocks=2C o=
+r whatever=2C to an eagerly buying audience. Their job is to make sure tha=
+t the retail public is made aware that they simply have to go attend this=
+ nearly sold-out concert from a hot new band=2C or buy some oversubscribed=
+ shares of a hot new stock. Their job is to create demand=2C and particula=
+rly to do so in an environment where buyers will be highly influenced by w=
+hat they believe other buyers are thinking. To put it in last week=E2=80=
+=99s terms=2C their is to create a positive feedback cycle of mimicry: not=
+hing sells tickets better than
+buyers realizing they=E2=80=99re selling out. The same goes for stocks=2C=
+ perhaps more so.
+
+The interesting part of the promoter=E2=80=99s job=2C and which often lead=
+s to bad behavior=2C is the fact that most of the time the promoter will h=
+ave more information than the buyers do as to whether the product they=E2=
+=80=99re hyping up is actually any good or not. If the band they=E2=80=99r=
+e promoting or the stock they=E2=80=99re pumping is actually great but peo=
+ple don=E2=80=99t know about it - so=2C if [perceived value < actual valu=
+e] - then the promoter=E2=80=99s job is to create hype - if they fail=2C t=
+hen they=E2=80=99re stuck with a bunch of unsold product. But in the oppos=
+ite situation=2C where the band actually stinks=2C and [perceived value >=
+ actual value]=2C the promoter=E2=80=99s job is still to create hype=2C pe=
+rhaps even more so - they need to make sure they can dump all their produc=
+t onto unsuspecting buyers before the crowd gets wise.
+
+As you=E2=80=99d expect=2C stock promoters have a long history of involvem=
+ent in bubbles=2C scams and unscrupulous behavior. But they also have play=
+ed a crucial role in the innovation economy=2C by helping create speculati=
+ve fevers that unlock cheap capital and direct it into the hands of entrep=
+reneurs. While acting totally selfishly=2C the promoter is both helping an=
+d hurting the future prospects of the technology they=E2=80=99re hyping up=
+=2E By creating irrational exuberance and inflated expectations=2C they=E2=
+=80=99re setting those entrepreneurs up for failure and shareholder revolt=
+ when the bubble bursts; but without that exuberance=2C we wouldn=E2=80=99=
+t be able to move forward much at all. Alexander Siemens describes this dy=
+namic in =E2=80=9CThe Brush Broom=E2=80=9D=2C writing about the speculativ=
+e bubble around electric lighting at the turn of last century:
+
+=E2=80=9CHowever much other causes may have contributed to delay the devel=
+opment of electrical engineering=2C it is clear that the principal must be=
+ looked for in the exaggerated expectations that were raised=2C either by=
+ ignorance or by design=2C when the general public first seriously thought=
+ of regarding electricity as a commodity for everyday use. At that time th=
+e promoters of electric companies preached to the public that electricity=
+ was in its infancy=2C that the laws of science were totally unknown=2C an=
+d that wonders could be confidently expected from it. There was a short ti=
+me of excitement to the public and of profit to the promoters; then the co=
+nfidence of the public in electricity was almost destroyed and could only=
+ be regained by years of patient work.=E2=80=9D Were the exaggerations of=
+ the promoters ultimately helpful or harmful to the deployment and adoptio=
+n of electricity? To be honest=2C likely both.
+Coming back to Silicon Valley=2C we can recognize many different component=
+s of this drama: as I mentioned earlier=2C I find it funny that we don=E2=
+=80=99t ever use the word promoter because in a sense=2C we=E2=80=99re all=
+ doing that job. Founders=2C VCs=2C marketers and thought leaders galore a=
+re continuously doing work to inflate hype=2C and create time and space fo=
+r their teams to go build whatever exciting version of the future they pur=
+sue. But there=E2=80=99s another reason why I completely get why the term=
+ has vanished=2C and that=E2=80=99s a peculiarity of the modern tech indus=
+try that often goes underappreciated by many of its participants: equity s=
+hares of startups aren=E2=80=99t freely traded. When investors buy shares=
+ in a startup in a funding round=2C it=E2=80=99s to keep them - not to fli=
+p them to some excited sucker who=E2=80=99ll be left holding the bag later=
+ when the startup fails. Investors may continually talk their own book by=
+ hyping their own portfolio=2C but it=E2=80=99s not for the purpose of unl=
+oading their shares onto those with less
+information. So in that sense=2C this second core function of a promoter -=
+ to move product - is almost entirely absent from Silicon Valley=2C minus=
+ the occasional secondary market that accompanies late-stage funding round=
+s meant to give employees or angels a bit of reward for their patience.
+
+But you know where that=E2=80=99s most definitely not the case? In the cry=
+ptocurrency community=2C where issued tokens and coins can be freely excha=
+nged on liquid exchanges=2C as if they were publicly traded securities=2C=
+ whether the law agrees or not. And=2C sure enough=2C that job of the =E2=
+=80=9Cpromoter=E2=80=9D has become roaring back: =E2=80=9CICO Promoter=E2=
+=80=9D has fully reemerged as part of the crypto lexicon=2C highly reminis=
+cent of the dot com bubble when those same kinds of people promoted intern=
+et IPOs to an eager public. It=E2=80=99s been a great story of =E2=80=9Cbe=
+ careful what you wish for=E2=80=9D=2C as one of the biggest rallying crie=
+s on the way up had been=2C =E2=80=9Cthink about how much innovation we=E2=
+=80=99ll be able to fund with a fully liquid and public market for ICOs!=
+=E2=80=9D It makes you really appreciate that in Silicon Valley=E2=80=99s=
+ privately-held=2C promoter-less model of funding innovation=2C there are=
+ remarkably few outright scams. But in the innovation economy=E2=80=99s pa=
+st=2C and undoubtedly in its future as well=2C scams have always played a=
+ central role=2C
+both on the way up and on the way down=2C in the bubbles that have moved t=
+he world forward in fits and lurches. Next week=2C we=E2=80=99ll go throug=
+h some of the most common kinds of scams that we saw in past centuries in=
+ canal and railroad stocks=2C and see once more today with cryptocurrencie=
+s.
+
+------------------------------------------------------------
+
+As a follow-up to last week=E2=80=99s drama about the potential Supermicro=
+ hardware hack (https://www.bloomberg.com/news/features/2018-10-04/the-big=
+-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies)  r=
+eported in Bloomberg=2C and the subsequent denials (https://www.bloomberg.=
+com/news/articles/2018-10-04/the-big-hack-amazon-apple-supermicro-and-beij=
+ing-respond) by=2C well=2C just about everyone: it now appears that althou=
+gh Bloomberg has dug in and stuck by their story=2C even adding a new soft=
+ware side to the intrigue (https://www.bloomberg.com/news/articles/2018-10=
+-04/the-big-hack-the-software-side-of-china-s-supply-chain-attack) . But n=
+early everyone else=2C from security experts to the US government (https:/=
+/twitter.com/RobertMLee/status/1049617855396933632) =2C has strongly denie=
+d that the story holds water=2C at least the way it was presented.
+
+[Corrected and updated]: Risky Business feature: a podcast on Bloomberg=
+=E2=80=99s absolutely wild Supermicro story | Patrick Gray (https://risky.=
+biz/RB516_feature/)
+
+Statement from DHS Press Secretary on recent media reports of potential su=
+pply chain compromise | United States Department of Homeland Security (htt=
+ps://www.dhs.gov/news/2018/10/06/statement-dhs-press-secretary-recent-medi=
+a-reports-potential-supply-chain-compromise)
+
+FBI director on whether Apple and Amazon servers had Chinese spy chips:=
+ =E2=80=9Cbe careful what you read=E2=80=9D | Todd Haselton=2C CNBC (https=
+://www.cnbc.com/2018/10/10/fbi-director-wray-on-super-micro-servers-be-car=
+eful-what-you-read.html)
+
+We=E2=80=99ll have to wait and see what happens=2C I guess. Patrick Gray (=
+@riskybusiness (https://twitter.com/riskybusiness) on Twitter) continues t=
+o be a good source of security wisdom=2C so follow him to stay in the loop=
+=2E
+
+Another interesting drama playing out north of the border: for the last ye=
+ar=2C Sidewalk Labs (https://www.sidewalklabs.com/) (Alphabet=E2=80=99s ci=
+ty-building venture led by former Michael Bloomberg deputy Dan Doctoroff)=
+ has been working towards building a =E2=80=9CSmart City=E2=80=9D district=
+ (https://sidewalktoronto.ca/#documents) on a prime piece of Toronto=E2=80=
+=99s waterfront. Although the partnership was initially celebrated (https:=
+//www.theglobeandmail.com/news/toronto/google-sidewalk-toronto-waterfront/=
+article36612387/) with great fanfare=2C the past year hasn=E2=80=99t been=
+ a friendly one for either side of the agreement: Sidewalk Labs has been a=
+ccused (https://thelogic.co/news/exclusive/sidewalk-labs-requires-detailed=
+-safeguards-for-its-own-employees-data/) of treating prospective citizen d=
+ata with different levels of protection from its own employees=2C while Wa=
+terfront Toronto has come under fire from numerous city councillors over j=
+ust what city assets=2C exactly=2C they plans to hand over to Alphabet. Th=
+is
+past week=2C Saadia Muzaffar (@ThisTechGirl (https://twitter.com/ThisTechG=
+irl) on Twitter=2C and worth following) resigned from the Waterfront Toron=
+to Digital Strategy Advisory Panel and did not mince words: =E2=80=9CWater=
+front Toronto=E2=80=99s apathy and utter lack of leadership regarding  sha=
+ky public trust and social license has been outstanding.=E2=80=9D The deve=
+loping saga has been a fascinating study of what happens when tech makes b=
+ig plans with local government=2C is worth following for anyone interested=
+ in the future of smart cities and of tech-government interaction:
+
+Open resignation letter from Saadia Muzaffar to Waterfront Toronto Digital=
+ Strategy Advisory Panel (https://twitter.com/amandaannroth/status/1047919=
+237917016064)
+
+Toronto advisor resigns over data concerns with Alphabet's smart city proj=
+ect | Jordan Pearson=2C Motherboard (https://motherboard.vice.com/en_us/ar=
+ticle/3km74w/google-smart-city-in-toronto-advisor-resigns-data-privacy)
+
+Sidewalk Toronto is not a smart city: it has only one beneficiary=2C and i=
+t is not Toronto | Jim Balsillie=2C The Globe and Mail (https://www.theglo=
+beandmail.com/opinion/article-sidewalk-toronto-is-not-a-smart-city/)
+
+Feds=E2=80=99 position on Quayside project unchanged; provincial=2C city p=
+oliticians emphasize they=E2=80=99re asking =E2=80=98tough questions=E2=80=
+=99 | Murad Hemmadi=2C The Logic (https://thelogic.co/news/feds-position-o=
+n-quayside-project-unchanged-provincial-city-politicians-emphasize-theyre-=
+asking-tough-questions/)
+
+Elsewhere in the world:
+
+France=E2=80=99s decade-old effort to slash pesticide use failed. Will a n=
+ew attempt succeed? | Erik Stokstad=2C Science (http://www.sciencemag.org/=
+news/2018/10/france-s-decade-old-effort-slash-pesticide-use-failed-will-ne=
+w-attempt-succeed)
+
+Trying to sell beer in Muslim Niger | The Economist (https://www.economist=
+=2Ecom/middle-east-and-africa/2018/10/13/trying-to-sell-beer-in-muslim-niger=
+)
+
+Brazil voters buck status quo with rise of right-wing firebrand | Samantha=
+ Pearson & Luciana Magalhaes=2C WSJ (https://www.wsj.com/articles/brazil-v=
+oters-buck-status-quo-with-rise-of-right-wing-firebrand-1539034621)
+
+The IPPC=E2=80=99s most recent climate report is no cold comfort:
+
+Global warming of 1.5 degrees C | IPCC Special Report (http://www.ipcc.ch/=
+report/sr15/)
+
+We have 12 years to limit climate change catastrophe=2C warns UN | Jonatha=
+n Watts=2C The Guardian (https://www.theguardian.com/environment/2018/oct/=
+08/global-warming-must-not-exceed-15c-warns-landmark-un-report)
+
+The latest report on global warming makes for grim reading | The Economist=
+ (https://www.economist.com/science-and-technology/2018/10/13/the-latest-r=
+eport-on-global-warming-makes-grim-reading)
+
+Multivariate matters:
+
+Polygenic risk scores=2C a controversial new approach to precision medicin=
+e=2C are taking precision medicine by storm | Matthew Warren=2C Nature (ht=
+tps://www.nature.com/articles/d41586-018-06956-3)
+
+Uncoiling the spiral: maths and hallucinations in visual perception | Mari=
+anne Freiberger=2C Plus Magazine (https://plus.maths.org/content/uncoiling=
+-spiral-maths-and-hallucinations)
+
+Reflecting on past experience:
+
+=E2=80=9CI just knew I was going to surpass these guys I was working for=
+=E2=80=9D: what I learned from the worst and best bosses I=E2=80=99ve ever=
+ had | Kara Swisher=2C Slate (https://slate.com/human-interest/2018/10/kar=
+a-swisher-interview-best-worst-bosses.html)
+
+Music for car alarms (1998-2008): a 20-year autobiographical retrospective=
+ | Benjamin H Bratton=2C Tank Magazine (https://tankmagazine.com/issue-76/=
+features/benjamin-h-bratton/)
+
+Other reading from around the Internet:
+
+Enes Kanter contains multitudes: why the most beloved man on NBA Twitter i=
+s hated in his home country | Jordan Ritter Conn=2C The Ringer (https://ww=
+w.theringer.com/nba/2018/10/11/17962130/enes-kanter-new-york-knicks-turkey=
+)
+
+California utilities ordered to reopen grid maps=2C resolving conflict bet=
+ween utilities distributed energy resource providers | Jeff St. John=2C GT=
+M (https://www.greentechmedia.com/articles/read/california-utilities-order=
+ed-to-reopen-grid-maps#gs.stMxmiM)
+
+A map of every building in the United States | Tim Wallace=2C Derek Watkin=
+s & John Schwartz=2C NYT (https://www.nytimes.com/interactive/2018/10/12/u=
+s/map-of-every-building-in-the-united-states.html)
+
+Microsoft open-sources its entire patent portfolio | Steven J. Vaughn-Nich=
+ols=2C ZDNet (https://www.zdnet.com/article/microsoft-open-sources-its-ent=
+ire-patent-portfolio/)
+
+DOD just beginning to grapple with scale of weapons systems vulnerabilitie=
+s | US Government Accountability Office (https://www.gao.gov/products/GAO-=
+19-128)
+
+
+------------------------------------------------------------
+
+In this week=E2=80=99s quick hits from around the Social Capital family:
+
+Intercom hosted their =E2=80=9CNext Chapter=E2=80=9D event=2C featuring CE=
+O Eoghan McCabe and product leader Matt Hodges=2C as they share their visi=
+on for the future of customer communication. You can watch the keynote her=
+e:
+
+https://www.youtube.com/watch?v=3DEziCPBBHITc&feature=3Dyoutu.be
+
+Mike Burshteyn of Cryptomove published a long and thorough overview of Sec=
+rets Management: how to think about guarding passwords and keys in an envi=
+ronment where everything gets shared with everyone=2C and how to make the=
+ math of information security work in your favor:
+
+Secrets management guide: approaches=2C open source tools=2C commercial pr=
+oducts=2C challenges and questions | Mike Burshteyn=2C Cryptomove (https:/=
+/blog.cryptomove.com/secrets-management-guide-approaches-open-source-tools=
+-commercial-products-challenges-db560fd0584d)
+
+Propeller Health published a new study reaffirming the notion that existin=
+g asthma assessment guidelines are out of date=2C and that digitally conne=
+cted inhaler puffs=2C not patient self-reports=2C are by far the most effe=
+ctive and objective way to track progress in respiratory medicine:
+
+Digital medicine data shows asthma assessment guidelines are outdated=2C a=
+ccording to Propeller Health study (https://www.propellerhealth.com/2018/1=
+0/08/digital-medicine-data-shows-asthma-assessment-guidelines-outdated-acc=
+ording-propeller-health-study/)
+
+And finally=2C Glooko=E2=80=99s partner Novo Nordisk=2C one of the world=
+=E2=80=99s largest diabetes management companies=2C is officially launchin=
+g a new digitally connected insulin pen=2C in partnership with Glooko=2C D=
+excom and Roche:
+
+Novo Nordisk plans first global launch of connected insulin pens and annou=
+nces key digital health partnerships | Glooko (https://www.glooko.com/pres=
+s-release/novo-nordisk-plans-first-global-launch-connected-insulin-pens-an=
+nounces-key-digital-health-partnerships/)
+
+Novo Nordisk to launch connected insulin pens | Andrew McConaghie=2C PMLiv=
+e (http://www.pmlive.com/pharma_news/novo_nordisk_to_launch_connected_insu=
+lin_pens_1254080)
+
+Have a great week=2C
+
+Alex & the team from Social Capital
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+** (http://www.facebook.com/sharer/sharer.php?u=3Dhttps%3A%2F%2Fmailchi.mp=
+%2Fsocialcapital%2Fsnippets-october-14-2018-promoters)
+** Share (http://www.facebook.com/sharer/sharer.php?u=3Dhttps%3A%2F%2Fmail=
+chi.mp%2Fsocialcapital%2Fsnippets-october-14-2018-promoters)
+** (http://twitter.com/intent/tweet?text=3DSnippets%3A+October+14%2C+2018.=
++Promoters: https%3A%2F%2Fmailchi.mp%2Fsocialcapital%2Fsnippets-october-14=
+-2018-promoters)
+** Tweet (http://twitter.com/intent/tweet?text=3DSnippets%3A+October+14%2C=
++2018.+Promoters: https%3A%2F%2Fmailchi.mp%2Fsocialcapital%2Fsnippets-octo=
+ber-14-2018-promoters)
+** (http://us10.forward-to-friend.com/forward?u=3Dd7f0f45160075006b25756cd=
+0&id=3Dc004ca425b&e=3D36ce2cba36)
+** Forward (http://us10.forward-to-friend.com/forward?u=3Dd7f0f45160075006=
+b25756cd0&id=3Dc004ca425b&e=3D36ce2cba36)
+** (https://twitter.com/socialcapital)
+** Follow us on Twitter @socialcapital (https://twitter.com/socialcapital)
+** (http://www.twitter.com/alex_danco)
+** Suggestions for next week's Snippets? Send 'em to @alex_danco (http://w=
+ww.twitter.com/alex_danco)
+Copyright =C2=A9 2018 Social Capital=2C All rights reserved.
+You are receiving this email because you are a portfolio company or a frie=
+nd of Social Capital.
+
+Our mailing address is:
+Social Capital
+120 Hawthorne Ave
+Palo Alto=2C California 94301
+
+Want to change how you receive these emails?
+You can ** update your preferences (https://socialcapital.us10.list-manage=
+=2Ecom/profile?u=3Dd7f0f45160075006b25756cd0&id=3D159d546edd&e=3D36ce2cba36)
+or ** unsubscribe from this list (https://socialcapital.us10.list-manage.c=
+om/unsubscribe?u=3Dd7f0f45160075006b25756cd0&id=3D159d546edd&e=3D36ce2cba36&=
+c=3Dc004ca425b)
+--_----------=_MCPart_196638969
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-micros=
+oft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+=09<head>
+=09=09<!-- NAME: 1 COLUMN -->
+=09=09<!--[if gte mso 15]>
+=09=09<xml>
+=09=09=09<o:OfficeDocumentSettings>
+=09=09=09<o:AllowPNG/>
+=09=09=09<o:PixelsPerInch>96</o:PixelsPerInch>
+=09=09=09</o:OfficeDocumentSettings>
+=09=09</xml>
+=09=09<![endif]-->
+=09=09<meta charset=3D"UTF-8">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial=
+-scale=3D1">
+=09=09<title>Snippets: October 14=2C 2018. Promoters</title>
+
+    <style type=3D"text/css">
+=09=09p{
+=09=09=09margin:10px 0;
+=09=09=09padding:0;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09display:block;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100%;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100%;
+=09=09}
+=09=09.mcnPreviewText{
+=09=09=09display:none !important;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09}
+=09=09table{
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cblockquote{
+=09=09=09mso-line-height-rule:exactly;
+=09=09}
+=09=09a[href^=3Dtel]=2Ca[href^=3Dsms]{
+=09=09=09color:inherit;
+=09=09=09cursor:default;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cbody=2Ctable=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass td=2C.ExternalCla=
+ss div=2C.ExternalClass span=2C.ExternalClass font{
+=09=09=09line-height:100%;
+=09=09}
+=09=09a[x-apple-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-decoration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=09font-family:inherit !important;
+=09=09=09font-weight:inherit !important;
+=09=09=09line-height:inherit !important;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding:10px;
+=09=09}
+=09=09.templateContainer{
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09a.mcnButton{
+=09=09=09display:block;
+=09=09}
+=09=09.mcnImage=2C.mcnRetinaImage{
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.mcnTextContent{
+=09=09=09word-break:break-word;
+=09=09}
+=09=09.mcnTextContent img{
+=09=09=09height:auto !important;
+=09=09}
+=09=09.mcnDividerBlock{
+=09=09=09table-layout:fixed !important;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#FAFAFA;
+=09=09}
+=09=09#bodyCell{
+=09=09=09border-top:0;
+=09=09}
+=09=09.templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:26px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:22px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:20px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:18px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#FAFAFA;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09#templatePreheader .mcnTextContent=2C#templatePreheader .mcnTextCont=
+ent p{
+=09=09=09color:#656565;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader .mcnTextContent a=2C#templatePreheader .mcnTextCo=
+ntent p a{
+=09=09=09color:#656565;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:0;
+=09=09}
+=09=09#templateHeader .mcnTextContent=2C#templateHeader .mcnTextContent p{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateHeader .mcnTextContent a=2C#templateHeader .mcnTextContent=
+ p a{
+=09=09=09color:#2BAADF;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-top:0;
+=09=09=09border-bottom:2px solid #EAEAEA;
+=09=09=09padding-top:0;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09#templateBody .mcnTextContent=2C#templateBody .mcnTextContent p{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateBody .mcnTextContent a=2C#templateBody .mcnTextContent p a{
+=09=09=09color:#2BAADF;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#FAFAFA;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09#templateFooter .mcnTextContent=2C#templateFooter .mcnTextContent p{
+=09=09=09color:#656565;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09}
+=09=09#templateFooter .mcnTextContent a=2C#templateFooter .mcnTextContent=
+ p a{
+=09=09=09color:#656565;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09@media only screen and (min-width:768px){
+=09=09.templateContainer{
+=09=09=09width:600px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#bodyCell{
+=09=09=09padding-top:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnRetinaImage{
+=09=09=09max-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImage{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnCartContainer=2C.mcnCaptionTopContent=2C.mcnRecContentContainer=
+=2C.mcnCaptionBottomContent=2C.mcnTextContentContainer=2C.mcnBoxedTextCont=
+entContainer=2C.mcnImageGroupContentContainer=2C.mcnCaptionLeftTextContent=
+Container=2C.mcnCaptionRightTextContentContainer=2C.mcnCaptionLeftImageCon=
+tentContainer=2C.mcnCaptionRightImageContentContainer=2C.mcnImageCardLeftT=
+extContentContainer=2C.mcnImageCardRightTextContentContainer=2C.mcnImageCa=
+rdLeftImageContentContainer=2C.mcnImageCardRightImageContentContainer{
+=09=09=09max-width:100% !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnBoxedTextContentContainer{
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupContent{
+=09=09=09padding:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnCaptionLeftContentOuter .mcnTextContent=2C.mcnCaptionRightConten=
+tOuter .mcnTextContent{
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardTopImageContent=2C.mcnCaptionBottomContent:last-child .=
+mcnCaptionBottomImageContent=2C.mcnCaptionBlockInner .mcnCaptionTopContent=
+:last-child .mcnTextContent{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardBottomImageContent{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlockInner{
+=09=09=09padding-top:0 !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlockOuter{
+=09=09=09padding-top:9px !important;
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnTextContent=2C.mcnBoxedTextContentColumn{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardLeftImageContent=2C.mcnImageCardRightImageContent{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcpreview-image-uploader{
+=09=09=09display:none !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h1{
+=09=09=09font-size:22px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h2{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnBoxedTextContentContainer .mcnTextContent=2C.mcnBoxedTextContent=
+Container .mcnTextContent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templatePreheader{
+=09=09=09display:block !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templatePreheader .mcnTextContent=2C#templatePreheader .mcnTextCont=
+ent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateHeader .mcnTextContent=2C#templateHeader .mcnTextContent p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateBody .mcnTextContent=2C#templateBody .mcnTextContent p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#templateFooter .mcnTextContent=2C#templateFooter .mcnTextContent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:150% !important;
+=09=09}
+
+}</style></head>
+    <body style=3D"height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FAFAFA=
+;">
+=09=09<!--
+-->
+=09=09<!--[if !gte mso 9]><!----><span class=3D"mcnPreviewText" style=3D"=
+display:none; font-size:0px; line-height:0px; max-height:0px; max-width:0p=
+x; opacity:0; overflow:hidden; visibility:hidden; mso-hide:all;">The Promo=
+ter as a recurring historical figure any time there=E2=80=99s hype around=
+ a new thing.</span><!--<![endif]-->
+=09=09<!--
+-->
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;pad=
+ding: 0;width: 100%;background-color: #FAFAFA;">
+                <tr>
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;height: 100%;margin: 0;padding: 10px;width: 100%;bord=
+er-top: 0;">
+                        <!-- BEGIN TEMPLATE // -->
+=09=09=09=09=09=09<!--[if (gte mso 9)|(IE)]>
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" valign=3D"top" width=3D"600" style=
+=3D"width:600px;">
+=09=09=09=09=09=09<![endif]-->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" class=3D"templateContainer" style=3D"border-collapse=
+: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;border: 0;max-width: 600px !importa=
+nt;">
+                            <tr>
+                                <td valign=3D"top" id=3D"templatePreheader=
+" style=3D"background:#FAFAFA none no-repeat center/cover;mso-line-height-=
+rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;ba=
+ckground-color: #FAFAFA;background-image: none;background-repeat: no-repea=
+t;background-position: center;background-size: cover;border-top: 0;border-=
+bottom: 0;padding-top: 9px;padding-bottom: 9px;"><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBlock" styl=
+e=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-t=
+able-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-ta=
+ble-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+
+
+                                        <img align=3D"center" alt=3D"" src=
+=3D"https://gallery.mailchimp.com/d7f0f45160075006b25756cd0/images/fc68ec0=
+9-c8ac-4a05-ad16-cc9320c4c6bd.jpeg" width=3D"564" style=3D"max-width: 800p=
+x;padding-bottom: 0;display: inline !important;vertical-align: bottom;bord=
+er: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-m=
+ode: bicubic;" class=3D"mcnImage">
+
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateHeader" s=
+tyle=3D"background:#FFFFFF none no-repeat center/cover;mso-line-height-rul=
+e: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;backg=
+round-color: #FFFFFF;background-image: none;background-repeat: no-repeat;b=
+ackground-position: center;background-size: cover;border-top: 0;border-bot=
+tom: 0;padding-top: 9px;padding-bottom: 0;"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=3D"m=
+in-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContent=
+Container">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding: 0px 18px 9px;line-height: 100%;mso-line-height-rule: exactly;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: brea=
+k-word;color: #202020;font-family: Helvetica;font-size: 16px;text-align: l=
+eft;">
+
+                            <h1 style=3D"text-align: center;display: block=
+;margin: 0;padding: 0;color: #202020;font-family: Helvetica;font-size: 26p=
+x;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: n=
+ormal;"><span style=3D"line-height:1.6em">Snippets - October 14=2C 2018</s=
+pan></h1>
+
+<h4 class=3D"null" style=3D"display: block;margin: 0;padding: 0;color: #20=
+2020;font-family: Helvetica;font-size: 18px;font-style: normal;font-weight=
+: bold;line-height: 125%;letter-spacing: normal;text-align: left;"><span s=
+tyle=3D"font-size:14px"><span style=3D"font-family:arial=2Chelvetica=2Csan=
+s-serif; line-height:20.8px">As always=2C please forward this weekly maile=
+r to friends and colleagues and encourage them to&nbsp;<a href=3D"https://=
+socialcapital.us10.list-manage.com/track/click?u=3Dd7f0f45160075006b25756c=
+d0&id=3D18d0bcc211&e=3D36ce2cba36" style=3D"color: #1155CC;mso-line-heigh=
+t-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+font-weight: normal;text-decoration: underline;" target=3D"_blank">sign&nb=
+sp;up</a></span><span style=3D"font-family:arial=2Chelvetica=2Csans-serif;=
+ line-height:20.8px">. You can also&nbsp;</span><span style=3D"color: #000=
+0FF;font-family: arial=2Csans-serif;line-height: normal;"><a href=3D"https=
+://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0f45160075006b257=
+56cd0&id=3Da8d0638ff6&e=3D36ce2cba36" style=3D"color: #1155CC;mso-line-he=
+ight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;font-weight: normal;text-decoration: underline;" target=3D"_blank">view=
+ this email and past issues in your browser</a></span><span style=3D"font-=
+family:arial=2Chelvetica=2Csans-serif; line-height:20.8px">. Enjoy!</span>=
+</span></h4>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnBoxedTextBlock" style=3D"min-width: 100%;border-collapse:=
+ collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;">
+    <!--[if gte mso 9]>
+=09<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"100%">
+=09<![endif]-->
+=09<tbody class=3D"mcnBoxedTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnBoxedTextBlockInner" style=3D"m=
+so-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;">
+
+=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09<td align=3D"center" valign=3D"top" ">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" style=3D"min-width: 100%;border-collapse: coll=
+apse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;" class=3D"mcnBoxedTextContentContainer">
+                    <tbody><tr>
+
+                        <td style=3D"padding-top: 9px;padding-left: 18px;p=
+adding-bottom: 9px;padding-right: 18px;mso-line-height-rule: exactly;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+                            <table border=3D"0" cellspacing=3D"0" class=3D=
+"mcnTextContentContainer" width=3D"100%" style=3D"min-width: 100% !importa=
+nt;background-color: #ECECEC;border-collapse: collapse;mso-table-lspace: 0=
+pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+                                <tbody><tr>
+                                    <td valign=3D"top" class=3D"mcnTextCon=
+tent" style=3D"padding: 18px;color: #565A5E;font-family: Helvetica;font-si=
+ze: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exac=
+tly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break:=
+ break-word;line-height: 150%;">
+                                        <strong>This week=E2=80=99s theme:=
+ The Promoter as a recurring historical figure any time there=E2=80=99s hy=
+pe around a new thing=2C but why the term - and one particular aspect of t=
+heir role - is uniquely missing from Silicon Valley.&nbsp;</strong>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if gte mso 9]>
+                </tr>
+                </table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateBody" sty=
+le=3D"background:#FFFFFF none no-repeat center/cover;mso-line-height-rule:=
+ exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;backgro=
+und-color: #FFFFFF;background-image: none;background-repeat: no-repeat;bac=
+kground-position: center;background-size: cover;border-top: 0;border-botto=
+m: 2px solid #EAEAEA;padding-top: 0;padding-bottom: 9px;"><table border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlo=
+ck" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0=
+pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContent=
+Container">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #202020;font-family: Helve=
+tica;font-size: 16px;line-height: 150%;text-align: left;">
+
+                            In <a href=3D"https://socialcapital.us10.list-=
+manage.com/track/click?u=3Dd7f0f45160075006b25756cd0&id=3D225f4eb182&e=3D36ce2cba36" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;color: #2BAADF;font-weight: normal;text=
+-decoration: underline;">our ongoing Snippets series on bubbles</a>=2C las=
+t week we talked about a core aspect of human behavior that drives much of=
+ our world forward: <a href=3D"https://socialcapital.us10.list-manage.com/=
+track/click?u=3Dd7f0f45160075006b25756cd0&id=3Dc536ed515f&e=3D36ce2cba36"=
+ style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;color: #2BAADF;font-weight: normal;text-decoration=
+: underline;">mimicry</a>. This week=2C we=E2=80=99ll look at one particul=
+ar person who plays a central role in the innovation economy=2C and whose=
+ job is to exploit mimicry to its full potential in order to create intere=
+st and demand where previously nothing existed before. We call these peopl=
+e <em>promoters</em>.&nbsp;<br>
+<br>
+I=E2=80=99ve always found it a bit funny that the term =E2=80=9Cpromoter=
+=E2=80=9D gets barely=2C if ever at all=2C used in Silicon Valley. It=E2=
+=80=99s simply not part of the vocabulary=2C the way it was commonly used=
+ in on Wall Street to describe stock promoters=2C or is still used today i=
+n the music industry to describe event promoters. Promoters=2C after all=
+=2C have a very important job: they create awareness and interest for some=
+thing new=2C and then use that awareness to sell tickets=2C or stocks=2C o=
+r whatever=2C to an eagerly buying audience. Their job is to make sure tha=
+t the retail public is made aware that they simply <em>have</em>&nbsp;to g=
+o attend this nearly sold-out concert from a hot new band=2C or buy some o=
+versubscribed shares of a hot new stock. Their job is to create demand=2C=
+ and particularly to do so in an environment where buyers will be highly i=
+nfluenced by what they believe other buyers are thinking. To put it in las=
+t week=E2=80=99s terms=2C their is to create a positive feedback cycle of=
+ mimicry: nothing sells tickets better than buyers realizing they=E2=80=99=
+re selling out. The same goes for stocks=2C perhaps more so.<br>
+<br>
+The interesting part of the promoter=E2=80=99s job=2C and which often lead=
+s to bad behavior=2C is the fact that most of the time the promoter will h=
+ave more information than the buyers do as to whether the product they=E2=
+=80=99re hyping up is actually any good or not. If the band they=E2=80=99r=
+e promoting or the stock they=E2=80=99re pumping is actually great but peo=
+ple don=E2=80=99t know about it - so=2C if [perceived value &lt; actual v=
+alue] - then the promoter=E2=80=99s job is to create hype - if they fail=
+=2C then they=E2=80=99re stuck with a bunch of unsold product. But in the=
+ opposite situation=2C where the band actually stinks=2C and [perceived v=
+alue &gt; actual value]=2C the promoter=E2=80=99s job is <em>still</em>&nb=
+sp;to create hype=2C perhaps even more so - they need to make sure they ca=
+n dump all their product onto unsuspecting buyers before the crowd gets wi=
+se.&nbsp;<br>
+<br>
+As you=E2=80=99d expect=2C stock promoters have a long history of involvem=
+ent in bubbles=2C scams and unscrupulous behavior. But they also have play=
+ed a crucial role in the innovation economy=2C by helping create speculati=
+ve fevers that unlock cheap capital and direct it into the hands of entrep=
+reneurs. While acting totally selfishly=2C the promoter is both helping an=
+d hurting the future prospects of the technology they=E2=80=99re hyping up=
+=2E By creating irrational exuberance and inflated expectations=2C they=E2=
+=80=99re setting those entrepreneurs up for failure and shareholder revolt=
+ when the bubble bursts; but without that exuberance=2C we wouldn=E2=80=99=
+t be able to move forward much at all. Alexander Siemens describes this dy=
+namic in =E2=80=9CThe Brush Broom=E2=80=9D=2C writing about the speculativ=
+e bubble around electric lighting at the turn of last century:&nbsp;<br>
+<br>
+=E2=80=9CHowever much other causes may have contributed to delay the devel=
+opment of electrical engineering=2C it is clear that the principal must be=
+ looked for in the exaggerated expectations that were raised=2C either by=
+ ignorance or by design=2C when the general public first seriously thought=
+ of regarding electricity as a commodity for everyday use. At that time th=
+e promoters of electric companies preached to the public that electricity=
+ was in its infancy=2C that the laws of science were totally unknown=2C an=
+d that wonders could be confidently expected from it. There was a short ti=
+me of excitement to the public and of profit to the promoters; then the co=
+nfidence of the public in electricity was almost destroyed and could only=
+ be regained by years of patient work.=E2=80=9D Were the exaggerations of=
+ the promoters ultimately helpful or harmful to the deployment and adoptio=
+n of electricity? To be honest=2C likely both.&nbsp;
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnImageBlock" style=3D"min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-ta=
+ble-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+
+
+                                        <img align=3D"center" alt=3D"" src=
+=3D"https://gallery.mailchimp.com/d7f0f45160075006b25756cd0/images/eddae9b=
+d-ecbd-4566-a6bb-5e2f1d2af6da.jpg" width=3D"564" style=3D"max-width: 791px=
+;padding-bottom: 0;display: inline !important;vertical-align: bottom;borde=
+r: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mo=
+de: bicubic;" class=3D"mcnImage">
+
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"min-width: 100%;border-collapse: coll=
+apse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContent=
+Container">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #202020;font-family: Helve=
+tica;font-size: 16px;line-height: 150%;text-align: left;">
+
+                            Coming back to Silicon Valley=2C we can recogn=
+ize many different components of this drama: as I mentioned earlier=2C I f=
+ind it funny that we don=E2=80=99t ever use the word promoter because in a=
+ sense=2C we=E2=80=99re <em>all</em>&nbsp;doing that job. Founders=2C VCs=
+=2C marketers and thought leaders galore are continuously doing work to in=
+flate hype=2C and create time and space for their teams to go build whatev=
+er exciting version of the future they pursue. But there=E2=80=99s another=
+ reason why I completely get why the term has vanished=2C and that=E2=80=
+=99s a peculiarity of the modern tech industry that often goes underapprec=
+iated by many of its participants: equity shares of startups aren=E2=80=99=
+t freely traded. When investors buy shares in a startup in a funding round=
+=2C it=E2=80=99s to keep them - not to flip them to some excited sucker wh=
+o=E2=80=99ll be left holding the bag later when the startup fails. Investo=
+rs may continually talk their own book by hyping their own portfolio=2C bu=
+t it=E2=80=99s not for the purpose of unloading their shares onto those wi=
+th less information. So in that sense=2C this second core function of a pr=
+omoter - to <em>move product</em>&nbsp;- is almost entirely <em>absent</em=
+>&nbsp;from Silicon Valley=2C minus the occasional secondary market that a=
+ccompanies late-stage funding rounds meant to give employees or angels a b=
+it of reward for their patience.&nbsp;<br>
+<br>
+But you know where that=E2=80=99s most definitely not the case? In the cry=
+ptocurrency community=2C where issued tokens and coins can be freely excha=
+nged on liquid exchanges=2C as if they were publicly traded securities=2C=
+ whether the law agrees or not. And=2C sure enough=2C that job of the =E2=
+=80=9Cpromoter=E2=80=9D has become roaring back: =E2=80=9CICO Promoter=E2=
+=80=9D has fully reemerged as part of the crypto lexicon=2C highly reminis=
+cent of the dot com bubble when those same kinds of people promoted intern=
+et IPOs to an eager public. It=E2=80=99s been a great story of =E2=80=9Cbe=
+ careful what you wish for=E2=80=9D=2C as one of the biggest rallying crie=
+s on the way up had been=2C =E2=80=9Cthink about how much innovation we=E2=
+=80=99ll be able to fund with a fully liquid and public market for ICOs!=
+=E2=80=9D It makes you really appreciate that in Silicon Valley=E2=80=99s=
+ privately-held=2C promoter-less model of funding innovation=2C there are=
+ remarkably few outright scams. But in the innovation economy=E2=80=99s pa=
+st=2C and undoubtedly in its future as well=2C scams have always played a=
+ central role=2C both on the way up and on the way down=2C in the bubbles=
+ that have moved the world forward in fits and lurches. Next week=2C we=E2=
+=80=99ll go through some of the most common kinds of scams that we saw in=
+ past centuries in canal and railroad stocks=2C and see once more today wi=
+th cryptocurrencies.&nbsp;<br>
+&nbsp;
+<hr><br>
+As a follow-up to last week=E2=80=99s drama about the <a href=3D"https://s=
+ocialcapital.us10.list-manage.com/track/click?u=3Dd7f0f45160075006b25756cd=
+0&id=3D1d89bbb9d5&e=3D36ce2cba36" style=3D"mso-line-height-rule: exactly;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #2BAADF;f=
+ont-weight: normal;text-decoration: underline;">potential Supermicro hardw=
+are hack</a>&nbsp;reported in Bloomberg=2C and the <a href=3D"https://soci=
+alcapital.us10.list-manage.com/track/click?u=3Dd7f0f45160075006b25756cd0&i=
+d=3Dfdcaac8775&e=3D36ce2cba36" style=3D"mso-line-height-rule: exactly;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #2BAADF;font=
+-weight: normal;text-decoration: underline;">subsequent denials</a> by=2C=
+ well=2C just about everyone: it now appears that although Bloomberg has d=
+ug in and stuck by their story=2C <a href=3D"https://socialcapital.us10.li=
+st-manage.com/track/click?u=3Dd7f0f45160075006b25756cd0&id=3D78449a2d02&e=
+=3D36ce2cba36" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;color: #2BAADF;font-weight: normal;=
+text-decoration: underline;">even adding a new software side to the intrig=
+ue</a>. But nearly everyone else=2C <a href=3D"https://socialcapital.us10.=
+list-manage.com/track/click?u=3Dd7f0f45160075006b25756cd0&id=3D0058b3e241&=
+e=3D36ce2cba36" style=3D"mso-line-height-rule: exactly;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #2BAADF;font-weight: normal=
+;text-decoration: underline;">from security experts to the US government</=
+a>=2C has strongly denied that the story holds water=2C at least the way i=
+t was presented.<br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3Ddaf088cd20&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">[Corr=
+ected and updated]: Risky Business feature: a podcast on Bloomberg=E2=80=
+=99s absolutely wild Supermicro story | Patrick Gray</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D143755b423&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Statem=
+ent from DHS Press Secretary on recent media reports of potential supply c=
+hain compromise | United States Department of Homeland Security</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3Dab4650218c&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">FBI di=
+rector on whether Apple and Amazon servers had Chinese spy chips: =E2=80=
+=9Cbe careful what you read=E2=80=9D | Todd Haselton=2C CNBC</a><br>
+<br>
+We=E2=80=99ll have to wait and see what happens=2C I guess. Patrick Gray (=
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D77d008f7f7&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">@risky=
+business</a> on Twitter) continues to be a good source of security wisdom=
+=2C so follow him to stay in the loop.&nbsp;<br>
+<br>
+<br>
+Another interesting drama playing out north of the border: for the last ye=
+ar=2C <a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=
+=3Dd7f0f45160075006b25756cd0&id=3Deb9cc85a44&e=3D36ce2cba36" style=3D"mso=
+-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;color: #2BAADF;font-weight: normal;text-decoration: underline;"=
+>Sidewalk Labs</a> (Alphabet=E2=80=99s city-building venture led by former=
+ Michael Bloomberg deputy Dan Doctoroff) has been <a href=3D"https://socia=
+lcapital.us10.list-manage.com/track/click?u=3Dd7f0f45160075006b25756cd0&id=
+=3D47a6cb18af&e=3D36ce2cba36" style=3D"mso-line-height-rule: exactly;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #2BAADF;font-=
+weight: normal;text-decoration: underline;">working towards building a =E2=
+=80=9CSmart City=E2=80=9D district</a> on a prime piece of Toronto=E2=80=
+=99s waterfront. <a href=3D"https://socialcapital.us10.list-manage.com/tra=
+ck/click?u=3Dd7f0f45160075006b25756cd0&id=3D1dceb5eb4d&e=3D36ce2cba36" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #2BAADF;font-weight: normal;text-decoration: u=
+nderline;">Although the partnership was initially celebrated</a> with grea=
+t fanfare=2C the past year hasn=E2=80=99t been a friendly one for either s=
+ide of the agreement: Sidewalk Labs <a href=3D"https://socialcapital.us10.=
+list-manage.com/track/click?u=3Dd7f0f45160075006b25756cd0&id=3Dcc63b0e91d&=
+e=3D36ce2cba36" style=3D"mso-line-height-rule: exactly;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #2BAADF;font-weight: normal=
+;text-decoration: underline;">has been accused</a> of treating prospective=
+ citizen data with different levels of protection from its own employees=
+=2C while Waterfront Toronto has come under fire from numerous city counci=
+llors over just what city assets=2C exactly=2C they plans to hand over to=
+ Alphabet. This past week=2C Saadia Muzaffar (<a href=3D"https://socialcap=
+ital.us10.list-manage.com/track/click?u=3Dd7f0f45160075006b25756cd0&id=3D8=
+c25245ac0&e=3D36ce2cba36" style=3D"mso-line-height-rule: exactly;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #2BAADF;font-weig=
+ht: normal;text-decoration: underline;">@ThisTechGirl</a> on Twitter=2C an=
+d worth following) resigned from the Waterfront Toronto Digital Strategy A=
+dvisory Panel and did not mince words: =E2=80=9CWaterfront Toronto=E2=80=
+=99s apathy and utter lack of leadership regarding &nbsp;shaky public trus=
+t and social license has been outstanding.=E2=80=9D The developing saga ha=
+s been a fascinating study of what happens when tech makes big plans with=
+ local government=2C is worth following for anyone interested in the futur=
+e of smart cities and of tech-government interaction:<br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3Da134310da0&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Open r=
+esignation letter from Saadia Muzaffar to Waterfront Toronto Digital Strat=
+egy Advisory Panel</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D9db4503550&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Toront=
+o advisor resigns over data concerns with Alphabet's smart city project |=
+ Jordan Pearson=2C Motherboard</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D96270e8618&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Sidewa=
+lk Toronto is not a smart city: it has only one beneficiary=2C and it is n=
+ot Toronto | Jim Balsillie=2C The Globe and Mail</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D708ac06497&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Feds=
+=E2=80=99 position on Quayside project unchanged; provincial=2C city polit=
+icians emphasize they=E2=80=99re asking =E2=80=98tough questions=E2=80=99=
+ | Murad Hemmadi=2C The Logic</a><br>
+<br>
+<br>
+Elsewhere in the world:<br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3De4c73a4ac2&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">France=
+=E2=80=99s decade-old effort to slash pesticide use failed. Will a new att=
+empt succeed? | Erik Stokstad=2C Science</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D9d954d79a7&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Trying=
+ to sell beer in Muslim Niger | The Economist</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D1ea98d24a8&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Brazil=
+ voters buck status quo with rise of right-wing firebrand | Samantha Pears=
+on &amp; Luciana Magalhaes=2C WSJ</a><br>
+<br>
+<br>
+The IPPC=E2=80=99s most recent climate report is no cold comfort:<br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D79710e3fd6&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Global=
+ warming of 1.5 degrees C | IPCC Special Report</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D6b59896df5&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">We hav=
+e 12 years to limit climate change catastrophe=2C warns UN | Jonathan Watt=
+s=2C The Guardian</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D62a05af8b6&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">The la=
+test report on global warming makes for grim reading | The Economist</a><b=
+r>
+<br>
+<br>
+Multivariate matters:<br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3Df0c7ac5bd6&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Polyge=
+nic risk scores=2C a controversial new approach to precision medicine=2C a=
+re taking precision medicine by storm | Matthew Warren=2C Nature</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D8fb717804b&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Uncoil=
+ing the spiral: maths and hallucinations in visual perception | Marianne F=
+reiberger=2C Plus Magazine</a><br>
+<br>
+<br>
+Reflecting on past experience:<br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D8a9a8209b9&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">=E2=80=
+=9CI just knew I was going to surpass these guys I was working for=E2=80=
+=9D: what I learned from the worst and best bosses I=E2=80=99ve ever had |=
+ Kara Swisher=2C Slate</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D9e0be8a46f&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Music=
+ for car alarms (1998-2008): a 20-year autobiographical retrospective | Be=
+njamin H Bratton=2C Tank Magazine</a><br>
+<br>
+<br>
+Other reading from around the Internet:<br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3Dc736e8130a&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Enes K=
+anter contains multitudes: why the most beloved man on NBA Twitter is hate=
+d in his home country | Jordan Ritter Conn=2C The Ringer</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D958e26e6de&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Califo=
+rnia utilities ordered to reopen grid maps=2C resolving conflict between u=
+tilities distributed energy resource providers | Jeff St. John=2C GTM</a><=
+br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3Db5d444c362&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">A map=
+ of every building in the United States | Tim Wallace=2C Derek Watkins &am=
+p; John Schwartz=2C NYT</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3Ddb0dfe4349&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Micros=
+oft open-sources its entire patent portfolio | Steven J. Vaughn-Nichols=2C=
+ ZDNet</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D6b5436fb5e&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">DOD ju=
+st beginning to grapple with scale of weapons systems vulnerabilities | US=
+ Government Accountability Office</a><br>
+<br>
+&nbsp;
+<hr><br>
+<br>
+In this week=E2=80=99s quick hits from around the Social Capital family:<b=
+r>
+<br>
+Intercom hosted their =E2=80=9CNext Chapter=E2=80=9D event=2C featuring CE=
+O Eoghan McCabe and product leader Matt Hodges=2C as they share their visi=
+on for the future of customer communication. You can watch the keynote her=
+e:
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnImageCardBlock" style=3D"border-collapse: collapse;mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+    <tbody class=3D"mcnImageCardBlockOuter">
+        <tr>
+            <td class=3D"mcnImageCardBlockInner" valign=3D"top" style=3D"p=
+adding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px=
+;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;">
+
+<table align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"mcnImageCardBottomContent" width=3D"100%" style=3D"background-color=
+: #404040;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnImageCardBottomImageContent" align=3D"left" valign=
+=3D"top" style=3D"padding-top: 0px;padding-right: 0px;padding-bottom: 0;pa=
+dding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">
+
+
+            <a href=3D"https://socialcapital.us10.list-manage.com/track/cl=
+ick?u=3Dd7f0f45160075006b25756cd0&id=3Ddb603cab27&e=3D36ce2cba36" title=
+=3D"" class=3D"" target=3D"" style=3D"mso-line-height-rule: exactly;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"" src=3D"https://gallery.mailchimp.com/video_thumb=
+nails_new/afbf7f738a99da481ec44d912023ae78.png" width=3D"564" style=3D"max=
+-width: 640px;border: 0;height: auto;outline: none;text-decoration: none;-=
+ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnImage"=
+>
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" valign=3D"top" style=3D"padding: 9px=
+ 18px;color: #F2F2F2;font-family: Helvetica;font-size: 14px;font-weight: n=
+ormal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;line-height:=
+ 150%;" width=3D"546">
+
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"min-width: 100%;border-collapse: coll=
+apse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContent=
+Container">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #202020;font-family: Helve=
+tica;font-size: 16px;line-height: 150%;text-align: left;">
+
+                            Mike Burshteyn of Cryptomove published a long=
+ and thorough overview of Secrets Management: how to think about guarding=
+ passwords and keys in an environment where everything gets shared with ev=
+eryone=2C and how to make the math of information security work in your fa=
+vor:<br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D0f6b38fe3a&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Secret=
+s management guide: approaches=2C open source tools=2C commercial products=
+=2C challenges and questions | Mike Burshteyn=2C Cryptomove</a><br>
+<br>
+<br>
+Propeller Health published a new study reaffirming the notion that existin=
+g asthma assessment guidelines are out of date=2C and that digitally conne=
+cted inhaler puffs=2C not patient self-reports=2C are by far the most effe=
+ctive and objective way to track progress in respiratory medicine:<br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3D04436b50fd&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Digita=
+l medicine data shows asthma assessment guidelines are outdated=2C accordi=
+ng to Propeller Health study</a><br>
+<br>
+And finally=2C Glooko=E2=80=99s partner Novo Nordisk=2C one of the world=
+=E2=80=99s largest diabetes management companies=2C is officially launchin=
+g a new digitally connected insulin pen=2C in partnership with Glooko=2C D=
+excom and Roche:<br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3Dbcfd150c7c&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Novo N=
+ordisk plans first global launch of connected insulin pens and announces k=
+ey digital health partnerships | Glooko</a><br>
+<br>
+<a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd7f0=
+f45160075006b25756cd0&id=3Df0181d2475&e=3D36ce2cba36" style=3D"mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #2BAADF;font-weight: normal;text-decoration: underline;">Novo N=
+ordisk to launch connected insulin pens | Andrew McConaghie=2C PMLive</a><=
+br>
+<br>
+Have a great week=2C&nbsp;<br>
+<br>
+Alex &amp; the team from Social Capital
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateFooter" s=
+tyle=3D"background:#FAFAFA none no-repeat center/cover;mso-line-height-rul=
+e: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;backg=
+round-color: #FAFAFA;background-image: none;background-repeat: no-repeat;b=
+ackground-position: center;background-size: cover;border-top: 0;border-bot=
+tom: 0;padding-top: 9px;padding-bottom: 9px;"><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnShareBlock" style=
+=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-ta=
+ble-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+">
+    <tbody class=3D"mcnShareBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnShareBlockInner">
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" class=3D"mcnShareContentContainer" style=3D"min-width: 10=
+0%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td align=3D"center" style=3D"padding-top: 0;padding-left: 9px;pad=
+ding-bottom: 0;padding-right: 9px;mso-line-height-rule: exactly;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;">
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%" style=3D"min-width: 100%;border-collapse: collap=
+se;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;" class=3D"mcnShareContent">
+                <tbody><tr>
+                    <td align=3D"center" valign=3D"top" class=3D"mcnShareC=
+ontentItemContainer" style=3D"padding-top: 9px;padding-right: 9px;padding-=
+left: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                        <table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;">
+                            <tbody><tr>
+                                <td align=3D"left" valign=3D"top" style=3D=
+"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;">
+                                    <!--[if mso]>
+                                    <table align=3D"center" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                    <![endif]-->
+
+                                        <!--[if mso]>
+                                        <td align=3D"center" valign=3D"top=
+">
+                                        <![endif]-->
+                                        <table align=3D"left" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;ms=
+o-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;">
+                                            <tbody><tr>
+                                                <td valign=3D"top" style=
+=3D"padding-right: 9px;padding-bottom: 9px;mso-line-height-rule: exactly;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnSha=
+reContentItemContainer">
+                                                    <table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"" class=3D"mcnShareContentItem"=
+ style=3D"border-collapse: separate;border-radius: 3px;mso-table-lspace: 0=
+pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+                                                        <tbody><tr>
+                                                            <td align=3D"l=
+eft" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 9px;paddin=
+g-bottom: 5px;padding-left: 9px;mso-line-height-rule: exactly;-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                <table ali=
+gn=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" st=
+yle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0=
+pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                    <tbody=
+><tr>
+                                                                        <t=
+d align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnShareIconCon=
+tent" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;">
+                                                                         =
+   <a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd=
+7f0f45160075006b25756cd0&id=3D5cb62b3cc1&e=3D36ce2cba36" target=3D"_blank=
+" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;"><img src=3D"https://cdn-images.mailchimp.com/ic=
+ons/social-block-v2/outline-color-facebook-48.png" style=3D"display: block=
+;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolat=
+ion-mode: bicubic;" height=3D"24" width=3D"24" class=3D""></a>
+                                                                        </=
+td>
+                                                                        <t=
+d align=3D"left" valign=3D"middle" class=3D"mcnShareTextContent" style=3D"=
+padding-left: 5px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                                                         =
+   <a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd=
+7f0f45160075006b25756cd0&id=3D030dfeced2&e=3D36ce2cba36" target=3D"" styl=
+e=3D"color: #202020;font-family: Arial;font-size: 12px;font-weight: normal=
+;line-height: normal;text-align: center;text-decoration: none;mso-line-hei=
+ght-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;">Share</a>
+                                                                        </=
+td>
+                                                                    </tr>
+                                                                </tbody></=
+table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+
+                                        <!--[if mso]>
+                                        <td align=3D"center" valign=3D"top=
+">
+                                        <![endif]-->
+                                        <table align=3D"left" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;ms=
+o-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;">
+                                            <tbody><tr>
+                                                <td valign=3D"top" style=
+=3D"padding-right: 9px;padding-bottom: 9px;mso-line-height-rule: exactly;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnSha=
+reContentItemContainer">
+                                                    <table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"" class=3D"mcnShareContentItem"=
+ style=3D"border-collapse: separate;border-radius: 3px;mso-table-lspace: 0=
+pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+                                                        <tbody><tr>
+                                                            <td align=3D"l=
+eft" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 9px;paddin=
+g-bottom: 5px;padding-left: 9px;mso-line-height-rule: exactly;-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                <table ali=
+gn=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" st=
+yle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0=
+pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                    <tbody=
+><tr>
+                                                                        <t=
+d align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnShareIconCon=
+tent" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;">
+                                                                         =
+   <a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd=
+7f0f45160075006b25756cd0&id=3D105441f302&e=3D36ce2cba36" target=3D"_blank=
+" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;"><img src=3D"https://cdn-images.mailchimp.com/ic=
+ons/social-block-v2/outline-color-twitter-48.png" style=3D"display: block;=
+border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolati=
+on-mode: bicubic;" height=3D"24" width=3D"24" class=3D""></a>
+                                                                        </=
+td>
+                                                                        <t=
+d align=3D"left" valign=3D"middle" class=3D"mcnShareTextContent" style=3D"=
+padding-left: 5px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                                                         =
+   <a href=3D"https://socialcapital.us10.list-manage.com/track/click?u=3Dd=
+7f0f45160075006b25756cd0&id=3Da2e3a2ee20&e=3D36ce2cba36" target=3D"" styl=
+e=3D"color: #202020;font-family: Arial;font-size: 12px;font-weight: normal=
+;line-height: normal;text-align: center;text-decoration: none;mso-line-hei=
+ght-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;">Tweet</a>
+                                                                        </=
+td>
+                                                                    </tr>
+                                                                </tbody></=
+table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+
+                                        <!--[if mso]>
+                                        <td align=3D"center" valign=3D"top=
+">
+                                        <![endif]-->
+                                        <table align=3D"left" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;ms=
+o-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;">
+                                            <tbody><tr>
+                                                <td valign=3D"top" style=
+=3D"padding-right: 0;padding-bottom: 9px;mso-line-height-rule: exactly;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnShare=
+ContentItemContainer">
+                                                    <table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"" class=3D"mcnShareContentItem"=
+ style=3D"border-collapse: separate;border-radius: 3px;mso-table-lspace: 0=
+pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+                                                        <tbody><tr>
+                                                            <td align=3D"l=
+eft" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 9px;paddin=
+g-bottom: 5px;padding-left: 9px;mso-line-height-rule: exactly;-ms-text-siz=
+e-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                <table ali=
+gn=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" st=
+yle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0=
+pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                    <tbody=
+><tr>
+                                                                        <t=
+d align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnShareIconCon=
+tent" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;">
+                                                                         =
+   <a href=3D"http://us10.forward-to-friend.com/forward?u=3Dd7f0f451600750=
+06b25756cd0&id=3Dc004ca425b&e=3D36ce2cba36" target=3D"_blank" style=3D"mso-l=
+ine-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;"><img src=3D"https://cdn-images.mailchimp.com/icons/social-block=
+-v2/outline-color-forwardtofriend-48.png" style=3D"display: block;border:=
+ 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode=
+: bicubic;" height=3D"24" width=3D"24" class=3D""></a>
+                                                                        </=
+td>
+                                                                        <t=
+d align=3D"left" valign=3D"middle" class=3D"mcnShareTextContent" style=3D"=
+padding-left: 5px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                                                         =
+   <a href=3D"http://us10.forward-to-friend.com/forward?u=3Dd7f0f451600750=
+06b25756cd0&id=3Dc004ca425b&e=3D36ce2cba36" target=3D"" style=3D"color: #202=
+020;font-family: Arial;font-size: 12px;font-weight: normal;line-height: no=
+rmal;text-align: center;text-decoration: none;mso-line-height-rule: exactl=
+y;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Forward</a>
+                                                                        </=
+td>
+                                                                    </tr>
+                                                                </tbody></=
+table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+
+                                    <!--[if mso]>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnFollowBlock" style=3D"min-width: 100%;border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnFollowBlockOuter">
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"padding: 9px;mso-=
+line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;" class=3D"mcnFollowBlockInner">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" class=3D"mcnFollowContentContainer" style=3D"min-width: 100%;=
+border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td align=3D"center" style=3D"padding-left: 9px;padding-right: 9px=
+;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;">
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lsp=
+ace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;" class=3D"mcnFollowContent">
+                <tbody><tr>
+                    <td align=3D"center" valign=3D"top" style=3D"padding-t=
+op: 9px;padding-right: 9px;padding-left: 9px;mso-line-height-rule: exactly=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;">
+                            <tbody><tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+                                    <!--[if mso]>
+                                    <table align=3D"center" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                    <![endif]-->
+
+                                        <!--[if mso]>
+                                        <td align=3D"center" valign=3D"top=
+">
+                                        <![endif]-->
+
+
+                                            <table align=3D"left" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"display: inline;border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                <tbody><tr>
+                                                    <td valign=3D"top" sty=
+le=3D"padding-right: 10px;padding-bottom: 9px;mso-line-height-rule: exactl=
+y;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcn=
+FollowContentItemContainer">
+                                                        <table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowCon=
+tentItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"=
+>
+                                                            <tbody><tr>
+                                                                <td align=
+=3D"left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;=
+padding-bottom: 5px;padding-left: 9px;mso-line-height-rule: exactly;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                    <table=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                        <t=
+body><tr>
+
+                                                                         =
+       <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFol=
+lowIconContent" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;">
+                                                                         =
+           <a href=3D"https://socialcapital.us10.list-manage.com/track/cli=
+ck?u=3Dd7f0f45160075006b25756cd0&id=3D9bf0e66f2e&e=3D36ce2cba36" target=
+=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;"><img src=3D"https://cdn-images.mailch=
+imp.com/icons/social-block-v2/color-twitter-48.png" style=3D"display: bloc=
+k;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpola=
+tion-mode: bicubic;" height=3D"24" width=3D"24" class=3D""></a>
+                                                                         =
+       </td>
+
+
+                                                                         =
+       <td align=3D"left" valign=3D"middle" class=3D"mcnFollowTextContent"=
+ style=3D"padding-left: 5px;mso-line-height-rule: exactly;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;">
+                                                                         =
+           <a href=3D"https://socialcapital.us10.list-manage.com/track/cli=
+ck?u=3Dd7f0f45160075006b25756cd0&id=3Db214a69e73&e=3D36ce2cba36" target=
+=3D"" style=3D"font-family: Helvetica;font-size: 12px;text-decoration: non=
+e;color: #656565;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;">Follow us on Twitter @socialcapital</a>
+                                                                         =
+       </td>
+
+                                                                        </=
+tr>
+                                                                    </tbod=
+y></table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+
+                                        <!--[if mso]>
+                                        <td align=3D"center" valign=3D"top=
+">
+                                        <![endif]-->
+
+
+                                            <table align=3D"left" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"display: inline;border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                <tbody><tr>
+                                                    <td valign=3D"top" sty=
+le=3D"padding-right: 0;padding-bottom: 9px;mso-line-height-rule: exactly;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnFol=
+lowContentItemContainer">
+                                                        <table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowCon=
+tentItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"=
+>
+                                                            <tbody><tr>
+                                                                <td align=
+=3D"left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;=
+padding-bottom: 5px;padding-left: 9px;mso-line-height-rule: exactly;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                    <table=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                        <t=
+body><tr>
+
+                                                                         =
+       <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFol=
+lowIconContent" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;">
+                                                                         =
+           <a href=3D"https://socialcapital.us10.list-manage.com/track/cli=
+ck?u=3Dd7f0f45160075006b25756cd0&id=3Dc6cb6af5fb&e=3D36ce2cba36" target=
+=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;"><img src=3D"https://cdn-images.mailch=
+imp.com/icons/social-block-v2/color-twitter-48.png" style=3D"display: bloc=
+k;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpola=
+tion-mode: bicubic;" height=3D"24" width=3D"24" class=3D""></a>
+                                                                         =
+       </td>
+
+
+                                                                         =
+       <td align=3D"left" valign=3D"middle" class=3D"mcnFollowTextContent"=
+ style=3D"padding-left: 5px;mso-line-height-rule: exactly;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;">
+                                                                         =
+           <a href=3D"https://socialcapital.us10.list-manage.com/track/cli=
+ck?u=3Dd7f0f45160075006b25756cd0&id=3D239d1334f3&e=3D36ce2cba36" target=
+=3D"" style=3D"font-family: Helvetica;font-size: 12px;text-decoration: non=
+e;color: #656565;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;">Suggestions for next week's Snippets? Sen=
+d 'em to @alex_danco</a>
+                                                                         =
+       </td>
+
+                                                                        </=
+tr>
+                                                                    </tbod=
+y></table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+
+                                    <!--[if mso]>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"min-width: 100%;border-collapse: c=
+ollapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;table-layout: fixed !important;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"min-width: 100%;pa=
+dding: 10px 18px 25px;mso-line-height-rule: exactly;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"min-width: 100%;border-t=
+op: 2px solid #EEEEEE;border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;">
+                    <tbody><tr>
+                        <td style=3D"mso-line-height-rule: exactly;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+<!--
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;=
+">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-col=
+or:none; border-left-color:none; border-right-color:none; border-bottom-wi=
+dth:0; border-left-width:0; border-right-width:0; margin-top:0; margin-rig=
+ht:0; margin-bottom:0; margin-left:0;" />
+-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"min-width: 100%;border-collapse: coll=
+apse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"paddin=
+g-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;">
+              =09<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09<!--[if mso]>
+=09=09=09=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"max-width: 100%;min-width: 100%;border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;" width=3D"100%" class=3D"mcnTextContent=
+Container">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 1=
+8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;word-break: break-word;color: #656565;font-family: Helve=
+tica;font-size: 12px;line-height: 150%;text-align: center;">
+
+                            <em>Copyright =C2=A9 2018 Social Capital=2C Al=
+l rights reserved.</em><br>
+You are receiving this email because you are a portfolio company or a frie=
+nd of Social Capital.<br>
+<br>
+<strong>Our mailing address is:</strong><br>
+Social Capital<br>
+120 Hawthorne Ave<br>
+Palo Alto=2C California 94301<br>
+<br>
+Want to change how you receive these emails?<br>
+You can <a href=3D"https://socialcapital.us10.list-manage.com/profile?u=3D=
+d7f0f45160075006b25756cd0&id=3D159d546edd&e=3D36ce2cba36" style=3D"mso-line-=
+height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;color: #656565;font-weight: normal;text-decoration: underline;">upda=
+te your preferences</a> or <a href=3D"https://socialcapital.us10.list-mana=
+ge.com/unsubscribe?u=3Dd7f0f45160075006b25756cd0&id=3D159d546edd&e=3D36ce2cba36&c=3Dc004ca425b" style=3D"mso-line-height-rule: exactly;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;color: #656565;font-weight: nor=
+mal;text-decoration: underline;">unsubscribe from this list</a><br>
+&nbsp;
+                        </td>
+                    </tr>
+                </tbody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                        </table>
+=09=09=09=09=09=09<!--[if (gte mso 9)|(IE)]>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<![endif]-->
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"https://socialcapital.us10.list-manage.com/track/open.php?=
+u=3Dd7f0f45160075006b25756cd0&id=3Dc004ca425b&e=3D36ce2cba36" height=3D"1=
+" width=3D"1"></body>
+</html>
+--_----------=_MCPart_196638969--
+

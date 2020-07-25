@@ -1,0 +1,1957 @@
+From bounces+3446560-4d73-commerce=agentidea.com@email.tumi.com  Thu Sep 27 14:53:11 2018
+Return-Path: <bounces+3446560-4d73-commerce=agentidea.com@email.tumi.com>
+X-Original-To: commerce@agentidea.com
+Delivered-To: commerce@agentidea.com
+Received: from o9.mailer02.agilone.com (o9.mailer02.agilone.com [167.89.47.49])
+	by agentidea.com (Postfix) with ESMTP id CF0A240D13
+	for <commerce@agentidea.com>; Thu, 27 Sep 2018 14:53:01 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=tumi.com; 
+	h=content-type:from:mime-version:subject:to; s=s1; 
+	bh=CO1kDPbqFYRZKSYSNkjwV0uYvjc=; b=LxemcFTYWAimqA0ZUeQAr8JeN4d2C
+	ui4ytN0UrP37/onSzcJL8REssC4hweCR+FQACPAe5jOqqivgKXKlP2btLuiCDM9N
+	pobvsfwTa1tMjJo6qiBFyk8cEVLvugx+sxr9/UZm5oZXSh0kudWbbca6nNP4426G
+	K5Sd9XUKT/rjHs=
+Received: by filter1612p1mdw1.sendgrid.net with SMTP id filter1612p1mdw1-10832-5BACEEC3-1
+        2018-09-27 14:52:51.08809624 +0000 UTC m=+48234.221538392
+Received: from MzQ0NjU2MA (ec2-52-200-251-210.compute-1.amazonaws.com [52.200.251.210])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with HTTP id HjxlHVcTQqigwhfnw6XwwQ
+	for <TUMI@email.tumi.com>; Thu, 27 Sep 2018 14:52:51.097 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=fcd17ae8e3ec07f0dc571814432ca21511d0d6dbe941cfc0fa30cf891799
+Date: Thu, 27 Sep 2018 14:52:53 +0000 (UTC)
+From: "TUMI" <TUMI@email.tumi.com>
+Mime-Version: 1.0
+Subject: 19 Degree: Limited Edition
+To: commerce@agentidea.com
+Message-ID: <HjxlHVcTQqigwhfnw6XwwQ@ismtpd0004p1iad1.sendgrid.net>
+X-SG-EID: Kf6S7uJeDJg+hPS4Ni4uYebIZrscRxt50bSWwuFu0IICiw+2Ay6PtE8JCvNDgxJqy5FGC7C2T/ixlt
+ fNdeegjjZ8DOaL765FYlRREz1pdgDMuqc+Jvgziuv3qg6w8ZfyKVMwsenrsUA3VSpbMD5OTbv9cZLo
+ ijOkOF9Y770TWoUbPcjYNd0bCKvAzvG7J1g7zkBnbXJ/gJWfmDCkx4qahnzYbggJ0mu+XAyuTScZd6
+ 8=
+X-SG-ID: peAnPsQhEI4avR03XD4uFeINL/6t6hqqgGVECEYWmIxVCvpQrbja0HB/g4p0Rk2qJ4WKE0EzCvVTo6
+ ZO/MHyKY1/hqPHqrBKLO2zot3UCI53/agig5jo2tDUuKzJ75SKzJ9f/IsibuCL5lsuyIkfCeHLKrU+
+ v+fz7IYXI7tJgiFwDdN0VqKkVVV8smCGtnVRSc1nU4fojUelfVEZJM4+AiRTTSM4cNGFy6L4pIe05t
+ GqGK5pca3FDufI0R0nzfLWJd0tuWY5KVIN0l2M9o/c5inwYGDCmMQrxANQzguu9kuDSwvys3AyJbFv
+ uidUMxYcnzV8iWObjYIYjyrYbbWmiAHKffjyYMUSkw5LFPCj7GBH7dsNQUdAeHrhAqZmYW/djaDXbg
+ hZsSp9I5Ow+0lIhKsC0BJYeuhE85vDuFyFssQ=
+
+--fcd17ae8e3ec07f0dc571814432ca21511d0d6dbe941cfc0fa30cf891799
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://links.emai=
+l.tumi.com/wf/click?upn=3DQ9BKw12r24as01FxCj7lzlZXIF-2BbWwJOPluMAxm0m3dk1oZ=
+RrbGzbVv0Inci08bQaBNoPZbfwjG3f5iUKr-2FLDMemku7eBgvoQT8881ETLWCMwDpnlPdavdIG=
+MTITrJAL0a9duBdlsLYvUvfmRHk-2BzrJIxm9j2S7k-2BehKOaCqQT5PEe644V4j8tsanin7792=
+uvM0GcKnENqQ9QyuFpzrYlQ-3D-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7Aw=
+dPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJq=
+J4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ=
+1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniE=
+KmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7F1XvpFb91uJ0zBXrqjRr70Vvi=
+vGHDNyFFOGhQ-2FkSRez0UJxLNh4rP5CYjKZ8EzW0WMRUr4x6QY-2BmcB99X3Aahh8svls-2BPD=
+y4B4OJpgv-2FJvbKYwfMeKL-2BpfRreGNeu4lCcS88VGiUEx8hwYawpsEenhTcXuTOHz5sxFQVA=
+FR-2F0TRViz9PUDnQWbrixZ5iFg0wY5F8BVgXoQjVoJqeqa6Cu1Ys6mCpkX8DqTYjHC8ljNCD2d=
+ugOseM9D3-2FFu2xrsXokTilgjGhaeGw7mpsKZdtQyO1w3kN4iFT363BB6FnhkHUH5OLRV7H2La=
+2a9cgekNw15LIO3O-2BR1fv0oAjaICjdn-2FFsk34p0PX-2FaZQIy1i5G7Q-3D-3D">
+<html style=3D"min-width: 100%;" xmlns=3D"http://links.email.tumi.com/wf/cl=
+ick?upn=3DQ9BKw12r24as01FxCj7lzvXl2n0oapsj1yKrJgtHF5r5XPIwcr4jGgbYlwdDrR0LJ=
+kjh68733mcVyujop2KhaOtyAkyI3YGMpY9nvLcnnNBvR-2Fw3liRswAZMIFY6c-2Bke2p7HFzaP=
+LDWwM5HDb0sZhGJknNBfRIDx7WtuOU-2FQQczeH6-2BAoVhTfjdxUptNs1z6_zjEBjo-2Bw-2Fx=
+LHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL=
+9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6F=
+tAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xA=
+DjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6M=
+PqNBZ7HLmi1TSnXBJ0leVknYGeHGjCiRITQRuT771IAfmBW8T6zGJwmHncam6XnjgBh7ZVDnqVo=
+-2FyNtIabTXtXFUaoz4v9kR4sm0Sc4glZ2toYxzfuscyt6XXO-2FIdBQJIbNAq51KvsSDrchfvV=
+BjJRh-2BLfCH7LpeVhgJLdQjh6SMlOpOj40O7zg6y-2BQVriiiGCpuZG-2BmXkBWAyazOZmLlpy=
+VXXoEK4gYF3Yq8E7h-2Ffu0SC0HB0k0uZsTrfuvEIUDplc0TlAMDEenHnuEFq-2BxhKCJyxhtqL=
+t7R81JYSf3F-2BN5EYjpqbIm9MDbUsxgYc6KpmnnDBUDf4M8yxwyitv8Cqs-2FeXIiruzV91i5p=
+tNZAAjXWEM6WQ-3D-3D">
+<head><meta name=3D"x-apple-disable-message-reformatting" />
+	<title></title>
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" /=
+><meta name=3D"viewport" content=3D"width=3Ddevice-width, maximum-scale=3D1=
+, minimum-scale=3D1, user-scalable=3Dno" />
+</head>
+<body style=3D"cursor: auto; background-color: rgb(235, 235, 235);">
+<style type=3D"text/css">.preheader {
+            display: none !important;
+            visibility: hidden;
+            opacity: 0;
+            color: transparent;
+            height: 0;
+            width: 0;
+        }
+</style>
+<style type=3D"text/css">@import url(http://links.email.tumi.com/wf/click?u=
+pn=3DudR4NbgFpcUnojD-2FNbzuxmIplihHTl7bX43Wd9zvYvNg4JIa6RntGZhcyJuU-2Fw4Sum=
+1UubPR8W7cO3KaMmAtOEwfbP4GUpJszvrAMlBlx5azY3FKQ5Lq6rHR6NuleeoUgt-2BeceF9ZvY=
+ur4ODdcfX0UnpJB4Cr4nRNJ-2FidvKLlW12m6Ow6zgLQkczP76r10y-2FztARC5vGAGDYukH6Y-=
+2Flji3gX79Rtfc6ZIM6hqmR3Zrw-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7A=
+wdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJ=
+qJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEh=
+Q1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6Rni=
+EKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7HPKJdaR-2F-2BOw2dUC6jou9=
+6mz0haWhcn3dMj5qQW20jV1PtD-2BB1UyhoF0o-2F1YqFXOPw8ybYzPfVlV4Lps1f5ADVGM01-2=
+BguIvrIkSww2nscA29UpmcuzgSduwq5e3MgOs1BfEfktGnEGmMruiFj0j85qRQt76L26r8rO6CF=
+65Q8jsjDSmqXGsJCRHcYZ-2F001609MMjdCbv25BzBwOWccAdgPKmxUqvbKw6y4nAxuT3cSlvIe=
+BjheYl2iBV7UWBE8d1hdu5M0QP0MJq5WO90Hx6qkOEvlC-2Bvz2Nzy6KwDWozUGByh8eqI86nRl=
+7id36XZ4BtJHk4p1ryND5SODum2u-2FsVlSIxcmWdUhWby0huzeY6CkA-3D-3D
+        @media only screen and (max-width: 480px) {
+            table[id=3D"backgroundTable"] {
+                padding: 5px 0 !important;
+            }
+            table[class=3D"wrapper"] {
+                width: 318px !important;
+            }
+            *[class*=3D"paddingreset"] {
+                padding: 0 !important;
+            }
+            *[class*=3D"mobile-hidden"] {
+                display: none;
+            }
+            *[class*=3D"show"],
+            *[class*=3D"show"] img {
+                display: block !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                overflow: visible !important;
+                width: auto !important;
+                max-height: inherit !important;
+                height: auto !important;
+            }
+            img[class=3D"photo"] {
+                width: 100% !important;
+            }
+            img[class=3D"photo90"] {
+                width: 90% !important;
+                margin: 0 auto !important;
+            }
+            td[class=3D"block"] {
+                width: 100% !important;
+                display: block !important;
+            }
+            td[class=3D"block-reset"] {
+                width: 100% !important;
+                display: block !important;
+                padding-left: 0 !important;
+                padding-right: 0 !important;
+            }
+            td[class=3D"reset"] {
+                border: none !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                width: 100% !important;
+            }
+            td[class=3D"centerme"] {
+                text-align: center;
+                padding-left: 0 !important;
+                padding-right: 0 !important;
+            }
+            td[class=3D"topspace"] {
+                padding-top: 40px;
+            }
+            td[class=3D"pad-me"] {
+                padding: 20px;
+            }
+            td[class=3D"block-left"] {
+                width: 100% !important;
+                display: block !important;
+                text-align: left;
+            }
+        }
+        /* Client-specific Styles */
+=20=20=20=20=20=20=20=20
+        #outlook a {
+            padding: 0;
+        }
+        /* Force Outlook to provide a "view in browser" menu link. */
+=20=20=20=20=20=20=20=20
+        html,
+        body {
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        body {
+            width: 100% !important;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+            margin: 0;
+            padding: 0;
+            font-family: helvetica, arial, sans-serif;
+            color: #444444;
+        }
+        /* Prevent Webkit and Windows Mobile platforms from changing defaul=
+t font sizes.*/
+=20=20=20=20=20=20=20=20
+        .ExternalClass {
+            width: 100%;
+        }
+        /* Force Hotmail to display emails at full width */
+=20=20=20=20=20=20=20=20
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+            line-height: 100%;
+        }
+        /* Forces Hotmail to display normal line spacing.  More on that: ht=
+tp://links.email.tumi.com/wf/click?upn=3DQ9BKw12r24as01FxCj7lzpe9mTwDPWrYjR=
+bzfU0x5RnZkeZhDVS8SItp5Nd-2BYq9-2BSakGNLicb7Dr4wN22wkJG5ev18lmMXBGv8cAJ-2B4=
+j0OAvnpSIjwAtSuMeCAFEOsf0GDhO-2BpMCQSeGyuAdO1Pn5da9HGETICpagFrYz8uOHnMUhmWh=
+1On-2BWAsE8R6O3NJfK1-2BnKuypHv6F23sUj92RXw-3D-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrw=
+xyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5=
+vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIh=
+SgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT=
+3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7GKbLJB=
+gI2DMGt03v3CvfrHTiH675iFXordmK1db-2FQx-2BUZCNBO5CMZAfAp9G-2F44-2FNnr-2BAAUC=
+XNL40-2B01m7pxBmQyRBTHRjtb5TKHlOtMfjPX2SwXEn6McYNt7seGsOpYwVv1f4IXbXoC5esb9=
+4ZuwuU0wIRKKBdCu9xkuS0IebNkEEVG6BN3LgcMDhavwVq7YawBotMVo2rNwXrDhxf88j4HidBm=
+0uzzHy-2F-2FB6SmHIROtIIO8NkTjG4P9e5gMLknPF9MRj8ZzhL7flUhu8e0lHIX7DBxQFGRPkK=
+4kb9pMd07RqqgfMQOUiY3YoCu-2BpIpm3iNY17QAiAo3AB9Zw5lLZyaxBfd4sSwmEEDUzEyn4e9=
+A-3D-3D */
+=20=20=20=20=20=20=20=20
+        #backgroundTable {
+            margin: 0;
+            padding: 0;
+            width: 100% !important;
+            line-height: 100% !important;
+        }
+        /* End reset */
+        /* Some sensible defaults for images
+                        Bring inline: Yes. */
+=20=20=20=20=20=20=20=20
+        img {
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+        }
+        a img {
+            border: none;
+        }
+        .image_fix {
+            display: block;
+        }
+        /* Yahoo paragraph fix
+                        Bring inline: Yes. */
+=20=20=20=20=20=20=20=20
+        p {
+            margin: 1em 0;
+        }
+        /* Hotmail header color reset
+                        Bring inline: Yes. */
+=20=20=20=20=20=20=20=20
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: black !important;
+            margin: 0;
+        }
+        h1 a,
+        h2 a,
+        h3 a,
+        h4 a,
+        h5 a,
+        h6 a {
+            color: black !important;
+        }
+        h1 a:active,
+        h2 a:active,
+        h3 a:active,
+        h4 a:active,
+        h5 a:active,
+        h6 a:active {
+            color: red !important;
+            /* Preferably not the same color as the normal header link colo=
+r.  There is limited support for psuedo classes in email clients, this was =
+added just for good measure. */
+        }
+        h1 a:visited,
+        h2 a:visited,
+        h3 a:visited,
+        h4 a:visited,
+        h5 a:visited,
+        h6 a:visited {
+            color: #444444!important;
+            /* Preferably not the same color as the normal header link colo=
+r. There is limited support for psuedo classes in email clients, this was a=
+dded just for good measure. */
+        }
+        /* Outlook 07, 10 Padding issue fix
+                        Bring inline: No.*/
+=20=20=20=20=20=20=20=20
+        table td {
+            border-collapse: collapse;
+        }
+        /* Remove spacing around Outlook 07, 10 tables
+                        Bring inline: Yes */
+=20=20=20=20=20=20=20=20
+        table {
+            border-collapse: collapse;
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+        /* Styling your links has become much simpler with the new Yahoo.  =
+In fact, it falls in line with the main credo of styling in email and make =
+sure to bring your styles inline.  Your link colors will be uniform across =
+clients when brought inline.
+                        Bring inline: Yes. */
+=20=20=20=20=20=20=20=20
+        a {
+            color: black;
+            text-decoration: none;
+        }
+        hr {
+            border-color: #ccc;
+        }
+        *[class*=3D"times"] {
+            font-family: "Times New Roman", Serif;
+            font-size: 15px;
+        }
+        td [class=3D"nav"] a {
+            color: #333333;
+        }
+        /***************************************************
+                        ****************************************************
+                        MOBILE TARGETING
+                        ****************************************************
+                        ***************************************************/
+=20=20=20=20=20=20=20=20
+        @media only screen and (max-device-width: 480px) {
+            /* Part one of controlling phone number linking for mobile. */
+=20=20=20=20=20=20=20=20=20=20=20=20
+            a[href^=3D"tel"],
+            a[href^=3D"sms"] {
+                text-decoration: none;
+                color: #c41e3a;
+                /* or whatever your want */
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                pointer-events: auto;
+                cursor: default;
+            }
+            .mobile_link a[href^=3D"tel"],
+            .mobile_link a[href^=3D"sms"] {
+                text-decoration: default;
+                color: orange !important;
+                pointer-events: auto;
+                cursor: default;
+            }
+        }
+        /* More Specific Targeting */
+=20=20=20=20=20=20=20=20
+        @media only screen and (min-device-width: 768px) and (max-device-wi=
+dth: 1024px) {
+            /* You guessed it, ipad (tablets, smaller screens, etc) */
+            /* repeating for the ipad */
+=20=20=20=20=20=20=20=20=20=20=20=20
+            a[href^=3D"tel"],
+            a[href^=3D"sms"] {
+                text-decoration: none;
+                color: black;
+                /* or whatever your want */
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                pointer-events: auto;
+                cursor: default;
+            }
+            .mobile_link a[href^=3D"tel"],
+            .mobile_link a[href^=3D"sms"] {
+                text-decoration: default;
+                color: orange !important;
+                pointer-events: auto;
+                cursor: default;
+            }
+        }
+        @media only screen and (-webkit-min-device-pixel-ratio: 2) {
+            /* Put your iPhone 4g styles in here */
+        }
+        /* Android targeting */
+=20=20=20=20=20=20=20=20
+        @media only screen and (-webkit-device-pixel-ratio: .75) {
+            /* Put CSS for low density (ldpi) Android layouts in here */
+        }
+        @media only screen and (-webkit-device-pixel-ratio: 1) {
+            /* Put CSS for medium density (mdpi) Android layouts in here */
+        }
+        @media only screen and (-webkit-device-pixel-ratio: 1.5) {
+            /* Put CSS for high density (hdpi) Android layouts in here */
+        }
+        /* end Android targeting */
+</style>
+<!-- Targeting Windows Mobile --><!--[if IEMobile 7]>
+            <style type=3D"text/css">
+=20=20=20=20=20=20=20=20=20=20=20=20
+            </style>
+            <![endif]--><!-- ***********************************************
+            ****************************************************
+            END MOBILE TARGETING
+            ****************************************************
+            ************************************************ --><!--[if gte=
+ mso 9]>
+                        <style>
+                        /* Target Outlook 2007 and 2010 */
+                        </style>
+            <![endif]--><!-- Wrapper/Container Table: Use a wrapper table t=
+o control the width and the background color consistently of your email. Us=
+e this approach instead of setting attributes on the body tag. -->
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=
+=3D"backgroundTable">
+	<tbody>
+		<tr>
+			<td valign=3D"top"><!-- Tables are the most common way to format your em=
+ail consistently. Set your table widths inside cells and in most cases rese=
+t cellpadding, cellspacing, and border to zero. Use nested tables as a way =
+to space effectively in your message. -->
+			<p style=3D"font-size: 13px; text-align: center;"><span style=3D"color:#=
+777777;">Brand new 19 Degree color. Shop luggage, backpacks, bags and more&=
+nbsp;at </span><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5=
+U5oJX-2Brs3LNbV9XX5uzd-2BeMZTj7Qjspvv7YxHLI8hWbqilIiKmmhu7tIZOMvPcltVUhE9la=
+c3AZY6foC8qnCKtZM2Xi-2BSGaYpJnPDIkRlaDncYtRc02oRYYwSHr9Nt5IeDEFHpDFq9v34QE7=
+S2Te2RqCg9PyZ8ibRXaL8pWj6YjhvMERKhqxbvZcJvz9Y7-2FbDsK4KbFTYUbU3iZ4WMAisIr5h=
+H67EhqrbEfl0S8Vfwa-2Fv65xMzK8dG2oi84Au1k-2BPFfL9bKAWAwONxxXDTnmoa-2B8UeTLvp=
+5xQPetuF1FWpLpJFYk5aNj9n5Vr5OYF47pFsFMNuhh17oEcQqs7OHrObKw1OnEFknUrEt155Y8K=
+ZXTkaaiZvrRWZ-2FrnkrSLODzWFF89XCoxBphB8Vj-2FvWvvxcaXo58RPWJKcV4TxErFwlHgRWk=
+gvKtzwlADm_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oI=
+JT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWn=
+bwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqR=
+k9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69=
+ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7EWkJT4P5it4ZKi6i7tTX11cFPzZ8nP9TanQVyPhoxboV=
+75hLpWVJ5i3lYYAaD-2FGXLzYKVsYHVbpNT1YxGwgKQV-2BJnBx9KgVHUwUUMYzLWSFFDl4qvXT=
+DXejFBwXoK3YMAseZAojUKChuR54CvsBG4-2FcWRxSUWMrg9E5UnDMXLco-2BoG0dFIcVRojJkw=
+yUOY6Czg-2BNSlrQ1ODhx-2BvZDRBPs9dSgtxEcjfZY2qflEg-2F8utTlS7834ZwdpNufLUgV9N=
+lB76BdZI9cQvfjdNiVBcOFLWylyh7qXWIJC73qrSLDMOiD215UhelfM0f1nk44Kith2e8s2JZ-2=
+F2XMNO5iMGPMT-2BCgHqL3oj1hhVrg0vXWMw1w-3D-3D" style=3D"text-decoration: und=
+erline;"><span style=3D"color:#777777;">TUMI.com</span></a><span style=3D"c=
+olor:#777777;">.</span></p>
+
+			<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"text-align: center; width: 640px;">
+				<tbody>
+					<tr>
+						<td height=3D"35" style=3D"padding:0; font-size: 12px;" valign=3D"cen=
+ter" width=3D"100%">
+						<table align=3D"center" border=3D"0" cellspacing=3D"0" width=3D"640">
+							<tbody>
+							</tbody>
+						</table>
+
+						<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width: 640px;" width=3D"640">
+							<tbody>
+								<tr>
+									<td align=3D"center" id=3D"content" style=3D"width: 640px;" valign=
+=3D"middle" width=3D"640">
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"=
+102" id=3D"Table_01" width=3D"640">
+										<tbody>
+											<tr>
+												<td colspan=3D"5"><a href=3D"http://links.email.tumi.com/wf/cli=
+ck?upn=3DEF7Qp5U5oJX-2Brs3LNbV9XQQH6moe4nUB-2F66qkln81I5l5q2hMsrMODy2REXbu6=
+0vxycN3OyBgEmd8zTQAv8ZyhO3L3RBkMlqPVbtp3Klz850mv-2Fz8dKw8-2FSP-2F5nYfMRl-2B=
+m8lracLHwJoyq6075KtUrCy8UJcsNlJ7upVBNDoeMKwd9u8NxIwntnTR8Dqboy1htDtpImhSyg5=
+igbPatAhNPEiQJYvEbZYS-2BwtYMsS9y2-2B78IDVn4ywiuaqk4jQ02Pnj6zDbwwo3WpGYCJhwg=
+IPxqSa7qM8GTHY0slJt51zvDeR8ojTOa6HDTBq9bqTtKqtX8i7nWEToko5bRzxTJYGTNRiTyaBm=
+cvHz9E7jHp8Qd1UUFyJCEvHLDnqSWUAG1fogg6IlCA-2BTQjKDIg0lUgxZ7oV84t-2BCGx7HzXo=
+NOX5GYRUXSn465xEkfrYiw-2Fkbu3_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7Aw=
+dPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJq=
+J4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ=
+1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniE=
+KmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7E6WlzWqIqU7OICD1HRyq5BT5j=
+tnEHj-2BcB6-2FdGeN7ebuR8s1-2BlMOdElKQV1jIcbfMc-2BemKJ0E8XHssn4MFwXAQ9ovEfeG=
+-2BVbt9KrYkQPyFh2NRU6TzkJvRKg-2FRZKLnG-2FEGTW4QVC4lEcVDzhLLr0eiw17UfeNQXEBw=
+ymnLlLr5BxSnjC-2Fg9NDZQnUgilY80rG2wiKm-2BHflgNLlX5os78P6jph5JUJnVynyIpMkCRS=
+u1DiXrzOyfGaA7fHKMPSpb0OmrwxAjXfrxbcLYQPNFeAv8ZluL1nS1MuLEXdCHxdohg9Wxw5ZZQ=
+XMVx1u7Lio7q7unzCIbWxzHKgaffeybaP5HlFXCdQ0pnvrdglMjpQEaXg-3D-3D"><img alt=
+=3D"Visit TUMI.com" border=3D"0" height=3D"64" src=3D"http://links.email.tu=
+mi.com/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3=
+A-2BpMIrohY9Km9A4i0iEwWHiRfvVrjad-2BudMBsHf4RxzsJ9s319gZcdK-2B7vTHKa5ZNAIKL=
+el943wHyGymSLCwLlY8JQKSfb9YeIVshQmQJ42BG51s2z8I7390Et9J8Q6UJcrxslR0CBGLQW2X=
+JnvfHuSYGnU6QTN6d4bgdoiu6NyKKC-2BRLC5YiYpvqTh1LQOMoFpTNX4ELbekd_zjEBjo-2Bw-=
+2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5=
+PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETan=
+R6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru=
+2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkr=
+e6MPqNBZ7EEGWgOgpdotNeXqr8NklPCrHugmcU15o0nk3qt9dUdkuAMUIuShz2GHTcTkRJq-2BD=
+1xQNXkUMhNKTUYViXSpVg3KhwbFeKm7yaOTh8OS4USDBf2x1P7Fi4NL97ZN4jOunsyFo5gwLb1g=
+ANm2JYfGheSVRU1q8AG-2FxvSAGQaNBJqCuRiUpmDbwBYah6744vT-2FoGoRDPkheJWaNzbWfGk=
+5MAnlfRfX1feeXejPYeN7J-2B-2FmP3FMxLiKjw3bMSwAwlNANqWweu5ECN9-2F1XBQnw-2Fsx1=
+6G9ozwdWjdxy0q-2B9TQL-2BYLwnzXx7Vzn9oolEkWphq0YPPJ2r9Mp87eun5zSslcsIGfmpLjD=
+vx8TaTVyuRr3V5UQ-3D-3D" style=3D"display:block;" width=3D"640" /></a></td>
+											</tr>
+											<tr>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XcsWit6JNttr29Em9Erwgp8B0-2Fl8yVqVNJix0JvJzN8arFmh5GleoUMp=
+-2Bk7z8oGVcLyKZxnAiFyCoCWx-2BVfSl9ibvH-2BfvwzXcKjGQ2RYKnzMHPlRirFA6JrZBrhja=
+gE85YY76RjxWf6IUSNhSFpTVfttgWwnyygmWhHMQKXtQjbenUdYqGz-2BYD48abtspFZ4Zt7-2F=
+U2SW83xWrTTbEnBAo3RwfDgTkwB2mUksYYWRONLpXUqFoZsOfws2xaF31jDSMadSVbRvIDgM6bn=
+IXk7MPxEp4Q-2FeovcjCU2oMDeA0G8QZQrYnRWFu-2FbIU8OAiM0YlMjiJiwwR-2BYHfkYfKsek=
+Qq-2B1ndsvqpPFGzPh0gvY9Ad55UoRzA7g3q-2BipBm3zMLSSZaJmiJtNRfmJmjgkJZkHAlJsys=
+IWWkJaw9iuj1h-2B66b_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdN=
+O8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfm=
+iVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOth=
+gg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrU=
+VkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7FFpnIiSpY8P7vYCfAVYpGH7CHhUSd-2Bk6Y=
+I9ZRrzw6QVkFeM1YRA-2BfswzVEfGfnSBqRWm7IwA2MzcCtH9cfE7hN2nM3-2BW-2FstiWP9Rzs=
+Od5NFAL6g0M394o76EZyXEVSgpkxMV41JNzFmfujnd-2FVZIQyJqXq3byDWOUmQdYNYbSK-2BEM=
+nkJ1EpvjJdIQBFhjh5EeqlcW8bx6-2FYgMhxCi7Pst27A-2BmIkTs7FD7wGQnL4C2j4McKbgPhi=
+Koj-2FWjhYSjD1Bho9yhZHk2veBT7gyz8GzQv4aRzFWxGRZxLGkIwQPCzf0BQt2-2FEFt1Wv97x=
+-2BkQUeEQ9GCNAR47uOAbYcHTMJpG6c4DpEbloVOD1JvC6VUd7w-3D-3D"><img alt=3D"Lugg=
+age" border=3D"0" height=3D"38" src=3D"http://links.email.tumi.com/wf/click=
+?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3A-2BpMIrohY9Km9=
+A4i0iEwWHiRfvVrjad-2BudFJmaZJTv1iyuagbVvbe-2BY8J8HVZHiEntB9L2fJ7wZZ0-2B4600=
+VNqdBc3VaXnf5aWjU9KNXkJ2C3G2qTpJ9REGaSVyZFGSF39uH1VWgqEeFSo3WAmQlbJG9o8i8xJ=
+cYFp1thsgC7Op3RDFBFxnht-2BnQ34HiNRJ1-2FPSADKbTZWleFo_zjEBjo-2Bw-2FxLHGMkTLO=
+tbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVW=
+MeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abu=
+LQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbm=
+zKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7E-=
+2F9Kv0GWXhtzKbN6aRMOTvI29rVcCDeyBR-2F4cQd9OJCx5Qgwxs2HNg7HFnUVcPgwO7xwAouGo=
+pgFgJYi79MJKy5ytfiCU01-2BKDiED9YOc-2FhzPqsmM8vzCVFne2SRG2kB1rpmCcZTiTNVWjVS=
+NhIUqh1IXy4wQet2-2F-2BEr0wuKjuNDJiKITYBfncRNe5RXuS3aoNzApSt795Z7zF-2FcGHpak=
+q6bEvBrBD5P2nliCvSkO-2FiERGGOxaS8aAGjxb9tJ8g7ag-2Blk1N2VuszLf0k-2FoXX-2BXXS=
+8WmnJaWqSbB3-2BQ31vwT0pfLWyCv7xrWWxZInRMUGgCmzuAXmewJ8HuJK62Q63s2oW-2BOQyjv=
+QK8z9c889utmw-3D-3D" style=3D"display:block;" width=3D"163" /></a></td>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XQinjYug-2BOGVnl2HtnaJ0IuSnToU7Vc-2BUz32Q3hDKo-2FPn7Bij1E7=
+FZaUNqGnwKTxfoYgizFCHq8-2BQKWyaPQyoGuGdbOY590sgZhWcoECzvepe5eSDLAAAOsnrgGAW=
+5YvsKdBn9k3cZbGWQ5mxJwvv-2FSGK-2BXRJhgtMWGhAdcDzXsoYbWjxBMiz8lLLeKOdLTfFXCl=
+IJiQR10ph7xtF-2F-2Fncl0kpqduNfcfhJGbaaSdHf2WR9YT-2BWdE6tNsRjEIjVmCMSWF4J3Qx=
+XHrXy5pTn4GORZsG0bn3yJTc-2FL-2FupuP-2FR9IXTREBJvJn95kU0-2FoTbZ7jRqV6UQh8fWR=
+dQRcc8FLsiKgQ6ym7YoyYFC1Fs-2FybUONbUlRp9H7J72Wm-2B4T7G21PsGjYSMXyigTah-2FPP=
+wSaQf7UgVOdnc-2FNQlcQhL2aLGToNp2bsF9hlr9w03DUvdoyMw-3D-3D_zjEBjo-2Bw-2FxLHG=
+MkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pf=
+IDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAx=
+L1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjo=
+QBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqN=
+BZ7HPVkULNjhTA4aG8g10X-2B3I7qO9IUDyMM5IZ-2FxjemJclYBXbEus0GWx3IhFLU3ufUnL6T=
+gm8Nfie7kfh56nLUQh-2BPAMVoPKqcGma7Rqth5UlH7Ga65tO4zMmgF8M5-2Fj6vxR5QuJSBzWw=
+AERxTq5BNfKSyYDrg6wDLhsgdMzv7NgrSpuIDuVn1UFodHbP6SHKca4YCTMMIstnHfunLZyoDzk=
+grHTP9DM6njzIatTwwDgE6w40Wmtq-2F7AG-2BIK8xdTHc58Ee4987ILVpeW7dY5a6X6kEpDkuY=
+y5iC-2BtmV8rzFwGGkkcpqKlMOLphOefzK43UfgapRH-2FwIysnpOUarGwSBE6voDnoZdvRq1fg=
+r75sLCOg-3D-3D"><img alt=3D"Backpacks" border=3D"0" height=3D"38" src=3D"ht=
+tp://links.email.tumi.com/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FK=
+B0vBltYHrxJhwlwChD3A-2BpMIrohY9Km9A4i0iEwWHiRfvVrjad-2BudNX3kjoyC7sSa5CJK-2=
+BPIH77uRCh46vxy3wR9CkmCXu1qujIk15zgyFr2kIwnfhKWvVd4qDs-2B-2BytRNZzBTAaPL8BL=
+u8DbsnY1PRq4b88-2B3bnoPqNIRzNnzPNbDMaA7EqgR2eOqJNx8g9QkeiwT94NTMi7aM6jkiq5P=
+GcoIROOmW-2Fc_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa=
+3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2F=
+xWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArS=
+cqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5P=
+T69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7HocaXkDGkuLbRcrd32AewY2GlzmINodHycILvofUm=
+P1J7jLrUlC8gZ-2F0vyBGIGthyYvFfduoaU0RkA-2BAMKPYtyDjpYIPzun4XQnIxKsjEDr3w5F1=
+GXGtQ5wOqdpVT9g34f9logh8Av7qa3wznICiH81ehNebcKKxOhw-2B-2FHyykFJ9uiSwi1SgNhV=
+tUDNLTvmaThtKWOc3VzhZBu9jFr9o9B3GnzSmYtIw39jUaPOQYiMV2A7nLy676v0C-2Bz2Z7AAn=
+JH1oErM7ljWWYVMP-2BrTz2phclqaaRsiFjY-2FYuwvUYQS7T1KM3t1WZ9BUFwWw8F5LpbtnjgE=
+PkyFYT36JhKdUje1NkUvP3whNzNhEOFYh7Dbg-3D-3D" style=3D"display:block;" width=
+=3D"114" /></a></td>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XQinjYug-2BOGVnl2HtnaJ0IsTI-2Bd0Yb4Q63DMAMxAiO-2FuUiEHaf7D=
+igtwCFuWaWyi18rfRqhbdmPa5cvV-2F6stygb5-2BbVtZ3EOWM2N7jPLDoFLiaG6I0I16Ajopn2=
+4LEpfA3-2BFItGkQAEv0M4-2BSM8zl9gD4WHfjVW0dXxF6lSsFEaWDnFsB46z1hiutm8wj8vdqZ=
+z-2FL85iZu1N67v-2FDcEXKcKPBQJQ-2BY4nZwq16UfgPBAjS1olDL9Ek67Q7PvZSrx-2B-2BBI=
+EGO54JRlhvJ2gNL8po93mkGFwy197pPQywmA9aYvCPPANtMNDoT8iaa3-2Bth3GJftZe93lK0aL=
+F7mSx8KmsWw2-2FG1yPzpYTJBM8Rmhs0j6OMcqF4scxJbKOGuQtsmWgaCu3gmhLQHyVz2OSPwge=
+F7NV4uGP42A9TcqMcibAytZ_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkd=
+whdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj=
+9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2B=
+bOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdED=
+tKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7Fq53QgwwQdzG-2FDJyEpSEmDpRBqpEl=
+dt2DOvIMnXbnb3-2BDlbOw2GsSLbMziIGhWl-2FLSKW8QOgUi0GpLVHltH3im-2FJD9ifc4K2oz=
+znOdxIXFWieC-2FkIe136ntjd9kCe3EkpCLXO-2BMHH-2FhWDDYL572TLn-2FGxJeKgnhZDnWXP=
+P9UxdOI20CXHeci1ZbiQnNdbROfsf4RiQBz5qPGm3uLijGlAuAnw541i6hsHty6kHzKrzzN0GHp=
+vRASFv0aMwdwekV6ljzhCyNCFY327e9V9r9NzKQhZnovCzPedvmP3r-2FtDyFrU9iS9z54m1zLd=
+ZYRUIvBafqHvY3g5cNaBDP2LGZpzrMXLReASpIK4WQ7hZcXLB7Q-3D-3D"><img alt=3D"Bags=
+" border=3D"0" height=3D"38" src=3D"http://links.email.tumi.com/wf/click?up=
+n=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3A-2BpMIrohY9Km9A4i=
+0iEwWHiRfvVrjad-2BudCktMLm1x-2BDWg3F-2BTCuL1WAtbxxMMx2xoGPDQr-2FmO828J7Jqyo=
+MsZZh4R0NQX5ZP-2BKaZyIoRr09iNbOiLkYsRvjqSwuUB5MrLZwdjspFks8t-2BpexGfM8svyDs=
+xUxgeLISRCCNtOhU5U9PGMOjju9UU0UlZPzfX0qxrkhs-2B168g4m_zjEBjo-2Bw-2FxLHGMkTL=
+OtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrV=
+WMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1ab=
+uLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPb=
+mzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7F=
+SlN4Snp-2Bf-2FKUVjt4fKaJXQLY1Nd3T1xEtzd-2B3hzuD2xMDL75EBYCDCjPvqolQ-2FGM09k=
+Zn5JpKiL-2B-2FaqP1Y1mNzyFyIa7HM0L0tcDwt27AxyCdVgYoy17Ikrw4Sx0E-2Fo2Rt2hyujD=
+oyPT-2FJIdKchjK5cEijuLZBbW9lCjyID0xC6SixgKdWNqje584kcFHlSYmy63ddFZM9y8DeQXM=
+w-2Fi74H8cGFcv6bkHwZL7Rq-2BNF69QPICdxUoVeCIKNAHxj6ZE1qobG6xL5BGL8Lw9iqI9OIB=
+Fb3z5nJ6B13O8DAMzgS4XSfcYs-2BmtMQfIERn5DGyEW23KIc4R71njjfvMo0G4vVKXesX7m6xs=
+rzUp2O4rog-3D-3D" style=3D"display:block;" width=3D"107" /></a></td>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XbidstaVrabbhDM8-2Fqr16mK-2B1gax7hYmQd3sOYO1ON1BIRtWR7t0WE=
+T-2FXapWewz58f5pSbUMkv76Rmekyji1RgeuGvhtsdtikOsBse9Tkn-2F52egwWfs-2F2YMgKqd=
+pobYJkWjcLBiQ3xcfmPMesaHuAegqxVcvxHqcB90qxgSTjgbTOC4YzWUvvrbpqY5AP81FGNHxiL=
+DQORybvQSdHzZRBt4mHtEUwf-2BuoviDmQyuBDiJDl-2By5JhGC3KWerRttrjEtjmt2NOkXBQxT=
+QIEwxXeVR4oevNB33-2F9AJ0swcjOfWf-2BBIOm451We9YxLkMrt-2Bvojt-2FlYYLVmtNLYmDy=
+3Wz57mYNel-2FXYtSVFS2L0uxkpzuLrTp5l40dEgG0bFsB4BDHdY2Fe934JDCHDTBrtxQKe0g2q=
+3t-2BPDl9EPB-2FkIB8X-2FV8oUiBiIT3O49ZrA4O7aHeZw-3D-3D_zjEBjo-2Bw-2FxLHGMkTL=
+OtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrV=
+WMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1ab=
+uLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPb=
+mzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7G=
+9qv2EmMQZA-2F02khT8YiO4srAcrcFcvhtIKKrHp13A2UpZKcS6tp9DVa3T-2B2HY10dZwSL2Er=
+xuRh9nlBcghVRr2cawB-2BWXD0-2F7Yd0EmxW-2FC6AsWJZew40scXZgg0hCTctwnpuUaMZ0UCW=
+yU6bZt8FpO1aqze2N3v366Cl1aI5NlyTdWOlMZm7ohm4AQhBXtJhAAlO75Qxyum1qEOqcUfYSCD=
+Tn5mhGtUtQjZxEGQeXPXUMzxHS1IAstc5MChozY8NAt5iVCP2wk1-2FUT6y9Ht-2F0d378cR-2B=
+8bDTYVnQ5CdirVi8sm3tUW2bT7n6JiLAbzOM1JJxigFqIoOoxd51bTIlKl-2BbbYkELiG2K7jOg=
+Y-2BCNgA-3D-3D"><img alt=3D"Accessories" border=3D"0" height=3D"38" src=3D"=
+http://links.email.tumi.com/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2=
+FKB0vBltYHrxJhwlwChD3A-2BpMIrohY9Km9A4i0iEwWHiRfvVrjad-2BudCCOfm8hoO45DM6gE=
+sgU3wYQCS1h0yeVJWtWgedTVZqsMrNLW4BjST99q686HWOzmeHvb1p7OxHCjSjxFnT3j93f69nj=
+Whk3jrXeXMExV19nxL2TaQqog-2BHe5TGNcpaoI7XKlRiWICRiqa7AEwWjvCx0rF0j7AqBKPTLo=
+rmpPExa_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1=
+uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwr=
+wEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9S=
+AaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryf=
+L-2FGj9YsFlA-2BTmkre6MPqNBZ7EJZIIEAh9uug6Csdz0-2BlobiAJPZrvALSWTV9cLpyOfY3a=
+Jt4vgZIQxT-2B3d4SpwDb7In3iDWzKLH4iFFN9FlN0yIow7WvKTC5OLwcJpSYMFW5fkPyT2x6qD=
+YmKTHHrs-2BgDHzFDdMKQ9X2eQi-2B-2F28H-2FliTF1EdasUDieykTrjOGRBEdj1h95LV5MMJT=
+53YoNS-2FoANS0P16Xn8Us-2B7qnJt8mTcDY57pv-2Byb1LfOTbxyXlWIUVzc9UOjstk9dMvOZA=
+Ng9zCzzrIIKGFORLIhyaQa-2BTGqZH2A5iSFHHY-2FGF-2BhNK5dvu2xJy0wQvI62dTLealFpd6=
+FCsg-2FZW5sAQAALjA3BKs9gAQHxYWBxyFV-2BBXkEFFQ-3D-3D" style=3D"display:block=
+;" width=3D"128" /></a></td>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XRMd-2BTy4QZXrZw7mkyfcrD1VZO9VCSPEGxxusFig51UQi-2BIAO5P6uD=
+OpphcFHv-2BRkRxJ-2BYz3iFulsXkzETr6DRjSrPbWB9PiiomySa2J0-2FYHXZE2ssZUDjlQds8=
+dz7jNNm7qg7tm1eNnedyZGDkQ0fO7jyOtoiPKwjVPzjLEZwufwUpJvGUHkDSC9XOnxhQL43rrpt=
+ndTJ8q0E9JakU0jWt5-2Fv9jFFSZvABWUQSfa4btO1UTsncesb4KxpIYkxE2RAONPoVnvYQh8OT=
+m1-2BE9btuf4vQTOzS3Z3-2B0VWbVOGa0OQlBNo7b9xmqHmOeBbtJVK6Rdejz8b7POiwjXj9ZGj=
+H34IuuujuSOg-2BYGEG7W68HCmIOZ3TagnGZTNYwXG12zxg4d7S4ymfqq59oMj61c5uVlZR79mq=
+umvCNrCrdoFJK_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa=
+3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2F=
+xWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArS=
+cqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5P=
+T69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7HX0lrNfg0LGg6QIsXgHEEQDhm1-2FWH9JPCjgC5ej=
+eP-2BJzcXv5V7qbm1K78euCZ64AyTJzLtKfHpQxTK21K81d1I1RK5lD342ZvnkbAZmEjcAa2g4S=
+HiALQfw4MYOIc8hziSUQeIrO-2BO-2FaIkORwNXG-2F-2FSz397rGHcjWUJClLM-2F8K8qLEYQa=
+hwnOdv3JkRxsXiMwC7xf1egOYgBChtJNynPTnOsgHkWVjXXRgjNlqNn609G0-2BPJMvlfRMOJsB=
+V904YyDtSRJFZQ4QeZ4F8vn-2BjIz4h1Q6AKfh9qWQw6KJvNKfwIWMvZ2PIDqcFG0IRnmdERrj1=
+IM8Utio71iQnup3IN2ksfu75M5ELVtTMAGYIaE-2FVQ-3D-3D"><img alt=3D"Sale" border=
+=3D"0" height=3D"38" src=3D"http://links.email.tumi.com/wf/click?upn=3DfafR=
+DT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3A-2BpMIrohY9Km9A4i0iEwWHiR=
+fvVrjad-2BudAG3kHWmBIAp9hFtZbkjLrR3SiVQ7pT7aQ9x1TL4-2BV7MxMbMRAJhjMxHSYAvr2=
+SZ0iF7DABcOXn7bITcemtN-2BrTIIR2rZW35WGuXdqNp1547TSR7-2FBsq0I4XQKAeQ5Pz4QGkV=
+z3-2ByK0rEErNwvbbB28RaH3NsAgFgP97dLk06qR4_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItk=
+t1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1=
+MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBue=
+irCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e=
+3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7Gb5wsUHGULpmP=
+6ATG4CVydP94Fyswjp4H2vgzHlsUwg5ZdwOJkorPAQEbAiq7FFpEwEbhu3c5NvYMZngxDobdoso=
+fp8KaV-2FXqipws6we6RD27qsB4Tf5ivfdpPzjQzBaIf2YT6RVv8d-2FE-2BKBdRJqV0Aqy3GeK=
+hMHk8I9zygAVeLXQFMZ7-2BovJ1QN05DuLL2Ty9T4c1zUmHZBHlVUcloytXvbzo9uqfdWqE67sf=
+P-2BQ2mvIXxf24LbfOQwcxgmPpo0-2F-2F0bPjUWMoG4rXWA-2F4rvGV5ciVVW00X0-2FvThqdm=
+XbBQnw6nrgqKXjuVq2RSgON0N9wDIQWR1gszg2PS70OwujCvIwaZKCpLFvfyOgLyN-2FjZQ-3D-=
+3D" style=3D"display:block;" width=3D"128" /></a></td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- Email Content goes HERE! -->
+
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"=
+990" id=3D"Table_01" width=3D"640">
+										<tbody>
+											<tr>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XbXHQbNbBSLNBDtIjnFCsacwP51j-2FjLUCh3xmU2Cjij5-2BZCrJeIakD=
+ufaCLRSTZElbQCS8-2FQRBnF-2BYgFZULn497MQl-2Bnc-2FOBIFIUtqEOW1mmTH15QY79-2FTq=
+VXYL-2BM18LToTDwapmHse0iouT-2BlubbfmXREq-2FbzRLFfKAZLuYWty1FppxuaO7X-2BNXDA=
+fIqEfGkQbLpoGFz9HoccCJyak81-2BIR9NYTn5XfnnorntOKWDX8e9gfxOezyFqj8WK4lPWIrco=
+FUUvblA-2F4pU1NLZJBLRypecm42aUu5qUnDu5fveWswIIrfBXQmgc-2FdVbA61Yy7LoiLkR-2F=
+JNZR8ymw5c-2Fq7NirOhEaWRNOCFJu-2FTl5vNwO08ZCHEQ9Q6q65UPS6NquNPVLydMSlDs1Dj7=
+KHQtaOCUWH6nNn3x0ugbYxIxHPFaMlKk-2FhZZNr-2Frcf3JWhio1Lg-3D-3D_zjEBjo-2Bw-2F=
+xLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PP=
+L9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6=
+FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2x=
+ADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6=
+MPqNBZ7G7QZtrbmIXFQl8qpYvgwv8XUhyoTeMM1ezgnlNJYK6JkkI6T1Qzn-2FIsLRCya1ZWE1C=
+eqEWWUO-2FIBL8M7qwUbeGVB08xWQdmTGqNAl9GBbG4BFScFuGn5nuB7cCaypkpDpyZAWgTktC9=
+watUfbQyxOOHm3EWDX66aWlhWIdKfb8KjJE8P9tkEDaZcLII2KITlqaFUOG04A8oI4N6Df13lcD=
+1PqkD07lbX1MsokpkcfiDPq6SxJMsuB4qXFNYIljPaGa9OKoGnQoBO0eUifIOHgK7HQE2Wrg-2B=
+Rhg-2FKtp5rtT-2Fp0r9kjztBOLDJM65k5NYd0mM41Z5FteFYdoOPaAZFRLZiqCI632JJS-2F8p=
+iTN-2BLbDA-3D-3D"><img alt=3D"Statement Pieces. Shop Now" border=3D"0" heig=
+ht=3D"582" src=3D"http://links.email.tumi.com/wf/click?upn=3DfafRDT0deXhD0Q=
+YzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3A-2BpMIrohY9Km994nCOQJ00KZHsyVKmvKpT=
+GN6UTSy63AH-2F2P6wMtX6ERG4vF5UKuOz2TjtaAl-2BqLuXiiI5RqowgwUZ-2FbMQ9HVtECuAJ=
+DtI5aIlkv-2FjHVK5ZXJAI6ldFiwNvYNnYd2riVzuKIu2ZF4BrX-2BJPpQsJQRHxiqKmh2K8u7p=
+DzVSqjtjZq4TlNeymqGtmx1xZNHA5Gc6M6p43ZZP3rJfeQmgsti6g-3D-3D_zjEBjo-2Bw-2FxL=
+HGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9=
+pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6Ft=
+AxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xAD=
+joQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MP=
+qNBZ7Hkkg9YFKB0DME2jH6jnhvfuRi-2BEzoQIfTA0AoH7HVeOsalPlxKeyc9fNkJi1olaoHz1t=
+ZwsA6FM9UOBIkvkM8GaS7FKqLCpV8sgp-2BebkeLagspRJ66LGYhHUzsB2WHF5Ir5knkPZrV2Y8=
+izhP9NzEQM67qHBJPHG2ZWKn-2F7x005uE7RyxoMtycx2EMed7UWBvHjPp-2BSmPh-2Fr1ibUhx=
+n-2FdCjxXzsx0oWutUphgisM6JDfqiZtCZpLFtIqe9YNIStDe8e7LJkRDUHhWN-2B-2BuGpJVnw=
+Ay2-2BSQNn-2FFE1NgkSQ1-2FgnjazPUiGfL4XlLqqyRTkQf-2BEZZkfbNl69wt77ZA2RqgPTUr=
+X4W3rqlibKOTLjJq-2Fg-3D-3D" style=3D"display:block;" width=3D"640" /></a></=
+td>
+											</tr>
+											<tr>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XVyYzYr6ET-2BK047YdjCPYNxlBvVGEq8-2B8FuGFiMuHM4eEASh6STRq-=
+2Fg3RO2iQIy-2Fe0sIHiQaHwes1g4ZPwZmzZI7AyG-2FsNIqllm7R747oSCB6U7RXudsY32fHm3=
+dFtrTtWVLH91CGFtdnlS1IlsrHCXHV1cFOiehR7atMprHkt9dvt84-2F9hIkkQpo-2B6JB7XNPi=
+2FeOy1fxyTt3BTxl7JpywbjOXScBzWa3dZoEJzMNoWLPv80Sqkxa7Z-2FuKknjo9-2F0RDs6ToY=
+ltkOqu7nSEtLal8RGeX1A6I6w2HF3q6-2FYhLtCY5Bmi4ejb4K4POg176GC2YX2wMhfuVNz6nU-=
+2FiUeMd0DOIMLQudaQk1n87WmqYDUvXMEEnxhU-2BYPcMNlKsFWRX38D-2B6J8IiyRjn3YMIWBa=
+gsvQsjbp4GLp1PUnhxVJhSzgshmPLYWnzlb1d6iLEXAgn97ob1wLYYOSGLpHZ8pE-3D_zjEBjo-=
+2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-=
+2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbz=
+ETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qG=
+qOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2B=
+Tmkre6MPqNBZ7Hr635-2F5VvCTI2IRlnPHZmITGIzPFC-2B6TQS-2BYDthXqq8GDnR1-2B1wVsQ=
+Rd-2FFKyBFP2MIJOYJdmYOQ0ZAjJLvLDVxTlegsQjhDEIFBJLQHoRvDhp-2FqtgOS31TqaL6pY9=
+fdGSFbXIcGzeBVL-2Fm-2F7sGm9m4ts-2FRXiKluCMVMVFoTL9nFu7yUa2PFFqEm34lcGKIe7jk=
+SRSXL-2Bj8EZYK5G4PgWpEqAJ-2BhClJn0qlQgEj1ljRb24JuG1xhsgy2Uf5MCc5dcpT3Rc6mWO=
+HWRKEn7rz0pBnugTZUQz0lRvnsk9bHA2sg-2FiSIWCryP-2FfcyFgZAwYroQOtC-2B7li4djHp-=
+2F5EaxVzsXSLdZbLp8JzDzIHdTerBb5Q-3D-3D"><img alt=3D"19 Degree Aluminum // L=
+imited Edition" border=3D"0" height=3D"408" src=3D"http://links.email.tumi.=
+com/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3A-2=
+BpMIrohY9Km994nCOQJ00KZHsyVKmvKpTGN6UTSy63AH-2F2P6wMtX6ESkplVMDdEUv7MPCLTOg=
+pr0ap49XtQ1d3aA7Q7pY428uLG5nywiyd8dqkW3iOL8c0Mq-2FGEcM9ifbGCqVVPTC86YprTit6=
+Bkz1HynNHcozWxeG50FJxlZZue9fe9TLo9gCjaK45w8ZSQnfHNz2zkknUijnue4ZOfE0MvZkJcV=
+YK-2FNw-3D-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa=
+3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2F=
+xWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArS=
+cqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5P=
+T69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7EXiX71fhDg39hSSOAXIRZNOqeNIM7-2Bfw-2BlZik=
+Ay8hvyAupr2lQ5738X9YbfCkGdoimk9XpOJ-2F-2F5VMY95pS0adSO1iKkb0U6BOE-2BtBdTu-2=
+F4GTb7ZtFVaYy0T9pfL7fr9qKSgSxxPQY3uNVd-2F-2Fqa8uiSUvdXnwsocBzYbtwVF9oVftcgU=
+nhrr32MoPn7wYwhuXzwMxqHAhQ5CdBUXzQ3bi3V4VAJr0x5AT-2FwUUf-2FuQd3cQncy8nAAnOQ=
+-2FELFURyM8ZSz49Yrb6eQTeArPzuDl1uHNoEzBQnzWy8WnDanFt9hPfNfUGD5zijvGoWMm-2BF=
+TOYR6L0Wa8oE-2Fat4SVjyt4eyKoIm-2BGY735lJXTuY1uPn8fQ-3D-3D" style=3D"display=
+:block;" width=3D"640" /></a></td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End: Email Content --></td>
+								</tr>
+							</tbody>
+						</table>
+						<img alt=3D"" height=3D"1" src=3D"http://links.email.tumi.com/wf/clic=
+k?upn=3DEF7Qp5U5oJX-2Brs3LNbV9XXAi18CA9yUUkvNXsY-2BipY5GcHtfeYC9PalT65T4hIN=
+DFCcZDgBHj8FJiBjIC2DFNh9cHhsJDo-2BTtSmx8Gh4SIq-2Fw4wZJtOUTsiW-2Fknlh0XKoN9t=
+U2nCTW373m-2B9CLmtm5kMgWlO35tUDd2Iftl9uw0hP2P2Q6AKVgwNaLd94cZegYgnrD-2BkjUY=
+7zg9ENKUMm7-2FK6AqHDgpf2qsBPeJ77zfHbcreNx56lUXPdvrcLeY-2BXi8UIiodYMCTZvQN-2=
+BpZ37z4GmRx1wwfPNdwvoc1C80qBh-2ButEdU6q8o-2FBmds5tbG_zjEBjo-2Bw-2FxLHGMkTLO=
+tbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVW=
+MeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abu=
+LQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbm=
+zKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7GJ=
+jipUdJhZMmvA8-2BN-2BITuMoxGVG54dRMC8RhYTam8FphJeOyHsEMaRW2jpt4RZfr7sIwp-2F-=
+2FXFUHm-2F1cqt-2BiiGadODWOVg3A4RwE1zrURu6PInotPJ38EaNek39lTVDhv-2BpKzu-2FSS=
+iGuyR3T57bXY-2BdmnmsUzOeGDJq-2FGzKviVngwnJEXOMFhFxnzSXNNkJMKDekHfnjra8CuFy6=
+PFc67ZUiZm-2B7Psu5EZMnYoB4TLJkwwepGfzJ0ehXDHtMyEea8DviAWYOvSDJTkmdUiBo5CObp=
+f7p0iSlrH2JbyH4PRbNb20IW2dmWFvHQUeKNZaf4ZnoAxjlVeNnBaZx5dSgZBSdMe5TJOBKUFhJ=
+dfw4bo-2BJg-3D-3D" width=3D"1" /> <img alt=3D"" height=3D"1" src=3D"http://=
+links.email.tumi.com/wf/click?upn=3DEF7Qp5U5oJX-2Brs3LNbV9XVX1toNJiPREuDb3j=
+hLPnHIWL5K-2F1Y69tlmm8wE2UBd4SRiiOkmaSGgFV2L6bDrxzS86GNQBGbI5zfvpHW2PsgtOW7=
+bCBpHHrrtclXn4agGWhkODX61ifYd-2FtywQQNOz8FRTO9MQBcS3wL0BvkBhWvc6mGL1-2BEmPG=
+xn6uzhdrbaSovsbT8qgJHoi9Yit3Kx-2BSB5mueot401INrHsjp2Fpv-2Fx7IslmqpzfqmcHmEA=
+g48r_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ=
+8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy=
+6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaY=
+r-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2=
+FGj9YsFlA-2BTmkre6MPqNBZ7G8yXHb9FdWAnwXmk-2FOhLlEVe-2BVwxyNR3KfpdUihGfGV6ao=
+yRxZdlcjM-2FEsFUHJgurAjLxj8TAoUo5WXrhONCa44Xs6-2FM1JCjkZ7sqJzjOW8HNcjHrQ50A=
+DF33TSToZrZ-2BzI19qxNhLj54hP1cp44Rc0dP8Za9Aw7f1wMfJaaKNoUTPxfXMk0OosLcPqRut=
+gKgogMBs65Ix4F2FpC-2Bn184nXg2-2B79sBpYWhHX4kzoGH6t3lC86H-2F4wO60yhSzYNlAU4f=
+naExceoYWtSXNzDC5KM0yvwOw-2BFbzo2Tr8zi-2FohwhdCfTddI6uaxR-2FyNRTzTRbMZI4K8u=
+Vgbeyaqqb6fqRbP2uWygOQqzCY9EpKX0UWzA-3D-3D" width=3D"1" />
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"154=
+" id=3D"Table_01" width=3D"640">
+							<tbody>
+								<tr>
+									<td colspan=3D"3"><a href=3D"http://links.email.tumi.com/wf/click?=
+upn=3DEF7Qp5U5oJX-2Brs3LNbV9XbMC2n2Eke-2BafVuAV4aMqbftddB-2BB9jBzCCvEjkr3T3=
+krGU28kt1retYPU4nESv6ze7kSG3UX94EWFC5pSpMvCPIseBhPWwngckBbYfiYGl4sXq49aY8IP=
+IClYP7-2Fes8YxGN2uUVIPy546BnjxUdwaWl7XiHNHLRgOy-2BKtSo-2BQVgUQvy3D03JybYrGw=
+3ELYIsqo-2Bgq7p4osRCXwfiPBbke3eSG-2FC2yl0-2F55lMAY5NkOO9GS3DLXQkpziBpGfDvVZ=
+mFdJSsm0yaEGjVx2wQfYXRG-2BPbuuuVB5KVWsbbCgYVdWcbYhbmefJRIcpLifQwIIZQ6KAnuGL=
+3cc57xRS9K4KX43G2iFaabNcnFK83FDGrXNgMv4WrHja9xR9sSFNop5Tg9dDE6lbhDDF2LcoSq4=
+IpaqC5QggrQNgnLWB9t81K9-2BVZNxZkaBdTgKdzedIwD7-2Fg-3D-3D_zjEBjo-2Bw-2FxLHGM=
+kTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfI=
+DrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL=
+1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQ=
+BPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNB=
+Z7HvrSa8R11lxXZRD3s3hk4hj9hFzsSHT8IavPLWc40X6HfZ7RqyPHKBizXc1gJMO5-2B80yrhd=
+OxCR-2BEwo90lufk7YuqEo-2B0ygt2jXXjJpKojp92Qouoxy11jcgXMTrTmY6jc4rNq0IK2gcjm=
+Yg5eBzWhZoiJxE5s8J-2Fx8uHFJ-2Bl7tilH2q0p3tcseCojJi7lIIfFWanrPfnlFa9I3iC9Mi4=
+2rLlll-2FRRdFCGq1lQQrYoK2Eu96SrLpTaFqZrNY7zfyYhmtOxX9TiQOWoftLNf91Sqat5kE-2=
+Fyl26RRIbn3-2BL7XiJ1wW8qR3cjk1ipK-2BAgUCvBnWdtugCgTp4d5fbijN9TMgddEPaLwRL1T=
+-2B4MZcpuqQ-3D-3D"><img alt=3D"Free Shipping and Returns US Only" border=3D=
+"0" height=3D"59" src=3D"http://links.email.tumi.com/wf/click?upn=3DfafRDT0=
+deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3A-2BpMIrohY9Km9h04fi3Njb59HBT=
+NZnr1ffmTanA0DsGoMvamkJlvSU-2FsvqEtsm-2B7LS4aEsgQcxrB-2F8K1767Rik6q0P8oEFkw=
+3tDeq1Y2BHvdZ6mckapYXFWyDQzBD-2FSofIyThYYvNcyAplriGiCLv4ktDAP2cdGAGFvA-2BiR=
+29mDHLOtOfl4rVK7BGcdSSo1GsVdeHfkB5sCpVh4z-2Bui86naMc-2BZAUgPuehyc6-2BxmATZC=
+mJgc5s7T5cw8-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bS=
+Aa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-=
+2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0A=
+rScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf=
+5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7Hi7mHOwUieW47BLBtxnJxf7dRCR5UDn5r1SKkT8=
+4T1vTUFTF4nQWT4ceTT-2FPipLujKygGfd63YKCSlbzkY7QQ5rHTIk3N-2B-2FZya2Ez7MA99N0=
+mvG53UKJMH0GXU4KZeTvfAY-2BbNM3aYvoTA-2BnE3MrTqxF0hHLDijnnqQ5s-2F7HTlv7BjnfP=
+9iSu5Mjf9q4WWFsTWdRndnyksR3XPo47rJhGUy7Il6xZd5Rvk8VwPD14-2Bt9RzcvivGRxoJhAz=
+KXGh8KQZknejLDC-2F7MwErW8FFbMtAHpNrMTB5w12hmkoFHKtWYQtzWYzv2lTsVN2KQ8aNA7hr=
+mr-2FHBaNRmZG65aExa4FKFaSty9BNaHczci7MkSFAA-3D-3D" style=3D"display:block;"=
+ width=3D"304" /> </a></td>
+									<td><img alt=3D"" height=3D"59" src=3D"http://links.email.tumi.com=
+/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3A-2BpM=
+IrohY9Km9FPQxQ2PD0HxkyUlRrr8I7AvIWUwdcdwELMG-2BP6N-2BqqCs6r13rRusf4cVdWETP5=
+XYsqgygonkMvviXXblRgoFZA3qkojxRCBGevdOY0E9VLkjk9X5PP2zb3PbprsUq4ruIjZjLD95N=
+bPnfpNnTG87GK2iVd9iiFj2G0yaIAASnDR0-2FBAuFgxvKnrg9ro8M3DF-2BCw-2BoasO-2Fq47=
+oobxYl-2BmGeP74d0sNegSlMcQdT29tRw-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2B=
+sENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45L=
+e-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyA=
+GRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gv=
+jo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7HtJ02UZ1obTUTlEr1-=
+2BIounRwL-2FQkmRr3acJL-2FHxBlddipu6mt8As8ceM-2FVpbJI6D6Nb55y0R5PcqdD-2B8Bbq=
+GIFmYlinM6O10am2THuSdZTc10hEmvhNCwLn-2BtG-2Blh9rXKK6XL7m15qVDbsm-2FacL-2BA1=
+df1dmwVWaQdSILvqJJWcKRtPeMYbBHACQi5XTPVvwFco9huLsqHLun2Du4QBmjURLVnWIbjdxnX=
+XiFzavuaxsUz9Tb87WAdhZVMno8VVh0TYk7ZHvCYtLaDpKcVJ4tj5o6E48n63bEB2P9hG6q7luM=
+UIvq9K6GYwaAK60syz1zvpYw7oRO8ePkaw5HsjQ-2FmczJpB5g8dBghIjhGelDwKlQ-3D-3D" s=
+tyle=3D"display:block;" width=3D"34" /></td>
+									<td colspan=3D"3"><a href=3D"http://links.email.tumi.com/wf/click?=
+upn=3DEF7Qp5U5oJX-2Brs3LNbV9XZlpQkobuMHJ4ZRMVBkl7-2FiIfCEJInPTx7nztNs7buidg=
+UDBK1TbOMxzdzZLJxPsGprNM-2FIGBnhvYgixEfugGTbmAAlUZurExsnCPHKD5-2Frb5SlA8n3s=
+gdD-2F8wNuzHMjn5nBvDT0JpisJJ80Sx8lEBbsycCd-2Bs9E1TDMIeMmMufOfhKMrdaLHtxpWsX=
+XqNy0-2FYC6PjujCYOX9JZ79ag2ZnWWgPcxBdLbeXuAF8o3pKCnSaNKdCWi2RFFYMIFadhXr1ZB=
+eSBYeYEwuEedsMwQzNAXS9Q8qXtpaa1lMZ6-2BhvvOapA2S4NY-2BdlL52W-2FJtuyXxrFgCHMp=
+C0UjFCZucA2t6ednxJm2J3USt-2FJVx2bORSbsmeBJoaoOQC-2FKElD69sOkGT8ivUxzkG3IZ8Z=
+oPBhy-2F9ZVvV1UO0bp5PVJDJElkWbdm4VLYdtFZuXu-2FTJsIpmCg-3D-3D_zjEBjo-2Bw-2Fx=
+LHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL=
+9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6F=
+tAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xA=
+DjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6M=
+PqNBZ7HrW3CaU9TvPJqa5CzdYfqLgPQBeGHN7XRtnQFjxMnImFHSeZH2BaTcEXACPSRFQKzfffI=
+PDPP-2FDPjjPMzFMSFwWvOkN2LKsA21eA40BBBUF0sDl68q8rs5XIpcaqZIQXPXu5n-2BfEDfW8=
+0VL9WyHx4sIKcMr68yfvVJTRol-2FCU-2FNIB4Bmtyl5iiDIEgtQKIzi6E76DVYa9oQhnikcuQY=
+IDLe-2FcFUm0waAU8dyqpywllMbYLxzOSeru18jAL39or-2FMOnNvb643rijbHZUdVrXK-2B9Ie=
+K2Mw4Ln37dToCNwZalJ5fqW8jotpZ1Ik-2F09yupsb-2BSUgg-2F3fWeUCOToIIZYLgbK-2Bzq6=
+Nmucza4asXs5y5wGw-3D-3D"><img alt=3D"Find a Store Near You" border=3D"0" he=
+ight=3D"59" src=3D"http://links.email.tumi.com/wf/click?upn=3DfafRDT0deXhD0=
+QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3A-2BpMIrohY9Km9FPQxQ2PD0HxkyUlRrr8I=
+7AvIWUwdcdwELMG-2BP6N-2BqqCs6r13rRusf4cVdWETP5XYsqgygonkMvviXXblRgoFZGEDHzo=
+FLizwSU9CwCLsbTLoQem-2FZ3bQNjTyjwA1nGN0wLPjgDO5A0j6qj2eMEW7-2BSxjqdq-2FnnlI=
+5jCEQC3wadxz-2FoAdG4lExXLLTdF4GCC9YR-2BhD3qeaHni-2BqkV3VaU4eyzzCeiq-2Fa9M87=
+5v0urR6I-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3o=
+IJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxW=
+nbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScq=
+Rk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT6=
+9ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7FQ7oEWGp1xvDBCEyaK5Qaa0Vy-2B-2B1tW882UhUh2R=
+XDUbcFy7NW5fj32hoYegPpLR7qfmjh6S014OC0z5WvKiDZWzFqfscFC6gfvgdaDXfxfMw9cJtXE=
+GDzNIrkAYiAFgUanCWFJ7I88QVb5bKCdCrA0n-2FzgXJSMu7JM59I7OUIekwTQ1XBI-2FBQbYyO=
+om292yPoL-2BtFUFrYONgFEcLCnS-2FwIdPvyILMfzagVFbDaQ6GixHmcAw8jIdZ5FrcZd3O9sh=
+CYhSH9gspsMA05uYqQfwZV-2FhVbOK-2F-2BSQOLKIEfCsQUQEbL0SvaEwmjJv2kZHHJrTR88Jg=
+9OCLUwy75iV-2FNlGczUnq11HxOMZ8tdOdu-2Fmt5NA-3D-3D" style=3D"display:block;"=
+ width=3D"302" /> </a></td>
+								</tr>
+								<tr>
+									<td><img alt=3D"" height=3D"66" src=3D"http://links.email.tumi.com=
+/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3A-2BpM=
+IrohY9Km9FPQxQ2PD0HxkyUlRrr8I7AvIWUwdcdwELMG-2BP6N-2BqqCs6r13rRusf4cVdWETP5=
+XYsqgygonkMvviXXblRgoFZBAydUT1gyv2evlLironQyBd4L0HvLt0Uuj-2Fg-2FZQjzsTvrOow=
+n0VT5Amrl4b0aSFgtn4cE-2BTIquv0911s9JN-2BExlUr5jPJurH3TKVVNa84V2mrMh-2BZ8P1S=
+oFEVIAHdBobJR-2BZQxvoTn9itYAeuRXygI-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-=
+2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN4=
+5Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirC=
+yAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1=
+gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7FmBlJenv5P82IcXS=
+myBYnpZ-2Bsd4X4-2FGP6h39kzdwCSVrb67mMevpDOq46T6-2BwF-2B3aSgCPQggdGmG92s3DSb=
+kgR0f2E8hOBXkpN6K7jXG516IqUeg2k5XH6-2FGOcX1CQC2aVwhDq7dBqvM8MUyv6gbvibNcH-2=
+FUK7fNR0G6TbgUtHFPAIW6OctMLlR5RZhLpT1McBP9WP6Dc1TH-2Fe5nz-2BqdUW0ATN3mnIyip=
+kr8O0nQalyVKNSEZgmNzSKFkQGOp3-2FR4i-2FLM6zmiSEJZTYAO-2B5-2F3CSTLFY984iZVGBE=
+jGLLdVpzgj6uq4Pbgk9NhX22I-2B-2FauLQXyRAsPhX1uDO5IkN4sQMO3JWYQFCAZmU7OLJUzhZ=
+A-3D-3D" style=3D"display:block;" width=3D"245" /></td>
+									<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5U5=
+oJX-2Brs3LNbV9XTiREpMS-2Fqoqybl4wbKNobdKFLur5OxIFABHrgSV0-2BGhFQpkhT9rMhcf9=
+43kSGp2hjYQ-2BlcPrT21c5738f5gbed6aoLJHRnd9rC4ZQ2iNsvkOQdMjvmhZxNsiZGnEiQPnm=
+tKdx21nVOilP4fQ1nJm3iNCVwgATMs8N7R3R5cbH9x_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjIt=
+kt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR=
+1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBu=
+eirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7=
+e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7Hk5i-2FgDHYe=
+kzBiQEj1v6imC1M8fj3cRtLKkNMOB-2BxT23GeqTFYWlyyl4mJVMonskb1xX2-2BEXqiCpg8p0m=
+zjATek6kXdI3bl7cBuevkwgaimKYV57OpMkatyYhl7K1WQI9ac8TehnNWFpS6VfmU8QSeLpBrrx=
+9cmHgItYQ-2FdUs5elOcUJ-2BTIoATLEvRRK4xLdUU3HNgKz6SofrfZWtVb-2BkBZ-2FS4nE3uC=
+6wpLhbwSdCQ6TdIkJB4ROadXqKIIDr2NzZO4jaWM96uE8-2B8MIPACxB6akD5HYp0lxIhMAqMfb=
+b-2BMitvWKI87nQ4td8bGdeEv8AsaZwtk0S5vztZtkiRf4rvVaNh9aLs6M04iJX1pa6-2FYQ-3D=
+-3D"><img alt=3D"" border=3D"0" height=3D"66" src=3D"http://links.email.tum=
+i.com/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3A=
+-2BpMIrohY9Km9FPQxQ2PD0HxkyUlRrr8I7AvIWUwdcdwELMG-2BP6N-2BqqCs6r13rRusf4cVd=
+WETP5XYsqgygonkMvviXXblRgoFZA1-2Bdew81w2iUtIJ-2FecHk8Y4WPgBLWPxslz-2Fg0cDYy=
+7ddGf1vpyjjj-2FX3Sggv28HMNtroI6ysGONjqa2buV-2F-2F-2FAkuzEXr3aNMSxefqOZFGkCu=
+acXfFvMiZYzIPBDdqfDBko5EiIAsW8uOWig3Z9aTes-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyV=
+jItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkj=
+rQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgV=
+DBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf=
+2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7GB2x3Ic5N=
+Md1R1s91TZl0kEonyGCEUDH-2B8VQhnT3kCfpLBsHrEJjlYQ5vwt8GjrZ-2BRTqA5VjwJyd0HOa=
+WO7vGaADkpMaqw-2FB-2FHEJup9XsOUXsNRkVb2BkOdJbfspsxltMY4u-2BKe7bjsNR2WR0dAbm=
+M-2FBuGsD8H9IRFAELrhxsWafwtrajXczdUZ8kBQe-2B9r0J5ecgae1yZwfAMZDaUQfHeP13G4a=
+fV7GOlCfjHCHj8n0mKHb8X-2By5gS2en5i4rvq19EOuRRsmBqKbYsjwzx-2FKZAOdpngbvxT5GV=
+BdwzaLPtMMDuBp6m1bFk8miUm-2Bf5xWFw3KryiVweCOqj7T6wQ0eJD4J3wuGVnagcffHny76fQ=
+-3D-3D" style=3D"display:block;" width=3D"30" /> </a></td>
+									<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5U5=
+oJX-2Brs3LNbV9XQPOxSA9g7oB2LP7n-2FXtsTCC70KvxjSFXnQ6qYNz71xDM-2BNJj2ilJE03g=
+dLvHUFs2-2BSkRI3rq-2BlIlU7GIgr0MvXw1If3yDIJO6Mog82gqY3cIQYKLKxZuMYQh889MMT1=
+j8JVAj5QLceoSH-2BPQQuaCSyHWSHtkD1NCD8a9Vpb3NhY_zjEBjo-2Bw-2FxLHGMkTLOtbrwxy=
+VjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vk=
+jrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSg=
+VDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3m=
+f2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7GP-2B4gF=
+iMfgTorz07lOyDsxgs5fx9MJFQYpr-2BhagRTfygv-2FDJFh5EG1m6bK3PSPfyXmn1Wly9hqu9e=
+xJGjP6UerRK0dXzaGcC-2BKYUOjz57oe-2Fk1xcjU-2BJcOPSyhjjudBX4h8vJObJFubdZT-2BW=
+Dx9q2ToqwR4dJXNM7iTDr1ELPOpZPR1nECKu8fWTxGicn5i2a5RsPE9JRsoIs0-2FTOIm6jVbN0=
+2hFi6bUWeIZKes05bQ81BUD9MdrIZmZjZa-2F-2Fe3KQRDgLc05MXdK-2FdQE53zWnIf6rHunRO=
+erY-2B7JyeaRSbpNqDsAyikdipN9FQN5LYFq5rRp6G-2Be-2B5wm1S84VjOlJfaeAnAeQ-2FUkP=
+PNaBGYCPtlQ-3D-3D"><img alt=3D"" border=3D"0" height=3D"66" src=3D"http://l=
+inks.email.tumi.com/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBlt=
+YHrxJhwlwChD3A-2BpMIrohY9Km9FPQxQ2PD0HxkyUlRrr8I7AvIWUwdcdwELMG-2BP6N-2BqqC=
+s6r13rRusf4cVdWETP5XYsqgygonkMvviXXblRgoFZIjxJRZODCsLh5EoVjhSdV-2Fa0RiUrKzh=
+VYU0bi3Qa8icGFmcAKWctb9WM19Y1-2Bm3X7PGrLXxSTECI1UWfYUpuuhPCEIePS7BNpTldT7ia=
+oZmHadTXFXxzbwQM1eNijKYFK7Q-2B1mv0Nncnj4oNbCMyS0-3D_zjEBjo-2Bw-2FxLHGMkTLOt=
+brwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWM=
+eN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuL=
+QIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmz=
+KHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7Hmm=
+OX6VO8my01-2BfZIHle2JtUwsXF3Rag8VbH1-2B7fTIr-2BZ6Zr1ZMGr4sNQRKWVz5NpHsQTbYe=
+BM-2BdqYBRQ0ICGImkjqwzCNd0GnPYDm8kfB-2F17i2PCQO8MvNyuHsS3ZE-2BB6KNgNn4gZMZ0=
+SxZ9KaakN7MU2E5x6Au-2BHlNH3FuIrikuTz-2BRTW-2B7pPe5XJF4w32FVVPdCtoEPqABOA9Pt=
+vcXVhXaGRWuyWenQjAOmyC3Z13ZzxRfDgqK-2FepXM3PXUNjzM7HlChTgFGq-2ByWyQrQBNEzb3=
+-2FKqeY2Ev0klv7QLd3EIeXhUxnpNFg9oeF2w-2FFf1mAyToPw-2Bk2fqhMZd-2BivTwIfh-2Bm=
+ucxxKD5LkgLuBr-2F-2FWg-3D-3D" style=3D"display:block;" width=3D"29" /> </a>=
+</td>
+									<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5U5=
+oJX-2Brs3LNbV9XbpnlPNprvgmg8e-2FXxhF-2Fks2UMK0If8JAHvwOAm-2BL3XhhIzixFr94I6=
+4BuXXMtSZ6IWPYOJ3bv2kh1KJaq3sIR80c3fob5IVJfDIE6o7vWBKSorD3F-2FPd-2BwO89j6I8=
+6bnZ1k78hVL2BOtlS5X7EoKgVhtpbc6Kf8vJzIDB7uqQqL_zjEBjo-2Bw-2FxLHGMkTLOtbrwxy=
+VjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vk=
+jrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSg=
+VDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3m=
+f2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7Hibh9Vib=
+fRojZ3dSfhbSzALWjQIniZVoJdNTzxFcK5hv-2FiKlTv0NgXHEsH7Vv5pPvqLg8FPWdNtAXSe7e=
+lrSmItj2qxuhpWLPc10mjlI8hkYsV5Arr-2B-2FXt92fYsfeahth6TQP5uv9W2CaQScyBle39aG=
+U464peVxncIZCs8Mxt72WSZ7E8m6iRqrVCkORLQs6z8rkkj-2BYj-2FwZCgGJcIU-2FrNfVz1fo=
+7r6HziQ879OsCtqIq8pTTPwpMeturjVBa1U5iVn5cIrbTzPEdBNlksigA0vKLIOkaKd58Sz7QlT=
+nZNaj-2BHfnDDkPt9FI9026JEf-2BLVVhsVau5KHMtpaJ0uVZs-2Fitpna864gx0RPextn0qmg-=
+3D-3D"><img alt=3D"" border=3D"0" height=3D"66" src=3D"http://links.email.t=
+umi.com/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD=
+3A-2BpMIrohY9Km9FPQxQ2PD0HxkyUlRrr8I7AvIWUwdcdwELMG-2BP6N-2BqqCs6r13rRusf4c=
+VdWETP5XYsqgygonkMvviXXblRgoFZGzlVS7KM1hGVIV907O0KlglBAjZ-2F4Q7qWd5J9kaipZi=
+ptq1PudsvxDGSfVQD7C7yvkKGb9Fnt44xOSQk3b85KZ5L8tm28QA6dKcRISbwFGYjseDdxvSQJz=
+R9gBFzAoV3KlZcNziZs599O-2FFA0uQmzk-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2=
+BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45=
+Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCy=
+AGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1g=
+vjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7Ee8HEmH2MoHgw32ZI=
+U5XXFVae6s2VcjUCBOdXkujZqpaTd3SJjjqX82zuzRQAvOWm1iHk1VMvjH7OEbN4S9G-2Fu5je3=
+uMfeolkeevxeqKATjAZlY5oLW3ysKPYgHZQB2wRPeKB3Jfkmhu5bhiO0pUB-2F2KpIk2RnW0ThJ=
+-2BCytKSVyI64txubW27NH1ztDozuvoaYINaSiWGwB3TP0wNl5egkmUgZWH1F3Vuiq7loBI2jO3=
+nJmLhVgoobcL4F-2FfZVQ-2FnE7wkAhACXDjifNGT3WHlG2j2n-2F38D0qn3RYUaalRq5xOmxvQ=
+-2FLClUzLS2I2E9j92JSyh9ycxXl88aJhEsss9ms4exzEjq6ZQB2uIjcKO6Nw-3D-3D" style=
+=3D"display:block;" width=3D"34" /> </a></td>
+									<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5U5=
+oJX-2Brs3LNbV9XcEnKjd0NX52wBajsoQQDya7gkf34S3TF0hvS-2Fymmo1AODR85iw8yc8Mfmj=
+O0cZrHeMQ2KJmMyGlufu-2F-2FSzes6tMI4syNHz-2B2ZL5y5FKpsoO2Jx5RfAFtNGv9NjWSZi3=
+3Trqal-2FhqADw1LIoE1vlamNcBqbrvNQHk5z7-2FabhPt6u_zjEBjo-2Bw-2FxLHGMkTLOtbrw=
+xyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5=
+vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIh=
+SgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT=
+3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7FoyDOM=
+BSXjqcwoqD7Xq32tZpN0C0zRwmx1V0TU33yNS9EwxfcTiSKQ00B4JL85hAV7pXjlwnKRt13h818=
+jY2IjJApTTO30B9YyUYjzxIQ-2FsB4N9-2B3rDBDuQiLRbSGDRvFimUMVj46nTiAag-2BWmflBn=
+yreaAfHuDXXEQMZqHggriyvYSiZoZfK7M5hWufYkNRqQRHwDLG9ez3F7OWKmtJ834jWnJWaaCOH=
+3hMkzGPROMN9UMWVgo4aP9wXKze2FYFHuqSgaMmb8mghDItVARSJiGFoEfV4t1XAEpuGZ1l-2BB=
+8AiRf-2FT2FTOwZUoEQrPlLrGr-2BdJqidWGtnt34SBTzqHV7GzGo7MsPYl5eOsgsouBVQ-3D-3=
+D"><img alt=3D"" border=3D"0" height=3D"66" src=3D"http://links.email.tumi.=
+com/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3A-2=
+BpMIrohY9Km9FPQxQ2PD0HxkyUlRrr8I7AvIWUwdcdwELMG-2BP6N-2BqqCs6r13rRusf4cVdWE=
+TP5XYsqgygonkMvviXXblRgoFZNZoBqpygJmVfzud2aXloase09J33l9FCGQgK2lkvPE54wZJcO=
+xf-2FLy3rpYr0zDI9AfGFZBQg-2BY6AHQSXjH7-2BjlBYVsPqzk4GWQDtlfrNsGjLyyBrKAsLOm=
+ZKJAIfz5wP1qUrXC92z-2FVST9vtp3EGYw-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2=
+BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45=
+Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCy=
+AGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1g=
+vjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7HKF8mIBSZNyubz6F3=
+6bur1lV-2FfsAiaiOuEWI4ez2AvrnGoRRyYdoJ-2FnXb3h-2F-2FKEEcRI32w3n-2BCWD-2BZRj=
+K6qTjAS-2FarfovkMJRjM-2FQhRlDKq-2Fb-2BZ9pSDL9O4gAB0yMGGKFstr3VkyWlJJSZc7Vbf=
+Aom3ynM6o5US3gEAZQgnpMxFzg7JNO-2BNqEOy4Uu-2FTPy4TcM4wWKFZks2fYkKxj60SSvZ5Et=
+uUmgFQ4QMyJuEODySvMG56Ob6uD4-2FmGcfTVII35e8lpkYs3834pz-2F1UNTZSsyHHU5Enao0y=
+Moa7y0CSKphDB6DOTumqdM1a-2Fb6IHNiVOMyX2foU92JwqoSloE-2F6hNShGfH2h0ogAWSQ3zJ=
+wRXA-3D-3D" style=3D"display:block;" width=3D"29" /> </a></td>
+									<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5U5=
+oJX-2Brs3LNbV9XWoiIu-2BtIg0DqYfNGrgmBSNOg5vWuUh9Mn3f-2FoiBi08xp1pzXcBxwrVAo=
+lQyEa-2B2c278iKaWWnXQ2CzmLXVhUcwZhyGgZKkVewbtCg6Olf7YHemk8gctOJq-2BuOLEGhN4=
+1T1n8s6VWWLaqyzVHVQ-2Bsn5O4z43ZDaM3mS3MgAatqSZ_zjEBjo-2Bw-2FxLHGMkTLOtbrwxy=
+VjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vk=
+jrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSg=
+VDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3m=
+f2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7HVRgFV5f=
+k14OKJQk54rTW8Bltqaza3KZC4p2dBFNolXu4oJ4VFcbDqhT-2F70dcgxk6vNrB5LM-2BbQwutz=
+QGAkjAuO1Ki4QHOleNHtwXosCm1aYgYyo5LtmTl-2Fsv99B17lqPpC5uNIjB38PTx-2FJYNnBYP=
+jLB-2FKmFrDgtnXm5HvG-2B8Bii3WoITFRKC-2FFEP1g-2BMvWBAm1fgvECtswIgJxUerqxhECm=
+SBfNDlTpoNr9iQujoAzrRZ3JX1kPwSvFMeMHZjgRTHV9HGydfvq5-2F-2FC7GycJTdOjw1fjBSq=
+cDhjHVUuYf9eeB-2BWQ5goUHKF0Zr48IWlcH-2BOv2wUIRstqG26cYXOsi8A-2Fgln70ZLxtCZZ=
+L-2Bi2wJw-3D-3D"><img alt=3D"" border=3D"0" height=3D"66" src=3D"http://lin=
+ks.email.tumi.com/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYH=
+rxJhwlwChD3A-2BpMIrohY9Km9FPQxQ2PD0HxkyUlRrr8I7AvIWUwdcdwELMG-2BP6N-2BqqCs6=
+r13rRusf4cVdWETP5XYsqgygonkMvviXXblRgoFZBgl6-2BM-2FPvVOIckj89po4QbBC3xGjxnl=
+rFhDassyqr1M5gv3rPm1Y-2BCJsAfk3OGvUq4wxJRhWTCIgTXaV9DuIJ-2FMr1LMsWIqw5aQtDX=
+Ucw44QXr4TiD7FMcXLFeg3PyJwLKZKGdpw4ilJ4SlvamWtpI-3D_zjEBjo-2Bw-2FxLHGMkTLOt=
+brwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWM=
+eN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuL=
+QIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmz=
+KHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7Hz-=
+2FZTxqf-2B4tNCkI-2B9Fbi4QFRWKOzmQ7DH9nb8zis8CzzWDx-2BjYOSkMcmdxMlrtr8fJ4FI5=
+enF5hDs8MxAzQ-2BPQR1ga8PXQsZMk6hCNxh9Jhcvi67J1IV6kXmUrgb9Ijn9PhMvCjxOOW7nUU=
+xzBEZqpPXwyj-2F3PJq-2Fdm9-2BliG-2Fp058t9YTMXEoVesYrzH2lcPyt75sOMXYsYPjoOH7q=
+lLqa8PYAQVKU1qUXlpVoHcpa6yMMCbTUl1mxg8df1hq9C9KvG0x7kgxgLx2EbDBG3Ja4rrzRz53=
+1kFQq0QQv89eM-2B4baxcLUvEEoc9Eh2yLkl3zAv-2F9p88VHOWXNoE0T4AZQf6IwCofQ6XRf3Y=
+Zn-2FVAEcg-3D-3D" style=3D"display:block;" width=3D"30" /> </a></td>
+									<td><img alt=3D"" height=3D"66" src=3D"http://links.email.tumi.com=
+/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJhwlwChD3A-2BpM=
+IrohY9Km9FPQxQ2PD0HxkyUlRrr8I7AvIWUwdcdwELMG-2BP6N-2BqqCs6r13rRusf4cVdWETP5=
+XYsqgygonkMvviXXblRgoFZMnpBStnH1sMCGOjIBVIofjm5-2F4GSYUgtCiDeqWaj8y2uDxtccm=
+Y-2BY2XE-2Bph8Y6SgdBC7moROwifADeZVS2WrNifciDDJf4f-2F6bbh1e4ZbIfeTI2roIZYGuD=
+-2B28uHZxac8EOttXf2gBD-2BWWtNzl3944-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-=
+2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN4=
+5Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirC=
+yAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1=
+gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7GGChNnu86qcaMCEu=
+62d3hVbNnNVKnCV9P0aezzz-2FsNOFOcZr-2BwlZV6aqJetb29-2FjshL-2BTT1ezGhC0bQeGmx=
+kkhNeASbQ26qh7Rg-2BW2iQxV14aebQVr4vGZO4BvW1cH2qy-2FOf6lLyL7x-2B4gQab3r6gTnd=
+Vshl4fTpS8TvfPth508IwzxuDbPGtVWBXmHuIc99uIo8BeoEOw0304fGRcm8mu-2Fdoic-2Fug1=
+-2BZvqAy8SxscAOesCyn04rihIIabH4lWDQ-2BJ95fd5Ag8a8JBY7MTQWVjOQN13H9ypvtriEMa=
+vNJtQcyf-2BWobKP1fW-2FZ91Qkk4AFSeE4Z0lEDURD9kMPUhPbMe4xdyHektqgYR1RXIrbsbA-=
+3D-3D" style=3D"display:block;" width=3D"243" /></td>
+								</tr>
+								<tr>
+									<td colspan=3D"7"><img alt=3D"" height=3D"29" src=3D"http://links.=
+email.tumi.com/wf/click?upn=3DfafRDT0deXhD0QYzGAjSF9tfirVUN7-2FKB0vBltYHrxJ=
+hwlwChD3A-2BpMIrohY9Km9FPQxQ2PD0HxkyUlRrr8I7AvIWUwdcdwELMG-2BP6N-2BqqCs6r13=
+rRusf4cVdWETP5XYsqgygonkMvviXXblRgoFZNY0bjIX8tWttG4P0UzpAEM5BweFZld-2BmK1fA=
+ahf6Vx0g9-2BMjaMtCFIo0tYRG9l1u13GrFLJaE3FPU1I-2BFFf8vX4Tp-2F6zgnF9Vf2IigSfK=
+MHbJ-2B-2F2gRvP1zhgePt746M0gCJcFru2RLNx7KjbKvlxuE-3D_zjEBjo-2Bw-2FxLHGMkTLO=
+tbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVW=
+MeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abu=
+LQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbm=
+zKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7Ec=
+zFEzsDLgjudPkh1F1-2B-2FmtjhthEQdLXNosWx9Ufsd3crKjmjB8q03KgcjoVzLPjhrZxn9Q8a=
+f4TBfTuwnQ2ZHcbZyNCkamdvfm42C7-2F-2BC87-2BBGk61qjS-2FbmRtcuZCKEyCHpyiJxG3st=
+1SvjlpuNI96xMUL6fWEpdrqzkljniP3J9x3A3lfDkWqlVkkEcVOu5xlUbDHUPnenDniGHqSam5d=
+7A-2B4bScZySTwni38cpNlFpmauywH47qgeKUe5RT7he09LNhAOZXsPkZvPQ5Pg9s9qvXxczbdB=
+AjjXFnOl-2B3rvxt8zTTR2G-2FP-2FlrmQlLwILqT-2FYzBI-2FsHu-2FsHwIo2nYOmF1rHDp3w=
+j3kmAuqrYFkTg-3D-3D" style=3D"display:block;" width=3D"640" /></td>
+								</tr>
+							</tbody>
+						</table>
+
+						<hr style=3D"border-top:white;border-left:white;border-right:white;bo=
+rder-color:white;border-width:1px;" />&nbsp;
+						<table align=3D"center">
+							<tbody>
+								<tr>
+									<td>&nbsp;</td>
+									<td style=3D"color:#777777;"><span style=3D"font-size:13px;"><a hr=
+ef=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5U5oJX-2Brs3LNbV9XbMC=
+2n2Eke-2BafVuAV4aMqbftddB-2BB9jBzCCvEjkr3T3krGU28kt1retYPU4nESv6ze7kSG3UX94=
+EWFC5pSpMvCPIseBhPWwngckBbYfiYGl4sXq49aY8IPIClYP7-2Fes8YxGN2uUVIPy546BnjxUd=
+waWl7XiHNHLRgOy-2BKtSo-2BQVgUQvy3D03JybYrGw3ELYIsqo-2Bgq7p4osRCXwfiPBbke3eS=
+G-2FC2yl0-2F55lMAY5NkOO9GS3DLXQkpziBpGfDvVZmBoS6QtfpktoaXJFXjMFg93MIrR5WrDQ=
+G-2BwefeBQlxoCn7kgGHqCyMEZJdnubbkqMrqe7FK6gaXJvjLo2nPU1cCJnLa-2B-2FT5MqM-2B=
+lhltr-2Bf5jhxzHwEUvJDK-2BPCZbx1sDO3NGSPVsKiM4PnVR7FHbgjuhfavPfBiH56ufPK9ew7=
+VZ2vL-2BHw-2F5-2FKkcVTOpyar6GQ-3D-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2B=
+sENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45L=
+e-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyA=
+GRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gv=
+jo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7Ei6-2FYhPJv4TvIDXJ=
+68icef8jkor-2Bh1JLqm7Ca5ZPbBtQWF7YfzmqPok5KrbEseLfi9q4-2BkOzk9zXg9xYYpRKQm5=
+tR-2B3lRj8-2BbV3-2B48aYX5tXtZ-2B9l8sVZzWu3w-2BwSH8NPL3YOxNhWxVhlRKclxG8mTy5=
+Wcmo-2BF8PUuq9-2BP91sSqwEKIUlMj4kgFt1mrI80qS2eX9nkR0d5o3GDABjKz25MbVvPbxgs0=
+-2By5KMS62VAN0fQ5oeEElMylxY51p7VMb-2FocKgMI9ew75w1gayQikhZdVFDJS-2F58RzLfZ5=
+tvBlkLWyavzQpthtxxFiUAoA0COLmG9QqRQyHnEhN-2FCWKRMmhdhzCbfYLLUhk4CQQqLUtFSw-=
+3D-3D" style=3D"color:#777777;text-decoration:underline;">Customer Service<=
+/a></span></td>
+									<td style=3D"color:#777777;padding:0px 5px"><span style=3D"font-si=
+ze:13px;">&bull;</span></td>
+									<td style=3D"color:#777777;"><span style=3D"font-size:13px;"><a hr=
+ef=3D"http://links.email.tumi.com/wf/click?upn=3DQ9BKw12r24as01FxCj7lzo7YYp=
+-2Fe249ZFC9dF1M1kRUIHE4-2FhGj-2FKd-2BOx7bkAJ4CAQ8smoA39-2BmxMcH0rebXWrwQWZv=
+EMWo-2Fy4uJ1o1jKHJtUYoky0SaeeZ2kgRcldpRr-2BQOphvz-2B2q1tXPe-2BZDTYWGGgLJFBY=
+dSSrsTzG7fwevO2QhsJ-2BJzV5Wov83-2FR-2Bh3CB1Z-2BlhCvblawHjW9tiGz8K-2Bja2EPVH=
+43WvpLp4qlTQ4l9BQX6agrRa-2Fu2xpP-2BDbDTD5fHY280m1MHznpC7eHaXc4yshgZ12z-2BJR=
+duKsk6gp5OSgwu4Pp9JWdi2fWBa3ZZKxncPzPWtHq7KYwo3TDUsfMDHNj-2BB-2FomNbr86GCAG=
+AtOmBpXMCbmAe1RmOmTGlhGh7KiYwZJNy4edMvbc7XwqedkljXjXwHcPMd-2BZ-2B2nXdnrvV2V=
+XVFxkL1YjQHON3BLQDC5MMuoNOxE8ajLXp-2FQ-3D-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVj=
+Itkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjr=
+QR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVD=
+BueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2=
+s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7HLrHlADEhb=
+Of5rwzstH6z4o9Rx8e1cnAM6Jj2DdSN29xWRLCwM-2F0mrGn4zSyi8o5gG6oS4XjZFa1IxXV13n=
+3hABNN9JqXQfvgzHJnmW0XtMq5lvyERFTJsp9NcdLQdx5YUAReYChK-2Fy9YlsaTwgYGcPWhyFH=
+-2F9kcKzSpJJ2NL86vKru0R27IBcGrSqIawUdXW9IKEaR735fRcvaz7WFBJAMlKBqGBwydeoZwe=
+qu11hJFAycL0sf-2BXaIKLY6XRjd9fpcL6JVYqnDj34hIWyaW7wZjiMxOS6m8bxswJgtCNQ0-2B=
+0If9qoIfX7vDcsvgcOa6cf74MqcnvRBDVmbJu-2Bm4yEjvYTuvPq7dmDdOf-2BAZ3QTQ-3D-3D"=
+ style=3D"color:#777777;text-decoration:underline;">Privacy Policy</a></spa=
+n></td>
+									<td style=3D"color:#777777;padding:0px 5px"><span style=3D"font-si=
+ze:13px;">&bull;</span></td>
+									<td><span style=3D"font-size:13px;"><a clicktracking=3D"off" href=
+=3D"http://links.email.tumi.com/wf/click?upn=3DL3Qt1J1VnfGLVLYWK72RW1sN66Km=
+-2BzL7b8-2FHxsTIpAd665s4q6BrPHHdkuKLGjvCqQLAzjLw7eCyNEjF05lNXV4BS60MDnX-2Ba=
+iBzVtCnnL1AKIT1EAKGGU9JwxvZvFr-2FaHuB13ObB1w3FHnCTaIOu-2BFbs3Tbuh5lerpmFif-=
+2BsnWpp4TAsk00m2b71hvD93yKv9fak-2FdOVRhFNs4rgOb5pf8lk7MId0a3OjWu9pVBWsL2A49=
+zCAl2ijLvZZksecm33euP8Eo-2B1FI9P4MVVSCfCTLZ-2B27kFTk-2BuxNeUVTgDdAPmwblDo2S=
+-2F0uaF6EAIchj_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSA=
+a3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2=
+FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0Ar=
+ScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5=
+PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7EUP2mYG21LwDtThn8O1fqo-2FAEjCZ7QpE4zN5Dg=
+xo7KK07Chv3pkTGzZH6Ke0aVI-2BRQtWannpR0EjOdLblMJF8QU9oZ-2BCNd6LoG8trRWuifDJm=
+CoIWT9yaepWZgSyfPlXdPKGYfkfVL55UHR2n6u-2FG80HewPiST-2Fz9ztp4G9p6vFy8k1L6GEP=
+n-2B8I2iaKJjq3N4V2XykzLQsmeVFFZNZFWDLf2jW1UfEUko6iRqGOzYrzHQjk5QI7qs24iFT4d=
+I3h2IILOmLDbxBGbygRmiT7OZ3gR2I5-2F5Qer2mbdMTFG40vNfrFJiLMWu2k-2F5X-2BPD60Co=
+YyhZjCPytwGG6J4UybDgtcjddzgU99VqVI8YVc4-2Bwg-3D-3D" style=3D"color:#777777;=
+text-decoration:underline;">Unsubscribe</a></span></td>
+								</tr>
+							</tbody>
+						</table>
+						&nbsp;
+
+						<p align=3D"center">&nbsp;</p>
+
+						<table border=3D"0" cellspacing=3D"0" width=3D"640">
+							<tbody>
+								<tr>
+									<td align=3D"center" style=3D"padding:20px; color:#777777; font-si=
+ze:80%">
+									<p><span style=3D"font-size:11px;">TUMI, Inc.<br />
+									US Corporate Headquarters<br />
+									499 Thornall Street, 10th Floor<br />
+									Edison, NJ, 08837, United States</span></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End example table --></td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+
+--fcd17ae8e3ec07f0dc571814432ca21511d0d6dbe941cfc0fa30cf891799
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html style=3D"min-width: 100%;" xmlns=3D"http://www.w3.org/1999/xhtml">
+<head><meta name=3D"x-apple-disable-message-reformatting" />
+	<title></title>
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" /=
+><meta name=3D"viewport" content=3D"width=3Ddevice-width, maximum-scale=3D1=
+, minimum-scale=3D1, user-scalable=3Dno" />
+</head>
+<body style=3D"cursor: auto; background-color: rgb(235, 235, 235);">
+<style type=3D"text/css">.preheader {
+            display: none !important;
+            visibility: hidden;
+            opacity: 0;
+            color: transparent;
+            height: 0;
+            width: 0;
+        }
+</style>
+<style type=3D"text/css">@import url(http://fonts.googleapis.com/css?family=
+=3DMontserrat:400,700);
+        @media only screen and (max-width: 480px) {
+            table[id=3D"backgroundTable"] {
+                padding: 5px 0 !important;
+            }
+            table[class=3D"wrapper"] {
+                width: 318px !important;
+            }
+            *[class*=3D"paddingreset"] {
+                padding: 0 !important;
+            }
+            *[class*=3D"mobile-hidden"] {
+                display: none;
+            }
+            *[class*=3D"show"],
+            *[class*=3D"show"] img {
+                display: block !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                overflow: visible !important;
+                width: auto !important;
+                max-height: inherit !important;
+                height: auto !important;
+            }
+            img[class=3D"photo"] {
+                width: 100% !important;
+            }
+            img[class=3D"photo90"] {
+                width: 90% !important;
+                margin: 0 auto !important;
+            }
+            td[class=3D"block"] {
+                width: 100% !important;
+                display: block !important;
+            }
+            td[class=3D"block-reset"] {
+                width: 100% !important;
+                display: block !important;
+                padding-left: 0 !important;
+                padding-right: 0 !important;
+            }
+            td[class=3D"reset"] {
+                border: none !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                width: 100% !important;
+            }
+            td[class=3D"centerme"] {
+                text-align: center;
+                padding-left: 0 !important;
+                padding-right: 0 !important;
+            }
+            td[class=3D"topspace"] {
+                padding-top: 40px;
+            }
+            td[class=3D"pad-me"] {
+                padding: 20px;
+            }
+            td[class=3D"block-left"] {
+                width: 100% !important;
+                display: block !important;
+                text-align: left;
+            }
+        }
+        /* Client-specific Styles */
+=20=20=20=20=20=20=20=20
+        #outlook a {
+            padding: 0;
+        }
+        /* Force Outlook to provide a "view in browser" menu link. */
+=20=20=20=20=20=20=20=20
+        html,
+        body {
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        body {
+            width: 100% !important;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+            margin: 0;
+            padding: 0;
+            font-family: helvetica, arial, sans-serif;
+            color: #444444;
+        }
+        /* Prevent Webkit and Windows Mobile platforms from changing defaul=
+t font sizes.*/
+=20=20=20=20=20=20=20=20
+        .ExternalClass {
+            width: 100%;
+        }
+        /* Force Hotmail to display emails at full width */
+=20=20=20=20=20=20=20=20
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+            line-height: 100%;
+        }
+        /* Forces Hotmail to display normal line spacing.  More on that: ht=
+tp://www.emailonacid.com/forum/viewthread/43/ */
+=20=20=20=20=20=20=20=20
+        #backgroundTable {
+            margin: 0;
+            padding: 0;
+            width: 100% !important;
+            line-height: 100% !important;
+        }
+        /* End reset */
+        /* Some sensible defaults for images
+                        Bring inline: Yes. */
+=20=20=20=20=20=20=20=20
+        img {
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+        }
+        a img {
+            border: none;
+        }
+        .image_fix {
+            display: block;
+        }
+        /* Yahoo paragraph fix
+                        Bring inline: Yes. */
+=20=20=20=20=20=20=20=20
+        p {
+            margin: 1em 0;
+        }
+        /* Hotmail header color reset
+                        Bring inline: Yes. */
+=20=20=20=20=20=20=20=20
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: black !important;
+            margin: 0;
+        }
+        h1 a,
+        h2 a,
+        h3 a,
+        h4 a,
+        h5 a,
+        h6 a {
+            color: black !important;
+        }
+        h1 a:active,
+        h2 a:active,
+        h3 a:active,
+        h4 a:active,
+        h5 a:active,
+        h6 a:active {
+            color: red !important;
+            /* Preferably not the same color as the normal header link colo=
+r.  There is limited support for psuedo classes in email clients, this was =
+added just for good measure. */
+        }
+        h1 a:visited,
+        h2 a:visited,
+        h3 a:visited,
+        h4 a:visited,
+        h5 a:visited,
+        h6 a:visited {
+            color: #444444!important;
+            /* Preferably not the same color as the normal header link colo=
+r. There is limited support for psuedo classes in email clients, this was a=
+dded just for good measure. */
+        }
+        /* Outlook 07, 10 Padding issue fix
+                        Bring inline: No.*/
+=20=20=20=20=20=20=20=20
+        table td {
+            border-collapse: collapse;
+        }
+        /* Remove spacing around Outlook 07, 10 tables
+                        Bring inline: Yes */
+=20=20=20=20=20=20=20=20
+        table {
+            border-collapse: collapse;
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+        /* Styling your links has become much simpler with the new Yahoo.  =
+In fact, it falls in line with the main credo of styling in email and make =
+sure to bring your styles inline.  Your link colors will be uniform across =
+clients when brought inline.
+                        Bring inline: Yes. */
+=20=20=20=20=20=20=20=20
+        a {
+            color: black;
+            text-decoration: none;
+        }
+        hr {
+            border-color: #ccc;
+        }
+        *[class*=3D"times"] {
+            font-family: "Times New Roman", Serif;
+            font-size: 15px;
+        }
+        td [class=3D"nav"] a {
+            color: #333333;
+        }
+        /***************************************************
+                        ****************************************************
+                        MOBILE TARGETING
+                        ****************************************************
+                        ***************************************************/
+=20=20=20=20=20=20=20=20
+        @media only screen and (max-device-width: 480px) {
+            /* Part one of controlling phone number linking for mobile. */
+=20=20=20=20=20=20=20=20=20=20=20=20
+            a[href^=3D"tel"],
+            a[href^=3D"sms"] {
+                text-decoration: none;
+                color: #c41e3a;
+                /* or whatever your want */
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                pointer-events: auto;
+                cursor: default;
+            }
+            .mobile_link a[href^=3D"tel"],
+            .mobile_link a[href^=3D"sms"] {
+                text-decoration: default;
+                color: orange !important;
+                pointer-events: auto;
+                cursor: default;
+            }
+        }
+        /* More Specific Targeting */
+=20=20=20=20=20=20=20=20
+        @media only screen and (min-device-width: 768px) and (max-device-wi=
+dth: 1024px) {
+            /* You guessed it, ipad (tablets, smaller screens, etc) */
+            /* repeating for the ipad */
+=20=20=20=20=20=20=20=20=20=20=20=20
+            a[href^=3D"tel"],
+            a[href^=3D"sms"] {
+                text-decoration: none;
+                color: black;
+                /* or whatever your want */
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                pointer-events: auto;
+                cursor: default;
+            }
+            .mobile_link a[href^=3D"tel"],
+            .mobile_link a[href^=3D"sms"] {
+                text-decoration: default;
+                color: orange !important;
+                pointer-events: auto;
+                cursor: default;
+            }
+        }
+        @media only screen and (-webkit-min-device-pixel-ratio: 2) {
+            /* Put your iPhone 4g styles in here */
+        }
+        /* Android targeting */
+=20=20=20=20=20=20=20=20
+        @media only screen and (-webkit-device-pixel-ratio: .75) {
+            /* Put CSS for low density (ldpi) Android layouts in here */
+        }
+        @media only screen and (-webkit-device-pixel-ratio: 1) {
+            /* Put CSS for medium density (mdpi) Android layouts in here */
+        }
+        @media only screen and (-webkit-device-pixel-ratio: 1.5) {
+            /* Put CSS for high density (hdpi) Android layouts in here */
+        }
+        /* end Android targeting */
+</style>
+<!-- Targeting Windows Mobile --><!--[if IEMobile 7]>
+            <style type=3D"text/css">
+=20=20=20=20=20=20=20=20=20=20=20=20
+            </style>
+            <![endif]--><!-- ***********************************************
+            ****************************************************
+            END MOBILE TARGETING
+            ****************************************************
+            ************************************************ --><!--[if gte=
+ mso 9]>
+                        <style>
+                        /* Target Outlook 2007 and 2010 */
+                        </style>
+            <![endif]--><!-- Wrapper/Container Table: Use a wrapper table t=
+o control the width and the background color consistently of your email. Us=
+e this approach instead of setting attributes on the body tag. -->
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=
+=3D"backgroundTable">
+	<tbody>
+		<tr>
+			<td valign=3D"top"><!-- Tables are the most common way to format your em=
+ail consistently. Set your table widths inside cells and in most cases rese=
+t cellpadding, cellspacing, and border to zero. Use nested tables as a way =
+to space effectively in your message. -->
+			<p style=3D"font-size: 13px; text-align: center;"><span style=3D"color:#=
+777777;">Brand new 19 Degree color. Shop luggage, backpacks, bags and more&=
+nbsp;at </span><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5=
+U5oJX-2Brs3LNbV9XX5uzd-2BeMZTj7Qjspvv7YxHLI8hWbqilIiKmmhu7tIZOMvPcltVUhE9la=
+c3AZY6foBpek374FeYybBaZUmWix4oQFkoHz4Bvle2jLjygU7aLu2z1l-2FqN3r5-2FNM0CRZHt=
+0PRSJZxAAmVaxNw3t0xCu9w9nRiFHIFUeU19Rovnb2PQzo4ovNmIpf9iwk8-2BO5V9oDEO-2F0k=
+hGRfA2M97NBWq-2F5p8MBw99ZLbyTajlKtW7EPqBBHml3-2BP5B3KIrOAL55JfyUNuL-2Bz2zNj=
+wS2UVUuQ52TVDZKyhVlWOu-2FegVkIe6WWdE3KUqdk9QUfYaXfkd-2B1RDLTvLD38oqUohXX-2B=
+4Ym3AXSH6ta4zYGHbMxs8cka-2FhJO35Iq7g3D-2FoL-2B-2FaP4SW2X52U84k9gmoawUmbNjgm=
+THQ-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1u=
+EQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrw=
+Ey6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SA=
+aYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL=
+-2FGj9YsFlA-2BTmkre6MPqNBZ7HdsIPJR3nRrN2UlvbDWee9teuiiw2DTXwmHC7zLd5rTSpB8z=
+u-2FBTRg54ID6a7LMQeIRBV1XpWJpSLUBjLqtCrOcooo5cu1i6Xv3b0uoJlsEK0ra7QjWFhuWeF=
+5rNwcxeEw86hI-2FY7sOee4XmBfDCZWMwNtCPzZeBQ2uFL4pn8H9YrMWAM-2F7AfdNx1AxCvo-2=
+FmqhjIUfdNJA5EM847wR473OBiCjUOVQmWKMf9I9cv-2F-2BpUMApVRNPRWWGKK4Q7SdpK7XgV3=
+uHuIqE-2F54q6obTDhwlO4NdfjuTGusedyqq9GzlL0bColSdjALyRtxgzTkd3ei4sTwShCZXR-2=
+FT3IqlgtlxJTRVubnAfdJ-2FDbTzJEcIhw-3D-3D" style=3D"text-decoration: underli=
+ne;"><span style=3D"color:#777777;">TUMI.com</span></a><span style=3D"color=
+:#777777;">.</span></p>
+
+			<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"text-align: center; width: 640px;">
+				<tbody>
+					<tr>
+						<td height=3D"35" style=3D"padding:0; font-size: 12px;" valign=3D"cen=
+ter" width=3D"100%">
+						<table align=3D"center" border=3D"0" cellspacing=3D"0" width=3D"640">
+							<tbody>
+							</tbody>
+						</table>
+
+						<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"width: 640px;" width=3D"640">
+							<tbody>
+								<tr>
+									<td align=3D"center" id=3D"content" style=3D"width: 640px;" valign=
+=3D"middle" width=3D"640">
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"=
+102" id=3D"Table_01" width=3D"640">
+										<tbody>
+											<tr>
+												<td colspan=3D"5"><a href=3D"http://links.email.tumi.com/wf/cli=
+ck?upn=3DEF7Qp5U5oJX-2Brs3LNbV9XQQH6moe4nUB-2F66qkln81I5l5q2hMsrMODy2REXbu6=
+0vxycN3OyBgEmd8zTQAv8ZyuygA8H8WxtGRgjQ-2FiP5FEU7TjfJPomDvtanBRxRCk479ePwffg=
+YNQq7GmB4dtZYoYL9iGM6BNaUYZepM8htuVUb-2BwKGnVz3tPdsmU4zF50PonGd7eDuJVH7X6qS=
+96s2gtHNANcw7yi9u-2BASHqpL7Kmm71-2Br-2BQkNQvcROKBLuH4nkgJri28-2FE5lYcrXGZcp=
+C737CcCFS2AeRfunnlzwZ-2Br7yZ8XMG-2BYTipvL3mrDWtO4gQUkWdVH0YqMFTz7ldCHn8DaTY=
+9F93f4Vr4DxP01j9h8RIX1zVZrYwsKtNyDjQaR480BJosU1kGiu8XkFvijWA-3D-3D_zjEBjo-2=
+Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2=
+FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzE=
+TanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGq=
+Oru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BT=
+mkre6MPqNBZ7FrYTbU0Ec8kCR87Dmf1XKWx70oxzrnCvbtrftgAiTlHrSh6JwggKlVQohZ-2Fin=
+6MDSH1GHv8jLhig-2FwJYlAWK5HHSxlEYCV6TeMr5wiWY4OrZU-2BAowl-2FJUV2-2B9D7-2FPp=
+UKzWK-2FbOP6XX93PhFowqOnPNOFWosl1EQvu1WEmpKT7nTeXMBiePuZO4hqoXacs-2B1GzZx7n=
+DnlNEgi17n86kD2RkzBKsh4-2BOyZAmDNKcDpxb0l2zATIf2jH1GGsYTtjdtMRarr7HfQ637fmY=
+d8PpdmCWByWJbd2JslxGLTaUdx6poVWy9obuK7A6mEoqMKWUCQHJe2N3q-2FsbOcIx0kM-2BLbS=
+CJR3GycgTQyAlhU8s2Jz-2Fzw-3D-3D"><img alt=3D"Visit TUMI.com" border=3D"0" h=
+eight=3D"64" src=3D"http://image.em.tumi.com/lib/fe9712727660017c76/m/12/Em=
+ailNav_Links_01.jpg?1500910873" style=3D"display:block;" width=3D"640" /></=
+a></td>
+											</tr>
+											<tr>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XcsWit6JNttr29Em9Erwgp8B0-2Fl8yVqVNJix0JvJzN8arFmh5GleoUMp=
+-2Bk7z8oGVcLyKZxnAiFyCoCWx-2BVfSl9hAATrPGWaIs1-2FrdO8cztEACR5hdlLROF6BaD7UA=
+NSZXmG2r894vqsm8TplDPO5q4vwLRvNHW73YK-2FuVI2SoewfVSfVCphcdJLlfRq6K7wWjRoHIf=
+n767xqHoTsmGgjKcY47S4YROQ9kBmv6GNbxaTyX-2BPjecf3-2FiM9UcHPsH8wK1pRUoEK24nYh=
+YMD1URvEV6wNuYe0Wf0KnVxN73FOST-2FSy2Fx6zoVQM9SSpEwXb-2FitlLRCJSCcebXEOex30o=
+GX49dCMYJYpIH8mMplqNKKOM6ym73fm7vWUH95zL3Aq1ZLv7Bb9xB55iIQ-2FCHxGl4lg-3D_zj=
+EBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2=
+-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnE=
+DtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOA=
+jc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsF=
+lA-2BTmkre6MPqNBZ7EDNzfx3Wijr6JIcd-2FSG-2BfEuwQt3JHNDoaBPMjpslOa6prpQAV1iyh=
+-2F6zXBXJdMdhaMwxdNObvZxTInRPVYAd3hOqesBbHo9uLh5b1NbPaR8KpoUkpci-2F6ZhhLscF=
+OmcuqSEO0S-2Fw4mCpmIHYvp-2F5-2FKLH35O4La7K6tcPUMg4sO4JRkqxk2-2Ft4Jh8XC-2BSa=
+blaKnzIozS5Bx828v86BFKIuMiMz-2BwNY6eH7MxpzPzsVAbQeneIP57Vug5FriQg7p1KWxPQMK=
+sMD-2FLr5Sj5UsCecKtLRwqItFlM50e1ZcLoJb5mGnJleFcWhlvNnToigJASoITCEVSo-2FcNj4=
+Bsr2LvWMgYEygDfomyhf-2F9KTfiaoxjg-3D-3D"><img alt=3D"Luggage" border=3D"0" =
+height=3D"38" src=3D"http://image.em.tumi.com/lib/fe9712727660017c76/m/12/E=
+mailNav_Links_02.jpg?1500910873" style=3D"display:block;" width=3D"163" /><=
+/a></td>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XQinjYug-2BOGVnl2HtnaJ0IuSnToU7Vc-2BUz32Q3hDKo-2FPn7Bij1E7=
+FZaUNqGnwKTxfoYgizFCHq8-2BQKWyaPQyoGvkKOCl36laBVOZEJ4uKW8NI0mYSx6B35fO4C87S=
+Ew3nYhd3LltTWjLTAascZEvAi6PNroKctOOc-2B1LwrWg1qRTLFfK5R5BKr-2B-2BE0p3T33HVZ=
+GD8Ng32OS-2BBb3tUqEyo-2BR-2BhbyePD-2BX-2FJSQ45ICteTOryw6nbgxKttyn2zdN-2FQhY=
+zDDnfRm-2BeUHAfgcy2aThtxxehgT5YaEzGjPNajDWibs92kbuQo6Xkz-2F9bHlVFPXdrIVx8do=
+B5GwjdKrkrxmbJCTh5NKg-2FIv-2Bst62PuWzkyk5ghysNsnFUF45rBuWiQUxkIKVzQq1WJ547x=
+PIhF9-2BNQ-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa=
+3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2F=
+xWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArS=
+cqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5P=
+T69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7HfV71ivIL5kCF5Mbxrl7CZSO-2F6z4HfFqwAEetKV=
+HIHQInM6SWSIx03jkDP9HpGZFiqHW6-2FqooCUCGLbx04JMAyxmbLSjbdCO4oEy6QfyhS-2Bl3d=
+NjaW44iik2FSeM9l-2FEHERQLqI0kmg9elKqUkjstxH5oHMyrdJrzo0lJW8JUrADkgB89PwdlOV=
+e4S34VKLqRjgTCAI7dNzVNt-2F8Iwnd2Cqrf2FGkaCUXtoCa2Oqx1X4SCosJVCh48cscgBG9MTO=
+DL-2FexHys5YnbWbGV-2BeF4TdyaxFrY1HxYDiiYQ0wfFQllevF1fz8rlaiji-2B8WHusyHuUGJ=
+pl6vcuhfOb0W1b-2FKK-2FhpzRKfLr8p1L-2FZSl1Drtg-3D-3D"><img alt=3D"Backpacks"=
+ border=3D"0" height=3D"38" src=3D"http://image.em.tumi.com/lib/fe971272766=
+0017c76/m/12/EmailNav_Links_03.jpg?1500910873" style=3D"display:block;" wid=
+th=3D"114" /></a></td>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XQinjYug-2BOGVnl2HtnaJ0IsTI-2Bd0Yb4Q63DMAMxAiO-2FuUiEHaf7D=
+igtwCFuWaWyi176unrHaOb-2FU2Ktde0SGyGlY375OYxzx9opag-2B-2FrKm8ovTdEi29LuaG36=
+6SgPSDTktyCVOLW02VKL90BNlclWsttwm0zSDcpKrdo2O4g-2B-2BxXUi69XJLGmpLFErrsGWjt=
+yeaObw55e0lBbOz-2BTA9KZPj-2BQBYr4W0AOnHs-2FIlv1JDJqmMiQvFwFcIy-2FHov1xeAuEI=
+HfPZioofgZoXeEC7Iys4oXgsBFp-2FxSnqegkCPOr7mGl5en2fW6JjRuPKBzVkwt4pWEDOMlS0K=
+ZzKebsidPlzfqpxt2cSPn-2FY3nZLt6WOryq5EZVqE8mwKRbh4YkjCUQzVYOOBcq-2FmBT-2F2k=
+H3Pe14-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJ=
+T1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnb=
+wrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk=
+9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69r=
+yfL-2FGj9YsFlA-2BTmkre6MPqNBZ7FmGL0kO1ZtiPt09l2Dck7gbIE2wWYu5qKhC-2FxivliGb=
+dWQ6jth-2BGUSLVOSZ9BvfShswqU5a8r8CHfoVYnbXgrFZdEbzSeoc8A8aRxTujL8K5arSSNQqt=
+FOE9lTcEKSs8vCsW5Rc1-2Bcv52Ssv3DcPbqt7xoqi5GlOdu8f1Hr21WOv8vUogb3dd-2FOWAQB=
+dOB-2B-2FhOxczTbfeV0u1SiPrOD-2BVxIYEqu5CZYJB15iPp-2FSQMnNNsa3-2FB7kNmeqW7Vb=
+NLyEjvQprRTllJgKE4f8ucX15HHQbX4F7nhwABRTnMDeyC-2BTJglnRx57PSNZnaMWyLw1ntae-=
+2Fk52Jg6G3txiVQTbOOYGES-2F9qiNEOVu0RhCEVOmQ-3D-3D"><img alt=3D"Bags" border=
+=3D"0" height=3D"38" src=3D"http://image.em.tumi.com/lib/fe9712727660017c76=
+/m/12/EmailNav_Links_04.jpg?1500910873" style=3D"display:block;" width=3D"1=
+07" /></a></td>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XbidstaVrabbhDM8-2Fqr16mK-2B1gax7hYmQd3sOYO1ON1BIRtWR7t0WE=
+T-2FXapWewz58f5pSbUMkv76Rmekyji1Rgcv-2Bxnn7E623X3MvXt2JgSIelhzjxi9wS3-2Bf8H=
+7Db-2FE1EevtQS9nboGvOahEmcb3D4iHo49w4O9UMA8s5yVtZLWyRyV8csy-2F5CVyDRBKoXVm1=
+XtvX15Hw-2FkJ5oFd9bwDNrsxWnoousZsfmcQRmKg2784lHm7h146OUEX7-2FyQHXjRy4piNALk=
+6IkmOVqEl2rzsJFM-2B-2BgIu4Z7YySA2Z30MCcsv8p5Z6GxhpHocuVCMuNs7zp2nFEave6ghVG=
+y09P48R0-2BAl6DimTVSi4lUri-2BhrlQJh0tHzVnDsToqmj6emjSwXGqEYvJfTm2zX0-2B75Mj=
+7E-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uE=
+Q8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwE=
+y6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAa=
+Yr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-=
+2FGj9YsFlA-2BTmkre6MPqNBZ7Hx4diHSGXJsV-2BwYlmOVEb4c6ZUXCHprC7KNh0aQDQSF5lVY=
+c0ZENOKCYOq2BwYxVdWQP-2BDifNbwJWWmMN3iHGveMkgLpw7ic6gA1dFWg-2BB-2F0tANstllx=
+HSUwjTQG-2Ba4S9N2KUZk-2Bz389t52pnzIyltEQMmd8h4Ez6zBKl-2Bdi7CyQb3N3-2F-2Fm02=
+Z-2FD6IMos6e6yciBRUaKshSkcPVah-2BXv5rFeXispo-2FVQy8FAb-2Bvcf5rAlLz1YyB3UA2h=
+TOg3kIwKrqnzw0wBY53tUTkeroUZsR6d76E4Zegi5hwWr8iDmwrlrG89uayc4rVvtpiI4kL0KH4=
+-2BQc9psfGuJBa4hsIw-2Fv1yttzJ2IzmKZwMf3XJW9Xg-3D-3D"><img alt=3D"Accessorie=
+s" border=3D"0" height=3D"38" src=3D"http://image.em.tumi.com/lib/fe9712727=
+660017c76/m/12/EmailNav_Links_05.jpg?1500910873" style=3D"display:block;" w=
+idth=3D"128" /></a></td>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XRMd-2BTy4QZXrZw7mkyfcrD1VZO9VCSPEGxxusFig51UQi-2BIAO5P6uD=
+OpphcFHv-2BRkTXyD8gXG7vWNGTMqxIuEUB-2Fn-2BvdLI1LfitQ-2Bv-2BDOHf-2F6YAoiWloh=
+GKpz2Krf90aD3Q8m18Arp4mtbXoWM6vCEAvYOBmHRquHxR0BY0xiGYbaNZWS0iC2nBxmT4tiaTH=
+WnTQ9gikeR8CsD50NhV3esB93ASG33yTiOyC-2Byde5yivPd7NAQeee9JWkDbx7Jg9n5gzD217L=
+UxDP-2BYlJtpREjf5DpedOG-2BpO3B4sgAFJ6MVQt3zw0rMwyOcv2yjLJR91AXb-2Bt0w45khLq=
+jm8x-2BpBnzKtiQk8jMhuQX1vp-2FUyLkTYIQrEe2mHMK4znyaU8vFC8V-2F6HiHqHSUszhZJZM=
+MziA-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1=
+uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwr=
+wEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9S=
+AaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryf=
+L-2FGj9YsFlA-2BTmkre6MPqNBZ7F576CsonmbF9htc7MVOELCUFAUmxp7DZGsP2oM278P0yCqg=
+JRDZZFuaPb5zf-2FABRVljNW7FjgLAb2rIjGPoQb9LOv9E42XCXosrxIIY5GZRLdvdZr33LHE7a=
+FebVVh2SBpbAZSqNXKs1zRWlOvPS2EYS7xRnK1-2FTkMGxWNoqFg-2B3gB09tCuSJydqwGfMHF9=
+P-2FOxMx0yiDR-2B27AWPeGF8ICys-2BTt76-2BIVQERpIpHzVn4k7cHdR0QmRlMuiWLuxaf025=
+JIBqQpk2lCYzlXCTfebfZzqW2FX8z9s6qF7Mr3JxPc23RtAvgeupzzzo20wgAQGVAwiGvqcXNAT=
+DOV-2FZuZB8hWKNaph9osCilAK8TyXNFw-3D-3D"><img alt=3D"Sale" border=3D"0" hei=
+ght=3D"38" src=3D"http://image.em.tumi.com/lib/fe9712727660017c76/m/12/Emai=
+lNav_Links_06.jpg?1500910873" style=3D"display:block;" width=3D"128" /></a>=
+</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- Email Content goes HERE! -->
+
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"=
+990" id=3D"Table_01" width=3D"640">
+										<tbody>
+											<tr>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XbXHQbNbBSLNBDtIjnFCsacwP51j-2FjLUCh3xmU2Cjij5-2BZCrJeIakD=
+ufaCLRSTZElbQCS8-2FQRBnF-2BYgFZULn495PEoBr0gwwi8mopLVfFjw973O45iAUN7NNvIjOu=
+UvNzqreJkGXkwG4fA9-2Fbb0uXA6PtEtq-2FwObOvv26ay9sp1cOg6xdFSS0-2FqIJVym7KTz9q=
+XfFqk-2FM-2Bf6txyPOuGSyCFys7gEZVOjAzqBBrrb2NX-2FHrRkLWq7oXIIR2qJe89ipHkooeX=
+DX-2FA4MF4HY7JcVw-2FbV13aSw-2FSrRmt90KtkPe2nQdaSaEvdFdQ4wcSbPnX0Q5gCr7XKEEm=
+b3OWzvL-2FLndQ-2BiNA-2FEUDhFR13fKldCiVxIdMzVtk0Yaod3n0XhGpsfjLxblb2zVKAoDYB=
+-2BVNeZySCyFi33EbqOeRdnIIqhxJ_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7Aw=
+dPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJq=
+J4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ=
+1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniE=
+KmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7F9RaROkTCayIRhTC0mEV6gKen=
+gT2s-2BEqg78dRVUMrKXzBUUhI17JjzJdU3Foop81fdfP3Bgfuws3K9bSEgx1exQhHK1zVohc9m=
+23McKOgykPgVh71fRkXs-2F6Wsh3C7EeSqfJ4JjkQCcVJkrZSjUopWEEGRRQJCBDJKgEhNa1X-2=
+FXGmRratyhgudZlD-2F4kVyxU8-2BWtpUM4cLHy3ptPSBnm-2F-2FyVCERA6ffm3rhhIYesubBb=
+3kBVBXOY21RSalGuMTXbM98l775TCXQW0sBGbR2zJWu1UwLA9AJORYDWlT7VaMWxdh-2BnqIbcV=
+kZqlklf49b3Y-2F6aqRVdncyX1Ygn6i1AcOEtlGZK2jV6005R0PAkXl-2Bg-3D-3D"><img alt=
+=3D"Statement Pieces. Shop Now" border=3D"0" height=3D"582" src=3D"http://i=
+mage.em.tumi.com/lib/fe9712727660017c76/m/13/09.27.18_19Degree_FallFoliage_=
+01.jpg?1537906263" style=3D"display:block;" width=3D"640" /></a></td>
+											</tr>
+											<tr>
+												<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp=
+5U5oJX-2Brs3LNbV9XVyYzYr6ET-2BK047YdjCPYNxlBvVGEq8-2B8FuGFiMuHM4eEASh6STRq-=
+2Fg3RO2iQIy-2Fe0sIHiQaHwes1g4ZPwZmzZI7AyG-2FsNIqllm7R747oSCBx-2B3gk4B-2FaHk=
+SUWEaPlCNPfvJGndhXwlt06yc-2BDJiDod5-2Bz-2Feh1QmR-2BuGmKgTVxUwHgVmR8hxplGmyh=
+RVxVBhUSd-2F5XSJrMElghL9mUSX22SvIgg9CM8fd9WJO-2BwNcsqMdtFKwXkkofd5Q0hI-2BX7=
+Vd5c9mFiWJMetMfxYza7sZokH1OQD2-2FdSh1qbWokecLQaanNLSczQmijcZaPPCEN9oKuxrk0m=
+B3-2BlacrrD9VI63T-2FU4oN49gxeDV33xxi1FnFlsISrOGlD1Xzj0TPmSwepuNmxIW0c7qHvU-=
+2BLDSEP-2FCX-2Fs0OFNhA0cAW71awBKqyC_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2Bs=
+ENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le=
+-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAG=
+RzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvj=
+o6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7GR-2FN8t25gLqkMhwWt=
+r3ZjM98sT-2FyiY4Z8iVU-2B3IT5OPTnKK33-2FFf1XYNLF48S5wAgCsWx8bn2TLmovFco-2FpX=
+ta22RjknQ3K6jzdOR8LFX-2FPj90r8-2FKut-2FhH6d9vkJszKa33ggxcLDXH6yCkBA2JODx8NO=
+75tTm-2BaoviXjFW3rVHb4x4UIIPDRJxAgJcqYKZTYuR7Lor9EO-2BHBxEffS4Xq9iA7WqztQfQ=
+Oh2b8UvLhVinUr-2FyggTYx-2BT1g7G65YX-2BfjWLpRXyRBAU8dqQfRZoSKJ5r3FHhTQ6b3BK9=
+TAUJCPWF9I8UWJjHxPX6C5cMehIPAqzvH7eaAe-2BEzgVPyUIpV3xIqOpxMtoUJSITFQ-2BQhag=
+-3D-3D"><img alt=3D"19 Degree Aluminum // Limited Edition" border=3D"0" hei=
+ght=3D"408" src=3D"http://image.em.tumi.com/lib/fe9712727660017c76/m/13/09.=
+27.18_19Degree_FallFoliage_02.gif?1537906263" style=3D"display:block;" widt=
+h=3D"640" /></a></td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End: Email Content --></td>
+								</tr>
+							</tbody>
+						</table>
+						<img alt=3D"" height=3D"1" src=3D"https://pixel.app.returnpath.net/pi=
+xel.gif?r=3Dd7661b973fd6e4a7e5cde38dd376881c740f62bc&amp;c=3D1670&amp;s=3Dc=
+ommerce@agentidea.com" width=3D"1" /> <img alt=3D"" height=3D"1" src=3D"htt=
+ps://pixel.monitor1.returnpath.net/pixel.gif?r=3Dd7661b973fd6e4a7e5cde38dd3=
+76881c740f62bc" width=3D"1" />
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"154=
+" id=3D"Table_01" width=3D"640">
+							<tbody>
+								<tr>
+									<td colspan=3D"3"><a href=3D"http://links.email.tumi.com/wf/click?=
+upn=3DEF7Qp5U5oJX-2Brs3LNbV9XbMC2n2Eke-2BafVuAV4aMqbftddB-2BB9jBzCCvEjkr3T3=
+krGU28kt1retYPU4nESv6ze7kSG3UX94EWFC5pSpMvCOCUfovsSycdwqbWmUNGenI8-2FlwvCAf=
+-2FUWr5QrSZYQPej8HjkhOi-2Fo89PB3GS8btvKWE1ZbmJB31Kf9srvNMGEITuPDoa0-2Fs3Xa0=
+n99n6uMFhChsU6THEvcBeKQGW7Y5R3cYRYZkI5UvlTB0JXQgFPiMLxrZn-2BoYjLaJfuM8EGyk1=
+yOyJrKgTCrpPkbEfzpWhusXWeHIS6N45ohQC2043C2BDHy1weMBquGQnLgJY2SJ6tIpf3EffAcX=
+YLY5T4hYIRkHxJfhoRjErgAABQkr0zpG01bzMUe3CQG1rVu425oOIyko-2F33MNAnwS6RfTbKN3=
+xM7smZ40lCwCK1PUcuza6a_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdw=
+hdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9=
+yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2Bb=
+Othgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDt=
+KrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7HtqZQ-2BeFCRANOr8AZpyg24py7mzqEF=
+phicKGDJVD-2FRnNE1peHH8lHInlj0z9ZUvu-2BU2fSfmhtlwQrI5dn2elga1b-2BQt-2Fnmvp-=
+2FEJ1YKZ9SNTPkp8SMQ52xoX6o1evVkhLETmnysGyUZR-2FvO5NvC5FhszvAYPwb-2FoD5U7fr4=
+ZR2GRxpTUkqWVRRrj-2FWXF6PLiiQxUWp96NbiWou1LN2FoV6pmdkDR2wq5AsImipCBifTzzUhR=
+D7Q-2B-2B1HzYIQix2hGM9VnXghKeYEJeNYLRLTDYp0KWW1dy-2BigjR-2Fl1lPi6fAe9db5Cui=
+sUf5IniHMd7vtSLTtvF7O-2BHEdWo25L4jrJFBhsEbeNsPk7YGfNYlJXbWNQ-3D-3D"><img al=
+t=3D"Free Shipping and Returns US Only" border=3D"0" height=3D"59" src=3D"h=
+ttp://image.em.tumi.com/lib/fe9712727660017c76/m/12/00.00.18._US_TemplateOp=
+tions_Email_Option2rev_01_01_02.jpg?1478638498" style=3D"display:block;" wi=
+dth=3D"304" /> </a></td>
+									<td><img alt=3D"" height=3D"59" src=3D"http://image.em.tumi.com/li=
+b/fe9712727660017c76/m/11/00.00.17._US_TemplateOptions_Email_Option2rev_01_=
+01_04.jpg?1478638498" style=3D"display:block;" width=3D"34" /></td>
+									<td colspan=3D"3"><a href=3D"http://links.email.tumi.com/wf/click?=
+upn=3DEF7Qp5U5oJX-2Brs3LNbV9XZlpQkobuMHJ4ZRMVBkl7-2FiIfCEJInPTx7nztNs7buidg=
+UDBK1TbOMxzdzZLJxPsGprNM-2FIGBnhvYgixEfugGTbSrPlLONKochdvj4XcHvQaYOJ4kd2LMB=
+AWM6TBEArHQHVSG87HpOcBPRkKHEmMqJR0Fi-2BcZuURibJB0bmwD3zNLzlYaKFwS5rYeC-2Fdx=
+CLQ8-2BwsDzUR9k5-2B5AiMeLMZrr8nfLsMr-2FqRoEiSnB8k7eQCi01mPTZvVe2VtYwMDpsQxn=
+lsW3PvB1-2BuWKfrTNaiqWkM3s28A7JE1H4us9dp5NpAiNmYVth9S9MfJEu2f5ciHGuMrbQ3u6n=
+Oc9G36QrRJLbdtXS45D9T6sL5JuwlEetkO1jOU1SjXmPOgrXGxjGzl8CfEsMopj8kvUH-2FHeGo=
+ZCc-3D_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1u=
+EQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrw=
+Ey6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SA=
+aYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL=
+-2FGj9YsFlA-2BTmkre6MPqNBZ7E9DCFQvyW-2FYA6GWz53jikiKslAhzu0LVauy-2BYODf1VBs=
+UOhaN687o7-2Fb4RS8t-2Bn84aysh1QROK5nrBqxykSU-2FTYQfRVmmZLFObZhX9zJ5r9x6t5RK=
+mU8vcrUfhn1yZ2yGMNzN2Zn90GtYpE5T7a4qbknsWvT9UZtFGFVa0dQUGLpFEYfgZoCc-2B5JpC=
+TrdKEbjaGQhHHKYM7XwRc7JQLYqUv3tPnJPQQXbvHFsKLbDBy3sHFthu0vAQyOPrnuhQ-2BFQts=
+FTSCwA7wN3Zff9A7cWl12d2bP8VKJqHIlbCGfUlnWnalsdI61-2Fh5eD6E5kQ3NWnDsWYVRhyC8=
+yqyrPOuC6wIHJ6KssjLtFX1o-2BFlHpK6g-3D-3D"><img alt=3D"Find a Store Near You=
+" border=3D"0" height=3D"59" src=3D"http://image.em.tumi.com/lib/fe97127276=
+60017c76/m/11/00.00.17._US_TemplateOptions_Email_Option2rev_01_01_05.jpg?14=
+78638498" style=3D"display:block;" width=3D"302" /> </a></td>
+								</tr>
+								<tr>
+									<td><img alt=3D"" height=3D"66" src=3D"http://image.em.tumi.com/li=
+b/fe9712727660017c76/m/11/00.00.17._US_TemplateOptions_Email_Option2rev_01_=
+01_08.jpg?1478638498" style=3D"display:block;" width=3D"245" /></td>
+									<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5U5=
+oJX-2Brs3LNbV9XTiREpMS-2Fqoqybl4wbKNobdKFLur5OxIFABHrgSV0-2BGhFQpkhT9rMhcf9=
+43kSGp2hjYQ-2BlcPrT21c5738f5gbed6aoLJHRnd9rC4ZQ2iNsvkOQdMjvmhZxNsiZGnEiQPnm=
+tKdx21nVOilP4fQ1nJm3iNCVwgATMs8N7R3R5cbH9x_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjIt=
+kt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR=
+1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSgVDBu=
+eirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7=
+e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7EWetttG1h18n=
+EJr4gnfvOpel0oP-2BJO7cndaMF9lNXXbOxqPnf7hmuqpiF6HZiMV2tCBA8eyVg2-2BuUVTA07L=
+JsDyavAFzTDAPOLKrjfGyPr5l3o7cuhZaUBp7OUCYpLBFqfImd8hqn2E9egnDeAfTJRo2-2Bbnh=
+UFGVwDll1McSpZcN-2B8zTdHpF1NXePZLfR3vTgzY0c-2FRE8ICKaB-2FHguPR8AQvTcm-2BvpK=
+PQ6S2NClAyuL2oeiufMYOviZ1KPb4P9GK1relEvt8kYUrqg8T5-2BqW-2F9cKKRgl5PZgOlDb2r=
+SLk2KinnCSsr1GYWYgQeozKPhTk5jZhgl1uGZ6Qw6Tk4OLkeqIywXOAkK-2BG6mskUqKhU2w-3D=
+-3D"><img alt=3D"" border=3D"0" height=3D"66" src=3D"http://image.em.tumi.c=
+om/lib/fe9712727660017c76/m/11/00.00.17._US_TemplateOptions_Email_Option2re=
+v_01_01_09.jpg?1478638498" style=3D"display:block;" width=3D"30" /> </a></t=
+d>
+									<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5U5=
+oJX-2Brs3LNbV9XQPOxSA9g7oB2LP7n-2FXtsTCC70KvxjSFXnQ6qYNz71xDM-2BNJj2ilJE03g=
+dLvHUFs2-2BSkRI3rq-2BlIlU7GIgr0MvXw1If3yDIJO6Mog82gqY3cIQYKLKxZuMYQh889MMT1=
+j8JVAj5QLceoSH-2BPQQuaCSyHWSHtkD1NCD8a9Vpb3NhY_zjEBjo-2Bw-2FxLHGMkTLOtbrwxy=
+VjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vk=
+jrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSg=
+VDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3m=
+f2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7HVGVsW5a=
+nE3r4Nb87Ogod0NzAXzGsImK3b8AQomPnFHukrwswrjJHaOCU8qNJ2QMgcoOVSdcwcxVxKRC8mz=
+NrcizIJIr5QV9rURTRCw2wlOdWD1ikARldOuRXTjfjY8kPQYj3qU-2BoP8K6-2FwLip8-2B6lI4=
+hdzFMxtzOvHgyhl8kDHvO1I-2FNCS05jACu3oG7FQKD1UyFlsEBvgP9TMAUusabhrTEhBLV3rKP=
+AREOkTO4wEVllARhMsPpUSvvT2dXyPg8raMqzSoj-2FCLCT-2FeI7Yz6z23TZyTkf-2BIofes-2=
+Fy6md0KquMqArHXNxOSacYw0IjlTr-2FaMoWyVmTAYEtAbvA6AamJ4A0e8p7K7ZpNJHLcO16eQ-=
+3D-3D"><img alt=3D"" border=3D"0" height=3D"66" src=3D"http://image.em.tumi=
+.com/lib/fe9712727660017c76/m/11/00.00.17._US_TemplateOptions_Email_Option2=
+rev_01_01_10.jpg?1478638498" style=3D"display:block;" width=3D"29" /> </a><=
+/td>
+									<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5U5=
+oJX-2Brs3LNbV9XbpnlPNprvgmg8e-2FXxhF-2Fks2UMK0If8JAHvwOAm-2BL3XhhIzixFr94I6=
+4BuXXMtSZ6IWPYOJ3bv2kh1KJaq3sIR80c3fob5IVJfDIE6o7vWBKSorD3F-2FPd-2BwO89j6I8=
+6bnZ1k78hVL2BOtlS5X7EoKgVhtpbc6Kf8vJzIDB7uqQqL_zjEBjo-2Bw-2FxLHGMkTLOtbrwxy=
+VjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vk=
+jrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSg=
+VDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3m=
+f2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7Fbuvxzcw=
+nxM3VzrrS5fclQIdO1OcJW4N9iwpWBN77H4bIGItQ4MYYSG7GguQ6DCMseEGPO0OE7O-2F8w2W2=
+-2FdYvjYOppEJV2AsGRv9VaPGsfG0Bl1V9-2Fut9xIWlhV1CHWJEaws16-2FqUs778L-2B6Xski=
+6WUpTtECSjAA7-2FTlY22oHa0EEqYueHY1141cRaWE2pmvsrD69oWDUaudKbKgh8SEpIuFFThfB=
+v0LuCyIzq54vL-2BITrm54DO0wv-2B8Ep0HihpTi6CMDNirICtNhsJHrWUiorWOL0ys5U18zkTJ=
+qCRInbrVPD4RcskQLdUUAB2qe9zsEewq4E5k7LGjajUEkaevypfgGOj9Gt-2BEc6ABHjZnvPGA-=
+3D-3D"><img alt=3D"" border=3D"0" height=3D"66" src=3D"http://image.em.tumi=
+.com/lib/fe9712727660017c76/m/11/00.00.17._US_TemplateOptions_Email_Option2=
+rev_01_01_11.jpg?1478638498" style=3D"display:block;" width=3D"34" /> </a><=
+/td>
+									<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5U5=
+oJX-2Brs3LNbV9XcEnKjd0NX52wBajsoQQDya7gkf34S3TF0hvS-2Fymmo1AODR85iw8yc8Mfmj=
+O0cZrHeMQ2KJmMyGlufu-2F-2FSzes6tMI4syNHz-2B2ZL5y5FKpsoO2Jx5RfAFtNGv9NjWSZi3=
+3Trqal-2FhqADw1LIoE1vlamNcBqbrvNQHk5z7-2FabhPt6u_zjEBjo-2Bw-2FxLHGMkTLOtbrw=
+xyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5=
+vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIh=
+SgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT=
+3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7EegCw3=
+akHLrAJSU4NYWw-2Fh-2BsEbDm7JPxdBJcVJZrKyPcccrOF6Djr7Z2DMUY-2F-2FgJch6Rg0rwf=
+gwDK5YNMMNY6ySK-2FxDqRUsoFu8VMXfStuVtsFwxozylwXsbtg7pwCesR2jIniGGP1qSZ3O1Fw=
+JnV9bIy-2Bv1lwXXLphokhuH7GiXF8oypv0p2-2F5TKGBJeWmWpfz3Vss3YqWQ1miy74-2BXjVk=
+TDjx3ChMSWPOcBnG3CcSDv4chg-2BNAqENfyJnmIwN08Ebr-2FTHlcLRb1459kZ5DN2KDKtSB90=
+E6H5-2BzCnT9F-2FVfl0Q2oo8eBNRm-2FrMUUNSjjVKCsEtq2aiiZlTWIuvxCe5qNVUnuFUbTDC=
+6OVy3pY-2FQ-3D-3D"><img alt=3D"" border=3D"0" height=3D"66" src=3D"http://i=
+mage.em.tumi.com/lib/fe9712727660017c76/m/11/00.00.17._US_TemplateOptions_E=
+mail_Option2rev_01_01_12.jpg?1478638498" style=3D"display:block;" width=3D"=
+29" /> </a></td>
+									<td><a href=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5U5=
+oJX-2Brs3LNbV9XWoiIu-2BtIg0DqYfNGrgmBSNOg5vWuUh9Mn3f-2FoiBi08xp1pzXcBxwrVAo=
+lQyEa-2B2c278iKaWWnXQ2CzmLXVhUcwZhyGgZKkVewbtCg6Olf7YHemk8gctOJq-2BuOLEGhN4=
+1T1n8s6VWWLaqyzVHVQ-2Bsn5O4z43ZDaM3mS3MgAatqSZ_zjEBjo-2Bw-2FxLHGMkTLOtbrwxy=
+VjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vk=
+jrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1abuLQIhSg=
+VDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPbmzKHT3m=
+f2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7HawMiyUu=
+bfvnNSjCMXqVy43wQuGeCXqX4lZFs9-2F193geBU7q0qk4xywR2-2BG2Yp8fLzZne7oHL6BLZ-2=
+F8VUVskeTgZFosn-2BYjV2leUbnaCTbs-2Fi1jJr-2F175NrWLyXGUXhorOTP-2BtyRTj7W7nnG=
+dY3znotvAQjgB0VfncdiPBlCn2rpyHcO1MC8DikEQ6DQeQ6be9X36QK72DM3FbdfzoCBpiVhDXj=
+fSdnxAhAuWYZXqhlJNdtzs12wflEWoUjz-2FdzybROkJ9iFCU9q1vDddyilSKtD2fm-2FumoiOh=
+V9AgGOmaMJB6hnr8PoC2kQI0q7Epnnb-2B1aW9e4D43W8R-2Fo5mPXmSYKCyv7Yp-2Bgzz4ryjs=
+aNoXw-3D-3D"><img alt=3D"" border=3D"0" height=3D"66" src=3D"http://image.e=
+m.tumi.com/lib/fe9712727660017c76/m/11/00.00.17._US_TemplateOptions_Email_O=
+ption2rev_01_01_13.jpg?1478638498" style=3D"display:block;" width=3D"30" />=
+ </a></td>
+									<td><img alt=3D"" height=3D"66" src=3D"http://image.em.tumi.com/li=
+b/fe9712727660017c76/m/11/00.00.17._US_TemplateOptions_Email_Option2rev_01_=
+01_14.jpg?1478638498" style=3D"display:block;" width=3D"243" /></td>
+								</tr>
+								<tr>
+									<td colspan=3D"7"><img alt=3D"" height=3D"29" src=3D"http://image.=
+em.tumi.com/lib/fe9712727660017c76/m/11/00.00.17._US_TemplateOptions_Email_=
+Option2rev_01_01_15.jpg?1478638498" style=3D"display:block;" width=3D"640" =
+/></td>
+								</tr>
+							</tbody>
+						</table>
+
+						<hr style=3D"border-top:white;border-left:white;border-right:white;bo=
+rder-color:white;border-width:1px;" />&nbsp;
+						<table align=3D"center">
+							<tbody>
+								<tr>
+									<td>&nbsp;</td>
+									<td style=3D"color:#777777;"><span style=3D"font-size:13px;"><a hr=
+ef=3D"http://links.email.tumi.com/wf/click?upn=3DEF7Qp5U5oJX-2Brs3LNbV9XbMC=
+2n2Eke-2BafVuAV4aMqbftddB-2BB9jBzCCvEjkr3T3krGU28kt1retYPU4nESv6ze7kSG3UX94=
+EWFC5pSpMvCOCUfovsSycdwqbWmUNGenI8-2FlwvCAf-2FUWr5QrSZYQPej8HjkhOi-2Fo89PB3=
+GS8btvKWE1ZbmJB31Kf9srvNMGEITuPDoa0-2Fs3Xa0n99n6uMFhChsU6THEvcBeKQGW7Y5R3cY=
+RYZkI5UvlTB0JXQgFPiZJy7meGvvB1ivb7rQs-2FMgPpE8D2Kl2L9kXobOO7cotyqFLxaLi6L18=
+DTOfuaCFqtTPvmCXsUKqruYMpn27tYI54CQoB5J7luem4D-2F3OIpH4nwCMD-2FdJQuSeXIXJo9=
+J-2FzYzP9JUn3HkvnGtCtzDTck3PCQMQhvXGg1JxdIV6OdY3GlioeRyzwMjU6lnJsvDuH_zjEBj=
+o-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2B=
+l-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtd=
+bzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1=
+qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-=
+2BTmkre6MPqNBZ7HSmfrRKU59e-2Fv4CI7aeDudsSTKHkELoRXI1lci3jP4jBMssXik02oPdji-=
+2FDaeMMaUgIgtzYbPJjua9yrel3TR7n8ImmRu9o4d6nlm0r2oysCAbaL-2BXoWUY5kFNoswYS3D=
+drFiazZWd9-2BbhCxr7jfLrMHoECur7i4a0kD5ZooV9c-2FUyPDv9L8uMCqdThmwRM0RNIoya17=
+wJdpo7w3qPPcz4e3s3AQ0hTgTCQIouCNSqlr6dtZXEPtRO50PmoOjrL1d40m0d3o00YZciaY7u6=
+roAmCSXLHOXlpUVCRMEgWspiaShx9sAKEo4BeRGMfYBwEoCuZC21Cz-2BoaZTKyjl-2FWdq-2BA=
+DQ-2B85d7GuZMgb9CpFzyA-3D-3D" style=3D"color:#777777;text-decoration:underl=
+ine;">Customer Service</a></span></td>
+									<td style=3D"color:#777777;padding:0px 5px"><span style=3D"font-si=
+ze:13px;">&bull;</span></td>
+									<td style=3D"color:#777777;"><span style=3D"font-size:13px;"><a hr=
+ef=3D"http://links.email.tumi.com/wf/click?upn=3DQ9BKw12r24as01FxCj7lzo7YYp=
+-2Fe249ZFC9dF1M1kRUIHE4-2FhGj-2FKd-2BOx7bkAJ4CAQ8smoA39-2BmxMcH0rebXWrwQWZv=
+EMWo-2Fy4uJ1o1jKHKuOE7lY-2F3NNY2yfrY-2BuI26kQcSIHmkTR5Ye9Qro51CpoJCvNEpJ4f3=
+hP1Y-2F8NvEh9dEwUNojluKN8M3SGLcr6fpR9gPpwlOmai2pLpySW8hCPBETbZhFugzu399GQog=
+59NwxPjJCRMbv1x1Lt-2FrhpjQKvtuMcqYTGBuLUiJUiSDFtNsGz7ykW4Vb2CpezEuHiQOaM336=
+h-2FLYI1x0pX0GhV25GDLFGuR1mhyzWE8nOToUSX6Fo47n32q8nPKZFMZ2W2-2Be8Ctv4lpTzLF=
+owkf-2B1qw1P8imUckR2gTYte6xU0Vg92uG-2Fy05BCyeDOeEpQQI2mzl4IRoiJiuLpvLum67dP=
+_zjEBjo-2Bw-2FxLHGMkTLOtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX=
+8R2-2Bl-2FZ5PPL9pfIDrVWMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2y=
+bnEDtdbzETanR6FtAxL1abuLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2F=
+sOAjc1qGqOru2xADjoQBPbmzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9=
+YsFlA-2BTmkre6MPqNBZ7EdD3y9FafCUySKsNp0FE-2BvPm5f0ap0lwHrRfy-2F0iEGvmCVrbOf=
+OFf1W7KklGYktv76v4djUJHC61YAyrN45S3IyEcs-2FyCGrAXeI7Io7o3X16QNimeVup4F2BfvU=
+-2FHxfd3hza3TGvMfKaoLf2FDf9md3-2BnM2aN5KpieaG34FcrHxjaryhbwU8d-2B7xzDSxztf-=
+2BPUbe0BlTQgf9XhlXeIPbYSmck6xNVKjcZEuhykjCbl6dbMIqUr4w8o7uCqHQ7iXJXvNl-2BWm=
+sIB1Dz4gsyOl3PEtrSaCOGdSBL5e8Odty92S-2Fgt8wgEimzFf9M3mIFIRuuiQk4PMskllUzZNp=
+L1vAnWprhTRrJ6mWYTnuURL0DUhw-3D-3D" style=3D"color:#777777;text-decoration:=
+underline;">Privacy Policy</a></span></td>
+									<td style=3D"color:#777777;padding:0px 5px"><span style=3D"font-si=
+ze:13px;">&bull;</span></td>
+									<td><span style=3D"font-size:13px;"><a clicktracking=3D"off" href=
+=3D"http://mhook.agilone.com/unsubscribe.html?a1email=3Dcommerce@agentidea.=
+com&amp;a1uniqueid=3D-4531565336573169742&amp;a1messageid=3D1670" style=3D"=
+color:#777777;text-decoration:underline;">Unsubscribe</a></span></td>
+								</tr>
+							</tbody>
+						</table>
+						&nbsp;
+
+						<p align=3D"center">&nbsp;</p>
+
+						<table border=3D"0" cellspacing=3D"0" width=3D"640">
+							<tbody>
+								<tr>
+									<td align=3D"center" style=3D"padding:20px; color:#777777; font-si=
+ze:80%">
+									<p><span style=3D"font-size:11px;">TUMI, Inc.<br />
+									US Corporate Headquarters<br />
+									499 Thornall Street, 10th Floor<br />
+									Edison, NJ, 08837, United States</span></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End example table --></td>
+		</tr>
+	</tbody>
+</table>
+
+<img src=3D"http://links.email.tumi.com/wf/open?upn=3DzjEBjo-2Bw-2FxLHGMkTL=
+OtbrwxyVjItkt1-2BsENa7AwdPFIkdwhdNO8bSAa3oIJT1uEQ8TtX8R2-2Bl-2FZ5PPL9pfIDrV=
+WMeN5vkjrQR1MN45Le-2BiJqJ4Uhdj9yfmiVA-2FxWnbwrwEy6Q2ybnEDtdbzETanR6FtAxL1ab=
+uLQIhSgVDBueirCyAGRzcEhQ1n7-2BbOthgg0ArScqRk9SAaYr-2FsOAjc1qGqOru2xADjoQBPb=
+mzKHT3mf2s7e3O1gvjo6RniEKmkdEDtKrUVkKf5PT69ryfL-2FGj9YsFlA-2BTmkre6MPqNBZ7F=
+D6lT4vi-2FEuTqKVAFUfdsULb37bxj-2F2paN97LeSA6U-2BZov6o89LUxrbLQbu2iFvOT7-2FF=
+ItXP2n0Q0zPSBYYWfKxGG5Jhl8Dc7krr5cpkVC16nvG92d56tw2bIcmwoEfUYFB5rqiXVR4fTLo=
+uMF0E0-2BVUidlWhb4oOJZJolhG2ONo9rOSOrbRkleSTECEJXyuN7VNpH5-2FNrfNvroNLxO9XI=
+A1uQ-2FZUkYOnDfFGZ7ASnh7JDno3s9s6lRYeatiR4kFZC53Fj4NaEEslVzHJXtim-2F5SYbODl=
+jyplXwYBygJsvrWQsr2jk9Rv1lYdFhvoLCkTNZ4RpnBsIqrQN-2FjQqD9-2BBKkXsPANOEqL3jD=
+VViU3YIw-3D-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"hei=
+ght:1px !important;width:1px !important;border-width:0 !important;margin-to=
+p:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-=
+left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padd=
+ing-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+
+--fcd17ae8e3ec07f0dc571814432ca21511d0d6dbe941cfc0fa30cf891799--
+

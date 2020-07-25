@@ -1,0 +1,1101 @@
+From bounce-mc.us11_45194293.587069-statnews3=agentidea.com@mail183.suw161.rsgsv.net  Sun Oct 14 18:10:42 2018
+Return-Path: <bounce-mc.us11_45194293.587069-statnews3=agentidea.com@mail183.suw161.rsgsv.net>
+X-Original-To: statnews3@agentidea.com
+Delivered-To: statnews3@agentidea.com
+Received: from mail183.suw161.rsgsv.net (mail183.suw161.rsgsv.net [198.2.175.183])
+	by agentidea.com (Postfix) with ESMTP id 7F23140D13
+	for <statnews3@agentidea.com>; Sun, 14 Oct 2018 18:10:42 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=statnews.com; s=k1;
+	t=1539540637; bh=GM4KyixLdAT34Ye4dK2efNrcgenmWWDXDTMA1k6z+iQ=;
+	h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:
+	 Content-Type:MIME-Version;
+	b=bnrm7q+8zcKtdnSI3z0WU/8BHiemxaoZtzeUuj4Ui6sS1ywi+ubiBwOn4PSGKUtBe
+	 dn7nh/Ng1wek9Zyx8Xj/eZ4hcG8pYaTdGSVDpSvWCh8Dhdesra0SMPsM7jc2AyNANe
+	 YtqxE5lpFZ2H7yhPXNbQfXNHewPq5SSuyE3b/6iE=
+Received: from localhost (localhost [127.0.0.1])
+	by mail183.suw161.rsgsv.net (MailChimp) with ESMTP id 42Y8kj2CfszLfHqsp
+	for <statnews3@agentidea.com>; Sun, 14 Oct 2018 18:10:37 +0000 (GMT)
+x-mcpf-jobid: mc.us11_45194293.587069.5bc3863b3835f.full_000001
+Subject: =?utf-8?Q?A=20letter=20from=20the=20executive=20editor?=
+From: =?utf-8?Q?STAT=3A=20Rick=20Berke?= <newsletter@statnews.com>
+Reply-To: =?utf-8?Q?STAT=3A=20Rick=20Berke?= <newsletter@statnews.com>
+To: <statnews3@agentidea.com>
+Date: Sun, 14 Oct 2018 18:10:22 +0000
+Message-ID: <f8609630ae206654824f897b6.fecc3a10a2.20181014180943.b4795ff48f.f749b317@mail183.suw161.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CIDb4795ff48ffecc3a10a2**
+X-Campaign: mailchimpf8609630ae206654824f897b6.b4795ff48f
+X-campaignid: mailchimpf8609630ae206654824f897b6.b4795ff48f
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=f8609630ae206654824f897b6&id=b4795ff48f&e=fecc3a10a2
+X-MC-User: f8609630ae206654824f897b6
+Feedback-ID: 45194293:45194293.587069:us11:mc
+List-ID: f8609630ae206654824f897b6mc list <f8609630ae206654824f897b6.196217.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <https://statnews.us11.list-manage.com/unsubscribe?u=f8609630ae206654824f897b6&id=8cab1d7961&e=fecc3a10a2&c=b4795ff48f>, <mailto:unsubscribe-mc.us11_f8609630ae206654824f897b6.b4795ff48f-fecc3a10a2@mailin.mcsv.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1082527976"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1082527976
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C
+
+https://www.statnews.com/?utm_source=3DSTAT+Newsletters&utm_campaign=3Db47=
+95ff48f-rb_letter_101418&utm_medium=3Demail&utm_term=3D0_8cab1d7961-b4795f=
+f48f-150319813
+
+www.statnews.com (https://www.statnews.com/?utm_source=3DSTAT+Newsletters&=
+utm_campaign=3Db4795ff48f-rb_letter_101418&utm_medium=3Demail&utm_term=3D0=
+_8cab1d7961-b4795ff48f-150319813)
+A Letter from STAT's Executive Editor
+Dear Readers:
+
+I want to share with you a compelling personal essay that stands out not o=
+nly for its captivating=2C raw honesty but because it's the kind of perspe=
+ctive on science that you don=E2=80=99t often read. In contrast with the e=
+xcitement over the recent Nobel Prize announcements=2C this piece (https:/=
+/www.statnews.com/2018/10/14/phd-six-years-scientific-research/?utm_source=
+=3DSTAT+Newsletters&utm_campaign=3Db4795ff48f-rb_letter_101418&utm_medium=
+=3Demail&utm_term=3D0_8cab1d7961-b4795ff48f-150319813) offers someth=
+ing more nuanced. It takes you deep inside the world inhabited by so many=
+ scientists: prosaic and at times isolating=2C but also punctured by momen=
+ts of wonder.
+
+At STAT=2C we like to say we're reporting at the frontiers of medicine=2C=
+ health=2C and scientific discovery. Yet there's often little glamour on t=
+he front lines. This essay by a young writer and former STAT intern=2C Jus=
+tin Chen=2C lets us in on that truth=2C and how his own monomania over sci=
+ence affected his personal life. Justin writes of obsessively laboring for=
+ six years in an MIT lab trying to understand the intricacies of frog embr=
+yos; his adviser had a saying: =E2=80=9CYou have to believe that Sisyphus=
+ was happy.=E2=80=9D
+
+Read Now (https://www.statnews.com/2018/10/14/phd-six-years-scientific-res=
+earch/?utm_source=3DSTAT+Newsletters&utm_campaign=3Db4795ff48f-rb_letter_1=
+01418&utm_medium=3Demail&utm_term=3D0_8cab1d7961-b4795ff48f-150319813)
+We're not any less enthusiastic about recognizing the eye-popping work tha=
+t happens every day in labs and at hospitals and on university campuses. L=
+ast week=2C we introduced you to STAT's 2018 Wunderkinds (https://www.stat=
+news.com/wunderkinds/?utm_source=3DSTAT+Newsletters&utm_campaign=3Db4795ff=
+48f-rb_letter_101418&utm_medium=3Demail&utm_term=3D0_8cab1d7961-b4795ff48f=
+-150319813) =2C 30 of the most impressive doctors and researchers ac=
+ross North America who are just launching their careers. Most are postdocs=
+=2C fellows=2C and biopharma employees. They were picked by STAT editors a=
+nd reporters from hundreds of nominations. You can read about the winners=
+ here (https://www.statnews.com/wunderkinds/?utm_source=3DSTAT+Newsletters=
+&utm_campaign=3Db4795ff48f-rb_letter_101418&utm_medium=3Demail&utm_term=3D=
+0_8cab1d7961-b4795ff48f-150319813) .
+
+I hope you'll continue to turn to STAT for enlightening and provocative ne=
+ws=2C features=2C narratives=2C and multimedia that you can't find anywher=
+e else. Watch out Tuesday for a narrative by staff writer Eric Boodman abo=
+ut a scientist who=2C at 80=2C was lured out of retirement by the Navy to=
+ commercialize phage therapy=2C a long-abandoned idea for treating the fie=
+rcest infections.
+
+If you don't already=2C I encourage you to try our bounty of free newslett=
+ers (https://www.statnews.com/signup/?utm_source=3DSTAT+Newsletters&utm_ca=
+mpaign=3Db4795ff48f-rb_letter_101418&utm_medium=3Demail&utm_term=3D0_8cab1=
+d7961-b4795ff48f-150319813) and download our app (https://signup.sta=
+tnews.com/stat-app?utm_source=3DSTAT+Newsletters&utm_campaign=3Db4795ff48f=
+-rb_letter_101418&utm_medium=3Demail&utm_term=3D0_8cab1d7961-b4795ff48f-150319813) . If you=E2=80=99re one of our most devoted readers=2C plea=
+se support our journalism by signing up for STAT Plus (https://www.statnew=
+s.com/stat-plus/?utm_source=3DSTAT+Newsletters&utm_campaign=3Db4795ff48f-r=
+b_letter_101418&utm_medium=3Demail&utm_term=3D0_8cab1d7961-b4795ff48f-150319813) =2C which goes even deeper into the worlds of medicine=2C pha=
+rma=2C and biotech.
+
+As always=2C feel free to reach out to me with any feedback. I'm at rick.b=
+erke@statnews.com (mailto:rick.berke@statnews.com) .
+
+I hope you are enjoying your Sunday.
+
+Best=2C
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Sunday=2C October 14=2C 2018
+
+** STAT (https://www.statnews.com/?utm_source=3DSTAT+Newsletters&utm_campa=
+ign=3Db4795ff48f-rb_letter_101418&utm_medium=3Demail&utm_term=3D0_8cab1d79=
+61-b4795ff48f-150319813)
+
+** Facebook (https://www.facebook.com/statnews/?utm_source=3DSTAT+Newslett=
+ers&utm_campaign=3Db4795ff48f-rb_letter_101418&utm_medium=3Demail&utm_term=
+=3D0_8cab1d7961-b4795ff48f-150319813)
+** Twitter (https://twitter.com/statnews/?utm_source=3DSTAT+Newsletters&ut=
+m_campaign=3Db4795ff48f-rb_letter_101418&utm_medium=3Demail&utm_term=3D0_8=
+cab1d7961-b4795ff48f-150319813)
+** YouTube (https://www.youtube.com/channel/UC89FjSf9AT1O2qw6vxrrxDQ?utm_s=
+ource=3DSTAT+Newsletters&utm_campaign=3Db4795ff48f-rb_letter_101418&utm_me=
+dium=3Demail&utm_term=3D0_8cab1d7961-b4795ff48f-150319813)
+** Instagram (https://www.instagram.com/statnews/?utm_source=3DSTAT+Newsle=
+tters&utm_campaign=3Db4795ff48f-rb_letter_101418&utm_medium=3Demail&utm_te=
+rm=3D0_8cab1d7961-b4795ff48f-150319813)
+1 Exchange Pl=2C Suite 201=2C Boston=2C MA 02109
+_icu.png?id=3DX4417792&campaign=3D4972&data=3Dstatnews3@agentidea.com _i=
+tu.png
+=C2=A92018=2C All Rights Reserved.
+** I no longer wish to receive STAT emails (https://statnews.us11.list-man=
+age.com/unsubscribe?u=3Df8609630ae206654824f897b6&id=3D8cab1d7961&e=3Dfecc3a10a2&c=3Db4795ff48f)
+
+** Update Email Preferences (https://statnews.us11.list-manage.com/profile=
+?u=3Df8609630ae206654824f897b6&id=3D8cab1d7961&e=3Dfecc3a10a2)
+| ** Contact Us (https://www.statnews.com/contact/?utm_source=3DSTAT+Newsl=
+etters&utm_campaign=3Db4795ff48f-rb_letter_101418&utm_medium=3Demail&utm_t=
+erm=3D0_8cab1d7961-b4795ff48f-150319813)
+| ** View In Browser (https://mailchi.mp/statnews/a-letter-from-the-execut=
+ive-editor-4j32x6ugzm?e=3Dfecc3a10a2)
+5cP.gif?contact_status=3DNewsletter Only
+--_----------=_MCPart_1082527976
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-micros=
+oft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+  <head>
+    <!-- STAT newsletter Template for MailChimp -->
+    <!--[if gte mso 15]>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:AllowPNG />
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <meta charset=3D"UTF-8">
+    <meta http-equiv=3D"x-ua-compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial-sca=
+le=3D1">
+    <title>A letter from the executive editor</title>
+
+  <style type=3D"text/css">
+=09=09p{
+=09=09=09margin:1em 0;
+=09=09=09padding:0;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09display:block;
+=09=09=09margin-top:24px;
+=09=09=09margin-bottom:0;
+=09=09=09padding:0;
+=09=09=09color:#000000;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:130%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h1+p=2Ch2+p=2Ch3+p=2Ch4+p=2Ch5+p=2Ch6+p{
+=09=09=09margin-top:4px;
+=09=09}
+=09=09h1+img=2Ch2+img=2Ch3+img=2Ch4+img=2Ch5+img=2Ch6+img{
+=09=09=09margin-top:12px;
+=09=09}
+=09=09h1+p img:first-child=2Ch2+p img:first-child=2Ch3+p img:first-child=
+=2Ch4+p img:first-child=2Ch5+p img:first-child=2Ch6+p img:first-child{
+=09=09=09margin-top:12px;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100%;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100%;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09=09max-width:550px;
+=09=09}
+=09=09table{
+=09=09=09mso-table-lspace:0;
+=09=09=09mso-table-rspace:0;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cblockquote{
+=09=09=09mso-line-height-rule:exactly;
+=09=09}
+=09=09a[href^=3Dtel]=2Ca[href^=3Dsms]{
+=09=09=09color:inherit;
+=09=09=09cursor:default;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cbody=2Ctable=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass td=2C.ExternalCla=
+ss div=2C.ExternalClass span=2C.ExternalClass font{
+=09=09=09line-height:100%;
+=09=09}
+=09=09a[x-apple-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-decoration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=09font-family:inherit !important;
+=09=09=09font-weight:inherit !important;
+=09=09=09line-height:inherit !important;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding:9px;
+=09=09=09padding-top:20px;
+=09=09}
+=09=09.templateContainer{
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09#footerContent{
+=09=09=09padding-top:5px;
+=09=09=09padding-bottom:0;
+=09=09}
+=09=09.templatePreheader=2C.templateHeader=2C#templateIntro=2C.templateBod=
+y{
+=09=09=09padding-right:25px;
+=09=09=09padding-left:25px;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#F8F8F8;
+=09=09}
+=09=09.templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1{
+=09=09=09font-size:22px;
+=09=09}
+=09=09h2{
+=09=09=09font-size:18px;
+=09=09}
+=09=09h3{
+=09=09=09font-size:16px;
+=09=09}
+=09=09h4{
+=09=09=09font-size:14px;
+=09=09}
+=09=09h5{
+=09=09=09font-size:12px;
+=09=09}
+=09=09h6{
+=09=09=09font-size:10px;
+=09=09}
+=09=09.templatePreheader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border:1px solid #EEEEEE;
+=09=09=09border-top:3px solid #DDD;
+=09=09=09padding-top:9px;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09.templatePreheader=2C.templatePreheader p{
+=09=09=09color:#000000;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:12px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09}
+=09=09.templatePreheader a=2C.templatePreheader p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.templatePreheader p img{
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.templatePreheader.standard p img{
+=09=09=09margin-bottom:1px;
+=09=09}
+=09=09.templatePreheader.generic{
+=09=09=09border-top:3px solid #1FADB6;
+=09=09=09padding-top:8px;
+=09=09=09padding-bottom:8px;
+=09=09}
+=09=09.templatePreheader.generic .columnContainer.first p{
+=09=09=09text-align:left;
+=09=09}
+=09=09.templatePreheader.generic .columnContainer.last p{
+=09=09=09text-align:right;
+=09=09=09font-weight:normal;
+=09=09=09text-transform:uppercase;
+=09=09=09letter-spacing:2px;
+=09=09=09font-size:10px;
+=09=09=09margin-top:16px;
+=09=09}
+=09=09.templatePreheader.generic .columnContainer.last p a{
+=09=09=09color:#BBBBBB;
+=09=09}
+=09=09.templateSpacer p{
+=09=09=09margin:0;
+=09=09=09font-size:10px;
+=09=09}
+=09=09.templateRule{
+=09=09=09border-top:1px solid #EEEEEE;
+=09=09}
+=09=09.templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-top:3px solid #1FADB6;
+=09=09=09border-left:1px solid #EEEEEE;
+=09=09=09border-right:1px solid #EEEEEE;
+=09=09=09padding-top:18px;
+=09=09=09padding-bottom:0;
+=09=09}
+=09=09.templateHeader=2C.templateHeader p{
+=09=09=09color:#000000;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:17px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.templateHeader a=2C.templateHeader p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.templateHeader p.caption{
+=09=09=09text-align:right;
+=09=09=09text-transform:uppercase;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09color:#999999;
+=09=09=09margin:4px 0 0;
+=09=09=09line-height:130%;
+=09=09}
+=09=09.templateHeader.generic{
+=09=09=09border-top-style:none;
+=09=09=09padding:1px;
+=09=09=09border-bottom:1px solid #EEEEEE;
+=09=09}
+=09=09.templateHeader.generic img{
+=09=09=09vertical-align:top;
+=09=09=09max-width:596px;
+=09=09}
+=09=09.templateBody.generic{
+=09=09=09padding-top:9px;
+=09=09}
+=09=09#templateIntro{
+=09=09=09padding-bottom:28px;
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-left:1px solid #EEEEEE;
+=09=09=09border-right:1px solid #EEEEEE;
+=09=09}
+=09=09#templateIntro p{
+=09=09=09background-color:#EFF9FA;
+=09=09=09text-align:center;
+=09=09=09padding:20px;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-weight:bold;
+=09=09=09font-size:13px;
+=09=09=09margin:3px 0;
+=09=09=09line-height:1.35;
+=09=09}
+=09=09#templateIntro p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.templateBody{
+=09=09=09background-color:#FFFFFF;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-left:1px solid #EEEEEE;
+=09=09=09border-right:1px solid #EEEEEE;
+=09=09=09border-bottom:1px solid #EEEEEE;
+=09=09=09padding-top:0;
+=09=09=09padding-bottom:9px;
+=09=09}
+=09=09.templateBody=2C.templateBody p{
+=09=09=09color:#000000;
+=09=09=09font-family:Georgia=2Cserif;
+=09=09=09font-size:17px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.templateBody a=2C.templateBody p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.templateBody p.cta{
+=09=09=09margin:27px 0 40px !important;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09text-transform:uppercase;
+=09=09=09font-size:14px;
+=09=09=09letter-spacing:2px;
+=09=09}
+=09=09.templateBody p.cta a{
+=09=09=09color:#FFFFFF;
+=09=09=09background-color:#1FADB6;
+=09=09=09padding:10px 30px;
+=09=09}
+=09=09.templateBody p.author{
+=09=09=09color:#666666;
+=09=09=09font-size:14px;
+=09=09=09margin-top:12px;
+=09=09}
+=09=09.templateBody p.author span{
+=09=09=09text-transform:uppercase;
+=09=09}
+=09=09.templateBody p.caption{
+=09=09=09text-align:right;
+=09=09=09text-transform:uppercase;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09color:#999999;
+=09=09=09margin:4px 0 0;
+=09=09=09line-height:130%;
+=09=09}
+=09=09.templateBody p.caption+p{
+=09=09=09margin-top:9px;
+=09=09}
+=09=09.templateBody img{
+=09=09=09vertical-align:text-top;
+=09=09}
+=09=09.templateBody ul{
+=09=09=09list-style-type:square;
+=09=09=09padding-left:17px;
+=09=09=09margin-top:4px;
+=09=09}
+=09=09.templateBody.sponsor p:first-child{
+=09=09=09color:#DF4C51;
+=09=09=09text-transform:uppercase;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:10px;
+=09=09=09margin-top:24px;
+=09=09=09margin-bottom:0;
+=09=09=09letter-spacing:2px;
+=09=09}
+=09=09.templateBody.sponsor p+h1{
+=09=09=09margin-top:4px;
+=09=09}
+=09=09.templateBody.sponsor a=2C.templateBody.sponsor p a{
+=09=09=09color:#DF4C51;
+=09=09}
+=09=09.templateBody.sponsor.rss p:first-child{
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.templateBody.sponsor.rss h1{
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.templateBody.contact{
+=09=09=09background-color:#F8F8F8;
+=09=09=09background-image:url(https://gallery.mailchimp.com/f8609630ae2066=
+54824f897b6/images/82e08a18-2199-4c11-aa0a-6c7b954edcd0.png);
+=09=09=09background-repeat:repeat;
+=09=09=09background-size:auto;
+=09=09=09padding-top:10px;
+=09=09=09padding-bottom:10px;
+=09=09}
+=09=09.templateBody.contact p{
+=09=09=09text-align:center;
+=09=09=09text-transform:uppercase;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09margin:2em 0;
+=09=09=09letter-spacing:2px;
+=09=09}
+=09=09.templateBody.contact p:last-child{
+=09=09=09margin-bottom:3em;
+=09=09}
+=09=09.templateBody.rss h1{
+=09=09=09font-size:24px;
+=09=09}
+=09=09.templateBody.rss h1 a{
+=09=09=09color:#000000;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#F8F8F8;
+=09=09=09background-image:none;
+=09=09=09background-repeat:no-repeat;
+=09=09=09background-position:center;
+=09=09=09background-size:cover;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09=09padding-top:0;
+=09=09=09padding-bottom:9px;
+=09=09=09padding-left:0;
+=09=09=09padding-right:0;
+=09=09}
+=09=09#templateFooter a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09#dateBar=2C#dateBar p{
+=09=09=09text-align:right;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:10px;
+=09=09=09color:#999999;
+=09=09}
+=09=09#logoBar=2C#logoBar p{
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:17px;
+=09=09=09text-align:center;
+=09=09}
+=09=09#logoBar p{
+=09=09=09margin-top:18px;
+=09=09=09margin-bottom:9px;
+=09=09}
+=09=09#socialBar{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border:0;
+=09=09=09padding:0;
+=09=09}
+=09=09#socialBar=2C#socialBar p{
+=09=09=09color:#BBBBBB;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09line-height:150%;
+=09=09=09text-align:center;
+=09=09=09margin:0;
+=09=09}
+=09=09#footerContent=2C#footerContent p{
+=09=09=09color:#BBBBBB;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09line-height:160%;
+=09=09=09text-align:center;
+=09=09}
+=09=09#footerContent a=2C#footerContent p a{
+=09=09=09color:#BBBBBB;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09#utilityBar{
+=09=09=09background-color:#F8F8F8;
+=09=09=09border:0;
+=09=09=09padding-top:0;
+=09=09=09padding-bottom:20px;
+=09=09}
+=09=09#utilityBar=2C#utilityBar p{
+=09=09=09color:#BBBBBB;
+=09=09=09font-family:Arial=2Csans-serif;
+=09=09=09font-size:11px;
+=09=09=09line-height:160%;
+=09=09=09text-align:center;
+=09=09}
+=09=09#utilityBar a=2C#utilityBar p a{
+=09=09=09color:#1FADB6;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#utilityBar a.unsub{
+=09=09=09color:#BBBBBB;
+=09=09}
+=09=09.mcnPreviewText{
+=09=09=09display:none !important;
+=09=09}
+=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09img{
+=09=09=09max-width:100% !important;
+=09=09=09height:auto !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#bodyCell{
+=09=09=09padding-left:4px !important;
+=09=09=09padding-right:4px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.templatePreheader=2C.templateHeader=2C#templateIntro=2C.templateBod=
+y{
+=09=09=09padding-right:13px !important;
+=09=09=09padding-left:13px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.templatePreheader.generic .columnContainer.last p{
+=09=09=09margin-top:1em !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.templateHeader.generic{
+=09=09=09padding:1px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.columnContainer{
+=09=09=09max-width:100% !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.columnContainer.last{
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.templateBody.rss h1{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}</style></head>
+  <body style=3D"height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #F8F8F8;"=
+>
+    <!--
+-->
+    <center>
+      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" id=3D"bodyTable" style=3D"height: 100%;border-collap=
+se: collapse;mso-table-lspace: 0;mso-table-rspace: 0;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;margin: 0;padding: 0;width: 100%;back=
+ground-color: #F8F8F8;">
+        <tr>
+          <td align=3D"center" valign=3D"top" id=3D"bodyCell" style=3D"mso=
+-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;height: 100%;margin: 0;padding: 9px;width: 100%;padding-top: 20=
+px;">
+            <!-- BEGIN TEMPLATE // -->
+            <!--[if gte mso 9]>
+            <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" width=3D"600" style=3D"width:600px;">
+              <tr>
+                <td align=3D"center" valign=3D"top" width=3D"600" style=3D=
+"width:600px;">
+                  <![endif]-->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" class=3D"templateContainer" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0;mso-table-rspace: 0;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;border: 0;max-width: 600px !important;">
+              <!-- BEGIN PREHEADER // -->
+              <tr>
+                <td valign=3D"top" class=3D"templatePreheader generic" sty=
+le=3D"background:#FFFFFF none no-repeat center/cover;mso-line-height-rule:=
+ exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding=
+-right: 25px;padding-left: 25px;background-color: #FFFFFF;background-image=
+: none;background-repeat: no-repeat;background-position: center;background=
+-size: cover;border: 1px solid #EEEEEE;border-top: 3px solid #1FADB6;paddi=
+ng-top: 8px;padding-bottom: 8px;color: #000000;font-family: Arial=2Csans-s=
+erif;font-size: 12px;font-weight: bold;line-height: 150%;text-align: cente=
+r;">
+                  <!-- BEGIN MODULE: GENERIC PREHEADER // -->
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" style=3D"border-collapse: collapse;mso-table-lspace: 0;mso=
+-table-rspace: 0;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;">
+                    <tr>
+                      <td valign=3D"top" style=3D"mso-line-height-rule: ex=
+actly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <!--[if mso]>
+                        <table align=3D"left" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" width=3D"100%" style=3D"width:100%;">
+                          <tr>
+                            <td valign=3D"top" width=3D"274" style=3D"widt=
+h:274px;">
+                              <![endif]-->
+                        <table align=3D"left" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" style=3D"max-width: 274px;border-collapse: collapse;m=
+so-table-lspace: 0;mso-table-rspace: 0;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;" width=3D"100%" class=3D"columnContainer first">
+                          <tr>
+                            <td valign=3D"top" style=3D"mso-line-height-ru=
+le: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                              <p style=3D"margin: 1em 0;padding: 0;mso-lin=
+e-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;color: #000000;font-family: Arial=2Csans-serif;font-size: 12px;font=
+-weight: bold;line-height: 150%;text-align: left;"><a href=3D"https://stat=
+news.us11.list-manage.com/track/click?u=3Df8609630ae206654824f897b6&id=3D0=
+9e48da932&e=3Dfecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1FADB6;text-deco=
+ration: none;"><img src=3D"https://gallery.mailchimp.com/f8609630ae2066548=
+24f897b6/images/d530babb-e16a-4199-b764-b3edc2ad8917.png" width=3D"75" alt=
+=3D"STAT" style=3D"border: 0;height: auto;outline: none;text-decoration: n=
+one;-ms-interpolation-mode: bicubic;max-width: 550px;vertical-align: middl=
+e;"></a>
+                            </p>
+                          </td>
+                        </tr>
+                      </table>
+                      <!--[if mso]>
+                    </td>
+                    <td valign=3D"top" width=3D"274" style=3D"width:274px;=
+">
+                      <![endif]-->
+                      <table align=3D"left" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" style=3D"max-width: 274px;border-collapse: collapse;mso=
+-table-lspace: 0;mso-table-rspace: 0;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;" width=3D"100%" class=3D"columnContainer last">
+                        <tr>
+                          <td valign=3D"top" style=3D"mso-line-height-rule=
+: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <p style=3D"margin: 1em 0;padding: 0;mso-line-=
+height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;color: #000000;font-family: Arial=2Csans-serif;font-size: 10px;font-=
+weight: normal;line-height: 150%;text-align: right;text-transform: upperca=
+se;letter-spacing: 2px;margin-top: 16px;"><a href=3D"https://statnews.us11=
+=2Elist-manage.com/track/click?u=3Df8609630ae206654824f897b6&id=3Dd582287221=
+&e=3Dfecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;color: #BBBBBB;text-decoration: n=
+one;">www.statnews.com</a>
+                          </p>
+                        </td>
+                      </tr>
+                    </table>
+                    <!--[if mso]>
+                  </td>
+                </tr>
+              </table>
+              <![endif]-->
+                  </td>
+                </tr>
+              </table>
+              <!-- // END MODULE: GENERIC PREHEADER -->
+            </td>
+          </tr>
+          <!-- // END PREHEADER -->
+          <!-- BEGIN HEADER // -->
+          <tr mc:hideable=3D"hideable_1" mchideable=3D"hideable_1">
+            <td valign=3D"top" class=3D"templateHeader generic" style=3D"b=
+ackground:#FFFFFF none no-repeat center/cover;mso-line-height-rule: exactl=
+y;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-right:=
+ 25px;padding-left: 25px;background-color: #FFFFFF;background-image: none;=
+background-repeat: no-repeat;background-position: center;background-size:=
+ cover;border-top: 3px solid #1FADB6;border-left: 1px solid #EEEEEE;border=
+-right: 1px solid #EEEEEE;padding-top: 18px;padding-bottom: 0;color: #0000=
+00;font-family: Arial=2Csans-serif;font-size: 17px;line-height: 150%;text-=
+align: left;border-top-style: none;padding: 1px;border-bottom: 1px solid #=
+EEEEEE;">
+              <!-- BEGIN MODULE: HEADER IMAGE // -->
+              <div>
+
+                <img src=3D"https://gallery.mailchimp.com/f8609630ae206654=
+824f897b6/images/c2ab57a2-8522-4b51-aad1-9d75c0f11d31.png" width=3D"596" a=
+lt=3D"A Letter from STAT's Executive Editor" style=3D"border: 0;height: au=
+to;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;max=
+-width: 596px;vertical-align: top;">
+              </div>
+              <!-- // END MODULE: HEADER IMAGE -->
+            </td>
+          </tr>
+          <!-- // END HEADER -->
+          <tr mc:repeatable=3D"repeat_1" mc:variant=3D"generic" mc:repeati=
+ndex=3D"0" mc:hideable=3D"hideable_repeat_1_1" mchideable=3D"hideable_repe=
+at_1_1">
+            <td valign=3D"top" class=3D"templateBody generic" style=3D"bac=
+kground:#FFFFFF none no-repeat center/cover;mso-line-height-rule: exactly;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding-right: 2=
+5px;padding-left: 25px;background-color: #FFFFFF;background-image: none;ba=
+ckground-repeat: no-repeat;background-position: center;background-size: co=
+ver;border-left: 1px solid #EEEEEE;border-right: 1px solid #EEEEEE;border-=
+bottom: 1px solid #EEEEEE;padding-top: 9px;padding-bottom: 9px;color: #000=
+000;font-family: Georgia=2Cserif;font-size: 17px;line-height: 150%;text-al=
+ign: left;">
+              <!-- BEGIN MODULE: BODY CONTENT GENERIC // -->
+              <div>Dear Readers:<br>
+<br>
+I want to share with you a compelling personal essay that stands out not o=
+nly for its captivating=2C raw honesty but because it&#39;s the kind of pe=
+rspective on science that you don&rsquo;t often read. In contrast with the=
+ excitement over the recent Nobel Prize announcements=2C <a href=3D"https:=
+//statnews.us11.list-manage.com/track/click?u=3Df8609630ae206654824f897b6&=
+id=3D0efa8b286b&e=3Dfecc3a10a2" target=3D"_blank" style=3D"mso-line-heigh=
+t-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;=
+color: #1FADB6;text-decoration: none;">this piece</a> offers something mor=
+e nuanced. It takes you deep inside the world inhabited by so many scienti=
+sts: prosaic and at times isolating=2C but also punctured by moments of wo=
+nder.<br>
+<br>
+At STAT=2C we like to say we&#39;re reporting at the frontiers of medicine=
+=2C health=2C and scientific discovery. Yet there&#39;s often little glamo=
+ur on the front lines. This essay by a young writer and former STAT intern=
+=2C Justin Chen=2C lets us in on that truth=2C and how his own monomania o=
+ver science affected his personal life. Justin writes of obsessively labor=
+ing for six years in an MIT lab trying to understand the intricacies of fr=
+og embryos; his adviser had a saying: &ldquo;You have to believe that Sisy=
+phus was happy.&rdquo;<br>
+<p class=3D"cta" style=3D"margin: 27px 0 40px !important;padding: 0;mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;color: #000000;font-family: Arial=2Csans-serif;font-size: 14px;lin=
+e-height: 150%;text-align: left;text-transform: uppercase;letter-spacing:=
+ 2px;"><a href=3D"https://statnews.us11.list-manage.com/track/click?u=3Df8=
+609630ae206654824f897b6&id=3D12accda8f7&e=3Dfecc3a10a2" style=3D"mso-line=
+-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;color: #FFFFFF;text-decoration: none;background-color: #1FADB6;paddi=
+ng: 10px 30px;">Read Now</a></p>
+We&#39;re not any less enthusiastic about recognizing the eye-popping work=
+ that happens every day in labs and at hospitals and on university campuse=
+s. Last week=2C we introduced you to STAT&#39;s <a href=3D"https://statnew=
+s.us11.list-manage.com/track/click?u=3Df8609630ae206654824f897b6&id=3Dd30d=
+390869&e=3Dfecc3a10a2" target=3D"_blank" style=3D"mso-line-height-rule: e=
+xactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1=
+FADB6;text-decoration: none;">2018 Wunderkinds</a>=2C 30 of the most impre=
+ssive doctors and researchers across North America who are just launching=
+ their careers. Most are postdocs=2C fellows=2C and biopharma employees. T=
+hey were picked by STAT editors and reporters from hundreds of nominations=
+=2E You can read about the winners <a href=3D"https://statnews.us11.list-man=
+age.com/track/click?u=3Df8609630ae206654824f897b6&id=3Dd4141cb1c9&e=3Dfecc3a10a2" target=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1FADB6;text-deco=
+ration: none;">here</a>.<br>
+<br>
+I hope you&#39;ll continue to turn to STAT for enlightening and provocativ=
+e news=2C features=2C narratives=2C and multimedia that you can&#39;t find=
+ anywhere else. Watch out Tuesday for a narrative by staff writer Eric Boo=
+dman about a scientist who=2C at 80=2C was lured out of retirement by the=
+ Navy to commercialize phage therapy=2C a long-abandoned idea for treating=
+ the fiercest infections. &nbsp;&nbsp;<br>
+<br>
+If you don&#39;t already=2C I encourage you to try our <a href=3D"https://=
+statnews.us11.list-manage.com/track/click?u=3Df8609630ae206654824f897b6&id=
+=3Daeeaf28c57&e=3Dfecc3a10a2" target=3D"_blank" style=3D"mso-line-height-=
+rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;co=
+lor: #1FADB6;text-decoration: none;">bounty of free newsletters</a> and <a=
+ href=3D"https://statnews.us11.list-manage.com/track/click?u=3Df8609630ae2=
+06654824f897b6&id=3D5632af167d&e=3Dfecc3a10a2" target=3D"_blank" style=3D=
+"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;color: #1FADB6;text-decoration: none;">download our app</a>=
+=2E If you&rsquo;re one of our most devoted readers=2C please support our jo=
+urnalism by signing up for <a href=3D"https://statnews.us11.list-manage.co=
+m/track/click?u=3Df8609630ae206654824f897b6&id=3Dd92bf64bba&e=3Dfecc3a10a2" target=3D"_blank" style=3D"mso-line-height-rule: exactly;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;color: #1FADB6;text-decoration=
+: none;">STAT Plus</a>=2C which goes even deeper into the worlds of medici=
+ne=2C pharma=2C and biotech.<br>
+<br>
+As always=2C feel free to reach out to me with any feedback. I&#39;m at <a=
+ href=3D"mailto:rick.berke@statnews.com" target=3D"_blank" style=3D"mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;color: #1FADB6;text-decoration: none;">rick.berke@statnews.com</a>=
+=2E<br>
+<br>
+I hope you are enjoying your Sunday.<br>
+<br>
+Best=2C<br>
+<img src=3D"https://gallery.mailchimp.com/f8609630ae206654824f897b6/images=
+/623cee08-9427-455c-b005-e9f96dc7744c.png" style=3D"width: auto !important=
+;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolat=
+ion-mode: bicubic;max-width: 550px;vertical-align: text-top;"></div>
+            <!-- // END MODULE: BODY CONTENT GENERIC -->
+          </td>
+        </tr>
+        <!-- BEGIN FOOTER // -->
+        <tr>
+          <td valign=3D"top" id=3D"templateFooter" style=3D"background:#F8=
+F8F8 none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #F8F8F8;b=
+ackground-image: none;background-repeat: no-repeat;background-position: ce=
+nter;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 0;=
+padding-bottom: 9px;padding-left: 0;padding-right: 0;">
+            <!-- BEGIN MODULE: STANDARD FOOTER // -->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"border-collapse: collapse;mso-table-lspace: 0;mso-table=
+-rspace: 0;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              <tr>
+                <td valign=3D"top" id=3D"dateBar" style=3D"mso-line-height=
+-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;t=
+ext-align: right;font-family: Arial=2Csans-serif;font-size: 10px;color: #9=
+99999;">
+                  <p style=3D"margin: 1em 0;padding: 0;mso-line-height-rul=
+e: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-=
+align: right;font-family: Arial=2Csans-serif;font-size: 10px;color: #99999=
+9;">Sunday=2C October 14=2C 2018</p>
+                </td>
+              </tr>
+              <tr>
+                <td valign=3D"top" id=3D"logoBar" style=3D"mso-line-height=
+-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;f=
+ont-family: Arial=2Csans-serif;font-size: 17px;text-align: center;">
+                  <p style=3D"margin: 1em 0;padding: 0;mso-line-height-rul=
+e: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-=
+family: Arial=2Csans-serif;font-size: 17px;text-align: center;margin-top:=
+ 18px;margin-bottom: 9px;"><a href=3D"https://statnews.us11.list-manage.co=
+m/track/click?u=3Df8609630ae206654824f897b6&id=3D0b3232ec35&e=3Dfecc3a10a2" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=
+=3D"https://gallery.mailchimp.com/f8609630ae206654824f897b6/images/d530bab=
+b-e16a-4199-b764-b3edc2ad8917.png" width=3D"80" alt=3D"STAT" style=3D"bord=
+er: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-m=
+ode: bicubic;max-width: 550px;"></a>
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td valign=3D"top" id=3D"socialBar" style=3D"mso-line-height=
+-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;b=
+ackground-color: #F8F8F8;border: 0;padding: 0;color: #BBBBBB;font-family:=
+ Arial=2Csans-serif;font-size: 11px;line-height: 150%;text-align: center;m=
+argin: 0;">
+                <p style=3D"margin: 0;padding: 0;mso-line-height-rule: exa=
+ctly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #BBB=
+BBB;font-family: Arial=2Csans-serif;font-size: 11px;line-height: 150%;text=
+-align: center;">
+                <a href=3D"https://statnews.us11.list-manage.com/track/cli=
+ck?u=3Df8609630ae206654824f897b6&id=3D3abd82ffbc&e=3Dfecc3a10a2" style=3D=
+"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D"https://=
+gallery.mailchimp.com/f8609630ae206654824f897b6/images/e56a2f39-94b1-416d-=
+9b03-cb8cbfff96b7.png" width=3D"30" alt=3D"Facebook" title=3D"Facebook" st=
+yle=3D"border: 0;height: auto;outline: none;text-decoration: none;-ms-inte=
+rpolation-mode: bicubic;max-width: 550px;"></a>
+                =C2=A0
+                <a href=3D"https://statnews.us11.list-manage.com/track/cli=
+ck?u=3Df8609630ae206654824f897b6&id=3D9efaf8451c&e=3Dfecc3a10a2" style=3D=
+"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D"https://=
+gallery.mailchimp.com/f8609630ae206654824f897b6/images/34ace2fa-af9d-4cf8-=
+a2c2-e491c02464bd.png" width=3D"30" alt=3D"Twitter" title=3D"Twitter" styl=
+e=3D"border: 0;height: auto;outline: none;text-decoration: none;-ms-interp=
+olation-mode: bicubic;max-width: 550px;"></a>
+                =C2=A0
+                <a href=3D"https://statnews.us11.list-manage.com/track/cli=
+ck?u=3Df8609630ae206654824f897b6&id=3D6af557890d&e=3Dfecc3a10a2" style=3D=
+"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D"https://=
+gallery.mailchimp.com/f8609630ae206654824f897b6/images/8eab3604-cd8e-4bc9-=
+b577-9e98ae898f5b.png" width=3D"30" alt=3D"YouTube" title=3D"YouTube" styl=
+e=3D"border: 0;height: auto;outline: none;text-decoration: none;-ms-interp=
+olation-mode: bicubic;max-width: 550px;"></a>
+                =C2=A0
+                <a href=3D"https://statnews.us11.list-manage.com/track/cli=
+ck?u=3Df8609630ae206654824f897b6&id=3D92b3cfe462&e=3Dfecc3a10a2" style=3D=
+"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;color: #1FADB6;text-decoration: none;"><img src=3D"https://=
+gallery.mailchimp.com/f8609630ae206654824f897b6/images/c75510f1-ae31-4ab6-=
+a80b-9a9f97a5c08e.png" width=3D"30" alt=3D"Instagram" title=3D"Instagram"=
+ style=3D"border: 0;height: auto;outline: none;text-decoration: none;-ms-i=
+nterpolation-mode: bicubic;max-width: 550px;"></a>
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td valign=3D"top" id=3D"footerContent" style=3D"mso-line-heig=
+ht-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;padding-top: 5px;padding-bottom: 0;color: #BBBBBB;font-family: Arial=2Csa=
+ns-serif;font-size: 11px;line-height: 160%;text-align: center;">
+              1 Exchange Pl=2C Suite 201=2C Boston=2C MA 02109
+              <!-- DMD AIM TAG  -->
+              <div style=3D"width:0;overflow:hidden;float:left;display:non=
+e;margin-bottom:-1px;">
+                <img src=3D"http://www.medtargetsystem.com/_icu.png?id=3DX4417792&amp;campaign=3D4972&amp;data=3Dstatnews3@agentidea.com" style=3D=
+"width: 0;overflow: hidden;float: left;display: none;margin-bottom: -1px;b=
+order: 0;height: auto;outline: none;text-decoration: none;-ms-interpolatio=
+n-mode: bicubic;max-width: 550px;" alt=3D"_icu.png?id=3DX4417792&=
+amp;campaign=3D4972&amp;data=3Dstatnews3@agentidea.com"><img src=3D"http://www.me=
+dtargetsystem.com/_itu.png" style=3D"width: 0;overflow: hidden;float: left=
+;display: none;margin-bottom: -1px;border: 0;height: auto;outline: none;te=
+xt-decoration: none;-ms-interpolation-mode: bicubic;max-width: 550px;" alt=
+=3D"_itu.png">
+              </div>
+              <!-- DMD AIM TAG END -->
+              <br>
+              =C2=A92018=2C All Rights Reserved.
+            </td>
+          </tr>
+          <tr>
+            <td valign=3D"top" id=3D"utilityBar" style=3D"mso-line-height-=
+rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;ba=
+ckground-color: #F8F8F8;border: 0;padding-top: 0;padding-bottom: 20px;colo=
+r: #BBBBBB;font-family: Arial=2Csans-serif;font-size: 11px;line-height: 16=
+0%;text-align: center;">
+              <a href=3D"https://statnews.us11.list-manage.com/unsubscribe=
+?u=3Df8609630ae206654824f897b6&id=3D8cab1d7961&e=3Dfecc3a10a2&c=3Db4795ff48f=
+" class=3D"unsub" style=3D"mso-line-height-rule: exactly;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;color: #BBBBBB;text-decoration: u=
+nderline;">I no longer wish to receive STAT emails</a>
+              <br><a href=3D"https://statnews.us11.list-manage.com/profile=
+?u=3Df8609630ae206654824f897b6&id=3D8cab1d7961&e=3Dfecc3a10a2" style=3D"mso-=
+line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;color: #1FADB6;text-decoration: underline;">Update=C2=A0Email=C2=
+=A0Preferences</a> | <a href=3D"https://statnews.us11.list-manage.com/trac=
+k/click?u=3Df8609630ae206654824f897b6&id=3Dc14a75c959&e=3Dfecc3a10a2" sty=
+le=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;color: #1FADB6;text-decoration: underline;">Contact=C2=
+=A0Us</a>
+              <!--
+ -->
+              | <a href=3D"https://mailchi.mp/statnews/a-letter-from-the-e=
+xecutive-editor-4j32x6ugzm?e=3Dfecc3a10a2" style=3D"mso-line-height-rule: ex=
+actly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1F=
+ADB6;text-decoration: underline;">View=C2=A0In=C2=A0Browser</a>
+              <!--
+ -->
+            </td>
+          </tr>
+        </table><img src=3D"https://b.bostonglobemedia.com/s/5cP.gif?conta=
+ct_status=3DNewsletter Only" height=3D"1" width=3D"1" alt=3D"5cP.gif?con=
+tact_status=3DNewsletter Only" style=3D"border: 0;height: auto;outline:=
+ none;text-decoration: none;-ms-interpolation-mode: bicubic;max-width: 550=
+px;">
+        <!-- // END MODULE: STANDARD FOOTER -->
+      </td>
+    </tr>
+    <!-- // END FOOTER -->
+  </table>
+  <!--[if gte mso 9]>
+</td>
+</tr>
+</table>
+<![endif]-->
+  <!-- // END TEMPLATE -->
+</td>
+</tr>
+</table>
+</center>
+<img src=3D"https://statnews.us11.list-manage.com/track/open.php?u=3Df8609=
+630ae206654824f897b6&id=3Db4795ff48f&e=3Dfecc3a10a2" height=3D"1" width=
+=3D"1"></body>
+</html>
+--_----------=_MCPart_1082527976--
+

@@ -1,0 +1,1209 @@
+From bounces+3354853-dc96-techinfo=agentidea.com@mail.products.systweak.com  Sat Oct 20 11:36:46 2018
+Return-Path: <bounces+3354853-dc96-techinfo=agentidea.com@mail.products.systweak.com>
+X-Original-To: techinfo@agentidea.com
+Delivered-To: techinfo@agentidea.com
+Received: from o12.mail.products.systweak.com (o12.mail.products.systweak.com [167.89.58.193])
+	by agentidea.com (Postfix) with ESMTP id D627740D13
+	for <techinfo@agentidea.com>; Sat, 20 Oct 2018 11:36:46 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=products.systweak.com; 
+	h=content-type:from:mime-version:subject:to; s=s1; 
+	bh=fKxgTtyemda0SHwlrjR6sfT8jRI=; b=SUEuuy3xmHlAtNAHjaLtcM9oYDdZg
+	/p1SMTRUQJkzyfKj5AXnEFKsXkLDJYuMGyC5l3adai/6Ld+lONx778Eg0wjNyZD+
+	aMaSL13Qj2adY6zp1/wAe6lty9YMf2NEsy3qYMGIxRu8vcYgYSoLfsuMPXgeZWPS
+	7DT+XheAfPZSR4=
+Received: by filter0060p3mdw1.sendgrid.net with SMTP id filter0060p3mdw1-1617-5BCB134E-4
+        2018-10-20 11:36:46.290538275 +0000 UTC m=+139130.393781947
+Received: from MzM1NDg1Mw (f5.2f.36a9.ip4.static.sl-reverse.com [169.54.47.245])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with HTTP id DmRjubSdTY6Ft6LoHNGldg
+	for <techinfo@agentidea.com>; Sat, 20 Oct 2018 11:36:46.268 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=da045ede1142c2d8a6dc51e4bc2486bc7c56e6bfa8ccacbdfb319bdbe69b
+Date: Sat, 20 Oct 2018 11:36:46 +0000 (UTC)
+From: "Systweak Software" <blogs@systweak.com>
+Mime-Version: 1.0
+Subject: Systweak Blog: Adobe Max 2018: New Tools For Video Creators And Designers
+To: techinfo@agentidea.com
+Message-ID: <DmRjubSdTY6Ft6LoHNGldg@ismtpd0005p1iad1.sendgrid.net>
+X-SG-EID: ntMmuCAAKy1fhUgGh2dJddt/xrleiiK36Yq4Dd8FNZ/agxZlInPwWeGFRirTRxCF/rFcC/BWOyK8Rc
+ HOdqS+vLjHEmujErVweMStK5KsJ0AMWJCP5HM3WI82Up2w503fJQzyGsLT6uP0wMjNUdDLxOk7cH+U
+ 96eQjA1mcBxQKMQvyBCNyzmgpDcHjcOqiISk16HbiL5JNdqH4+HIyK0mjm0b5Cynqt/shDdZ9hnNs4
+ c=
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP3Zp2/hMyNHUSqwKb1jAIDIngSLkh6JHI+1V5
+ lDkM3KPDRUglYQwALPTcrMr783qbMTGB5UIQtg1VvQF3KkIrbv
+
+--da045ede1142c2d8a6dc51e4bc2486bc7c56e6bfa8ccacbdfb319bdbe69b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+
+
+
+
+
+=09=09
+
+=09
+
+
+=09
+
+=09
+
+=09=09
+	Adobe Max 2018: New Tools For Video Creators And Designers=09
+=09=09
+
+Every day, every second, some new innovation goes live. Talking about innov=
+ations, Adobe, one of the leading brands in designing and tech industry, is=
+ working on innovations to build more powerful tools for video creators and=
+ designers.
+
+The vision is unimaginable, with all the hard work of Adobe ...=09
+=09=09
+
+Keep reading=09
+=09=09
+
+
+=09
+
+
+=09
+
+=09
+
+=09=09
+	How To Use Bluetooth On Windows 10=09
+=09=09
+
+In this era of technology, all the devices come with Bluetooth feature. Thi=
+s feature is quite handy for transferring files from one device to another.=
+ Moreover, it is a useful feature which allows you to send and receive a fi=
+le when you don=E2=80=99t have a data cable. You can enable Bluetooth on yo=
+ur Win...=09
+=09=09
+
+Keep reading=09
+=09=09
+
+
+=09
+
+
+=09
+
+=09
+
+=09=09
+	How To Fix Windows Error 1603=09
+=09=09
+
+Windows error 1603 is caused by the installation of Windows not being able =
+to correctly work on your system. We've found that there are a lot of poten=
+tial issues which are preventing Windows from running the installation as y=
+ou require on your PC - making it vital that you're able to cure any of the=
+...=09
+=09=09
+
+Keep reading=09
+=09=09
+
+
+
+=09
+
+
+Recommended Products=09
+=09=09
+
+=09
+Duplicate Photos Fixer
+
+The easiest, quickest & safest way to get rid of duplicate photos!
+
+Download Now
+
+Windows 10/8.1/8/7/Vista/XP
+
+=09=09
+
+=09
+Advanced Driver Updater
+
+Update outdated drivers to the most recent ones
+
+Download Now
+
+Windows 10/8.1/8/7/Vista/XP
+
+=09=09
+
+
+=09
+
+You have received this message because you signed up for Systweak newslette=
+r. We care about your privacy and will only use your personal details in ac=
+cordance with our PRIVACY POLICY
+
+Update subscription preferences
+Don't wish to receive these messages? Click here to Unsubscribe | View in B=
+rowser
+
+This email was sent by:
+Systweak Software, E-73, Chitranjan Marg, C-Scheme, Jaipur, Rajasthan, India
+www.systweak.com | Contact Us
+
+=C2=A9 2018 Systweak Software, All rights reserved.=09
+
+
+--da045ede1142c2d8a6dc51e4bc2486bc7c56e6bfa8ccacbdfb319bdbe69b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head><meta charset=3D"utf-8" name=3D"viewport" content=3D"width=3Ddevice-w=
+idth, initial-scale=3D1"><!-- meta tag for windows phone --><meta http-equi=
+v=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+	<title>Systweak Blog</title>
+	<style type=3D"text/css">body {
+	padding: 0;
+	margin: 0;
+	font-family: "Segoe UI Symbol", "Segoe UI Semibold", "Open Sans", Helvetic=
+a, Arial;
+	width: 100% !important;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+}
+.ii a[href] {
+	color: #606060;
+}
+img, a img {
+ border:none!important outline: none;
+	text-decoration: none;
+	vertical-align: bottom !important;
+}
+a {
+	word-wrap: break-word;
+}
+img {
+	-ms-interpolation-mode: bicubic;
+	border: none;
+	outline: none;
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+a {
+	color: #606060;
+}
+a:hover {
+	color: #606060;
+}
+* {
+	padding: 0px;
+	margin: 0px;
+}
+table, tr, td {
+	/*border:none!important;*/
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+	cellpadding: 0px;
+	cellspacing: 0px;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480=
+px) and (-webkit-min-device-pixel-ratio: 2) {
+td.iphone-font-size {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568=
+px) and (-webkit-min-device-pixel-ratio: 2) {
+td.iphone-font-size {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}
+}
+
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 667=
+px) and (-webkit-min-device-pixel-ratio: 2) {
+td.iphone-font-size {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}
+}
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 414px) and (max-device-width: 736=
+px) and (-webkit-min-device-pixel-ratio: 3) {
+td.iphone-font-size {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}
+}
+ @media only screen and (min-device-width: 320px) and (max-device-width: 48=
+0px) {
+td.iphone-font-size {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}
+}
+/* ----------- yahoo app ----------- */
+@media only screen and (max-width: 480px) {
+td.iphone-font-size {
+	font-size: 18px!important;
+	line-height: 28px!important;
+}
+}
+	</style>
+	<!--[if mso]>
+<style> body,table tr,table td,a, span,table.MsoNormalTable { font-family:'=
+Segoe UI Symbol', 'Segoe UI Semibold', 'Arial', 'Open Sans' !important;  }<=
+/style>
+<!--<![endif]-->
+</head>
+<body bgcolor=3D"#dfeaed" marginheight=3D"0" marginwidth=3D"0"><!-- Header =
+Section-->
+<table align=3D"center" bgcolor=3D"#dfeaed" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+	<tbody>
+		<tr>
+			<td align=3D"center" bgcolor=3D"#dfeaed" height=3D"30" valign=3D"top">&n=
+bsp;</td>
+		</tr>
+		<tr>
+			<td align=3D"center" bgcolor=3D"#dfeaed" valign=3D"top">
+			<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"600">
+				<tbody>
+					<tr>
+						<td align=3D"center" valign=3D"top" width=3D"25">&nbsp;</td>
+						<td align=3D"center" valign=3D"top" width=3D"550">
+						<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"550">
+							<tbody>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top" width=3D"5=
+50">
+									<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"550">
+										<tbody>
+											<tr>
+												<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top">
+												<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"border-bottom:#e1e1e1 solid 2px;" width=3D"550">
+													<tbody>
+														<tr>
+															<td align=3D"center" colspan=3D"4" height=3D"15" style=3D"fo=
+nt-size:1px; line-height:1px;" valign=3D"top"><img alt=3D"" src=3D"https://=
+d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+														</tr>
+														<tr>
+															<td align=3D"center" valign=3D"top" width=3D"20">&nbsp;</td>
+															<td align=3D"left" class=3D"iphone-font-size" style=3D"color=
+:#101010; font-size:15px; line-height:20px;" valign=3D"top" width=3D"255"><=
+img alt=3D"Systweak Software" src=3D"https://d29inximif998n.cloudfront.net/=
+newsletter/asp/april_2017/systweak_logo.png" /></td>
+															<td align=3D"right" valign=3D"top" width=3D"255"><img alt=3D=
+"18 Years of Excellence" src=3D"https://d29inximif998n.cloudfront.net/newsl=
+etter/asp/april_2017/excellence_icon.png" /></td>
+															<td align=3D"center" valign=3D"top" width=3D"20">&nbsp;</td>
+														</tr>
+														<tr>
+															<td align=3D"center" colspan=3D"4" height=3D"10" style=3D"fo=
+nt-size:1px; line-height:1px;" valign=3D"top"><img alt=3D"" src=3D"https://=
+d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- //.Header Section--></td>
+								</tr>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top" width=3D"5=
+50"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://=
+www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title></title>
+	<style type=3D"text/css">body {
+        font-family: "Segoe UI Symbol", "Segoe UI Semibold", "Open Sans";
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+}
+	</style>
+</head>
+<body>
+<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"550">
+	<tbody>
+		<tr>
+			<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top">
+			<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">
+				<tbody>
+					<tr>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30"><img a=
+lt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/asp/april_2=
+017/space_img_30.png" /></td>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490">&nbsp=
+;</td>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30"><img a=
+lt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/asp/april_2=
+017/space_img_30.png" /></td>
+					</tr>
+					<tr>
+						<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+						<td align=3D"center" valign=3D"top" width=3D"490">
+						<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"border-bottom:#e1e1e1 solid 1px; border-top:#e1e1e1 solid 1px;=
+" width=3D"490">
+							<tbody>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#e1e1e1" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" width=3D"1"><img alt=3D"" src=3D"https://d2=
+9inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+									<td align=3D"center" bgcolor=3D"#f4f4f4" valign=3D"top">
+									<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"488">
+										<tbody>
+											<tr>
+												<td align=3D"center" colspan=3D"3" height=3D"25" valign=3D"top"=
+><img alt=3D"Adobe Max 2018: New Tools For Video Creators And Designers" sr=
+c=3D"https://systweak1.vo.llnwd.net/content/wp/systweakblogsnew/uploads/201=
+8/10/New-Innovations-At-Adobe-MAX-1200x379.jpg" style=3D"max-width:100%;" w=
+idth=3D"488" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+												<td align=3D"center" valign=3D"top" width=3D"432">&nbsp;</td>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+												<td align=3D"left" style=3D"color:#0b171f; font-size:20px; line=
+-height:26px; font-weight:bold;">Adobe Max 2018: New Tools For Video Creato=
+rs And Designers</td>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+												<td align=3D"left" class=3D"iphone-font-size" style=3D"color:#1=
+01010; font-size:15px; line-height:26px;" valign=3D"top" width=3D"432">Ever=
+y day, every second, some new innovation goes live. Talking about innovatio=
+ns, Adobe, one of the leading brands in designing and tech industry, is wor=
+king on innovations to build more powerful tools for video creators and des=
+igners.
+
+The vision is unimaginable, with all the hard work of Adobe ...</td>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+												<td align=3D"left" class=3D"iphone-font-size" style=3D"color:#1=
+01010; font-size:15px; line-height:26px;" valign=3D"top" width=3D"432"><a h=
+ref=3D"http://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3m=
+kM-2BLlpbgyqwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQsZgFIbKeqDe=
+dujy0KyOaQiiPNlSUpXlkXs8US8onsYMxseh-2Bj1coqVuRC47-2FfFXU2CMo7-2FONLzyMxbnT=
+5I2g8FG-2FS2fee0-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVg=
+K2ulhuxP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYD3pLHIqm28=
+x6XzeSJ22fQDwuRXodq-2FewcZyaaoJMO9GJv8hexKGDFfDSr7Nzgi8S4jBc7CoUQPbsf5-2BuF=
+S5DSUb-2BY3w4Cf47QptxFEIVXOFnmIcsTPvTa-2B-2Bjgwr5jwJt7BjCzv1GH-2Fcs-2Ftzfl1=
+05q5Bx3OIUO-2B4Pw-2B9mjD9l7C-2BqJ58Ha2jPrzxAdGyFZjFEtb-2Bc1LSxAOHr-2FOUjXhw=
+pziFdDnmTCwtWzOR5sPWGefSA-3D-3D" style=3D"color:#4a90e2; text-decoration:no=
+ne;">Keep reading</a></td>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<td align=3D"center" bgcolor=3D"#e1e1e1" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" width=3D"1"><img alt=3D"" src=3D"https://d2=
+9inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title></title>
+	<style type=3D"text/css">body {
+        font-family: "Segoe UI Symbol", "Segoe UI Semibold", "Open Sans";
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+}
+	</style>
+</head>
+<body>
+<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"550">
+	<tbody>
+		<tr>
+			<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top">
+			<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">
+				<tbody>
+					<tr>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30"><img a=
+lt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/asp/april_2=
+017/space_img_30.png" /></td>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490">&nbsp=
+;</td>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30"><img a=
+lt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/asp/april_2=
+017/space_img_30.png" /></td>
+					</tr>
+					<tr>
+						<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+						<td align=3D"center" valign=3D"top" width=3D"490">
+						<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"border-bottom:#e1e1e1 solid 1px; border-top:#e1e1e1 solid 1px;=
+" width=3D"490">
+							<tbody>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#e1e1e1" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" width=3D"1"><img alt=3D"" src=3D"https://d2=
+9inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+									<td align=3D"center" bgcolor=3D"#f4f4f4" valign=3D"top">
+									<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"488">
+										<tbody>
+											<tr>
+												<td align=3D"center" colspan=3D"3" height=3D"25" valign=3D"top"=
+><img alt=3D"How To Use Bluetooth On Windows 10" src=3D"https://systweak1.v=
+o.llnwd.net/content/wp/systweakblogsnew/uploads/2018/10/2545X803-How-To-Ena=
+ble-Bluetooth-On-Windows-10--1200x379.jpg" style=3D"max-width:100%;" width=
+=3D"488" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+												<td align=3D"center" valign=3D"top" width=3D"432">&nbsp;</td>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+												<td align=3D"left" style=3D"color:#0b171f; font-size:20px; line=
+-height:26px; font-weight:bold;">How To Use Bluetooth On Windows 10</td>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+												<td align=3D"left" class=3D"iphone-font-size" style=3D"color:#1=
+01010; font-size:15px; line-height:26px;" valign=3D"top" width=3D"432">In t=
+his era of technology, all the devices come with Bluetooth feature. This fe=
+ature is quite handy for transferring files from one device to another. Mor=
+eover, it is a useful feature which allows you to send and receive a file w=
+hen you don=E2=80=99t have a data cable. You can enable Bluetooth on your W=
+in...</td>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+												<td align=3D"left" class=3D"iphone-font-size" style=3D"color:#1=
+01010; font-size:15px; line-height:26px;" valign=3D"top" width=3D"432"><a h=
+ref=3D"http://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3m=
+kM-2BLlpbgyqwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQsZgFIbKehxI=
+Ine-2Bd1Tvqr9oP-2Bx6WJOnvkcOlacBLy-2BwXhy1Sy7GrBJGoDs-2Fx0jkE2Fon2p8z5HjfXt=
+NhWpoPeg-2B6hyQNd8-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2B=
+VgK2ulhuxP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYD3pLHIqm=
+28x6XzeSJ22fQDwuRXodq-2FewcZyaaoJMO9GIJSSLLFDt-2BwF8Np-2B8S6WOvDmJJkMHLFAt-=
+2B2NqKl6S9SFxb78xfH-2BdrByLERCjtJwPXoIZnSY8-2Fme1sh311tBNmvZfZLhJ9gnI2jcUt-=
+2BLTV6sEa-2B2ajkh0TPevNKPP-2F-2FPf2pYpbcqz9fzT5c8CQpb-2BSfXzA9NqghZE5vLRvek=
+uFL8EiwKVaoCyT-2BRPjg8knCBQ-3D-3D" style=3D"color:#4a90e2; text-decoration:=
+none;">Keep reading</a></td>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<td align=3D"center" bgcolor=3D"#e1e1e1" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" width=3D"1"><img alt=3D"" src=3D"https://d2=
+9inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title></title>
+	<style type=3D"text/css">body {
+        font-family: "Segoe UI Symbol", "Segoe UI Semibold", "Open Sans";
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+}
+	</style>
+</head>
+<body>
+<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"550">
+	<tbody>
+		<tr>
+			<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top">
+			<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">
+				<tbody>
+					<tr>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30"><img a=
+lt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/asp/april_2=
+017/space_img_30.png" /></td>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490">&nbsp=
+;</td>
+						<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30"><img a=
+lt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/asp/april_2=
+017/space_img_30.png" /></td>
+					</tr>
+					<tr>
+						<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+						<td align=3D"center" valign=3D"top" width=3D"490">
+						<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"border-bottom:#e1e1e1 solid 1px; border-top:#e1e1e1 solid 1px;=
+" width=3D"490">
+							<tbody>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#e1e1e1" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" width=3D"1"><img alt=3D"" src=3D"https://d2=
+9inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+									<td align=3D"center" bgcolor=3D"#f4f4f4" valign=3D"top">
+									<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"488">
+										<tbody>
+											<tr>
+												<td align=3D"center" colspan=3D"3" height=3D"25" valign=3D"top"=
+><img alt=3D"How To Fix Windows Error 1603" src=3D"https://systweak1.vo.lln=
+wd.net/content/wp/systweakblogsnew/uploads/2018/10/Fix-Windows-Error-1603-1=
+200x379.jpg" style=3D"max-width:100%;" width=3D"488" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+												<td align=3D"center" valign=3D"top" width=3D"432">&nbsp;</td>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+												<td align=3D"left" style=3D"color:#0b171f; font-size:20px; line=
+-height:26px; font-weight:bold;">How To Fix Windows Error 1603</td>
+												<td align=3D"center" valign=3D"top" width=3D"28"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+												<td align=3D"left" class=3D"iphone-font-size" style=3D"color:#1=
+01010; font-size:15px; line-height:26px;" valign=3D"top" width=3D"432">Wind=
+ows error 1603 is caused by the installation of Windows not being able to c=
+orrectly work on your system. We've found that there are a lot of potential=
+ issues which are preventing Windows from running the installation as you r=
+equire on your PC - making it vital that you're able to cure any of the...<=
+/td>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"10" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+												<td align=3D"left" class=3D"iphone-font-size" style=3D"color:#1=
+01010; font-size:15px; line-height:26px;" valign=3D"top" width=3D"432"><a h=
+ref=3D"http://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3m=
+kM-2BLlpbgyqwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQsZgFIbKepWn=
+-2BFyJvg4UcwihdO3zYguNUUcV5Z36qIhjfVPjRUMkywuBdlI5g7NBhxn0oQvSj9dQ94-2FPSai=
+KBfOzohkpGig-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ul=
+huxP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYD3pLHIqm28x6Xz=
+eSJ22fQDwuRXodq-2FewcZyaaoJMO9GNq42Fkhps0cpmq0MaMWGZzxJE7xK72kvcC2ME4B-2Fyj=
+YA5-2BFYdDwc45fk3rFpfHvoE1wSGhuQey9waNUcPTYsRMar8LH0To7gX8VjFfMHS50Gwv4n0Cv=
+JoddsaxYKiAsZUEfHQLf-2B8RiL2ypUtZ3jH2l-2FJRHHMEuNm2HfSH4aPJ-2BhnGC3BbQsab7l=
+5znP41E1g-3D-3D" style=3D"color:#4a90e2; text-decoration:none;">Keep readin=
+g</a></td>
+												<td align=3D"center" valign=3D"top" width=3D"28">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"432"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"28">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/trans=
+parent_img.png" /></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<td align=3D"center" bgcolor=3D"#e1e1e1" style=3D"font-size:0px; l=
+ine-height:0px;" valign=3D"top" width=3D"1"><img alt=3D"" src=3D"https://d2=
+9inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+</td>
+								</tr>
+								<tr>
+									<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top">
+									<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"5=
+50">
+										<tbody>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490"=
+>&nbsp;</td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+												<td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"color:#333333; =
+font-size:22px; line-height:22px;" valign=3D"top" width=3D"490">Recommended=
+ Products</td>
+												<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+												<td align=3D"left" bgcolor=3D"#FFFFFF" valign=3D"top" width=3D"=
+490">
+												<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"490">
+													<tbody>
+														<tr>
+															<td align=3D"left" valign=3D"top" width=3D"50"><img alt=3D""=
+ src=3D"https://d29inximif998n.cloudfront.net/newsletter/systweak/blogs/log=
+o_dpf.png" /></td>
+															<td align=3D"left" valign=3D"top" width=3D"30">&nbsp;</td>
+															<td align=3D"left" valign=3D"top" width=3D"410">
+															<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">
+																<tbody>
+																	<tr>
+																		<td align=3D"left" style=3D"color:#1cabe5; font-size:18px=
+; line-height:24px; font-weight:bold;" valign=3D"top" width=3D"346">Duplica=
+te Photos Fixer</td>
+																	</tr>
+																	<tr>
+																		<td align=3D"left" height=3D"2" style=3D"font-size:1px; l=
+ine-height:2px;" valign=3D"top" width=3D"346"><img alt=3D"" src=3D"https://=
+d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+																	</tr>
+																	<tr>
+																		<td align=3D"left" bgcolor=3D"#FFFFFF" class=3D"iphone-fo=
+nt-size" style=3D"color:#5a5a5a; font-size:13px; line-height:18px;" valign=
+=3D"top" width=3D"346">The easiest, quickest &amp; safest way to get rid of=
+ duplicate photos!</td>
+																	</tr>
+																	<tr>
+																		<td align=3D"left" bgcolor=3D"#FFFFFF" valign=3D"top" wid=
+th=3D"346">
+																		<table align=3D"left" bgcolor=3D"#FFFFFF" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+																			<tbody>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" height=3D"10" s=
+tyle=3D"font-size:1px; line-height:2px;" valign=3D"top"><img alt=3D"" src=
+=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /=
+></td>
+																				</tr>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"font-f=
+amily:Helvetica,Arial,sans-serif;line-height:1.7em;font-size:14px;margin-bo=
+ttom:10px; color:#4a90e2; font-weight:bold;" valign=3D"top"><a href=3D"http=
+://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3mkM-2BLlpbgy=
+qwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQsZgFIbKeqfXTFuc-2FKr6D=
+ivpJHGg6uVBhPYhKHDjGRKgUJCCJ1rHtkJs-2BHFGw9uqJxGqlj9ARQFfQjRiK9anhBl3gJO7R5=
+k-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ibosEY=
+WoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYD3pLHIqm28x6XzeSJ22fQDwuR=
+Xodq-2FewcZyaaoJMO9GDhXwfeiuPI6nfcGgQLIbhKmzV5J1tVvh0WzVSxh7PiMKwvSRW5VBS1M=
+3-2FfLhG9-2BqNC2G8hWgweehy-2BRPRU3YJAmYgj-2BFPzdMw6pMvVrdrfYu6jEJi-2FJxc7Gc=
+DyCV47xreDlsjhl15O7pGl19SyFmXADO2eMUYCbB07mexHDHuxYOp2xB-2BN1wOUpbKxv85jKhQ=
+-3D-3D" style=3D"cursor:pointer; border:none; outline:none; text-decoration=
+:none;  font-family:Helvetica,Arial,sans-serif;line-height:1.7em;font-size:=
+14px;margin-bottom:10px; color:#4a90e2; font-weight:bold;">Download Now</a>=
+</td>
+																				</tr>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" height=3D"1" st=
+yle=3D"font-size:1px; line-height:1px;" valign=3D"top"><img alt=3D"" src=3D=
+"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /></=
+td>
+																				</tr>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"color:=
+#8c8c8c; font-size:11px; line-height:14px; text-align:left;" valign=3D"top"=
+>Windows 10/8.1/8/7/Vista/XP</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+												<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+											</tr>
+											<tr>
+												<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+												<td align=3D"center" bgcolor=3D"#FFFFFF" valign=3D"top" width=
+=3D"490">
+												<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"490">
+													<tbody>
+														<tr>
+															<td align=3D"left" valign=3D"top" width=3D"50"><img alt=3D""=
+ src=3D"https://d29inximif998n.cloudfront.net/newsletter/systweak/blogs/log=
+o_adu.png" /></td>
+															<td align=3D"left" valign=3D"top" width=3D"30">&nbsp;</td>
+															<td align=3D"left" valign=3D"top" width=3D"410">
+															<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">
+																<tbody>
+																	<tr>
+																		<td align=3D"left" style=3D"color:#ff5a00; font-size:18px=
+; line-height:24px; font-weight:bold;" valign=3D"top" width=3D"346">Advance=
+d Driver Updater</td>
+																	</tr>
+																	<tr>
+																		<td align=3D"left" height=3D"2" style=3D"font-size:1px; l=
+ine-height:2px;" valign=3D"top" width=3D"346"><img alt=3D"" src=3D"https://=
+d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /></td>
+																	</tr>
+																	<tr>
+																		<td align=3D"left" bgcolor=3D"#FFFFFF" class=3D"iphone-fo=
+nt-size" style=3D"color:#5a5a5a; font-size:13px; line-height:18px;" valign=
+=3D"top" width=3D"346">Update outdated drivers to the most recent ones</td>
+																	</tr>
+																	<tr>
+																		<td align=3D"left" bgcolor=3D"#FFFFFF" valign=3D"top" wid=
+th=3D"346">
+																		<table align=3D"left" bgcolor=3D"#FFFFFF" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+																			<tbody>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" height=3D"10" s=
+tyle=3D"font-size:1px; line-height:2px;" valign=3D"top"><img alt=3D"" src=
+=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /=
+></td>
+																				</tr>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"font-f=
+amily:Helvetica,Arial,sans-serif;line-height:1.7em;font-size:14px;margin-bo=
+ttom:10px; color:#4a90e2; font-weight:bold;" valign=3D"top"><a href=3D"http=
+://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3mkM-2BLlpbgy=
+qwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQsZgFIbKeoVVkliIXiRZySI=
+MjrkgQZQyBDgIbA-2Fe96mKXoGNsrAC-2F7h992GfiF9jhbPoDxO9kmHs2E0Xwir-2FnNB-2BCt=
+qXP4Y-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ib=
+osEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYD3pLHIqm28x6XzeSJ22fQ=
+DwuRXodq-2FewcZyaaoJMO9GJfF5rj6O9Fn6aQqvFDM7RQE73zrUauA9VITb05LjgV3zAp2-2Bk=
+OBzJAkdkHP7NnUOA0b7fbCpMzmRzncv8JOaHSu9z36Pj5AIbvSy29v4K-2BJHusKijwrYnSiem1=
+VkOWdlGlHQ7GZJqXOlTZ4DKeQxRWFbO4vGhHkE5tKdKQsNxGmJARSp-2BHMaAQwHRaN-2FQQMtQ=
+-3D-3D" style=3D"cursor:pointer; border:none; outline:none; text-decoration=
+: none; font-family:Helvetica,Arial,sans-serif;line-height:1.7em;font-size:=
+14px;margin-bottom:10px; color:#4a90e2; font-weight:bold;">Download Now</a>=
+</td>
+																				</tr>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" height=3D"1" st=
+yle=3D"font-size:1px; line-height:1px;" valign=3D"top"><img alt=3D"" src=3D=
+"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png" /></=
+td>
+																				</tr>
+																				<tr>
+																					<td align=3D"left" bgcolor=3D"#FFFFFF" style=3D"color:=
+#8c8c8c; font-size:11px; line-height:14px; text-align:left;" valign=3D"top"=
+>Windows 10/8.1/8/7/Vista/XP</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+												<td align=3D"center" valign=3D"top" width=3D"30">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"490"=
+><img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/tran=
+sparent_img.png" /></td>
+												<td align=3D"center" height=3D"30" valign=3D"top" width=3D"30">=
+<img alt=3D"" src=3D"https://d29inximif998n.cloudfront.net/newsletter/systw=
+eak/blogs/space_img_30.png" /></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td align=3D"center" valign=3D"top" width=3D"25">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<!-- FOOTER SECTION-->
+		<tr>
+			<td align=3D"center" bgcolor=3D"#dfeaed" valign=3D"top">
+			<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"MsoNormalTable" width=3D"550">
+				<tbody>
+					<tr>
+						<td align=3D"center" class=3D"iphone-footer" style=3D"font-size:2px; =
+line-height:2px;" valign=3D"top" width=3D"30">&nbsp;</td>
+						<td align=3D"center" class=3D"iphone-footer" height=3D"15" style=3D"f=
+ont-size:2px; line-height:2px;" valign=3D"top" width=3D"540"><img alt=3D"" =
+src=3D"https://d29inximif998n.cloudfront.net/newsletter/transparent_img.png=
+" /></td>
+						<td align=3D"center" class=3D"iphone-footer" style=3D"font-size:2px; =
+line-height:2px;" valign=3D"top" width=3D"30">&nbsp;</td>
+					</tr>
+					<tr>
+						<td align=3D"center" class=3D"iphone-footer" style=3D"font-family:Ari=
+al, Helvetica, sans-serif; font-size:11px; line-height:16px; color:#606060;=
+" valign=3D"top" width=3D"30">&nbsp;</td>
+						<td align=3D"center" class=3D"iphone-footer" style=3D"font-family:Ari=
+al, Helvetica, sans-serif; font-size:11px; line-height:16px; color:#606060;=
+" valign=3D"top" width=3D"540">You have received this message because you s=
+igned up for Systweak newsletter. We care about your privacy and will only =
+use your personal details in accordance with our <a href=3D"http://u1.produ=
+cts.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3mkM-2BLlpbgyqwzu-2BmlnG=
+80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQsZgFIbKeoS-2Fd2YMbUa4hTtNoLqpWpQT=
+B7HBXtT97wn-2Fetg8639d40bs0lpiJapQuaa0qhYQk99ks8Y-2BC-2F3hLDPs8git3Rk-3D_vm=
+To0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ibosEYWoAn3up=
+Qq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYD3pLHIqm28x6XzeSJ22fQDwuRXodq-2F=
+ewcZyaaoJMO9GI4nnxyvwwueIRFp2x0uBkphNY4O3OKFXT-2FJHk3T17xW9tds60Vvto3zept6p=
+K2DpfqWyFS4XTeV5spdpf72HSUwHmZ1cgiBakKzLo0Op3wNibzdyz9sd4lja8Cijb7hDD2vR5Ro=
+uSa3fMHp7IWimCisakAN-2BpWvWUimY2GyoZO6EVFrkm2tnExkkDNe2nQg3Q-3D-3D" style=
+=3D"color:#606060; text-decoration:underline;" target=3D"_blank">PRIVACY PO=
+LICY</a><br />
+						<br />
+						<a href=3D"http://u1.products.systweak.com/wf/click?upn=3DcyTEjz0z9Js=
+8JeseFUGOSZGBh7fI2gzOeZ0Zt2VJ-2FIq5lvdpNrwNSUas3LRveMc11DYIxndmlyim-2Fcw6T2=
+-2BDQzhTmY9lDW2NQKc3IAP1OzA-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2=
+FJBTCR-2BVgK2ulhuxP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2E=
+YD3pLHIqm28x6XzeSJ22fQDwuRXodq-2FewcZyaaoJMO9GFXiG4AKr0LiagpDwXaEYRZ-2BGaTq=
+elshTOwFe-2BN3J-2FKuMm5-2B9LxkOdKA7NBlLqD2mL0NAS2HYkNnDl-2FI7vh1zbhJP13YfWa=
+gPzDTm5wepLh17b1e2GC1BPpPvJYh7DKFH1d9rCiSrQWGQeMGD98eeHV0-2FXRYoQm1XoKOT8sH=
+vkcHt7s7QEd4sTQna8N5Pplx8Q-3D-3D" style=3D"color:#606060;" target=3D"_blank=
+;">Update subscription preferences</a><br />
+						Don&#39;t wish to receive these messages? <a style=3D"color:#606060" =
+href=3D"http://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3=
+mkM-2BLlpbgyqwzu-2BmlnG80s-2FX7CnOBurucV-2FJ2-2FsGJnAIxSY43JlyPgvsg70hN3uMV=
+pHaCYmj32s-2FxOUxnjeLsWIhxFJy-2BoZy4IIrvJdNcIydjAt4W32d8v3RojlJ0RHc2Su1wnVY=
+F0jygQ7tIVr-2BG0Am8n4Go846SfTx8BNZZCyw0qlA9T9aYpm5CPVXBPZ-2FPQ-3D-3D_vmTo0J=
+uUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ibosEYWoAn3upQq2B=
+NBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYD3pLHIqm28x6XzeSJ22fQDwuRXodq-2FewcZ=
+yaaoJMO9GG26b7jQRQCV5yA3RSTyohTDh0mjeDA7V3ZoaesYtndMnGToX4scxG-2ByNppv3XbgJ=
+ChSj-2FfteHXBJ5kt6XohjPIs4PhQNF1UTHZorMrS2PrgF2GbRM5iCawAsN2sU1uq86MV-2FpWj=
+E8jFd4wyABV3lSd1RgBMLXB-2F38tp7E5khE517-2BdKbm8Co-2BrWmT-2FfQSOEpw-3D-3D" >=
+Click here to Unsubscribe</a> | <a style=3D"color:#606060" href=3D"http://u=
+1.products.systweak.com/wf/click?upn=3DgWubcFWhiWkrS6QgWtj3mkM-2BLlpbgyqwzu=
+-2BmlnG80s-2BgrtnmxS15SkywsnGwDA002RjCbTJAZpc0NGuco4AEEOghrDLybnul71vTEax34=
+5Yp46biVie4AWMxoz2K8pFsJmBgGoYEPp1Q25jQeAhvI2vZ68HNhjJ5I-2Fj4iZoxCT4-3D_vmT=
+o0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ibosEYWoAn3upQ=
+q2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYD3pLHIqm28x6XzeSJ22fQDwuRXodq-2Fe=
+wcZyaaoJMO9GJtzOUNAKUUSjAjUt-2B3Qxe32hIdR7a002FDAGEKdOVACbSvh4ZCU7I-2BibPkP=
+RWKOiwQB7tkddiuirEfafxc5wOUX0zYS4Qh3IB9T7fld-2BXwXbEo0p3-2BHqUvmSNiwmLQf2P-=
+2BK84joGr9HPW5EB-2FREa-2FkW7h1KdvB2K-2FekHasihH-2FbbvT-2B0c6c7fiVDYi1pRl81w=
+-3D-3D" >View in Browser</a><br />
+						<br />
+						This email was sent by:<br />
+						Systweak Software, E-73, Chitranjan Marg, C-Scheme, Jaipur, Rajasthan=
+, India<br />
+						<a href=3D"http://u1.products.systweak.com/wf/click?upn=3DgWubcFWhiWk=
+rS6QgWtj3mkM-2BLlpbgyqwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb3qVW-2F93PzyQs=
+ZgFIbKeolmxui5B9ypkPyGWPB8cr1w55REfDNHkFZdEIPaf9qrqg3-2FtBIwMQg8VaEAdcnlo3e=
+SIZAzu0F5t3P83q7X8v0-3D_vmTo0JuUW56-2FjNblluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-=
+2BVgK2ulhuxP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6sC-2FN-2B-2BFq2EYD3pLHI=
+qm28x6XzeSJ22fQDwuRXodq-2FewcZyaaoJMO9GE2UciGIQpbNk4s-2FBm0pmNrRf-2BbvBmM1y=
+UhFzqKwlb5-2BK-2BzjbypLGQBpbwmhucEo86Xpb4Zp0WyIGPXPnjmu5DnWvtcrgrE7ukALqcRJ=
+cZ6H1wJD9v520kt6l5NwDttDTCtWd-2F0qtikEj-2FNF9FiHT2RTuOhlk0hGaiZKBDxehL1D1n3=
+noLEM5QM-2BHy601iLeWA-3D-3D" style=3D"color:#606060;" target=3D"_blank">www=
+.systweak.com</a> | <a href=3D"http://u1.products.systweak.com/wf/click?upn=
+=3DgWubcFWhiWkrS6QgWtj3mkM-2BLlpbgyqwzu-2BmlnG80s9sGgvAJDkLki6fFWSx0C-2BHZb=
+3qVW-2F93PzyQsZgFIbKeuBGLaOMBxrkTV346TxK-2B1bXAGDOpezkZiZzu-2FZeAd5wtUf-2Fh=
+WUlKtgSVw4OsO-2FI-2B6ES758ig6ibvldYHSjAaTI-3D_vmTo0JuUW56-2FjNblluE-2BZLUeN=
+lGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ibosEYWoAn3upQq2BNBfk8H1Y0kvX7SqHh3lFy6s=
+C-2FN-2B-2BFq2EYD3pLHIqm28x6XzeSJ22fQDwuRXodq-2FewcZyaaoJMO9GNzP1oQ346MdaWL=
+X5KLape9A-2Fx1LL-2FI-2Bmhjo2efHkYYIju5u0FvnVxv-2FhP9Om9iici-2FanK4I-2BSzCKt=
+1eSTwhmIVld28Kcs-2FkHmJJkM1kDDNsIQ9ZhQ1cLoG27j4aCoJDTE5LQXa4FvCdFBXon2SELrG=
+D7Xfeo0vtHAc36UJ00soKSp91do-2BMvLclVcFYQy4Jwg-3D-3D" style=3D"color:#606060=
+;" target=3D"_blank">Contact Us</a><br />
+						<br />
+						&copy; 2018 Systweak Software, All rights reserved.</td>
+						<td align=3D"center" class=3D"iphone-footer" style=3D"font-family:Ari=
+al, Helvetica, sans-serif; font-size:11px; line-height:16px; color:#606060;=
+" valign=3D"top" width=3D"30">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td align=3D"center" bgcolor=3D"#dfeaed" valign=3D"top">
+			<table align=3D"center" bgcolor=3D"#dfeaed" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"640">
+				<tbody>
+					<tr>
+						<td align=3D"center" bgcolor=3D"#dfeaed" height=3D"30" valign=3D"top"=
+ width=3D"640">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<!-- //.FOOTER SECTION-->
+	</tbody>
+</table>
+
+<img src=3D"http://u1.products.systweak.com/wf/open?upn=3DvmTo0JuUW56-2FjNb=
+lluE-2BZLUeNlGBeK3Yr8MOKw-2FJBTCR-2BVgK2ulhuxP8ibosEYWoAn3upQq2BNBfk8H1Y0kv=
+X7SqHh3lFy6sC-2FN-2B-2BFq2EYD3pLHIqm28x6XzeSJ22fQDwuRXodq-2FewcZyaaoJMO9GHa=
+KQvt3EoAywPjn46un5OGnjVJU4BH291PWTJjMvBygTMSrOCJSM6Q0tLTTBERsS5hprNECCwAW1m=
+laSQ6TBV3Y3XFStk7ELKXoemQ23-2BhSctkUWGJpaj7083y-2BeoE25xxElTLJcHGh70iQ2fEAH=
+8rNqlCYVpN1wmWzCq-2F-2B60dohH0xkSXrYs3Fxk4o9Q7tVw-3D-3D" alt=3D"" width=3D"=
+1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !impo=
+rtant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !im=
+portant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !i=
+mportant;padding-bottom:0 !important;padding-right:0 !important;padding-lef=
+t:0 !important;"/>
+</body>
+</html>
+<img src=3D"http://nl.systweak.com/systweakblog/t/763HT892TO76390ZmNiCoKems=
+MPw/BBS3e4iinvyX2bz0lSdn3g" alt=3D""/>
+
+--da045ede1142c2d8a6dc51e4bc2486bc7c56e6bfa8ccacbdfb319bdbe69b--
+
