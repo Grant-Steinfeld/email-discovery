@@ -1,7 +1,6 @@
 from email.parser import Parser as emp
 from email.message import Message as emm
 from email import policy
-from src.errors.UserDefinedErrors import NoTextPartFound, EmptyEmail
 import datetime
 
 def parse_email(email_text):
