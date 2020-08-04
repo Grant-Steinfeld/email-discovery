@@ -2,6 +2,7 @@ from email.parser import Parser as emp
 from email.message import Message as emm
 from email import policy
 from src.errors.UserDefinedErrors import NoTextPartFound, EmptyEmail
+import datetime
 
 def parse_email(email_text):
     email_msg = emp(policy=policy.default).parsestr(email_text)
@@ -21,12 +22,14 @@ def parse_email_parts(email_text):
         'Body': email_body_text ,
         'subject': email_msg['subject'],
         'message-id': email_msg['Message-Id'],
-        'Content-Type': email_msg['Content-Type'],
-        
         'from_name': from_.addresses[0].display_name,
         'from':  from_.addresses[0].addr_spec
     }
-    return result
+
+    #merge py 3.5 > ... 
+    # z = x | y          
+    # 3.9+ ONLY
+    return {**result, **timestamp_dict()}
 
 
 

@@ -24,16 +24,7 @@ def test_mockmail():
 	
 	assert len(data) == 1672 
 
-def test_readmail():
-	data = read_file_off_disk(mail_file)
-	assert len(data) == 1672
-	actual = parse_email(data)
-	text_type = actual.get_payload()[0].get_content_type()
-	html_type = actual.get_payload()[1].get_content_type()
-	assert text_type == 'text/plain'
-	assert html_type == 'text/html'
-	text = actual.get_payload()[0].get_payload()
-	assert len(text) == 501
+
 
 def test_read_text_off_1_mail_file():
 	data = read_file_off_disk(mail_file)
@@ -42,6 +33,8 @@ def test_read_text_off_1_mail_file():
 	assert len(actual['Body']) == 501
 	assert len(actual['subject']) == 47
 	assert len(actual['message-id']) == 67
+	assert 'day_of_year' in actual
+	assert 'short_date' in actual
 
 	assert actual['subject'] == 'NI mate Newsletter: Please Confirm Subscription'
 	assert actual['Body'][:54] == '** Confirm your subscription to the NI mate newsletter'
@@ -53,6 +46,7 @@ def test_read_text_off_1_mail_file():
 	assert actual['from_name'] == 'NI mate Newsletter'
 
 def test_get_med_samp_mails():
+	clean_output_body_dir(out_dir)
 	mail_samples_list = get_list_files(med_sample_dir)
 	assert len(mail_samples_list) == 33
 	for i, mail_path in enumerate(mail_samples_list):
@@ -65,6 +59,7 @@ def test_get_med_samp_mails():
 		assert 'subject' in email_text_parts
 		assert 'from' in email_text_parts
 		assert 'Body' in email_text_parts
+		assert 'day_of_year' in email_text_parts
 		if email_text_parts.get('Body') is not None:
 			write_file_text(i, email_text_parts['Body'])
 			
@@ -72,6 +67,9 @@ def test_get_med_samp_mails():
 		
 	body_written_to_file_count = get_list_files(out_dir)
 	assert len(body_written_to_file_count) == 27
+	clean_output_body_dir(out_dir)
+	body_written_to_file_count = get_list_files(out_dir)
+	assert len(body_written_to_file_count) == 0
 	
 
 
@@ -88,3 +86,7 @@ def test_get_mail_paths():
 	assert len(actual) == 33
 
 
+def clean_output_body_dir(path, ext='.txt'):
+	filelist = [ f for f in os.listdir(path) if f.endswith(ext) ]
+	for f in filelist:
+		os.remove(os.path.join(path, f))
