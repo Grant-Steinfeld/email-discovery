@@ -12,12 +12,16 @@ def parse_email_parts(email_text):
     
     email_body_part = email_msg.get_body(('related', 'plain'))
     email_body_text = email_body_part and email_body_part.get_content()
+    if email_body_text is not None and email_body_text.strip().endswith('</html>'):
+        email_body_text = None
+
     from_ = email_msg['from']
 
     return { 
-        'body_text': email_body_text ,
+        'Body': email_body_text ,
         'subject': email_msg['subject'],
         'message-id': email_msg['Message-Id'],
+        'Content-Type': email_msg['Content-Type'],
         
         'from_name': from_.addresses[0].display_name,
         'from':  from_.addresses[0].addr_spec
