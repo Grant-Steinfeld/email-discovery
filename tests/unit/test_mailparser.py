@@ -63,12 +63,15 @@ def test_get_med_samp_mails():
 
 		assert type(email_text_parts) is dict	
 		assert 'subject' in email_text_parts
+		assert 'from' in email_text_parts
 		assert 'Body' in email_text_parts
 		if email_text_parts.get('Body') is not None:
 			write_file_text(i, email_text_parts['Body'])
 			
 		
-		assert 'from' in email_text_parts
+		
+	body_written_to_file_count = get_list_files(out_dir)
+	assert len(body_written_to_file_count) == 27
 	
 
 

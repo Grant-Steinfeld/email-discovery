@@ -17,7 +17,7 @@ def parse_email_parts(email_text):
 
     from_ = email_msg['from']
 
-    return { 
+    result = { 
         'Body': email_body_text ,
         'subject': email_msg['subject'],
         'message-id': email_msg['Message-Id'],
@@ -26,6 +26,21 @@ def parse_email_parts(email_text):
         'from_name': from_.addresses[0].display_name,
         'from':  from_.addresses[0].addr_spec
     }
+    return result
 
 
 
+def timestamp_dict():
+    date_ = datetime.datetime.now()
+ 
+    return {
+        'hour': date_.hour,
+        'day': date_.day,
+        'year': date_.year,
+        'month': date_.month,
+        'weekday': date_.weekday(),
+        'hour': date_.hour,
+        'minute': date_.minute,
+        'day_of_year': date_.timetuple().tm_yday,
+        'short_date': date_.ctime() 
+        }
