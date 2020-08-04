@@ -9,9 +9,9 @@ def parse_email(email_text):
 
 def parse_email_parts(email_text):
     email_msg = parse_email(email_text)  #legacy parser
-    
     email_body_part = email_msg.get_body(('related', 'plain'))
     email_body_text = email_body_part and email_body_part.get_content()
+    
     if email_body_text is not None and email_body_text.strip().endswith('</html>'):
         email_body_text = None
 
