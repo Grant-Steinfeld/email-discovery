@@ -1,7 +1,11 @@
-# mail to neo4j 
+# email parser
 
-Postfix enabled on host
+This is a Python microservice that should extract data from input email as text
 
-Pass email message to event stream 
+I will return JSON representation of the email as body text/plain, and headers like to, from email, from name, mail id, date processed
 
-This microservice should extract data from emails ( text, headers, to, from etc )
+## typical usecase
+Postfix enabled on host linux server (Centos7), `/etc/aliases` file updated to redirect mail to a shell script that calls this microservice which can then decide where to pass the data downstream say to a ML/DL or NLP processor or some kind of database/datalake which can then further analysed
+
+
+
