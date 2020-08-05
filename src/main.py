@@ -6,8 +6,8 @@ app = Flask(__name__)
 api = Api(
     app,
     version="3.0.0",
-    title="Emai parser Service",
-    description="This is a microservice that extracts email part for the Breaking News Project",
+    title="Email parser Service",
+    description="This is a microservice that extracts email parts for the Breaking News Project",
 )
 
 emailNS = api.namespace(
