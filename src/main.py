@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_restplus import Api, Resource, fields
-from emailParser import mail_parser
+from emailParser import parse_email_parts as mail_parse
 
 app = Flask(__name__)
 api = Api(
