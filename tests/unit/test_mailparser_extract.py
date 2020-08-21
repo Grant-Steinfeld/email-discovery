@@ -2,6 +2,7 @@ import os
 import glob
 from src.emailParser import parse_email
 from src.emailParser import parse_email_parts
+from src.extract import ie_preprocess
 
 
 home_dir = os.getcwd() 
@@ -21,10 +22,6 @@ def get_list_files(dirpath, pattern='*.txt'):
 		dirpath += os.path.sep
 	return glob.glob("{}{}".format(dirpath, pattern))
 
-def test_mockmail():
-	data = read_file_off_disk(mail_file)
-	
-	assert len(data) == 1672 
 
 
 
@@ -63,9 +60,21 @@ def test_get_med_samp_mails():
 		assert 'Body' in email_text_parts
 		assert 'day_of_year' in email_text_parts
 		if email_text_parts.get('Body') is not None:
-			write_file_text(i, email_text_parts['Body'])
-			
+			#write_file_text(i, email_text_parts['Body'])
 		
+			
+			try:
+				bod = email_text_parts['Body']
+				ret = ie_preprocess(bod)
+				for x in ret:
+
+					ret = x
+					breakpoint()
+
+				#write_file_text(i, f"{bod} \n {ret}")
+			except Exception as pex:
+				continue
+			#clean_output_body_dir(out_dir)
 		
 			# body_written_to_file_count = get_list_files(out_dir)
 			# assert len(body_written_to_file_count) == 27
