@@ -201,7 +201,7 @@ To exit the `Pipenv` Python Virtual environment simply type `exit`
 1. install dev python packages with `pipenv` run: `pipenv install --dev`
 1. run the unit-tests run: `pytest`
 1. start the flask microservice run: `python src/main.py`
-1. browse to the swagger test harness by navigating to [http://127.0.0.1:7878](http://127.0.0.1:7878)
+1. browse to the swagger test harness by navigating to [http://127.0.0.2:7878](http://127.0.0.2:7878)
 
 
 
@@ -260,12 +260,12 @@ Now let's build this docker image with the `UBI`.
 ### MacOS
 ```bash
 export DOCKERHUB_USERNAME=<your-dockerhub-username>
-docker build -t $DOCKERHUB_USERNAME/email-discovery-py:v0.0.1 .
+docker build -t $DOCKERHUB_USERNAME/email-discovery-py:v0.0.2 .
 ```
 ### Windows
 ```bash
 SETX DOCKERHUB_USERNAME "your-dockerhub-username"
-docker build -t $DOCKERHUB_USERNAME/email-discovery-py:v0.0.1 .
+docker build -t $DOCKERHUB_USERNAME/email-discovery-py:v0.0.2 .
 ```
 
 <details><summary><strong>Expected output details</strong></summary>
@@ -285,7 +285,7 @@ Collecting flask (from -r requirements.txt (line 13))
  ...
 
 Successfully built 3b5631170697
-Successfully tagged <DOCKERHUB_USERNAME>/email-discovery-py:v0.0.1
+Successfully tagged <DOCKERHUB_USERNAME>/email-discovery-py:v0.0.2
 ```
 
 Notes:
@@ -304,22 +304,156 @@ Notes:
 Great! So, now lets run the image locally!
 
 ```bash
-docker run -p 7878:7878 $DOCKERHUB_USERNAME/email-discovery-py:v0.0.1
+docker run -p 7878:7878 $DOCKERHUB_USERNAME/email-discovery-py:v0.0.2
 ```
 
 At your command line run: `docker ps` and you should now confirm that the docker container for the email-discovery microservice is up and running.
 
-![UBI Docker](./doc/images/UBI-docker-ps.jpeg)
+
 
 > Explore the microservice from your browser at
-> [http://127.0.0.1:7878](http://127.0.0.1:7878) for documentation about this API's endpoints and a `try-it-out` test harness to actually run the API calls.
+> [http://127.0.0.2:7878](http://127.0.0.2:7878) for documentation about this API's endpoints and a `try-it-out` test harness to actually run the API calls.
 
 ![expected browser swagger](./doc/images/expected-browser-swagger.png)
 
 
+## Cloud deployment
 
-## License
+### Push your Docker Image to DockerHub
 
-This application is licensed under the Apache License, Version 2. Separate third-party code objects invoked within this application are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1](https://developercertificate.org/) and the [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
-[Apache License FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
+1. To allow changes to the this microservice, create a repo on [Docker Cloud](https://cloud.docker.com/) where you can push the newly modified container. 
+
+
+```bash
+# build your docker image
+export DOCKERHUB_USERNAME=<your-dockerhub-username>
+
+docker build -t $DOCKERHUB_USERNAME/email-discovery-py:v0.0.2 .
+
+docker login
+
+# push image to docker hub
+docker push $DOCKERHUB_USERNAME/email-discovery-py:v0.0.2
+
+```
+<details><summary><strong>What a successful push to docker hub should look like</strong></summary>
+
+```bash
+The push refers to repository [docker.io/claraxxxxxx/email-discovery-py]
+693f7ba0eeed: Pushed 
+225cfc6f0260: Pushed 
+2ddc888e45c8: Pushed 
+1aac3cbf59e3: Pushed 
+85f69e555a1b: Pushed 
+1295eae54c9d: Pushed 
+v0.0.2: digest: sha256:2aa41155a8bd44bb25tytytyt990ed4d5f455968ef88697463456f249a35654841d size: 1574
+```
+</details>
+
+### Deploy manually to VM
+
+Now that your docker image is published to DockerHub,
+ssh to your remote server and run this command:
+
+```zsh
+docker run -d -p 7878:7878 --name email-discovery --restart=always grantsteinfeld/email-discovery-py:v0.0.2
+```
+
+### Deploy to RedHat Kubernetes OpenShift cluster
+
+2. Provision an [IBM RedHat OpenShift 4 Service](https://cloud.ibm.com/kubernetes/catalog/openshiftcluster)
+and follow the set of instructions for creating a Container and Cluster.
+
+### Deploy the Python microservice image to OpenShift.
+
+You can deploy to OpenShift by either the Web Console browser application, or by using the command line terminal. 
+
+We are going to use the `oc` command line tool in this code pattern. Please check that you have v4.1.0 or later installed.
+
+
+
+<details><summary><strong>
+Install or verify the oc tool
+</strong></summary>
+ Run the command below
+
+```bash
+
+#aserctain what version of the oc cli you have installed
+oc version
+
+#You should have v4.1 or later installed.
+v4.1.0
+
+If you don't already have this installed, please follow instructions to do so here: [`oc` CLI documentation](https://cloud.ibm.com/docs/openshift?topic=openshift-openshift-cli#cli_oc) 
+
+```
+</details>
+
+<br/>
+
+
+
+### Login to your OpenShift 4 cluster
+
+Launch the `Web Console` by clicking on the blue and white button ( annotated with a number(1) above )
+
+Once in the OpenShift Web Console screen, click on your username and click on the `Copy login command` dropdown option under your username
+
+
+By clicking on display token hyperlink will reveal your oc login token and command.
+
+
+use `oc login ... ` to login to your cluster, for example 
+```sh
+oc login --token=X8bjO-ROAhGUx8S9pvg6767574ysuG9SSgSI6hyg --server=https://c108-e.us-northwest.containers.cloud.ibm.com:31007
+```
+
+create a new project
+
+```bash
+oc new-project email-service-py
+```
+
+you should be able to confirm this by typing:
+
+```bash
+oc project
+```
+
+next add a new application
+
+```bash
+oc new-app $DOCKERHUB_USERNAME/email-service-py:v0.0.2
+```
+
+
+Almost there!  You will need to expose the microservice to the outside world by executing
+
+```bash
+oc expose svc/email-service-py
+
+#expected output
+> route.route.openshift.io/email-service-py exposed
+
+#get the external URL to access the microservice
+oc status
+
+```
+You should see `oc status` commands output similar to this
+
+```sh
+http://email-discovery-py-email-discovery-py.grantsteinfeld-os-fff-...-000.us.west.containers.appdomain.cloud to pod port 7878 tcp (svc email-discovery-py)
+```
+
+
+
+Now the route is exposed externally and will be visible via the public internet.
+
+
+
+
+### Congratulations!  
+
+You have now successfully created a Python Flask micro-service container image, using the UBI, and optionally deployed it to Red Hat Kubernetes OpenShift cluster on the IBM Cloud.
