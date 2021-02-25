@@ -1,6 +1,9 @@
+[![Build Status](https://travis-ci.com/Grant-Steinfeld/email-discovery.svg?branch=development)](https://travis-ci.com/Grant-Steinfeld/email-discovery)
+
+
 # email parser
 
-This is a Python microservice that should extract data from input email as text
+This is a Python micro-service that should extract data from input email as text
 
 I will return JSON representation of the email as body text/plain, and headers like to, from email, from name, mail id, date processed
 
