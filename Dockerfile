@@ -1,5 +1,5 @@
 FROM registry.access.redhat.com/ubi8/ubi
-MAINTAINER Grant Steinfeld grant.steinfeld.tech@gmail.com
+LABEL maintainer="grant.steinfeld.tech@gmail.com"
 RUN yum install -y python3; yum clean all
 COPY ./requirements.txt /app/requirements.txt
 WORKDIR /app
