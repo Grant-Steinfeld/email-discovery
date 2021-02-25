@@ -84,7 +84,7 @@ brew install pipenv
 
 > If you have a working installation of pip, and maintain certain “toolchain” type Python modules as global utilities in your user environment, pip user installs allow for installation into your home directory. Note that due to interaction between dependencies, you should limit tools installed in this way to basic building blocks for a Python workflow like virtualenv, pipenv, tox, and similar software.
 
-To install pipenv on anyplatform with `pip`
+To install pipenv on any platform with `pip`
 
 ```sh
 pip install --user pipenv
@@ -206,6 +206,115 @@ To exit the `Pipenv` Python Virtual environment simply type `exit`
 
 
 
+
+### Build and run a docker image locally
+
+We showcase this method, by using the Red Hat's Universal Base Image (UBI).
+
+<details><summary><strong> Learn more about the UBI?</strong></summary>
+
+### Introducing UBI
+
+At the core of containers there is a lighter weight Linux operating system. Most of us may have used Ubuntu or Alpine as the base Operating system.
+
+Red Hat now offers us a good alternative base image, that is essentially the core
+of Red Hat Enterprise Linux.  Much like CentOS and Red Hat Enterprise linux derive it's core elements from the OpenSource Fedora project.
+
+This ***Linux alternative from Red Hat*** is called the Red Hat Universal Base Image (UBI).
+
+The UBI comes in a few flavors:
+
+1.  You can choose one of the three base images (`ubi`, `ubi-minimal` and `ubi-init`)
+1.  Or language-specific runtime images (e.g. `node.js`, `python`, etc.)
+
+UBI allows one to use associated packages provided by `YUM repositories` which satisfy common application dependencies, like `httpd` (apache web server) etc.
+
+
+
+### Take a look at our [Dockerfile](./Dockerfile) and notice the `FROM` directive is using the UBI version 8 (core of Red Hat 8) base image.
+
+```yaml
+FROM registry.access.redhat.com/ubi8/ubi
+```
+</details>
+
+</br>
+Now let's build this docker image with the `UBI`.
+
+
+1. Make sure you are at the root directory of this application.
+
+1. Note your docker-hub username
+<details><summary><strong>How to find your docker hub credentials</strong></summary>
+
+> To download Docker Desktop you must create a Docker Hub account.
+
+> To find the username, you can click on at your Docker Desktop icon (Mac) toolbar 
+
+![Docker Desktop Find your logged-in username](./doc/images/docker-desktop-get-username.png)
+</details>
+</br>
+
+1. Build the docker image by running:
+
+### MacOS
+```bash
+export DOCKERHUB_USERNAME=<your-dockerhub-username>
+docker build -t $DOCKERHUB_USERNAME/email-discovery-py:v0.0.1 .
+```
+### Windows
+```bash
+SETX DOCKERHUB_USERNAME "your-dockerhub-username"
+docker build -t $DOCKERHUB_USERNAME/email-discovery-py:v0.0.1 .
+```
+
+<details><summary><strong>Expected output details</strong></summary>
+
+Here is a truncated snippet of the successful output you should see:
+
+```bash
+Sending build context to Docker daemon  69.63MB
+Step 1/10 : FROM registry.access.redhat.com/ubi8/ubi
+ ---> fd73e6738a95
+
+ ...
+
+Collecting flask (from -r requirements.txt (line 13))
+  Downloading https://files.pythonhosted.org/packages/9b/93/628509b8d5dc749656a9641f4caf13540e2cdec85276964ff8f43bbb1d3b/Flask-1.1.1-py2.py3-none-any.whl (94kB)
+
+ ...
+
+Successfully built 3b5631170697
+Successfully tagged <DOCKERHUB_USERNAME>/email-discovery-py:v0.0.1
+```
+
+Notes:
+
+* The docker build process, pulled the RedHat 8 Universal Base Image from the redhat registry.
+
+* The base image is the generic image, i.e. ubi8/ubi.  We could have use the Python 3 language specic flavor of the image but opted for this version for 2 reasons:
+
+1. to show off the yum install features
+
+1. to show how a finer controlled version of the language could have been used, like in our case the latest version (at the time of writing) of Python version 3.8 (note to check docker file version to be sure!)
+
+
+</details>
+
+Great! So, now lets run the image locally!
+
+```bash
+docker run -p 7878:7878 $DOCKERHUB_USERNAME/email-discovery-py:v0.0.1
+```
+
+At your command line run: `docker ps` and you should now confirm that the docker container for the email-discovery microservice is up and running.
+
+![UBI Docker](./doc/images/UBI-docker-ps.jpeg)
+
+> Explore the microservice from your browser at
+> [http://127.0.0.1:7878](http://127.0.0.1:7878) for documentation about this API's endpoints and a `try-it-out` test harness to actually run the API calls.
+
+![expected browser swagger](./doc/images/expected-browser-swagger.png)
 
 
 
