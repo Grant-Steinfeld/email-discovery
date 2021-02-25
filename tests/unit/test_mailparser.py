@@ -3,9 +3,7 @@ import glob
 from src.emailParser import parse_email
 from src.emailParser import parse_email_parts
 
-#home_dir = '/home/developer/neo-postfix-processor'
 home_dir = os.path.dirname(os.path.realpath(__file__))
-breakpoint()
 mock_dir = home_dir + '/../mockdata'
 out_dir = home_dir + '/output'
 mail_file = mock_dir + '/mail.samp'
